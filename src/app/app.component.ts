@@ -4,6 +4,7 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatCardModule} from '@angular/material/card';
 import {MatDrawerContainer, MatDrawerContent} from '@angular/material/sidenav';
 import {NgOptimizedImage} from '@angular/common';
+import {MatIcon} from '@angular/material/icon';
 
 @Component({
   selector: 'app-root',
@@ -16,6 +17,7 @@ import {NgOptimizedImage} from '@angular/common';
     MatDrawerContainer,
     MatDrawerContent,
     NgOptimizedImage,
+    MatIcon,
     // For Material cards
   ],
 })

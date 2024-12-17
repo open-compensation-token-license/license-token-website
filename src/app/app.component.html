@@ -1,72 +1,105 @@
-<!-- app.component.html -->
-
 <mat-drawer-container>
   <mat-drawer-content>
     <!-- Hero Section -->
-    <div class="hero-section">
-      <div class="hero-content">
-        <h1 class="hero-title">Welcome to <span>{{ title }}</span></h1>
-        <p class="hero-subtitle">
-          Empower your business with revolutionary IT solutions crafted for speed, security, and reliability.
-        </p>
-        <div class="cta-buttons">
-          <button mat-raised-button color="primary" class="hero-btn">Get Started</button>
-          <button mat-stroked-button color="accent" class="hero-btn">Learn More</button>
+    <div class="hero">
+      <div class="hero-overlay">
+        <div class="hero-content">
+          <h1 class="hero-title">
+            Welcome to <span>Open Compensation Token License</span>
+          </h1>
+          <p class="hero-subtitle">
+            The way of making available source software <b>sustainable</b>.
+          </p>
+          <div class="hero-buttons">
+            <button mat-raised-button color="primary" class="hero-btn">Get Started</button>
+          </div>
         </div>
       </div>
-      <!-- Add a background image -->
-      <img class="hero-image" ngSrc="../assets/images/banner-image.jpg" alt="Matrix Hero Background" height="750"
-           width="3000"/>
+    </div>
+
+    <!-- Why Choose Us Section -->
+    <div class="why-choose-us">
+      <div class="why-container">
+        <h2 class="why-title">Why Choose Us?</h2>
+        <p class="why-description">
+          We offer the perfect balance of speed, security, and scalability to
+          support open-source software sustainability at its core. See why our
+          solution is trusted by developers and innovators alike.
+        </p>
+        <div class="why-grid">
+          <div class="why-card">
+            <div class="why-card-icon">
+              <mat-icon class="why-icon">bolt</mat-icon>
+            </div>
+            <h3 class="why-card-title">Blazing Fast</h3>
+            <p class="why-card-description">
+              Experience unmatched speed and performance designed to handle
+              the most complex workflows effortlessly.
+            </p>
+          </div>
+          <div class="why-card">
+            <div class="why-card-icon">
+              <mat-icon class="why-icon">security</mat-icon>
+            </div>
+            <h3 class="why-card-title">Unparalleled Security</h3>
+            <p class="why-card-description">
+              With industry-leading protocols, your systems and assets are
+              always safe and secure with us.
+            </p>
+          </div>
+          <div class="why-card">
+            <div class="why-card-icon">
+              <mat-icon class="why-icon">trending_up</mat-icon>
+            </div>
+            <h3 class="why-card-title">Built to Scale</h3>
+            <p class="why-card-description">
+              Designed for scalability, our solutions grow with your project
+              and future-proof your business.
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
 
     <!-- Features Section -->
-    <div id="features" class="features-section">
+    <div id="features" class="features">
       <h2 class="features-title">Features</h2>
       <div class="features-grid">
-        <!-- Feature 1 -->
+        <!-- Speed Card -->
         <mat-card class="feature-card">
-          <img mat-card-image ngSrc="../assets/images/banner-image.jpg" alt="Speed Feature" class="feature-image"
-               height="750" width="3000"/>
           <mat-card-header>
-            <mat-card-title>what does it for me</mat-card-title>
+            <mat-card-title>Speed</mat-card-title>
           </mat-card-header>
           <mat-card-content>
-            <p>
-              Experience unmatched speed using scalable and cutting-edge IT technologies.
-            </p>
+            <p>Unmatched scalability and performance, lightning fast!</p>
           </mat-card-content>
         </mat-card>
-        <!-- Feature 2 -->
+
+        <!-- Reliability Card -->
         <mat-card class="feature-card">
-          <img mat-card-image ngSrc="../assets/images/banner-image.jpg" alt="Reliability Feature" class="feature-image"
-               height="750" width="3000"/>
           <mat-card-header>
-            <mat-card-title>what does it for my users</mat-card-title>
+            <mat-card-title>Reliability</mat-card-title>
           </mat-card-header>
           <mat-card-content>
-            <p>
-              Our infrastructure ensures consistent performance to meet your needs, every time.
-            </p>
+            <p>Trustworthy systems to ensure seamless operations.</p>
           </mat-card-content>
         </mat-card>
-        <!-- Feature 3 -->
+
+        <!-- Security Card -->
         <mat-card class="feature-card">
-          <img mat-card-image src="../assets/images/banner-image.jpg" alt="Security Feature" class="feature-image" />
           <mat-card-header>
-            <mat-card-title>where do you take me</mat-card-title>
+            <mat-card-title>Security</mat-card-title>
           </mat-card-header>
           <mat-card-content>
-            <p>
-              Your data is safe with our encryption and state-of-the-art security measures.
-            </p>
+            <p>State-of-the-art solutions to safeguard digital assets.</p>
           </mat-card-content>
         </mat-card>
       </div>
     </div>
 
-    <!-- Footer -->
+    <!-- Footer Section -->
     <footer class="footer">
-      <p>&copy; 2023 {{ title }}. All Rights Reserved.</p>
+      <p>&copy; 2023 NFT Puzzle. All Rights Reserved.</p>
     </footer>
   </mat-drawer-content>
 </mat-drawer-container>

@@ -1,89 +1,184 @@
-.app-container {
-  text-align: center;
-  padding: 20px;
-}
+/************************************
+ * Common Variables and Colors
+ ************************************/
+$background-dark: #0d0d0d; // Main dark background
+$background-secondary: #1a1a1a; // Secondary dark-gray background
+$primary-yellow: #E1E18F; // Cyan blue for highlights and buttons
+$text-light: #e0e0e0; // Light text for main body
+$text-muted: #808080; // Muted gray for footer and small text
+$hover-light: #fafafa; // Hover states (buttons and links)
 
-h1 {
-  color: #007bff;
-  font-family: Arial, sans-serif;
-}
-
-p {
-  color: #555;
-  font-size: 1.2em;
-}
-
-
-// Theme Colors
-$primary-color: #00ff00; // Neon Green
-$gray-dark: #1a1a1a; // Dark Gray
-$gray-light: #2b2b2b; // Light Gray
-$text-color: #bfbfbf; // Muted Light Gray Text
-
-// Base Styles
-body {
-  background-color: $gray-dark;
-  color: $text-color;
-  font-family: 'Roboto', sans-serif;
+/************************************
+ * Global Styles
+ ************************************/
+body,
+html {
   margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: $background-dark;
+  color: $text-light;
 }
 
-// Hero Section Styling
-.hero-section {
+/************************************
+ * Hero Section
+ ************************************/
+.hero {
   position: relative;
-  background-color: #1a1a1a; // Dark gray background
-  color: #bfbfbf; // Light gray text
-  text-align: center;
-  padding: 100px 20px;
+  width: 100%;
+  height: 100vh; // Full-screen layout
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: $background-dark;
+  overflow: hidden;
+
+  //.hero-overlay {
+  //  position: absolute;
+  //  top: 0;
+  //  left: 0;
+  //  height: 100%;
+  //  width: 100%;
+  //  //background-image: url("assets/images/banner-image.jpg"); // Optional background animation
+  //  background-repeat: repeat;
+  //  opacity: 0.6; // Very subtle background animation
+  //  z-index: 1;
+  //}
 
   .hero-content {
     position: relative;
-    z-index: 1;
+    z-index: 2;
+    text-align: center;
 
     .hero-title {
-      font-size: 3rem;
-      color: #00ff00; // Neon green title
+      font-size: 4rem;
+      line-height: 1.2;
+      color: $primary-yellow; // Cyan for the main heading
+
+      span {
+        color: $hover-light; // Light gray for secondary text/brand
+      }
     }
 
     .hero-subtitle {
       font-size: 1.2rem;
       margin: 20px auto;
-      max-width: 600px;
+      color: $text-muted; // Muted gray for subtitle text
       line-height: 1.5;
     }
 
-    .cta-buttons {
+    .hero-buttons {
       margin-top: 30px;
 
       .hero-btn {
         margin: 0 10px;
-        padding: 10px 20px;
+        padding: 10px 30px;
+        font-size: 1rem;
+        font-weight: 600;
+        border-radius: 30px;
+        border: 1px solid $primary-yellow; // Cyan border
+        background-color: transparent;
+        color: $primary-yellow;
+
+        &:hover {
+          background-color: $primary-yellow; // Cyan fill on hover
+          color: $background-dark; // Black text inside button
+        }
       }
     }
   }
+}
 
-  // Background image
-  .hero-image {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    z-index: 0;
-    opacity: 0.3; // Slight transparency
+/************************************
+ * Why Choose Us Section (Updated with Yellow Theme)
+ ************************************/
+.why-choose-us {
+  background-color: $background-secondary; // Matches the secondary background
+  padding: 60px 20px; // Increased padding for more spacious layout
+  text-align: center;
+
+  .why-title {
+    font-size: 2.8rem; // Larger title for emphasis
+    font-weight: 600;
+    color: $primary-yellow; // Updated to match the yellow theme
+    margin-bottom: 20px;
+    line-height: 1.2;
+  }
+
+  .why-description {
+    color: $text-light; // Matches main light text
+    font-size: 1.2rem;
+    margin: 0 auto 50px auto; // Centered description with spacing adjustment
+    max-width: 700px; // Limits width for readability
+    line-height: 1.6; // Improved line spacing
+    font-weight: 300;
+  }
+
+  .why-grid {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+
+    .why-card {
+      background: $background-dark; // Matches main dark background
+      border: 1px solid $primary-yellow; // Updated border to the yellow theme
+      border-radius: 12px;
+      padding: 25px;
+      width: 320px; // Wider cards for better visual balance
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+      &:hover {
+        transform: translateY(-10px); // Subtle pop-up animation
+        box-shadow: 0 10px 20px rgba(225, 225, 143, 0.4); // Glow effect with yellow
+      }
+
+      .why-card-icon {
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(135deg, $primary-yellow, lighten($primary-yellow, 20%)); // Yellow gradient icon background
+        margin: 0 auto 20px auto;
+
+        .why-icon {
+          font-size: 2.5rem;
+          color: $background-dark; // Dark icon color inside yellow circle
+        }
+      }
+
+      .why-card-title {
+        font-size: 1.6rem;
+        font-weight: 500;
+        color: $primary-yellow; // Matches the yellow theme
+        margin-bottom: 15px;
+      }
+
+      .why-card-description {
+        font-size: 1rem;
+        font-weight: 300;
+        color: $text-light; // Lighter text color for better readability
+        line-height: 1.6;
+      }
+    }
   }
 }
 
-// Features Section Styling
-.features-section {
-  background-color: #2b2b2b; // Slightly lighter gray
-  padding: 50px 20px;
+/************************************
+ * Features Section
+ ************************************/
+.features {
+  padding: 50px 20px 100px;
+  background-color: $background-secondary; // Slightly lighter gray section
+  text-align: center;
 
   .features-title {
-    text-align: center;
-    font-size: 2rem;
-    color: #00ff00; // Neon green
+    font-size: 2.5rem;
+    color: $primary-yellow; // Cyan title
     margin-bottom: 30px;
   }
 
@@ -94,60 +189,53 @@ body {
     flex-wrap: wrap;
 
     .feature-card {
-      max-width: 300px;
-      background: $gray-light;
+      width: 280px;
+      background: $background-dark; // Matches the hero's main background
+      border: 1px solid $primary-yellow; // Cyan-border for visual consistency
+      border-radius: 10px;
+      color: $text-light;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
 
       mat-card-header {
         mat-card-title {
-          font-size: 1.5rem;
-          color: #00ff00; // Green feature titles
+          font-size: 1.3rem;
+          color: $primary-yellow; // Cyan title for cards
         }
       }
 
       mat-card-content {
-        color: #bfbfbf; // Gray text
         font-size: 1rem;
+        color: $text-light;
       }
 
-      .feature-image {
-        height: 150px;
-        object-fit: cover; // Ensure images fit nicely in card
-        border-bottom: 1px solid #00ff00; // Add an accent line
+      &:hover {
+        transform: scale(1.05); // Subtle zoom
+        box-shadow: 0 0 20px $primary-yellow; // Cyan glow on hover
       }
     }
   }
 }
 
-// Footer Section
+/************************************
+ * Footer Section
+ ************************************/
 .footer {
   text-align: center;
   padding: 20px;
-  background-color: #1a1a1a; // Dark gray footer
-  color: #bfbfbf;
+  background-color: $background-dark;
 
   p {
     margin: 0;
-  }
-}
-
-// Responsive Styles
-@media (max-width: 768px) {
-  .hero-title {
-    font-size: 2rem;
+    font-size: 0.875rem;
+    color: $text-muted; // Light gray text for footer
   }
 
-  .hero-subtitle {
-    font-size: 1rem;
-    padding: 0 10px;
-  }
+  a {
+    color: $primary-yellow; // Cyan links in footer
+    text-decoration: none;
 
-  .grid-container {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .feature-card {
-    width: 100%;
-    max-width: none;
+    &:hover {
+      color: $hover-light; // Light hover effect
+    }
   }
 }

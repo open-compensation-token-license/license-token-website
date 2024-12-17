@@ -1,9 +1,74 @@
 <!-- app.component.html -->
 
-<div class="app-container">
-  <h1>Welcome to {{ title }}</h1>
-  <p>This is your application's front page. You can start building here!</p>
-</div>
+<mat-drawer-container>
+  <mat-drawer-content>
+    <!-- Hero Section -->
+    <div class="hero-section">
+      <div class="hero-content">
+        <h1 class="hero-title">Welcome to <span>{{ title }}</span></h1>
+        <p class="hero-subtitle">
+          Empower your business with revolutionary IT solutions crafted for speed, security, and reliability.
+        </p>
+        <div class="cta-buttons">
+          <button mat-raised-button color="primary" class="hero-btn">Get Started</button>
+          <button mat-stroked-button color="accent" class="hero-btn">Learn More</button>
+        </div>
+      </div>
+      <!-- Add a background image -->
+      <img class="hero-image" ngSrc="../assets/images/banner-image.jpg" alt="Matrix Hero Background" height="750"
+           width="3000"/>
+    </div>
 
+    <!-- Features Section -->
+    <div id="features" class="features-section">
+      <h2 class="features-title">Features</h2>
+      <div class="features-grid">
+        <!-- Feature 1 -->
+        <mat-card class="feature-card">
+          <img mat-card-image ngSrc="../assets/images/banner-image.jpg" alt="Speed Feature" class="feature-image"
+               height="750" width="3000"/>
+          <mat-card-header>
+            <mat-card-title>what does it for me</mat-card-title>
+          </mat-card-header>
+          <mat-card-content>
+            <p>
+              Experience unmatched speed using scalable and cutting-edge IT technologies.
+            </p>
+          </mat-card-content>
+        </mat-card>
+        <!-- Feature 2 -->
+        <mat-card class="feature-card">
+          <img mat-card-image ngSrc="../assets/images/banner-image.jpg" alt="Reliability Feature" class="feature-image"
+               height="750" width="3000"/>
+          <mat-card-header>
+            <mat-card-title>what does it for my users</mat-card-title>
+          </mat-card-header>
+          <mat-card-content>
+            <p>
+              Our infrastructure ensures consistent performance to meet your needs, every time.
+            </p>
+          </mat-card-content>
+        </mat-card>
+        <!-- Feature 3 -->
+        <mat-card class="feature-card">
+          <img mat-card-image src="../assets/images/banner-image.jpg" alt="Security Feature" class="feature-image" />
+          <mat-card-header>
+            <mat-card-title>where do you take me</mat-card-title>
+          </mat-card-header>
+          <mat-card-content>
+            <p>
+              Your data is safe with our encryption and state-of-the-art security measures.
+            </p>
+          </mat-card-content>
+        </mat-card>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>&copy; 2023 {{ title }}. All Rights Reserved.</p>
+    </footer>
+  </mat-drawer-content>
+</mat-drawer-container>
 
 <router-outlet />

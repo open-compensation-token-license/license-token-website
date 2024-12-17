@@ -1,0 +1,55 @@
+// styles/_scroll-down-btn.scss
+
+.scroll-down-btn {
+  position: absolute;
+  bottom: 20px; /* Distance from the bottom of the viewport */
+  right: 20px; /* Distance from the right side */
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2; /* Ensure it appears above the overlay */
+  cursor: pointer;
+
+  a {
+    text-decoration: none;
+    border: 2px solid $primary-yellow; /* Circular button border */
+    border-radius: 50%; /* Make it circular */
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+
+    span {
+      width: 12px;
+      height: 12px;
+      border-right: 2px solid $primary-yellow; /* Right side of the arrow */
+      border-bottom: 2px solid $primary-yellow; /* Bottom side of the arrow */
+      transform: rotate(45deg); /* Creates a downward-pointing arrow */
+      animation: scrollDown 1.5s infinite ease-in-out;
+    }
+
+    &:hover {
+      background-color: $primary-yellow; /* Yellow fill when hovered */
+      span {
+        border-color: $background-dark; /* Arrow changes color when hovered */
+      }
+    }
+  }
+}
+
+/* Keyframe animation for smooth up-and-down arrow effect */
+@keyframes scrollDown {
+  0% {
+    transform: rotate(45deg) translateY(0);
+  }
+  50% {
+    transform: rotate(45deg) translateY(5px);
+  }
+  100% {
+    transform: rotate(45deg) translateY(0);
+  }
+}

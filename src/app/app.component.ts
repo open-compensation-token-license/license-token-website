@@ -1,9 +1,8 @@
-import {Component} from '@angular/core';
+import {Component, HostListener} from '@angular/core';
 import {RouterOutlet} from '@angular/router';
 import {MatButtonModule} from '@angular/material/button';
 import {MatCardModule} from '@angular/material/card';
 import {MatDrawerContainer, MatDrawerContent} from '@angular/material/sidenav';
-import {NgOptimizedImage} from '@angular/common';
 import {MatIcon} from '@angular/material/icon';
 
 @Component({
@@ -12,16 +11,25 @@ import {MatIcon} from '@angular/material/icon';
   styleUrl: './app.component.scss',
   imports: [
     RouterOutlet,
-    MatButtonModule, // For Material buttons
+    MatButtonModule,
     MatCardModule,
     MatDrawerContainer,
     MatDrawerContent,
-    NgOptimizedImage,
     MatIcon,
-    // For Material cards
   ],
 })
 
 export class AppComponent {
   title = 'license-token-website';
+
+  scrollToSection() {
+    const target = document.getElementById('content');
+    if (target) {
+      target.scrollIntoView({behavior: 'smooth', block: 'start'});
+    }
+  }
+
+
 }
+
+

@@ -32,6 +32,7 @@ html {
   justify-content: center;
   background-color: $background-dark;
   overflow: hidden;
+  background-image: url("../assets/images/banner.jpg");
 
   //.hero-overlay {
   //  position: absolute;
@@ -39,7 +40,6 @@ html {
   //  left: 0;
   //  height: 100%;
   //  width: 100%;
-  //  //background-image: url("assets/images/banner-image.jpg"); // Optional background animation
   //  background-repeat: repeat;
   //  opacity: 0.6; // Very subtle background animation
   //  z-index: 1;

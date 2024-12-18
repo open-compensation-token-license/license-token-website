@@ -1,0 +1,47 @@
+.known-from {
+  padding: 60px 20px;
+  text-align: center;
+  background-color: $background-dark; // Dark background for contrast
+  color: $text-light;
+
+  .known-from-title {
+    font-size: 2.5rem;
+    color: $primary-yellow; // Matches your theme
+    margin-bottom: 10px;
+  }
+
+  .known-from-description {
+    font-size: 1.2rem;
+    color: $text-muted; // Slightly muted text for description
+    max-width: 700px;
+    margin: 0 auto 40px auto;
+    line-height: 1.5;
+  }
+
+  .known-from-logo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+  }
+
+  .logo-item {
+    max-width: 150px; // Restrict logo size for consistency
+    text-align: center;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+
+    img {
+      width: 100%;
+      height: auto;
+      filter: grayscale(80%); // Optional: desaturation for better styling
+      opacity: 0.8;
+
+      &:hover {
+        filter: none; // Restore colors on hover
+        opacity: 1; // Fully visible on hover
+        transform: scale(1.1); // Slightly enlarge on hover
+      }
+    }
+  }
+}

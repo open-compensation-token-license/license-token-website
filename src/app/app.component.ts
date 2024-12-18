@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {RouterOutlet} from '@angular/router';
+import {RouterLink, RouterOutlet} from '@angular/router';
 import {MatButtonModule} from '@angular/material/button';
 import {MatCardModule} from '@angular/material/card';
 import {MatDrawerContainer, MatDrawerContent} from '@angular/material/sidenav';
@@ -18,10 +18,22 @@ import {MatIcon} from '@angular/material/icon';
     MatDrawerContent,
     NgOptimizedImage,
     MatIcon,
+    RouterLink,
     // For Material cards
   ],
 })
 
 export class AppComponent {
   title = 'license-token-website';
+
+  scrollToSection() {
+    const target = document.getElementById('why-choose-us');
+    if (target) {
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+
 }
+
+

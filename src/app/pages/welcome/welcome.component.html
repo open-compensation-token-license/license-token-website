@@ -34,15 +34,7 @@
       <div id="why-choose-us" class="why">
         <div class="why-container">
           <h2 class="why-title">What does it?</h2>
-          <p class="why-description">The Open Compensation Token License (OCTL) promotes sustainability in
-            open-source projects by allowing creators to monetize their work. It provides a unique licensing mechanism
-            where users of the project must acquire compensation tokens to comply with the license terms. The OCTL is
-            designed to ensure contributors get fairly paid while still supporting non-commercial and community-based
-            usage for free. It bridges the gap between corporate profit-making and open-source contribution,
-            guaranteeing fair compensation for developers if corporations use or resell their work commercially. The
-            license offers transparency, ownership proof, and an opportunity for developers to thrive financially while
-            improving the open-source ecosystem. OCTL also encourages non-profits and growing the OS community without
-            barriers.</p>
+          <div class="why-description" [innerHTML]="description"></div>
         </div>
 
         <div class="why-grid">
@@ -51,38 +43,15 @@
               <mat-icon class="why-icon">person</mat-icon>
             </div>
             <h3 class="why-card-title">Whats in it for you?</h3>
-            <p class="why-card-description">
-              The **Open Compensation Token License (OCTL)** offers significant benefits to maintainers, developers, and project owners, addressing key challenges in open-source development:
-              1. **Fair Compensation**: Maintainers get paid when their work is commercially used, ensuring they can financially sustain themselves while focusing on developing their projects.
-              2. **Control Over Licensing**: The OCTL empowers project owners to set transparent terms for commercial use while still allowing free use for non-commercial contributions.
-              3. **Encourages Contribution**: Developers no longer need to sacrifice financial stability to maintain an open-source project, motivating continuous updates, improvements, and innovation.
-              4. **Increased Recognition**: The token model provides clear attribution and proof of ownership, helping maintainers gain visibility and respect in the community.
-              5. **Sustainable Future**: By monetizing corporate use, maintainers avoid burnout and can thrive while contributing to technology and society.
-
-              The license ensures maintainers are rewarded fairly without compromising their open-source principles
-            </p>
-            <mat-list>
-              <mat-list-item *ngFor="let item of whyItems">
-                <mat-icon class="why-icon" color="primary">{{ item.icon }}</mat-icon>
-                <span>{{ item.text }}</span>
-              </mat-list-item>
-            </mat-list>
+            <div class="why-card-description" [innerHTML]="forYou"></div>
           </div>
+
           <div class="why-card">
             <div class="why-card-icon">
               <mat-icon class="why-icon">people</mat-icon>
             </div>
             <h3 class="why-card-title">Why is it good for your users?</h3>
-            <p class="why-card-description">
-              The **Open Compensation Token License (OCTL)** is beneficial for users because it ensures access to high-quality, sustainable open-source projects. Here's why it's good for users:
-              1. **Enhanced Project Reliability**: By compensating developers, projects are better maintained, regularly updated, and more secure, providing users with reliable software.
-              2. **Transparency**: The license ensures transparency about project ownership and contributions, giving users confidence in the tools they use.
-              3. **Encourages Innovation**: Fair compensation motivates developers to invest more effort and creativity, resulting in better features and functionality for users.
-              4. **Free for Non-Commercial Use**: Users contributing to the community or non-commercially using the software can still benefit from free access.
-              5. **Future-Proofing**: Sustainable open-source development benefits users in the long term by ensuring projects are not abandoned.
-
-              This balance ensures that users benefit from robust, well-supported software
-            </p>
+            <div class="why-card-description" [innerHTML]="forUsers"></div>
           </div>
 
           <div class="why-card">
@@ -90,16 +59,7 @@
               <mat-icon class="why-icon">public</mat-icon>
             </div>
             <h3 class="why-card-title">How does it make the world better?</h3>
-            <p class="why-card-description">
-              The **Open Compensation Token License (OCTL)** makes the world better by fostering a fair, sustainable ecosystem for open-source development. Here's how:
-              1. **Empowering Developers**: It ensures creators are fairly compensated for their work, enabling them to dedicate more time and effort to innovative solutions that benefit society.
-              2. **Sustainability of Open-Source**: By monetizing commercial use, OCTL prevents the abandonment of valuable projects, ensuring long-term support and continuous improvement.
-              3. **Bridging Corporate Responsibility**: It holds corporations accountable for profiting from open-source while supporting fair collaboration with the developer community.
-              4. **Open Innovation**: It encourages contributions to open-source, advancing technology faster and more collaboratively.
-              5. **Access for All**: Non-commercial use remains free, ensuring equitable access to tools and knowledge, empowering communities worldwide.
-
-              OCTL aligns innovation, fairness, and sustainability to drive global progress.
-            </p>
+            <div class="why-card-description" [innerHTML]="forTheWorld"></div>
           </div>
         </div>
       </div>

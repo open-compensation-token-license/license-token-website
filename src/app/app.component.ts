@@ -13,23 +13,12 @@ import {MatIcon} from '@angular/material/icon';
     RouterOutlet,
     MatButtonModule,
     MatCardModule,
-    MatDrawerContainer,
-    MatDrawerContent,
-    MatIcon,
+
   ],
 })
 
 export class AppComponent {
   title = 'license-token-website';
-
-  scrollToSection() {
-    const target = document.getElementById('content');
-    if (target) {
-      target.scrollIntoView({behavior: 'smooth', block: 'start'});
-    }
-  }
-
-
 }
 
 

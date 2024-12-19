@@ -1,0 +1,26 @@
+@import "../../../styles/variables";
+@import "../../../styles/global";
+
+/************************************
+ * Footer Section
+ ************************************/
+.footer {
+  text-align: center;
+  padding: 20px;
+  background-color: $background-dark;
+
+  p {
+    margin: 0;
+    font-size: 0.875rem;
+    color: $text-muted; // Light gray text for footer
+  }
+
+  a {
+    color: $primary-yellow; // Cyan links in footer
+    text-decoration: none;
+
+    &:hover {
+      color: $hover-light; // Light hover effect
+    }
+  }
+}

@@ -15,8 +15,8 @@
           <div class="hero-buttons">
             <button mat-raised-button color="primary" class="hero-btn" (click)="scrollToSection()">What does it?
             </button>
-            <button mat-raised-button color="primary" class="hero-btn">Apply License</button>
-            <button mat-raised-button color="primary" class="hero-btn">Donate on opensea</button>
+            <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToApplyLicense()" >Apply License</button>
+            <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToDonate()">Donate on opensea</button>
           </div>
         </div>
       </div>
@@ -151,20 +151,14 @@
         </div>
       </div>
 
-      <!-- Footer Section -->
-      <footer class="footer">
-        <p>&copy; 2024 license-token powered by <a href="https://iunera.com" target="_blank">iunera</a>. All Rights
-          Reserved.</p>
-      </footer>
+<!--      &lt;!&ndash; Footer Section &ndash;&gt;-->
+<!--      <footer class="footer">-->
+<!--        <p>&copy; 2024 license-token powered by <a href="https://iunera.com" target="_blank">iunera</a>. All Rights-->
+<!--          Reserved.</p>-->
+<!--      </footer>-->
     </div>
 
   </mat-drawer-content>
 </mat-drawer-container>
 
-<router-outlet/>
-
-
-Motivation seite
-
-how does octl work
-
+<!--<router-outlet/>-->

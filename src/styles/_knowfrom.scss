@@ -1,18 +1,18 @@
 .known-from {
   padding: 60px 20px;
   text-align: center;
-  background-color: $background-dark; // Dark background for contrast
+  background-color: $background-dark;
   color: $text-light;
 
   .known-from-title {
     font-size: 2.5rem;
-    color: $primary-yellow; // Matches your theme
+    color: $primary-yellow;
     margin-bottom: 10px;
   }
 
   .known-from-description {
     font-size: 1.2rem;
-    color: $text-muted; // Slightly muted text for description
+    color: $text-muted;
     max-width: 700px;
     margin: 0 auto 40px auto;
     line-height: 1.5;
@@ -22,26 +22,48 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    gap: 30px;
     align-items: center;
   }
 
   .logo-item {
-    max-width: 150px; // Restrict logo size for consistency
+    max-width: 220px; /* Adjust area for logos and text */
     text-align: center;
-    transition: transform 0.3s ease, opacity 0.3s ease;
 
-    img {
-      width: 100%;
-      height: auto;
-      filter: grayscale(80%); // Optional: desaturation for better styling
-      opacity: 0.8;
+    .logo-title {
+      font-size: 1.2rem;
+      font-weight: bold;
+      color: $text-muted;
+      margin-bottom: 8px;
+    }
+
+    a {*
+      display: inline-block;
+      text-decoration: none;
+
+      img {
+        width: 100%;
+        height: auto;
+        opacity: 0.8;
+        transition: transform 0.3s ease, opacity 0.3s ease;
+
+        &:hover {
+          opacity: 1;
+          transform: scale(1.1);
+        }
+      }
 
       &:hover {
-        filter: none; // Restore colors on hover
-        opacity: 1; // Fully visible on hover
-        transform: scale(1.1); // Slightly enlarge on hover
+        text-decoration: none;
       }
+    }
+
+    .logo-subtitle {
+      font-size: 0.9rem; /* Smaller text for subtitles */
+      font-weight: normal;
+      color: $text-muted; /* Muted color for subtlety */
+      margin-top: 8px; /* Space between logo and subtitle */
+      line-height: 1.4;
     }
   }
 }

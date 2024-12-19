@@ -1,7 +1,7 @@
 /************************************
  * Why Choose Us Section (Updated with Yellow Theme)
  ************************************/
-.why-choose-us {
+.why {
   background-color: $background-secondary; // Matches the secondary background
   padding: 60px 20px; // Increased padding for more spacious layout
   text-align: center;
@@ -18,7 +18,7 @@
     color: $text-light; // Matches main light text
     font-size: 1.2rem;
     margin: 0 auto 50px auto; // Centered description with spacing adjustment
-    max-width: 700px; // Limits width for readability
+    max-width: 1000px; // Limits width for readability
     line-height: 1.6; // Improved line spacing
     font-weight: 300;
   }
@@ -34,7 +34,7 @@
       border: 1px solid $primary-yellow; // Updated border to the yellow theme
       border-radius: 12px;
       padding: 25px;
-      width: 320px; // Wider cards for better visual balance
+      width: 440px; // Wider cards for better visual balance
       text-align: center;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
       transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -75,4 +75,35 @@
       }
     }
   }
+
+  .why-container {
+    text-align: center;
+    margin-top: 40px;
+
+    .why-title {
+      font-size: 2.5rem;
+      color: $primary-yellow;
+      margin-bottom: 20px;
+    }
+
+    mat-list {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 0;
+
+      mat-list-item {
+        font-size: 1.2rem;
+        margin: 10px 0;
+        color: $text-muted; // Text color from your existing design
+
+        .why-icon {
+          color: $primary-yellow; // Align with the primary theme
+          margin-right: 10px;
+        }
+      }
+    }
+  }
+
 }
+

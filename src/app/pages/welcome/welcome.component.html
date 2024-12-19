@@ -5,18 +5,20 @@
       <div class="hero-overlay">
         <div class="hero-content">
           <h1 class="hero-title">
-            <!--            WAS???-->
             <span>We make open source projects</span> sustainable
           </h1>
           <p class="hero-subtitle">
-            Apply the Open Compensation Token license to your <b>opensource project</b> and start getting paid for your
+            Apply the Open Compensation Token license (OCTL) to your <b>opensource project</b> and start getting paid
+            for your
             work.
           </p>
           <div class="hero-buttons">
             <button mat-raised-button color="primary" class="hero-btn" (click)="scrollToSection()">What does it?
             </button>
-            <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToApplyLicense()" >Apply License</button>
-            <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToDonate()">Donate on opensea</button>
+            <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToApplyLicense()">Apply
+              License
+            </button>
+            <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToDonate()">Donate</button>
           </div>
         </div>
       </div>
@@ -28,78 +30,76 @@
     </div>
 
     <div id="content">
-
       <!-- Why Choose Us Section -->
-      <div id="why-choose-us" class="why-choose-us">
+      <div id="why-choose-us" class="why">
         <div class="why-container">
-          <h2 class="why-title">How it helps you! what does it for me
-            <!--          Why Choose Us? For whom is it-->
-          </h2>
-          <p class="why-description">
-            You have a open source project
-            <!--          you are a indi-hacker?-->
+          <h2 class="why-title">What does it?</h2>
+          <p class="why-description">The Open Compensation Token License (OCTL) promotes sustainability in
+            open-source projects by allowing creators to monetize their work. It provides a unique licensing mechanism
+            where users of the project must acquire compensation tokens to comply with the license terms. The OCTL is
+            designed to ensure contributors get fairly paid while still supporting non-commercial and community-based
+            usage for free. It bridges the gap between corporate profit-making and open-source contribution,
+            guaranteeing fair compensation for developers if corporations use or resell their work commercially. The
+            license offers transparency, ownership proof, and an opportunity for developers to thrive financially while
+            improving the open-source ecosystem. OCTL also encourages non-profits and growing the OS community without
+            barriers.</p>
+        </div>
 
-
-            <!--          what does it for me check-->
-            <!--          &lt;!&ndash; Warum macht das die Kunden glücklich &ndash;&gt;-->
-            <!--          what does it for my users - -->
-            <!--          What it does for your users! can use reliable projects-->
-            <!--          clear estimation about what it costs-->
-            <!--          transparency-->
-            <!--          security who was working on the project. Proof of ownership-->
-
-
-            <!--          &lt;!&ndash; warum ist das geil für die OS Community &ndash;&gt;-->
-            <!--          geld verdienen an vorhandenen Projekten-->
-            <!--          find supporters more easily-->
-            <!--          non-profit use is still free-->
-            /
-
-            <!--          &lt;!&ndash; warum bringt es die Welt voran&ndash;&gt;-->
-            <!--          and where do you take me-->
-          </p>
-          <p class="why-description">
-            you are a indi-hacker?
-          </p>
-          <div class="why-grid">
-            <div class="why-card">
-              <div class="why-card-icon">
-                <mat-icon class="why-icon">person</mat-icon>
-              </div>
-              <h3 class="why-card-title">Whats in it for you?</h3>
-              <p class="why-card-description">
-                Experience unmatched speed and performance designed to handle
-                the most complex workflows effortlessly.
-              </p>
+        <div class="why-grid">
+          <div class="why-card">
+            <div class="why-card-icon">
+              <mat-icon class="why-icon">person</mat-icon>
             </div>
-            <div class="why-card">
-              <div class="why-card-icon">
-                <mat-icon class="why-icon">people</mat-icon>
-              </div>
-              <h3 class="why-card-title"> Warum macht das die Kunden glücklich</h3>
-              <p class="why-card-description">
-                With industry-leading protocols, your systems and assets are
-                always safe and secure with us.
-              </p>
+            <h3 class="why-card-title">Whats in it for you?</h3>
+            <p class="why-card-description">
+              The **Open Compensation Token License (OCTL)** offers significant benefits to maintainers, developers, and project owners, addressing key challenges in open-source development:
+              1. **Fair Compensation**: Maintainers get paid when their work is commercially used, ensuring they can financially sustain themselves while focusing on developing their projects.
+              2. **Control Over Licensing**: The OCTL empowers project owners to set transparent terms for commercial use while still allowing free use for non-commercial contributions.
+              3. **Encourages Contribution**: Developers no longer need to sacrifice financial stability to maintain an open-source project, motivating continuous updates, improvements, and innovation.
+              4. **Increased Recognition**: The token model provides clear attribution and proof of ownership, helping maintainers gain visibility and respect in the community.
+              5. **Sustainable Future**: By monetizing corporate use, maintainers avoid burnout and can thrive while contributing to technology and society.
+
+              The license ensures maintainers are rewarded fairly without compromising their open-source principles
+            </p>
+            <mat-list>
+              <mat-list-item *ngFor="let item of whyItems">
+                <mat-icon class="why-icon" color="primary">{{ item.icon }}</mat-icon>
+                <span>{{ item.text }}</span>
+              </mat-list-item>
+            </mat-list>
+          </div>
+          <div class="why-card">
+            <div class="why-card-icon">
+              <mat-icon class="why-icon">people</mat-icon>
             </div>
-            <!--          <mat-card class="why-card">-->
-            <!--            <mat-card-header>-->
-            <!--              <mat-card-title>Speed</mat-card-title>-->
-            <!--            </mat-card-header>-->
-            <!--            <mat-card-content>-->
-            <!--              <p>Unmatched scalability and performance, lightning fast!</p>-->
-            <!--            </mat-card-content>-->
-            <!--          </mat-card>-->
-            <div class="why-card">
-              <div class="why-card-icon">
-                <mat-icon class="why-icon">public</mat-icon>
-              </div>
-              <h3 class="why-card-title">Why does it make the world better</h3>
-              <p class="why-card-description">
-                Designed for scalability, our solutions grow with your project
-                and future-proof your business.
-              </p>
+            <h3 class="why-card-title">Why is it good for your users?</h3>
+            <p class="why-card-description">
+              The **Open Compensation Token License (OCTL)** is beneficial for users because it ensures access to high-quality, sustainable open-source projects. Here's why it's good for users:
+              1. **Enhanced Project Reliability**: By compensating developers, projects are better maintained, regularly updated, and more secure, providing users with reliable software.
+              2. **Transparency**: The license ensures transparency about project ownership and contributions, giving users confidence in the tools they use.
+              3. **Encourages Innovation**: Fair compensation motivates developers to invest more effort and creativity, resulting in better features and functionality for users.
+              4. **Free for Non-Commercial Use**: Users contributing to the community or non-commercially using the software can still benefit from free access.
+              5. **Future-Proofing**: Sustainable open-source development benefits users in the long term by ensuring projects are not abandoned.
+
+              This balance ensures that users benefit from robust, well-supported software
+            </p>
+          </div>
+
+          <div class="why-card">
+            <div class="why-card-icon">
+              <mat-icon class="why-icon">public</mat-icon>
             </div>
+            <h3 class="why-card-title">How does it make the world better?</h3>
+            <p class="why-card-description">
+              The **Open Compensation Token License (OCTL)** makes the world better by fostering a fair, sustainable ecosystem for open-source development. Here's how:
+              1. **Empowering Developers**: It ensures creators are fairly compensated for their work, enabling them to dedicate more time and effort to innovative solutions that benefit society.
+              2. **Sustainability of Open-Source**: By monetizing commercial use, OCTL prevents the abandonment of valuable projects, ensuring long-term support and continuous improvement.
+              3. **Bridging Corporate Responsibility**: It holds corporations accountable for profiting from open-source while supporting fair collaboration with the developer community.
+              4. **Open Innovation**: It encourages contributions to open-source, advancing technology faster and more collaboratively.
+              5. **Access for All**: Non-commercial use remains free, ensuring equitable access to tools and knowledge, empowering communities worldwide.
+
+              OCTL aligns innovation, fairness, and sustainability to drive global progress.
+            </p>
           </div>
         </div>
       </div>
@@ -111,7 +111,9 @@
         <div class="known-from-logo-container">
           <div class="logo-item">
             <p class="logo-title">Fahrbar20</p>
-            <a href="https://www.iunera.com/kraken/big-data-examples/how-nfts-and-ai-can-solve-public-transport-challenges/" target="_blank">
+            <a
+              href="https://www.iunera.com/kraken/big-data-examples/how-nfts-and-ai-can-solve-public-transport-challenges/"
+              target="_blank">
               <img src="../assets/images/logo-fahrbar20.svg" alt="Fahrbar20">
             </a>
             <p class="logo-subtitle">NFTs and AI solving public transport challenges</p> <!-- Subtitle -->
@@ -119,7 +121,8 @@
 
           <div class="logo-item">
             <p class="logo-title">Tracking, Prediction and Analytics</p>
-            <a href="https://www.iunera.com/kraken/big-data-examples/third-party-data-geotracking-coronavirus/" target="_blank">
+            <a href="https://www.iunera.com/kraken/big-data-examples/third-party-data-geotracking-coronavirus/"
+               target="_blank">
               <img src="../assets/images/logo-trackingapp.png" alt="Tracking App">
             </a>
             <p class="logo-subtitle">Insights from Covid pandemic tracking apps</p>
@@ -135,7 +138,8 @@
 
           <div class="logo-item">
             <p class="logo-title">AI Analytics of German Federal Election</p>
-            <a href="https://www.iunera.com/kraken/projects/baden-tv-interview-dr-frey-bundestagswahlanalyse/" target="_blank">
+            <a href="https://www.iunera.com/kraken/projects/baden-tv-interview-dr-frey-bundestagswahlanalyse/"
+               target="_blank">
               <img src="../assets/images/logo-bundestagswahlanalyse.png" alt="Election Analytics">
             </a>
             <p class="logo-subtitle">In-depth election analysis powered by AI</p>
@@ -151,14 +155,7 @@
         </div>
       </div>
 
-<!--      &lt;!&ndash; Footer Section &ndash;&gt;-->
-<!--      <footer class="footer">-->
-<!--        <p>&copy; 2024 license-token powered by <a href="https://iunera.com" target="_blank">iunera</a>. All Rights-->
-<!--          Reserved.</p>-->
-<!--      </footer>-->
     </div>
 
   </mat-drawer-content>
 </mat-drawer-container>
-
-<!--<router-outlet/>-->

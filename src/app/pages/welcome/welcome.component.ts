@@ -4,6 +4,7 @@ import {MatDrawerContainer, MatDrawerContent} from "@angular/material/sidenav";
 import {MatIcon} from "@angular/material/icon";
 import {MatCardModule} from '@angular/material/card';
 import {Router} from "@angular/router"
+import {CtaComponent} from '../cta/cta.component';
 
 @Component({
   selector: 'app-welcome',
@@ -16,6 +17,7 @@ import {Router} from "@angular/router"
     MatCardModule,
     MatDrawerContainer,
     MatDrawerContent,
+    CtaComponent,
   ],
   templateUrl: './welcome.component.html',
   styleUrl: './welcome.component.scss'

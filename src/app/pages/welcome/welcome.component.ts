@@ -6,6 +6,7 @@ import {MatCardModule} from '@angular/material/card';
 import {Router} from "@angular/router"
 import {CtaComponent} from '../cta/cta.component';
 import {NgForOf} from '@angular/common';
+import {MatTooltip} from '@angular/material/tooltip';
 
 @Component({
   selector: 'app-welcome',
@@ -19,6 +20,7 @@ import {NgForOf} from '@angular/common';
     MatDrawerContainer,
     MatDrawerContent,
     NgForOf,
+    MatTooltip,
   ],
   templateUrl: './welcome.component.html',
   styleUrl: './welcome.component.scss'
@@ -105,6 +107,7 @@ export class WelcomeComponent {
     ]
   }
 
+  whyNoOpensource: string = 'The term "Open Source" is not a legally protected term. However, it is closely associated with specific definitions and standards established by organizations like the Open Source Initiative (OSI). This means its use is tied to compliance with those standards, particularly in the context of software and licenses. We think developers shall be paid for their work, and we believe that the OCTL is a good way to do that. No need to fight the wordings...';
 
   knowFrom = {
     title: 'You know our tech from',
@@ -146,7 +149,6 @@ export class WelcomeComponent {
         subtitle: 'Discover destinations with travel guide apps'
       },
     ],
-
-
   }
+
 }

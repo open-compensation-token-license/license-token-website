@@ -1,28 +1,25 @@
-import { Component } from '@angular/core';
+import {Component} from '@angular/core';
 import {MatButton} from '@angular/material/button';
-import {MatDrawerContainer, MatDrawerContent} from '@angular/material/sidenav';
+import {Router} from "@angular/router"
 
 @Component({
   selector: 'app-cta',
   imports: [
     MatButton,
-    MatDrawerContainer,
-    MatDrawerContent
   ],
   standalone: true,
   templateUrl: './cta.component.html',
   styleUrl: './cta.component.scss'
 })
 export class CtaComponent {
-  // Navigate to the Apply License page
-  onNavigateToLicense() {
-    // Logic to navigate to the license page (Update the route as needed)
-    window.location.href = '/apply-license';
+  constructor(private router: Router) {
   }
 
-  // Open a URL to handle donations
+  onNavigateToLicense() {
+    this.router.navigate(['/apply-license']);
+  }
+
   onDonate() {
-    // Redirect to the donation page (Update the link as needed)
     window.open('https://nftpuzzle.license-token.com/', '_blank');
   }
 }

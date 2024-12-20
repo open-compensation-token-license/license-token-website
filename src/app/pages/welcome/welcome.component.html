@@ -1,3 +1,8 @@
+Datenschutz
+
+
+Google Analytics
+
 <mat-drawer-container>
   <mat-drawer-content>
     <!-- Hero Section -->
@@ -5,18 +10,20 @@
       <div class="hero-overlay">
         <div class="hero-content">
           <h1 class="hero-title">
-            <span>We make open source projects</span> sustainable
+            <span>we make<s><span> open </span></s> source code</span> sustainable
           </h1>
           <p class="hero-subtitle">
-            Apply the Open Compensation Token license (OCTL) to your <b>opensource project</b> and start getting paid
+            Apply the Open Compensation Token license (OCTL) to your <b>open source project</b> and start getting paid
             for your
             work.
           </p>
           <div class="hero-buttons">
             <button mat-raised-button color="primary" class="hero-btn" (click)="scrollToSection()">What does it?
             </button>
-            <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToApplyLicense()">Apply
-              License
+            <!--            <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToApplyLicense()">Apply-->
+            <!--              License-->
+            <!--            </button>-->
+            <button mat-raised-button color="primary" class="hero-btn" (click)="contactUs()">Contact us
             </button>
             <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToDonate()">Donate</button>
           </div>
@@ -33,86 +40,36 @@
       <!-- Why Choose Us Section -->
       <div id="why-choose-us" class="why">
         <div class="why-container">
-          <h2 class="why-title">What does it?</h2>
-          <div class="why-description" [innerHTML]="description"></div>
+          <h2 class="why-title">{{ why.title }}</h2>
+          <div class="why-description" [innerHTML]="why.description"></div>
         </div>
 
         <div class="why-grid">
-          <div class="why-card">
-            <div class="why-card-icon">
-              <mat-icon class="why-icon">person</mat-icon>
-            </div>
-            <h3 class="why-card-title">Whats in it for you?</h3>
-            <div class="why-card-description" [innerHTML]="forYou"></div>
-          </div>
 
-          <div class="why-card">
+          <div *ngFor="let card of why.cards" class="why-card">
             <div class="why-card-icon">
-              <mat-icon class="why-icon">people</mat-icon>
+              <mat-icon class="why-icon">{{ card.icon }}</mat-icon>
             </div>
-            <h3 class="why-card-title">Why is it good for your users?</h3>
-            <div class="why-card-description" [innerHTML]="forUsers"></div>
+            <h3 class="why-card-title">{{ card.title }}</h3>
+            <div class="why-card-description" [innerHTML]="card.description"></div>
           </div>
+        </div></div>
 
-          <div class="why-card">
-            <div class="why-card-icon">
-              <mat-icon class="why-icon">public</mat-icon>
-            </div>
-            <h3 class="why-card-title">How does it make the world better?</h3>
-            <div class="why-card-description" [innerHTML]="forTheWorld"></div>
-          </div>
-        </div>
-      </div>
 
       <!-- Known From Section -->
       <div id="known-from" class="known-from">
-        <h2 class="known-from-title">You know our tech from</h2>
-        <p class="known-from-description">Our work has been recognized and featured by industry-leading platforms:</p>
+        <h2 class="known-from-title">{{ knowFrom.title }}</h2>
+        <p class="known-from-description">{{ knowFrom.subTitle }}</p>
         <div class="known-from-logo-container">
-          <div class="logo-item">
-            <p class="logo-title">Fahrbar20</p>
-            <a
-              href="https://www.iunera.com/kraken/big-data-examples/how-nfts-and-ai-can-solve-public-transport-challenges/"
-              target="_blank">
-              <img src="../assets/images/logo-fahrbar20.svg" alt="Fahrbar20">
+          <div *ngFor="let logo of knowFrom.points" class="logo-item">
+            <p class="logo-title">{{ logo.title }}</p>
+            <a [href]="logo.link" target="_blank">
+              <img [src]="logo.image" [alt]="logo.alt">
             </a>
-            <p class="logo-subtitle">NFTs and AI solving public transport challenges</p> <!-- Subtitle -->
-          </div>
-
-          <div class="logo-item">
-            <p class="logo-title">Tracking, Prediction and Analytics</p>
-            <a href="https://www.iunera.com/kraken/big-data-examples/third-party-data-geotracking-coronavirus/"
-               target="_blank">
-              <img src="../assets/images/logo-trackingapp.png" alt="Tracking App">
-            </a>
-            <p class="logo-subtitle">Insights from Covid pandemic tracking apps</p>
-          </div>
-
-          <div class="logo-item">
-            <p class="logo-title">AI Social Altcoin Analytics</p>
-            <a href="https://www.youtube.com/watch?v=4tv_L7W76b8" target="_blank">
-              <img src="../assets/images/logo-scoinanalytics.png" alt="Scoinanalytics">
-            </a>
-            <p class="logo-subtitle">AI-powered altcoin trends and tweetbot</p>
-          </div>
-
-          <div class="logo-item">
-            <p class="logo-title">AI Analytics of German Federal Election</p>
-            <a href="https://www.iunera.com/kraken/projects/baden-tv-interview-dr-frey-bundestagswahlanalyse/"
-               target="_blank">
-              <img src="../assets/images/logo-bundestagswahlanalyse.png" alt="Election Analytics">
-            </a>
-            <p class="logo-subtitle">In-depth election analysis powered by AI</p>
-          </div>
-
-          <div class="logo-item">
-            <p class="logo-title">Swarm Travel Guide Apps</p>
-            <a href="https://www.chip.de/downloads/Stappz-Android-App_74740571.html" target="_blank">
-              <img src="../assets/images/logo-stappz.png" alt="Stappz">
-            </a>
-            <p class="logo-subtitle">Discover destinations with travel guide apps</p>
+            <p class="logo-subtitle">{{ logo.subtitle }}</p>
           </div>
         </div>
+
       </div>
 
     </div>

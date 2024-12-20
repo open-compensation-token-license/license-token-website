@@ -1,0 +1,96 @@
+@import "../../../styles/variables";
+@import "../../../styles/global";
+
+.privacy-policy {
+  background-color: $background-dark; // Matches the dark theme
+  color: $text-light; // Light text for readability
+  padding: 60px 20px; // Consistent spacing
+  line-height: 1.6; // Improved readability
+
+  h2, h3, h4, h5 {
+    color: $primary-yellow; // Use the primary yellow for headings
+    margin-bottom: 15px; // Spacing below headings
+  }
+
+  p {
+    font-size: 1rem; // Match paragraph text size with site-wide styles
+    color: $text-light;
+    margin-bottom: 20px;
+  }
+
+  ul {
+    padding-left: 20px;
+    margin-bottom: 30px;
+
+    li {
+      font-size: 1rem;
+      color: $text-muted; // Use muted color for subtle styling
+      margin-bottom: 10px;
+
+      &:before {
+        content: "•";
+        color: $primary-yellow;
+        font-weight: bold;
+        margin-right: 10px;
+      }
+    }
+  }
+
+  a {
+    color: $primary-yellow;
+    text-decoration: none;
+
+    &:hover {
+      color: $hover-light; // Lighter color on hover
+      text-decoration: underline; // Underline for accessibility
+    }
+  }
+
+  .privacy-section {
+    margin-bottom: 40px; // Space between sections
+    padding: 30px;
+    background-color: $background-secondary; // Slightly different background for section cards
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); // Subtle shadow effect
+
+    &:hover {
+      box-shadow: 0 8px 16px rgba(225, 225, 143, 0.4); // Highlight on hover
+      transform: translateY(-5px); // Lift effect on hover
+      transition: all 0.3s ease;
+    }
+  }
+
+  .privacy-title {
+    text-align: center;
+    font-size: 2.5rem; // Larger for emphasis
+    margin-bottom: 10px;
+    color: $primary-yellow;
+  }
+
+  .privacy-intro {
+    font-size: 1.2rem;
+    color: $text-muted;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  .privacy-list {
+    display: flex;
+    flex-direction: column; // For mobile friendliness
+    gap: 30px;
+
+    .privacy-item {
+      display: flex;
+      flex-direction: column;
+      align-items: start;
+
+      h4 {
+        margin-bottom: 10px;
+      }
+
+      p {
+        line-height: 1.8; // Improved spacing
+      }
+    }
+  }
+}

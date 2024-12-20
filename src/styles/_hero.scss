@@ -23,17 +23,22 @@
     .hero-title {
       font-size: 4rem;
       line-height: 1.2;
-      color: $primary-yellow; // Cyan for the main heading
+      color: $primary-yellow;
 
       span {
-        color: $hover-light; // Light gray for secondary text/brand
+        color: $hover-light;
+      }
+
+      s {
+        text-decoration: line-through;
+        color: coral;
       }
     }
 
-    .hero-subtitle {
+    .hero-subtitfle {
       font-size: 1.8rem;
       margin: 20px auto;
-      color: $text-muted; // Muted gray for subtitle text
+      color: $text-muted;
       line-height: 1.5;
     }
 
@@ -46,13 +51,13 @@
         font-size: 1rem;
         font-weight: 600;
         border-radius: 30px;
-        border: 1px solid $primary-yellow; // Cyan border
+        border: 1px solid $primary-yellow;
         background-color: transparent;
         color: $primary-yellow;
 
         &:hover {
-          background-color: $primary-yellow; // Cyan fill on hover
-          color: $background-dark; // Black text inside button
+          background-color: $primary-yellow;
+          color: $background-dark;
         }
       }
     }

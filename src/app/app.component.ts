@@ -15,10 +15,7 @@ import {CtaComponent} from './pages/cta/cta.component';
     MatButtonModule,
     MatCardModule,
     FooterComponent,
-    MatDrawerContainer,
-    MatDrawerContent,
     CtaComponent,
-
   ],
 })
 

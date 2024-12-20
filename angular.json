@@ -15,11 +15,12 @@
       "prefix": "app",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-angular:application",
+          "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "outputPath": "dist/license-token-website",
+            "baseHref": "/license-token-website/",
             "index": "src/index.html",
-            "browser": "src/main.ts",
+            "main": "src/main.ts",
             "polyfills": [
               "zone.js"
             ],
@@ -62,6 +63,11 @@
                   "maximumError": "8kB"
                 }
               ],
+              "optimization": {
+                "fonts": true,
+                "scripts": true,
+                "styles": true
+              },
               "outputHashing": "all"
             },
             "development": {

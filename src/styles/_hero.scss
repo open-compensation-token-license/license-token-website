@@ -1,8 +1,3 @@
-// styles/_hero.scss
-
-/************************************
- * Hero Section
- ************************************/
 .hero {
   position: relative;
   width: 100%;
@@ -31,11 +26,11 @@
 
       s {
         text-decoration: line-through;
-        color: coral;
+        color: hotpink;
       }
     }
 
-    .hero-subtitfle {
+    .hero-subtitle {
       font-size: 1.8rem;
       margin: 20px auto;
       color: $text-muted;

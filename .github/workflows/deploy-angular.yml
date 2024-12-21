@@ -28,7 +28,7 @@ jobs:
 
       # Step 4: Build the Angular project
       - name: Build Angular project
-        run: npm run build -- --configuration production --output-path=dist --base-href="/license-token-website/"
+        run: npm run build -- --configuration production --output-path=dist --base-href="/"
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages

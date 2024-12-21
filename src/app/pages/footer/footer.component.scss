@@ -1,26 +1,33 @@
 @import "../../../styles/variables";
 @import "../../../styles/global";
 
-/************************************
- * Footer Section
- ************************************/
 .footer {
-  text-align: center;
   padding: 20px;
+  text-align: center;
   background-color: $background-dark;
 
-  p {
+  .footer-content {
+    display: inline-flex; // Arrange all elements in a horizontal row
+    flex-wrap: wrap; // Allow wrapping for smaller screens if needed
+    justify-content: center;
+    align-items: center;
+    gap: 12px; // Space between elements
     margin: 0;
     font-size: 0.875rem;
-    color: $text-muted; // Light gray text for footer
-  }
+    color: $text-muted;
 
-  a {
-    color: $primary-yellow; // Cyan links in footer
-    text-decoration: none;
+    a {
+      color: $primary-yellow;
+      text-decoration: none;
 
-    &:hover {
-      color: $hover-light; // Light hover effect
+      &:hover {
+        color: $hover-light;
+        text-decoration: underline;
+      }
+    }
+
+    .link-separator {
+      color: $text-muted; // Match muted tone for the separator
     }
   }
 }

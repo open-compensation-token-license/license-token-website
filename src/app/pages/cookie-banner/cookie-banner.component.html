@@ -1,0 +1,13 @@
+<div class="cookie-banner" *ngIf="showBanner()">
+  <p>
+    We use cookies to enhance your experience, analyze traffic, and provide essential features. You can accept all cookies, allow only necessary ones, or reject
+    them entirely. Learn more in our
+    <a [routerLink]="'/privacy-policy'">Privacy Policy</a>.
+  </p>
+
+  <div class="button-group">
+    <button class="accept-all" (click)="giveConsent(CONSENT_TYPES.ALL)">Accept All</button>
+    <button class="accept-technical" (click)="giveConsent(CONSENT_TYPES.TECHNICAL)">Only Technical</button>
+  </div>
+
+</div>

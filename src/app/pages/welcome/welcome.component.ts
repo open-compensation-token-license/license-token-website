@@ -42,9 +42,7 @@ export class WelcomeComponent {
 
 
   contactUs() {
-    window.open('mailto:support@example.com', '_self');
-    // window.location.href = "mailto:abc@abc.com?subject=files"
-
+    window.open('mailto:augmenta@iunera.com', '_self');
   }
 
   navigateToDonate() {

@@ -30,25 +30,6 @@ export class AppComponent  implements OnInit {
   ngOnInit(): void {
     this.analyticsService.trackEvent('AppComponent loaded', 'AppComponent loaded as main', 'AppComponent loaded as main' )
   }
-
-  // private cookiesAccepted: boolean;
-  //
-  // constructor(private router: Router, private cookieService: CookieService) {
-  //   this.cookiesAccepted = CookieConsent.decode(this.cookieService.get(CookieConsent.name))?.acceptedCookies == CONSENT_TYPES.ALL
-  // }
-  //
-  // ngOnInit(): void {
-  //   if (this.cookiesAccepted) {
-  //     this.router.events.subscribe((event) => {
-  //       console.log(event);
-  //       if (event instanceof NavigationEnd) {
-  //         gtag('config', 'G-S8HDBPV75B', {
-  //           page_path: event.urlAfterRedirects,
-  //         });
-  //       }
-  //     });
-  //   }
-  // }
 }
 
 

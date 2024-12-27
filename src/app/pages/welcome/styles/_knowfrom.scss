@@ -1,7 +1,9 @@
+@use "variables" as *;
+
 .known-from {
   padding: 60px 20px;
   text-align: center;
-  background-color: $background-dark;
+  background-color: $background-default;
   color: $text-light;
 
   .known-from-title {
@@ -27,7 +29,7 @@
   }
 
   .logo-item {
-    max-width: 220px; /* Adjust area for logos and text */
+    max-width: 220px;
     text-align: center;
 
     .logo-title {
@@ -59,10 +61,10 @@
     }
 
     .logo-subtitle {
-      font-size: 0.9rem; /* Smaller text for subtitles */
+      font-size: 0.9rem;
       font-weight: normal;
-      color: $text-muted; /* Muted color for subtlety */
-      margin-top: 8px; /* Space between logo and subtitle */
+      color: $text-muted;
+      margin-top: 8px;
       line-height: 1.4;
     }
   }

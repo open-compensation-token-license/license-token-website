@@ -1,19 +1,18 @@
-@import "../../../styles/variables";
-@import "../../../styles/global";
+@use "variables" as *;
 
 .privacy-policy {
-  background-color: $background-dark; // Matches the dark theme
-  color: $text-light; // Light text for readability
-  padding: 60px 20px; // Consistent spacing
-  line-height: 1.6; // Improved readability
+  background-color: $background-default;
+  color: $text-light;
+  padding: 60px 20px;
+  line-height: 1.6;
 
   h2, h3, h4, h5 {
-    color: $primary-yellow; // Use the primary yellow for headings
-    margin-bottom: 15px; // Spacing below headings
+    color: $primary-yellow;
+    margin-bottom: 15px;
   }
 
   p {
-    font-size: 1rem; // Match paragraph text size with site-wide styles
+    font-size: 1rem;
     color: $text-light;
     margin-bottom: 20px;
   }
@@ -24,11 +23,10 @@
 
     li {
       font-size: 1rem;
-      color: $text-muted; // Use muted color for subtle styling
+      color: $text-muted;
       margin-bottom: 10px;
 
       &:before {
-        content: "•";
         color: $primary-yellow;
         font-weight: bold;
         margin-right: 10px;
@@ -41,28 +39,28 @@
     text-decoration: none;
 
     &:hover {
-      color: $hover-light; // Lighter color on hover
-      text-decoration: underline; // Underline for accessibility
+      color: $hover-light;
+      text-decoration: underline;
     }
   }
 
   .privacy-section {
-    margin-bottom: 40px; // Space between sections
+    margin-bottom: 40px;
     padding: 30px;
-    background-color: $background-secondary; // Slightly different background for section cards
+    background-color: $background-secondary;
     border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); // Subtle shadow effect
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 
     &:hover {
-      box-shadow: 0 8px 16px rgba(225, 225, 143, 0.4); // Highlight on hover
-      transform: translateY(-5px); // Lift effect on hover
+      box-shadow: 0 8px 16px rgba(225, 225, 143, 0.4);
+      transform: translateY(-5px);
       transition: all 0.3s ease;
     }
   }
 
   .privacy-title {
     text-align: center;
-    font-size: 2.5rem; // Larger for emphasis
+    font-size: 2.5rem;
     margin-bottom: 10px;
     color: $primary-yellow;
   }
@@ -76,7 +74,7 @@
 
   .privacy-list {
     display: flex;
-    flex-direction: column; // For mobile friendliness
+    flex-direction: column;
     gap: 30px;
 
     .privacy-item {
@@ -89,7 +87,7 @@
       }
 
       p {
-        line-height: 1.8; // Improved spacing
+        line-height: 1.8;
       }
     }
   }

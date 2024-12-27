@@ -3,7 +3,7 @@ import {MatButton, MatButtonModule} from "@angular/material/button";
 import {MatDrawerContainer, MatDrawerContent} from "@angular/material/sidenav";
 import {MatIcon} from "@angular/material/icon";
 import {MatCardModule} from '@angular/material/card';
-import {Router} from "@angular/router"
+import {Router, RouterLink} from "@angular/router"
 import {NgForOf} from '@angular/common';
 import {MatTooltip} from '@angular/material/tooltip';
 
@@ -20,10 +20,12 @@ import {MatTooltip} from '@angular/material/tooltip';
     MatDrawerContent,
     NgForOf,
     MatTooltip,
+    RouterLink,
   ],
   templateUrl: './welcome.component.html',
-  styleUrl: './welcome.component.scss'
-})
+  styleUrls: ['./welcome.component.scss']
+}
+)
 
 export class WelcomeComponent {
   constructor(private router: Router) {
@@ -38,11 +40,6 @@ export class WelcomeComponent {
 
   navigateToApplyLicense() {
     this.router.navigate(['/apply-license']);
-  }
-
-
-  contactUs() {
-    window.open('mailto:augmenta@iunera.com', '_self');
   }
 
   navigateToDonate() {

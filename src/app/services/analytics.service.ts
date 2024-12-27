@@ -19,15 +19,15 @@ export class AnalyticsService {
   loadGoogleAnalytics(): void {
     console.log('Loading Google Analytics')
 
-    const script = document.createElement('script');
-    script.async = true;
-    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-S8HDBPV75B'; // Replace with your Measurement ID
-    document.head.appendChild(script);
+    const importScriptBlock = document.createElement('script');
+    importScriptBlock.async = true;
+    importScriptBlock.src = 'https://www.googletagmanager.com/gtag/js?id=G-S8HDBPV75B'; // Replace with your Measurement ID
+    document.head.appendChild(importScriptBlock);
 
-    const script2 = document.createElement('script');
+    const gtagFunctionScriptBlock = document.createElement('script');
 
     // language=HTML
-    script2.text = `
+    gtagFunctionScriptBlock.text = `
       window.dataLayer = window.dataLayer || [];
 
       function gtag() {
@@ -37,8 +37,7 @@ export class AnalyticsService {
 
       gtag('config', 'G-S8HDBPV75B');
     `;
-    document.head.appendChild(script2);
-
+    document.head.appendChild(gtagFunctionScriptBlock);
   }
 
   trackEvent(eventName: string, eventDetails: string, eventCategory: string) {
@@ -56,6 +55,6 @@ export class AnalyticsService {
 }
 
 //
-//
-// // https://lumin8media.com/blog/add-google-analytics-angular
+// https://lumin8media.com/blog/add-google-analytics-angular
 // Wir initializen hier und lassen das nur laufen wenn das Cookie gesetzt ist
+//

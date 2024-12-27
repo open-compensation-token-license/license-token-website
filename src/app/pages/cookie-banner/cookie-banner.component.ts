@@ -7,8 +7,7 @@ import {RouterLink} from '@angular/router';
 
 export enum CONSENT_TYPES {
   ALL = 'all',
-  TECHNICAL = 'technical',
-  NONE = 'none'
+  TECHNICAL = 'technical'
 }
 
 export class CookieConsent {

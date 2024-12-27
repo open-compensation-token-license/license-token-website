@@ -8,9 +8,7 @@
             <span>we make<s><span matTooltip="{{ whyNoOpensource }}" matTooltipPosition="above"> open </span></s> source code</span> sustainable
           </h1>
           <p class="hero-subtitle">
-            Apply the Open Compensation Token license (OCTL) to your <b>open source project</b> and start getting paid
-            for your
-            work.
+            Apply the Open Compensation Token license (OCTL) to your <b>open source project</b> and start getting paid for your work.
           </p>
           <div class="hero-buttons">
             <button mat-raised-button color="primary" class="hero-btn" (click)="scrollToSection()">What does it?
@@ -18,7 +16,7 @@
             <!--            <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToApplyLicense()">Apply-->
             <!--              License-->
             <!--            </button>-->
-            <button mat-raised-button color="primary" class="hero-btn" (click)="contactUs()">Contact us
+            <button mat-raised-button color="primary" class="hero-btn" [routerLink]="'/contact'">Contact us
             </button>
             <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToDonate()">Donate</button>
           </div>
@@ -31,16 +29,14 @@
       </div>
     </div>
 
+    <!-- Why Section -->
     <div id="content">
-      <!-- Why Choose Us Section -->
       <div id="why-choose-us" class="why">
         <div class="why-container">
           <h2 class="why-title">{{ why.title }}</h2>
           <div class="why-description" [innerHTML]="why.description"></div>
         </div>
-
         <div class="why-grid">
-
           <div *ngFor="let card of why.cards" class="why-card">
             <div class="why-card-icon">
               <mat-icon class="why-icon">{{ card.icon }}</mat-icon>
@@ -48,8 +44,8 @@
             <h3 class="why-card-title">{{ card.title }}</h3>
             <div class="why-card-description" [innerHTML]="card.description"></div>
           </div>
-        </div></div>
-
+        </div>
+      </div>
 
       <!-- Known From Section -->
       <div id="known-from" class="known-from">

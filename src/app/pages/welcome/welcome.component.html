@@ -1,5 +1,12 @@
 <mat-drawer-container>
   <mat-drawer-content>
+    <!-- GitHub Link -->
+    <div class="github-link">
+      <a href="https://github.com/open-compensation-token-license?q=octl+public&type=all&language=&sort=" target="_blank">
+        <img src="../../../assets/images/github_lockup_light.svg" alt="GitHub">
+      </a>
+    </div>
+
     <!-- Hero Section -->
     <div class="hero">
       <div class="hero-overlay">
@@ -13,9 +20,6 @@
           <div class="hero-buttons">
             <button mat-raised-button color="primary" class="hero-btn" (click)="scrollToSection()">What does it?
             </button>
-            <!--            <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToApplyLicense()">Apply-->
-            <!--              License-->
-            <!--            </button>-->
             <button mat-raised-button color="primary" class="hero-btn" [routerLink]="'/contact'">Contact us
             </button>
             <button mat-raised-button color="primary" class="hero-btn" (click)="navigateToDonate()">Donate</button>

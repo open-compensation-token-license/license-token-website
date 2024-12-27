@@ -1,0 +1,15 @@
+.github-link {
+  position: absolute;
+  top: 30px;
+  right: 20px;
+  z-index: 1000;
+
+  a {
+    display: inline-block;
+
+    img {
+      height: 30px;
+      filter: brightness(0.5);
+    }
+  }
+}

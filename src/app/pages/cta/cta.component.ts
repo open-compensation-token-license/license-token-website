@@ -23,4 +23,8 @@ export class CtaComponent {
   onDonate() {
     window.open('https://nftpuzzle.license-token.com/', '_blank');
   }
+
+  getTheLicenseTxt() {
+    window.open('https://raw.githubusercontent.com/open-compensation-token-license/license/refs/heads/main/LICENSE.txt', '_blank');
+  }
 }

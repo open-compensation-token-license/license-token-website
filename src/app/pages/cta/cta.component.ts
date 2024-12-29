@@ -16,7 +16,8 @@ export class CtaComponent {
   }
 
   onNavigateToLicense() {
-    this.router.navigate(['/apply-license']);
+    this.router.navigate(['/contact']);
+    window.open('https://github.com/open-compensation-token-license/octl?tab=readme-ov-file#single-developer-single-digital-artifact-minting', '_blank');
   }
 
   onDonate() {

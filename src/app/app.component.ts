@@ -1,14 +1,11 @@
-import {Component, OnInit, inject} from '@angular/core';
-import {EventType, NavigationEnd, NavigationStart, Router, RouterOutlet} from '@angular/router';
+import {Component, inject, OnInit} from '@angular/core';
+import {RouterOutlet} from '@angular/router';
 import {MatButtonModule} from '@angular/material/button';
 import {MatCardModule} from '@angular/material/card';
 import {FooterComponent} from './pages/footer/footer.component';
 import {CtaComponent} from './pages/cta/cta.component';
-import {CONSENT_TYPES, CookieBannerComponent, CookieConsent} from './pages/cookie-banner/cookie-banner.component';
-import {CookieService} from 'ngx-cookie-service';
+import {CookieBannerComponent} from './pages/cookie-banner/cookie-banner.component';
 import {AnalyticsService} from './services/analytics.service';
-
-// declare let gtag: Function;
 
 @Component({
   selector: 'app-root',
@@ -31,5 +28,3 @@ export class AppComponent  implements OnInit {
     this.analyticsService.trackEvent('AppComponent loaded', 'AppComponent loaded as main', 'AppComponent loaded as main' )
   }
 }
-
-

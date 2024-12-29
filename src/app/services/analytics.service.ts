@@ -42,7 +42,6 @@ export class AnalyticsService {
 
   trackEvent(eventName: string, eventDetails: string, eventCategory: string) {
 
-    console.log('tracking event: ', eventName, eventDetails, eventCategory);
     gtag('event', eventName, {
       // event Type - example: 'SCROLL_TO_TOP_CLICKED'
       'event_category': eventCategory,

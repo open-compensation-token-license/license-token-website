@@ -76,17 +76,14 @@ export class CookieBannerComponent {
 
   saveCookieWithType(type: CONSENT_TYPES) {
     this.cookieService.set(CookieConsent.name, CookieConsent.encode(new CookieConsent(true, type)), CookieConsent.options);
-    console.log(this.cookieService.get(CookieConsent.name))
   }
 
   giveConsent(consentType: string): void {
 
     if (consentType === CONSENT_TYPES.ALL) {
-      console.log('All cookies allowed');
       this.saveCookieWithType(consentType)
       this.analyticsService.loadGoogleAnalytics()
     } else if (consentType === CONSENT_TYPES.TECHNICAL) {
-      console.log('Only technical cookies allowed');
       this.saveCookieWithType(consentType)
     }
   }

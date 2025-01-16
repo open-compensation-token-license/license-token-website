@@ -60,6 +60,10 @@
     }
 
     .hero-buttons .whitepaper-btn {
+      margin: 0 10px;
+      padding: 10px 30px;
+      font-size: 1rem;
+      font-weight: 600;
       background-color: $primary-yellow;
       color: $background-default;
       border: none;

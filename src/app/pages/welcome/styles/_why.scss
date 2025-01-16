@@ -26,7 +26,7 @@
   .why-grid {
     display: flex;
     justify-content: center;
-    gap: 40px;
+    gap: 25px;
     flex-wrap: wrap;
 
     .why-card {
@@ -34,7 +34,7 @@
       border: 1px solid $primary-yellow;
       border-radius: 12px;
       padding: 25px;
-      width: 440px;
+      width: 360px;
       text-align: center;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
       transition: transform 0.3s ease, box-shadow 0.3s ease;

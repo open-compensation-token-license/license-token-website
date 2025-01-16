@@ -16,8 +16,28 @@ export class CtaComponent {
   }
 
   onNavigateToLicense() {
-    this.router.navigate(['/contact']);
-    window.open('https://github.com/open-compensation-token-license/octl?tab=readme-ov-file#single-developer-single-digital-artifact-minting', '_blank');
+
+    const email = "recipient@example.com"; // Replace with the desired recipient email address
+
+    const subject = encodeURIComponent("Register my project to the License");
+
+    const furtherInstructions = 'https://github.com/open-compensation-token-license/octl?tab=readme-ov-file#single-developer-single-digital-artifact-minting'
+
+    const body = `
+    Hi OCTL Team,
+
+    please register my project to the License.
+
+    Ethereum/Arbitrium Address: 0x
+    GitHub Project Link: https://github.com/<The Organization or user>/<The project>
+    Maintainer Email: <The Email address>
+
+    I did read the further Instructions on https://github.com/open-compensation-token-license/octl?tab=readme-ov-file#single-developer-single-digital-artifact-minting
+    `;
+
+    const mailtoLink = `mailto:${email}?subject=${subject}&body=${encodeURIComponent(body)}`;
+    window.open(mailtoLink, '_self');
+
   }
 
   onDonate() {

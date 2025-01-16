@@ -58,5 +58,16 @@
         }
       }
     }
+
+    .hero-buttons .whitepaper-btn {
+      background-color: $primary-yellow;
+      color: $background-default;
+      border: none;
+    }
+
+    .hero-buttons .whitepaper-btn:hover {
+      background-color: transparent;
+      color: $primary-yellow;
+    }
   }
 }

@@ -15,29 +15,22 @@ export class CtaComponent {
   constructor(private router: Router) {
   }
 
-  onNavigateToLicense() {
+  onApplyLicense() {
 
-    const email = "recipient@example.com"; // Replace with the desired recipient email address
+    const email = "register@license-token.com";
 
     const subject = encodeURIComponent("Register my project to the License");
 
-    const furtherInstructions = 'https://github.com/open-compensation-token-license/octl?tab=readme-ov-file#single-developer-single-digital-artifact-minting'
+    // language=EMAIL
+    const body = encodeURIComponent(`Hi OCTL Team,\nplease register my project to the License.
 
-    const body = `
-    Hi OCTL Team,
+    GitHub Project Link: https://github.com/<organization or user>/<project>
+    Maintainer Email: <email address>
+    Ethereum/Arbitrium Address (optional):
+    `);
 
-    please register my project to the License.
-
-    Ethereum/Arbitrium Address: 0x
-    GitHub Project Link: https://github.com/<The Organization or user>/<The project>
-    Maintainer Email: <The Email address>
-
-    I did read the further Instructions on https://github.com/open-compensation-token-license/octl?tab=readme-ov-file#single-developer-single-digital-artifact-minting
-    `;
-
-    const mailtoLink = `mailto:${email}?subject=${subject}&body=${encodeURIComponent(body)}`;
+    const mailtoLink = `mailto:${email}?subject=${subject}&body=${body}`;
     window.open(mailtoLink, '_self');
-
   }
 
   onDonate() {

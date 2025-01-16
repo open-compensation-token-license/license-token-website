@@ -48,7 +48,7 @@ export class WelcomeComponent {
 
   why = {
 
-    title: 'What does it?',
+    title: 'What does it do?',
     // language=HTML max_line_length = 80
     description: `<p>
       The <b>Open Compensation Token License (OCTL)</b> provides a unique blockchain based licensing mechanism. This ensures fair and transparent payment for
@@ -58,7 +58,7 @@ export class WelcomeComponent {
 
     cards: [
       {
-        title: 'Whats in it for you?',
+        title: 'Whats in it for you',
         icon: 'person',
         // language=HTML
         description: `
@@ -145,4 +145,7 @@ export class WelcomeComponent {
     ],
   }
 
+  navigateToWhitepaper() {
+    window.open('https://github.com/open-compensation-token-license/octl/blob/main/octl-whitepaper.md', '_blank');
+  }
 }

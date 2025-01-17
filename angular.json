@@ -43,7 +43,6 @@
                 "output": "styles"
               },
               "src/robots.txt",
-              "src/404.html",
               "src/sitemap.xml"
             ],
             "stylePreprocessorOptions": {

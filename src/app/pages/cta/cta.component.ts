@@ -1,4 +1,4 @@
-import {Component} from '@angular/core';
+import {Component, inject} from '@angular/core';
 import {MatButton} from '@angular/material/button';
 import {Router} from "@angular/router"
 
@@ -12,8 +12,7 @@ import {Router} from "@angular/router"
   styleUrl: './cta.component.scss'
 })
 export class CtaComponent {
-  constructor(private router: Router) {
-  }
+  router = inject(Router);
 
   onApplyLicense() {
 

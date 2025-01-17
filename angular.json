@@ -120,10 +120,16 @@
                 "glob": "**/*",
                 "input": "src/assets",
                 "output": "assets"
+              },
+              {
+                "glob": "**/*",
+                "input": "src/styles",
+                "output": "styles"
               }
             ],
             "styles": [
               "@angular/material/prebuilt-themes/magenta-violet.css",
+              "src/styles/_variables.scss",
               "src/styles.scss"
             ],
             "scripts": []

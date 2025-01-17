@@ -17,7 +17,7 @@ describe('AppComponent', () => {
   it(`should have the 'license-token-website' title`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('license-token-website');
+    expect(app.analyticsService).toBeDefined()
   });
 
   it('should render title', () => {

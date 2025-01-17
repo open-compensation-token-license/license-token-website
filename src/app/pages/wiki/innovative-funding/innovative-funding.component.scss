@@ -1,0 +1,84 @@
+@use "sass:color";
+@use "variables" as *;
+
+.back-to-home {
+  display: flex;
+  justify-content: flex-start;
+  margin: 20px;
+
+  button {
+    margin: 0 10px;
+    padding: 10px 30px;
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: $primary-yellow;
+    color: $background-default;
+    border: none;
+
+    &:hover {
+      background-color: transparent;
+      color: $primary-yellow;
+    }
+  }
+}
+
+
+.container {
+  background-color: $background-secondary;
+  padding: 60px 20px;
+
+  .row {
+    justify-content: center;
+  }
+
+  .col-md-8 {
+    /* Card Styling */
+    .card {
+      background: $background-default;
+      border-radius: 12px; /* Rounded corners */
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Subtle shadow */
+      overflow: hidden;
+
+      .card-body {
+        padding: 25px;
+
+        color: $text-light;
+        font-size: 1.2rem;
+        line-height: 1.6;
+        font-weight: 300;
+
+        markdown {
+          font-family: 'Roboto', sans-serif;
+
+          h1, h2, h3 {
+            font-weight: 600;
+            color: $text-light;
+          }
+
+          p {
+            color: $text-light;
+          }
+
+          a {
+            color: $primary-yellow;
+            text-decoration: none;
+
+            &:hover {
+              text-decoration: underline;
+            }
+          }
+        }
+      }
+    }
+
+    .text-center {
+      margin-top: 50px;
+
+      .spinner-border {
+        color: $primary-yellow;
+        width: 3rem;
+        height: 3rem;
+      }
+    }
+  }
+}

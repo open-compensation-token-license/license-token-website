@@ -35,7 +35,7 @@ export class InnovativeFundingComponent implements OnInit {
 
   private loadMarkdownContent(): void {
     this.httpClient
-      .get('public/markdown/Innovative_Funding_for_Open_Source_Projects.md', {responseType: 'text'})
+      .get('wiki/innovative-funding-for-open-source-projects.md', {responseType: 'text'})
       .subscribe((data) => {
         this.markdownContent = data;
       });

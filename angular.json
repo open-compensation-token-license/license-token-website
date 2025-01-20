@@ -34,6 +34,11 @@
               },
               {
                 "glob": "**/*",
+                "input": "wiki",
+                "output": "wiki"
+              },
+              {
+                "glob": "**/*",
                 "input": "src/assets",
                 "output": "assets"
               },
@@ -115,6 +120,11 @@
                 "glob": "**/*",
                 "input": "public",
                 "output": "public"
+              },
+              {
+                "glob": "**/*",
+                "input": "wiki",
+                "output": "wiki"
               },
               {
                 "glob": "**/*",

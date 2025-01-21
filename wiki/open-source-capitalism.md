@@ -71,7 +71,7 @@ These systems reflect broader societal debates:
 
 - **Power Dynamics:** In capitalism, there's a risk of large entities dominating open source ecosystems, whereas socialism aims to maintain power with the community.
 
-## **Further thoughs for feedback**
+## **Further thoughts for feedback**
 
 - Are these new licenses more reflective of **open source capitalism** than the traditional donation-based model?
 

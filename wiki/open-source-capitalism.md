@@ -18,6 +18,7 @@ Let me explain why:
 
 - **Incentive Structures:** Unlike traditional capitalism where profit is the primary motivator, here, it might also include recognition, community status, or shared economic benefits.
 
+
 ## **Understanding Open Source Capitalism**
 
 In the realm of software development, **Open Source Software** was traditionally viewed through a socialist lens with the advent of the [GNU General Public License (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html), which prioritizes communal sharing and the collective good of code. However, the landscape has undergone a profound transformation with licenses like [MIT](https://opensource.org/licenses/MIT), [Apache](https://www.apache.org/licenses/LICENSE-2.0), which have not only broadened but also commercialized the scope of open source, giving rise to what can be termed **Open Source Capitalism**.

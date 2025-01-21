@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+        content="Explore effective strategies and platforms for funding open source projects. Learn about crowdfunding, sponsorships, grants, and innovative models like license tokenization to sustain and grow open source initiatives.">
+  <meta name="keywords"
+        content="Open Source Funding, Crowdfunding for Open Source, Open Source Sponsorships, Open Source Grants, License Tokenization, GitHub Sponsors, Bountysource, Open Collective, Kickstarter, Indiegogo, Open Source Development">
+  <title>Funding Open Source Software</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 20px;
+    }
+
+    h1, h2, h3 {
+      color: #333;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .markdown-body {
+      background: #fff;
+      color: #333;
+    }
+
+    .markdown-body pre {
+      background: #f4f4f4;
+      border: 1px solid #ddd;
+      border-left: 3px solid #f36d33;
+      color: #666;
+      page-break-inside: avoid;
+      font-family: monospace;
+      font-size: 15px;
+      line-height: 1.6
+      margin-bottom: 1.6em;
+      max-width: 100%;
+      overflow: auto;
+      padding: 1em 1.5em;
+      display: block;
+      word-wrap: break-word;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How to fund open source projects?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Funding open source projects can be achieved through donations, sponsorships, crowdfunding, grants, and by developing business models like offering consulting services or premium features."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are open source project funding options?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Options include: Direct donations, sponsorships from businesses or foundations, crowdfunding campaigns, grants or bounties, and building sustainable business models like dual licensing or managed services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there grants for open source software?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, organizations like the Mozilla Foundation, Linux Foundation, and other governmental bodies offer grants for open source software development."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the best open source funding platforms?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Popular platforms include GitHub Sponsors, Bountysource, Open Collective, and License-token.com."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use crowdfunding for open source projects?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, platforms like Kickstarter or Indiegogo can fund open source features, versions, or maintenance."
+          }
+        }
+      ]
+    }
+  </script>
+</head>
+<body>
+<div id="markdown-content" class="markdown-body"></div>
+
+<script>
+  $(document).ready(function () {
+    $.get('open-source-funding-strategies.md', function (data) {
+      var html = marked.parse(data);
+      $('#markdown-content').html(html);
+    });
+  });
+</script>
+</body>
+</html>

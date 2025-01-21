@@ -84,7 +84,3 @@ Popular platforms include:
 
 ### Can I use crowdfunding for open source projects?
 Yes, platforms like [Kickstarter](https://www.kickstarter.com/) or [Indiegogo](https://www.indiegogo.com/) can fund open source features, versions, or maintenance.
-
----
-
-This Markdown-format content makes it cleaner and ready for documentation, websites, or README-like files.

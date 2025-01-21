@@ -31,7 +31,13 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>open-source-capitalism-opportunities-and-challenges-global-south.html</loc>
+    <loc>https://www.license-token.com/wiki/open-source-capitalism-opportunities-and-challenges-global-south.html</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/octl-alternative-to-pure-open-source-capitalism.html</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -43,6 +49,3 @@
     <priority>1.0</priority>
   </url>
 </urlset>
-
-
-

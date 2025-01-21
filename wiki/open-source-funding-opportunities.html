@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+        content="Discover key open source funding models, including corporate sponsorship, crowdfunding platforms, grant programs, bounty programs, and dual licensing. Learn why funding is critical to sustaining open source projects, addressing challenges like burnout and security risks, and ensuring long-term growth and innovation."/>
+  <title>Open Source Funding Opportunities</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 20px;
+    }
+
+    h1, h2, h3 {
+      color: #333;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .markdown-body {
+      background: #fff;
+      color: #333;
+    }
+
+    .markdown-body pre {
+      background: #f4f4f4;
+      border: 1px solid #ddd;
+      border-left: 3px solid #f36d33;
+      color: #666;
+      page-break-inside: avoid;
+      font-family: monospace;
+      font-size: 15px;
+      line-height: 1.6
+      margin-bottom: 1.6em;
+      max-width: 100%;
+      overflow: auto;
+      padding: 1em 1.5em;
+      display: block;
+      word-wrap: break-word;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Why is funding important for open source projects?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Funding is essential for addressing challenges such as burnout, security risks, and limited growth potential. Financial support ensures developers are compensated and projects can thrive and grow sustainably."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are some key funding models for open source projects?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The main funding models for open source include corporate sponsorship, crowdfunding platforms, grant programs, bounty programs, and dual licensing/paid features. Each model provides distinct opportunities for financial support."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are examples of corporate sponsorship in open source funding?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Examples include Google Open Source initiatives, Microsoft Open Source support, and Stripe’s sponsorship of libraries such as Ruby Types."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are popular crowdfunding platforms for open source funding?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Popular crowdfunding platforms include GitHub Sponsors, Open Collective, and Patreon. These platforms allow individuals and organizations to provide financial support directly to open source developers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What grant programs provide funding for open source projects?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Examples of grant programs include the Mozilla Open Source Support Program (MOSS), NLNet Foundation, GitHub Maintainer Fund, and Google Season of Docs. These programs support projects with clear goals and significant impact."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are bounty programs, and how do they help open source projects?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bounty programs reward developers for completing specific tasks, such as bug fixes or feature development. Platforms like Gitcoin and Bountysource facilitate these programs, helping projects address specific challenges effectively."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What challenges do open source projects face in securing funding?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Challenges include lack of visibility for smaller projects, over-reliance on single sponsors, and the complexities of applying for grants. Addressing these challenges involves community engagement, revenue diversification, and maintaining transparency."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can individuals and organizations support open source projects?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Support can come in many forms, including financial contributions via platforms like GitHub Sponsors or Open Collective, participating in bounty programs, or supporting grant programs and other funding initiatives."
+          }
+        }
+      ]
+    }
+  </script>
+</head>
+<body>
+<div id="markdown-content" class="markdown-body"></div>
+
+<script>
+  $(document).ready(function () {
+    $.get('open-source-funding-opportunities.md', function (data) {
+      var html = marked.parse(data);
+      $('#markdown-content').html(html);
+    });
+  });
+</script>
+</body>
+</html>

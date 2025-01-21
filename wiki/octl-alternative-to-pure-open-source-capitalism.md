@@ -1,6 +1,6 @@
 # Leveraging Open Compensation Token License (OCTL) as an Alternative to Pure Open Source (Capitalism)
 
-The [Open Compensation Token License (OCTL) represents a powerful alternative](https://github.com/open-compensation-token-license/octl/tree/main) to [traditional open source](https://de.wikipedia.org/wiki/Open_Source) and [upcoming open source capitalism](open-source-capitalism.md). It addresses sustainability and inclusion challenges while providing opportunities for smaller developers—especially in areas with no funding to explore side hustles that are both rewarding and transformative. Even it's not free for commercial use it's free for everybody else. Here's why OCTL could serve as a better economic model compared to pure open source capitalism:
+The [Open Compensation Token License (OCTL) represents a powerful alternative](https://github.com/open-compensation-token-license/octl/tree/main) to [traditional open source](https://de.wikipedia.org/wiki/Open_Source) and [upcoming open source capitalism](https://www.license-token.com/wiki/open-source-capitalism.html). It addresses sustainability and inclusion challenges while providing opportunities for smaller developers—especially in areas with no funding to explore side hustles that are both rewarding and transformative. Even it's not free for commercial use it's free for everybody else. Here's why OCTL could serve as a better economic model compared to pure open source capitalism:
 
 ---
 
@@ -10,7 +10,7 @@ The [Open Compensation Token License (OCTL) represents a powerful alternative](h
    - OCTL enables developers to earn royalties for their contributions through tokenized models, which directly link economic rewards to the real-world usage of the software.
    - This is especially beneficial for smaller, independent developers who might not have the capital to start large-scale commercial ventures but can focus on quality contributions.
 
-_2. **Side Hustle Opportunities**
+2. **Side Hustle Opportunities**
    - With a royalties-focused system, independent developers can leverage their skills and passion to generate a supplemental income stream.
    - The tokenization system allows smaller contributions to be fairly compensated, making it viable as a part-time engagement.
 
@@ -25,7 +25,7 @@ _2. **Side Hustle Opportunities**
 
 ---
 
-## **OCTL for the individual developer**_
+## **OCTL for the individual developer**
 
 ### **Decoupling Value from Popularity and Resources**
 
@@ -35,7 +35,7 @@ One of the most [transformative aspects of the Open Compensation Token License (
 Traditional monetization models for software and technology often prioritize projects or products with a large user base or significant marketing budgets. This approach disproportionately benefits corporations and well-resourced entities, leaving smaller independent developers overshadowed and financially underserved. OCTL flips this narrative by ensuring compensation is **directly linked to the actual value and utility of contributions**, rather than the visibility or reach of a project.
 
 #### **Empowering Developers in Underdeveloped or Underserved Regions**
-For developers in regions with [limited access to global markets, such as the Global South, OCTL provides an equitable platform to earn based on their skills and contributions alone—without needing extensive resources for promotion or distribution](open-source-capitalism-opportunities-and-challenges-global-south.md). This democratized value system opens up **real financial opportunities for individuals and small teams** who might otherwise face economic or social barriers to accessing traditional funding or monetization options.
+For developers in regions with [limited access to global markets, such as the Global South, OCTL provides an equitable platform to earn based on their skills and contributions alone—without needing extensive resources for promotion or distribution](https://www.license-token.com/wiki/open-source-capitalism-opportunities-and-challenges-global-south.html). This democratized value system opens up **real financial opportunities for individuals and small teams** who might otherwise face economic or social barriers to accessing traditional funding or monetization options.
 
 #### **A Merit-Based Economic Model**
 With [OCTL, compensation focuses on merit rather than influence. Innovative contributions, no matter how small or niche, are rewarded proportionally based on their adoption and usage within the ecosystem](https://github.com/open-compensation-token-license/octl/blob/main/octl-whitepaper.md). This **meritocratic approach to compensation aka open source capitalism**  ensures that even lesser-known developers can participate and thrive in technology development, regardless of their geographic or economic circumstances. Making it a more inclusive and sustainable model for the global tech community. The word **open source social market economy** describes this model best.

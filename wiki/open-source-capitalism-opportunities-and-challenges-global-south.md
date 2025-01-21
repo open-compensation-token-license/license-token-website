@@ -3,19 +3,19 @@
 The [Heise interview with Thabang Mashologu from the Eclipse Foundation emphasizes](https://www.heise.de/hintergrund/Open-Source-im-Globalen-Sueden-mehr-als-nur-ein-technisches-Werkzeug-10223042.html
 ) Open Source in the global South as opportunity with key challenge of financing and infrastructure. So it seem to be obvious that Open Source Capitalism could be a solution for the Global South.
 
-As we pointed out [Open Source Capitalism enables opportunities of financing projects from the beginning](./innovative-funding-for-open-source-projects.md) and in the Global South it could have significant implications and opportunities, but also unique challenges stemming from economic, social, and technological contexts. Here's an exploration of how it might work:
+As we pointed out [Open Source Capitalism enables opportunities of financing projects from the beginning](https://license-token.com/#/wiki/innovative_funding) and in the Global South it could have significant implications and opportunities, but also unique challenges stemming from economic, social, and technological contexts. Here's an exploration of how it might work:
 
 ---
 
 ## **Potential Opportunities in the Global South**
 
 1. **Empowering Local Innovation**
-  - [Open source capitalism can support local entrepreneurs and developers](./open-source-capitalism.md) by offering low-cost or free access to technology. Communities in the Global South could create innovative solutions tailored to their specific needs (e.g., agriculture, education, healthcare).
+  - [Open source capitalism can support local entrepreneurs and developers](https://www.license-token.com/wiki/open-source-capitalism.html) by offering low-cost or free access to technology. Communities in the Global South could create innovative solutions tailored to their specific needs (e.g., agriculture, education, healthcare).
   - Licensing models like the [Open Compensation Token License (OCTL) could incentivize developers and entrepreneurs while ensuring fair compensation for their contributions](https://license-token.com).
 
 2. **Reducing Dependence on Proprietary Software**
   - Low costs and the collaborative ethos of open source capitalism could help reduce dependence on expensive proprietary solutions from tech giants.
-  - Governments, schools, and businesses in the Global South could leverage open source software for cost-effective solutions, fostering digital transformation. With licensing under[ OCTL the usage in the education sector would be free anyway](https://github.com/open-compensation-token-license/license).
+  - Governments, schools, and businesses in the Global South could leverage open source software for cost-effective solutions, fostering digital transformation. With licensing under[OCTL the usage in the education sector would be free anyway](https://github.com/open-compensation-token-license/license).
 
 3. **Job Creation and Skill Development**
   - Involving communities in open source ecosystems could generate employment through contributions, customization, or building services around open source platforms.
@@ -82,6 +82,6 @@ All together it could be a great opportunity for the [Global South to get more i
 
 ## **Conclusion**
 
-[Open Source Capitalism could act as a transformative force](./open-source-capitalism.md) could act as a transformative force in the Global South, [offering opportunities to create localized, community-driven solutions](https://www.license-token.com) while integrating developers and businesses into global markets.
+[Open Source Capitalism could act as a transformative force](https://www.license-token.com/wiki/octl-alternative-to-pure-open-source-capitalism.html) could act as a transformative force in the Global South, [offering opportunities to create localized, community-driven solutions](https://www.license-token.com) while integrating developers and businesses into global markets.
 
 However, it will require strong infrastructure development, legal and financial frameworks, and education programs to ensure these regions can fully participate without exploitation or exclusion. Efforts should focus on providing the necessary tools, knowledge, and incentives to empower the Global South's unique context, balancing community benefits with the profit motives inherent in open source capitalism.

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+        content="Discover Open Source Developer Support Programs that offer funding, tools, mentorship, and resources to help developers sustain and innovate within the open-source ecosystem. Learn about popular programs like GitHub Sponsors, Google Summer of Code, and more.">
+  <meta name="keywords"
+        content="Open Source Developer Support Programs, GitHub Sponsors, Google Summer of Code, Open Collective, Mozilla Open Source Support, Linux Foundation, open source funding, open source mentorship, developer tools, community building">
+  <title>Open Source Developer Support Programs | Sustain and Innovate</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 20px;
+    }
+
+    h1, h2, h3 {
+      color: #333;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .markdown-body {
+      background: #fff;
+      color: #333;
+    }
+
+    .markdown-body pre {
+      background: #f4f4f4;
+      border: 1px solid #ddd;
+      border-left: 3px solid #f36d33;
+      color: #666;
+      page-break-inside: avoid;
+      font-family: monospace;
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 1.6em;
+      max-width: 100%;
+      overflow: auto;
+      padding: 1em 1.5em;
+      display: block;
+      word-wrap: break-word;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are Open Source Developer Support Programs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Open Source Developer Support Programs are initiatives designed to help developers sustain, grow, and innovate within the open-source ecosystem. They provide resources, funding, mentorship, and tools to maintain and grow open-source projects."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What do Open Source Developer Support Programs offer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "These programs typically focus on funding and sponsorships, free tools and services, training and mentorship, community building, and project security and documentation. Examples include GitHub Sponsors for funding, GitHub Actions for tools, and Google Summer of Code for mentorship."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which are some popular Open Source Developer Support Programs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Some popular programs include Google Open Source Programs, GitHub Sponsors, Linux Foundation Support, Open Collective, and Mozilla Open Source Support. Each program offers unique tools, funding, or mentorship opportunities to developers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why are Open Source Developer Support Programs important?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "These programs address challenges like developer burnout, lack of funding, and limited resources for development and maintenance. They provide essential resources, encourage innovation, attract new contributors, and ensure that open-source software remains securely maintained and widely adopted."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can Open Source Developer Support Programs help developers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "They help developers by offering financial support, free access to premium tools, educational opportunities through mentorship, ways to build strong communities, and assistance in improving project security and documentation."
+          }
+        }
+      ]
+    }
+  </script>
+</head>
+<body>
+<div id="markdown-content" class="markdown-body"></div>
+
+<script>
+  $(document).ready(function () {
+    $.get('open-source-developer-support-programs.md', function (data) {
+      var html = marked.parse(data);
+      $('#markdown-content').html(html);
+    });
+  });
+</script>
+</body>
+</html>

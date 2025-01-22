@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Open Source Funding Workshops: Empowering Community-Driven Projects</title>
+  <meta name="description"
+        content="Discover how Open Source Funding Workshops empower developers and communities to secure financial support, sustain development, and foster growth for open source projects.">
+  <meta name="keywords"
+        content="Open Source, Funding Workshops, Community-Driven Projects, Sustainable Funding, Sponsorship, Grants, Developer Workshops, OpenCollective, GitHub Sponsors, Community Growth, Quality Assurance">
+
+  <title>Open Source Grants for Developers</title>
+  <meta name="description"
+        content="Learn about open source grants, who provides them, their benefits, popular programs, and how developers can apply for financial support to sustain and grow open source projects."/>
+  <meta name="keywords"
+        content="open source grants, developer grants, open source funding, GitHub Sponsors, NLNet Foundation, Open Technology Fund, open source financial support, open source programs, developer funding programs"/>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 20px;
+    }
+
+    h1, h2, h3 {
+      color: #333;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .markdown-body {
+      background: #fff;
+      color: #333;
+    }
+
+    .markdown-body pre {
+      background: #f4f4f4;
+      border: 1px solid #ddd;
+      border-left: 3px solid #f36d33;
+      color: #666;
+      page-break-inside: avoid;
+      font-family: monospace;
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 1.6em;
+      max-width: 100%;
+      overflow: auto;
+      padding: 1em 1.5em;
+      display: block;
+      word-wrap: break-word;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are open source grants?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Open source grants are financial support programs provided by organizations, foundations, or companies to help maintain or enhance open source projects. These grants ensure the sustainability of open source ecosystems, reward contributors, and encourage innovation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who provides open source grants?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Open source grants are provided by nonprofit foundations like the Mozilla Foundation, Linux Foundation, Open Source Collective; tech companies like Google, GitHub, Facebook, and Microsoft; crowdfunding platforms such as GitHub Sponsors, Open Collective, and Patreon; and cross-industry initiatives like the Apache Software Foundation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are some examples of open source grant programs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Examples of open source grant programs include The GitHub Sponsors Program, NLNet Foundation Grants, and Open Technology Fund. These programs provide funding for developers and projects that align with specific focus areas like privacy, security, and open internet solutions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can developers benefit from open source grants?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Open source grants enable developers to work on their projects consistently without the pressure of direct monetization. They also ensure visibility for niche tools and encourage diversity and accessibility in the open source community by supporting underrepresented groups."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can developers apply for open source grants?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To apply for open source grants, developers should identify programs aligned with their project goals, prepare a strong project pitch, include roadmaps and sustainability plans, and demonstrate past contributions or community feedback."
+          }
+        }
+      ]
+    }
+  </script>
+</head>
+<body>
+<div id="markdown-content" class="markdown-body"></div>
+
+<script>
+  $(document).ready(function () {
+    $.get('open-source-grants-for-developers.md', function (data) {
+      var html = marked.parse(data);
+      $('#markdown-content').html(html);
+    });
+  });
+</script>
+</body>
+</html>

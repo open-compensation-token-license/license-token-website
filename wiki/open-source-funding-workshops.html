@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Open Source Funding Workshops: Empowering Community-Driven Projects</title>
+  <meta name="description"
+        content="Discover how Open Source Funding Workshops empower developers and communities to secure financial support, sustain development, and foster growth for open source projects.">
+  <meta name="keywords"
+        content="Open Source, Funding Workshops, Community-Driven Projects, Sustainable Funding, Sponsorship, Grants, Developer Workshops, OpenCollective, GitHub Sponsors, Community Growth, Quality Assurance">
+  <title>Open Source Developer Compensation Models</title>
+  <meta name="description"
+        content="Explore various compensation models for open source developers, including sponsorships, donations, corporate partnerships, bounties, dual licensing, support services, crowdfunding, and marketplace sales. Discover strategies to sustain open source projects financially while fostering community collaboration.">
+  <meta name="keywords"
+        content="open source, developer compensation, sponsorships, donations, corporate sponsorships, bounties, grants, dual licensing, support services, consulting, crowdfunding, marketplace sales, open source sustainability">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 20px;
+    }
+
+    h1, h2, h3 {
+      color: #333;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .markdown-body {
+      background: #fff;
+      color: #333;
+    }
+
+    .markdown-body pre {
+      background: #f4f4f4;
+      border: 1px solid #ddd;
+      border-left: 3px solid #f36d33;
+      color: #666;
+      page-break-inside: avoid;
+      font-family: monospace;
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 1.6em;
+      max-width: 100%;
+      overflow: auto;
+      padding: 1em 1.5em;
+      display: block;
+      word-wrap: break-word;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are Open Source Funding Workshops?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Open Source Funding Workshops are essential gatherings designed to equip developers, project maintainers, and community members with the knowledge and tools necessary to secure financial support for their open source initiatives. These workshops address the unique challenges faced by open source projects in sustaining development, fostering growth, and ensuring long-term viability."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is funding important for open source projects?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sustainable funding is crucial for maintaining and advancing open source projects. It enables continuous development, supports community growth, and ensures quality assurance by investing in testing, security, and maintenance to enhance the reliability and safety of the software."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the key components of funding workshops?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The key components of funding workshops include understanding various funding models, grant writing and proposal development, building a sustainable community, and implementing effective marketing and outreach strategies to attract funders and maintain project growth."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What funding models are discussed in the workshops?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The workshops cover several funding models, including donations and sponsorships through platforms like Patreon, OpenCollective, and GitHub Sponsors; grants and foundations that support open source development; and commercial partnerships with businesses that benefit from the project's success."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do funding workshops help in building a sustainable community?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Funding workshops emphasize the importance of effective communication using platforms like Slack and Discord, as well as recognizing and incentivizing contributors. These strategies help foster an active and engaged community, which is essential for sustainable funding and long-term project success."
+          }
+        }
+      ]
+    }
+  </script>
+</head>
+<body>
+<div id="markdown-content" class="markdown-body"></div>
+
+<script>
+  $(document).ready(function () {
+    $.get('open-source-developer-compensation-models.md', function (data) {
+      var html = marked.parse(data);
+      $('#markdown-content').html(html);
+    });
+  });
+</script>
+</body>
+</html>

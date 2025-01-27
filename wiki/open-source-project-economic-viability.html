@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+        content="Explore the economic viability of open source projects, their value, challenges, and sustainable funding models like sponsorships, dual licensing, and corporate contributions. Learn how businesses and communities can support open source sustainability."/>
+  <meta name="keywords"
+        content="open source, economic viability, open source funding, GitHub Sponsors, Open Collective, dual licensing, crowdfunding, corporate contributions, Apache Foundation, Linux Foundation, sustainable open source"/>
+  <title>Open Source Project Economic Viability</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 20px;
+    }
+
+    h1, h2, h3 {
+      color: #333;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .markdown-body {
+      background: #fff;
+      color: #333;
+    }
+
+    .markdown-body pre {
+      background: #f4f4f4;
+      border: 1px solid #ddd;
+      border-left: 3px solid #f36d33;
+      color: #666;
+      page-break-inside: avoid;
+      font-family: monospace;
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 1.6em;
+      max-width: 100%;
+      overflow: auto;
+      padding: 1em 1.5em;
+      display: block;
+      word-wrap: break-word;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the value of open source projects?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Open source projects offer cost reduction, transparency, flexibility, and shared problem-solving. They drive innovation and community collaboration, but they often face challenges in monetization and long-term sustainability."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the main challenges of open source project economic viability?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The main challenges include dependency on unpaid volunteer work, limited revenue streams, and corporate exploitation where businesses use open source software without contributing back financially or technically."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What strategies can make open source projects economically viable?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Economic viability can be achieved through sponsorship programs like GitHub Sponsors and Open Collective, dual licensing models, offering support and consulting services, crowdfunding platforms, corporate contributions, and the backing of nonprofit foundations like the Apache Software Foundation or Linux Foundation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are some examples of sponsorship and funding platforms for open source?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Examples include GitHub Sponsors, Open Collective, Kickstarter, and Patreon. These platforms enable developers to collect donations or offer premium memberships to fund their work."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do dual licensing models support open source projects financially?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dual licensing allows open source software to remain free for community use while charging commercial entities for licenses. For example, MongoDB uses this model to ensure businesses contribute financially."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can corporations contribute to open source sustainability?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Corporations can contribute through direct financial support, dedicating employees to work on open source projects, or participating in programs like Google Summer of Code and Mozilla’s Open Source Support Program (MOSS)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What role do foundations play in supporting open source projects?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Foundations such as the Apache Software Foundation and Linux Foundation provide funding, governance, and resources needed for open source projects to thrive, ensuring long-term sustainability and community support."
+          }
+        }
+      ]
+    }
+  </script>
+</head>
+<body>
+<div id="markdown-content" class="markdown-body"></div>
+
+<script>
+  $(document).ready(function () {
+    $.get('open-source-project-economic-viability.md', function (data) {
+      var html = marked.parse(data);
+      $('#markdown-content').html(html);
+    });
+  });
+</script>
+</body>
+</html>

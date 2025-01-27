@@ -3,18 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Open Source Funding Workshops: Empowering Community-Driven Projects</title>
-  <meta name="description"
-        content="Discover how Open Source Funding Workshops empower developers and communities to secure financial support, sustain development, and foster growth for open source projects.">
-  <meta name="keywords"
-        content="Open Source, Funding Workshops, Community-Driven Projects, Sustainable Funding, Sponsorship, Grants, Developer Workshops, OpenCollective, GitHub Sponsors, Community Growth, Quality Assurance">
-
   <title>Open Source Grants for Developers</title>
   <meta name="description"
         content="Learn about open source grants, who provides them, their benefits, popular programs, and how developers can apply for financial support to sustain and grow open source projects."/>
   <meta name="keywords"
         content="open source grants, developer grants, open source funding, GitHub Sponsors, NLNet Foundation, Open Technology Fund, open source financial support, open source programs, developer funding programs"/>
-
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -115,7 +108,8 @@
 
 <script>
   $(document).ready(function () {
-    $.get('open-source-grants-for-developers.md', function (data) {
+    $.get('open-source-project-backers.md' +
+      '', function (data) {
       var html = marked.parse(data);
       $('#markdown-content').html(html);
     });

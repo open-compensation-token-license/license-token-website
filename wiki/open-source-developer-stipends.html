@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Open Source Developer Stipends: Support for Sustainable Contributions</title>
+  <meta name="description"
+        content="Learn about open source developer stipends, financial incentives that support contributors to sustain, innovate, and maintain a thriving open-source ecosystem."/>
+  <meta name="keywords"
+        content="open source, developer stipends, GitHub Sponsors, Open Collective, Google Season of Docs, open source funding, sustainable development, software contributors, open source ecosystem"/>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 20px;
+    }
+
+    h1, h2, h3 {
+      color: #333;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .markdown-body {
+      background: #fff;
+      color: #333;
+    }
+
+    .markdown-body pre {
+      background: #f4f4f4;
+      border: 1px solid #ddd;
+      border-left: 3px solid #f36d33;
+      color: #666;
+      page-break-inside: avoid;
+      font-family: monospace;
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 1.6em;
+      max-width: 100%;
+      overflow: auto;
+      padding: 1em 1.5em;
+      display: block;
+      word-wrap: break-word;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are open source developer stipends?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Open source developer stipends are financial incentives offered by organizations, nonprofits, or crowdfunding platforms to support open-source contributors. They help developers focus on projects or tasks while providing monetary support, enabling sustainable contributions to open-source software."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why are developer stipends important for open source?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Developer stipends are essential for maintaining sustainability in critical open-source projects, encouraging diverse participation, and fostering innovation by providing financial stability to contributors."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What organizations offer open source developer stipends?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Organizations offering open source developer stipends include initiatives like GitHub Sponsors, Open Collective, and Google's Season of Docs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do developer stipends help maintain open source projects?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stipends provide financial stability to contributors, allowing them to focus on maintaining and improving open-source projects without suffering financial strain. This long-term support helps sustain key software that powers modern technology."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can I learn more about open source funding opportunities?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can learn more about open source funding opportunities from resources such as the Open Source Guides (https://opensource.guide/getting-paid/), Sustain Open Source Collective (https://sustainoss.org), and GitHub’s blog on funding open-source sustainability (https://github.blog/2019-05-23-funding-open-source-sustainability/)."
+          }
+        }
+      ]
+    }
+  </script>
+</head>
+<body>
+<div id="markdown-content" class="markdown-body"></div>
+
+<script>
+  $(document).ready(function () {
+    $.get('open-source-developer-stipends.md', function (data) {
+      var html = marked.parse(data);
+      $('#markdown-content').html(html);
+    });
+  });
+</script>
+</body>
+</html>

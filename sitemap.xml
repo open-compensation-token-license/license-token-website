@@ -331,7 +331,13 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wikiopen-source-funding-case-studies.html</loc>
+    <loc>https://www.license-token.com/wiki/open-source-funding-case-studies.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/open-source-project-sponsorship-benefits.html</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

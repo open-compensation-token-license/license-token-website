@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.license-token.com/#/</loc>
     <lastmod>2025-01-22</lastmod>
@@ -324,6 +324,70 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/open-source-developer-grants-application.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/open-source-funding-case-studies.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/open-source-project-sponsorship-benefits.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/open-source-developer-patronage-programs.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/open-source-funding-challenges.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/open-source-project-crowdfunding-tips.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/open-source-project-financial-education.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/open-source-developer-financial-support.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/open-source-project-financial-transparency.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/open-source-project-funding-alternatives.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/wiki/open-source-funding-for-education.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
-
-

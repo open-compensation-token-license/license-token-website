@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+        content="Explore case studies on open source funding strategies, including Red Hat's enterprise model, GitLab's hybrid licensing, Blender's community crowdfunding, Mozilla's partnerships, and Open Collective's transparency approach. Learn how these models sustain open source projects."/>
+  <meta name="keywords"
+        content="Open source funding, Red Hat case study, GitLab model, Blender crowdfunding, Mozilla revenue, Open Collective transparency, open source funding strategies, sustainability in open source"/>
+  <title>Open Source Funding Case Studies</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 20px;
+    }
+
+    h1, h2, h3 {
+      color: #333;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .markdown-body {
+      background: #fff;
+      color: #333;
+    }
+
+    .markdown-body pre {
+      background: #f4f4f4;
+      border: 1px solid #ddd;
+      border-left: 3px solid #f36d33;
+      color: #666;
+      page-break-inside: avoid;
+      font-family: monospace;
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 1.6em;
+      max-width: 100%;
+      overflow: auto;
+      padding: 1em 1.5em;
+      display: block;
+      word-wrap: break-word;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Red Hat's funding model for open source?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Red Hat employs an enterprise open source model where it offers enterprise-grade support, customization, and training instead of charging for its software. Their success demonstrates how businesses can monetize services around open source solutions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does GitLab fund its open source platform?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GitLab uses a multi-tier licensing model, offering its platform's core as open source while charging for premium features available through paid subscriptions. This hybrid model allows GitLab to sustain and scale globally."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What funding strategies does Blender use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Blender relies on community crowdfunding through the Blender Development Fund, where individuals and companies contribute financially. It also secures grants from major industry players like Epic Games and Unity Technologies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Mozilla generate revenue for its open source initiatives?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mozilla sustains itself via search engine partnerships, like Google being the default search engine in Firefox. It also diversifies its revenue streams with donations, grants, and premium subscription services like Mozilla VPN."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Open Collective's approach to funding open source projects?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Open Collective provides a transparent crowdfunding platform where individuals and organizations can contribute to open source projects like Webpack and Vue.js. It builds trust by showing exactly how funds are allocated."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the key takeaways from these open source funding case studies?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Successful models show the importance of service-based funding (Red Hat), hybrid licensing (GitLab), community engagement (Blender), corporate partnerships (Mozilla), and financial transparency (Open Collective) in sustaining open source projects."
+          }
+        }
+      ]
+    }
+  </script>
+</head>
+<body>
+<div id="markdown-content" class="markdown-body"></div>
+
+<script>
+  $(document).ready(function () {
+    $.get('open-source-funding-case-studies.md', function (data) {
+      var html = marked.parse(data);
+      $('#markdown-content').html(html);
+    });
+  });
+</script>
+</body>
+</html>

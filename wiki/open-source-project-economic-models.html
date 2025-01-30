@@ -1,0 +1,113 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exploring Economic Models for Open Source Projects</title>
+  <meta name="description" content="Discover various economic models supporting open source software development, including donations, sponsorships, dual-licensing, and more.">
+  <meta name="keywords" content="Open Source, Economic Models, Software Development, Donations, Sponsorships, Dual-Licensing, Commercial Open Source, Service-Based Models, Sustainability">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 20px;
+    }
+
+    h1, h2, h3 {
+      color: #333;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .markdown-body {
+      background: #fff;
+      color: #333;
+    }
+
+    .markdown-body pre {
+      background: #f4f4f4;
+      border: 1px solid #ddd;
+      border-left: 3px solid #f36d33;
+      color: #666;
+      page-break-inside: avoid;
+      font-family: monospace;
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 1.6em;
+      max-width: 100%;
+      overflow: auto;
+      padding: 1em 1.5em;
+      display: block;
+      word-wrap: break-word;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Donations and Sponsorships model in open source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Donations and sponsorships are traditional economic models where open source projects receive financial contributions from individuals and corporations. Platforms like Patreon and Open Collective facilitate these donations, providing money for ongoing development."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does dual-licensing work in open source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dual-licensing involves releasing a project under both an open source and a proprietary license. This allows businesses to use the open source version under certain limits or purchase a commercial license for additional features and support, as seen with Qt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Commercial Open Source model?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Commercial Open Source model combines open source collaboration with financial benefits from commercial offerings. Companies, like Red Hat and Elastic, provide a commercial product layer on top of an open source core, offering premium features and support to generate revenue."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do Service-Based Models support open source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Service-based models generate income by providing services such as installation, customization, or consultancy. For example, Automattic offers hosting and premium services for WordPress, leveraging the open-source project to attract users."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future landscape for funding open source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future of open source funding includes emerging models like blockchain-based funding and crowdfunding, which emphasize community governance and decentralization. These models are still evolving but hold potential for sustainable development."
+      }
+    }
+  ]
+}</script>
+</head>
+<body>
+<div id="markdown-content" class="markdown-body"></div>
+
+<script>
+  $(document).ready(function () {
+    $.get('open-source-project-economic-models.md', function (data) {
+      var html = marked.parse(data);
+      $('#markdown-content').html(html);
+    });
+  });
+</script>
+
+
+</body></html>

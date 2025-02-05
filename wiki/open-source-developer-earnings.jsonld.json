@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why is it difficult for open source developers to earn fair compensation?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source developers often face issues such as the expectation that open source software should be free, reliance on irregular donations, and corporations profiting significantly from their work without fair compensation. These factors contribute to their financial instability."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the main challenges faced by open source developers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Key challenges include the expectation for free software, reliance on donations as a primary income source, corporate dependency without equitable compensation, and lack of visibility for lesser-known contributors or niche projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What solutions exist to address earnings challenges for open source developers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Emerging solutions include hybrid licensing models like the Open Compensation Token License (OCTL), tokenized ecosystems to provide royalties proportional to software usage, and targeted crowdfunding platforms such as Open Collective that pool funds predictably for developers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the impact of hybrid licensing models in open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Hybrid licensing models, such as OCTL, allow non-commercial use of open source projects while charging businesses for commercial use. This ensures developers are compensated by enterprises that benefit from their software."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does fair compensation benefit the open source community?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Fair compensation allows developers to maintain and improve their projects without financial strain, strengthens the open source community, and encourages independent contributors to thrive alongside larger organizations, ensuring the sustainability of the ecosystem."
+        }
+      }
+    ]
+  }
+]

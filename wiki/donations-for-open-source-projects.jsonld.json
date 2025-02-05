@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why are donations important for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Donations are important for open source projects because they provide resources to sustain development, cover hosting and operational expenses, enable maintainers to dedicate time to the project, support community growth, and show appreciation to contributors."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do donations support open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Donations support open source projects by funding essential expenses like hosting, development tools, and infrastructure. They also enable maintainers to dedicate time to critical tasks such as fixing bugs, building new features, and improving documentation, which ensures the project's sustainability and quality."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some platforms for donating to open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Some platforms for donating to open source projects include GitHub Sponsors, Open Collective, Patreon, and Buy Me a Coffee. These platforms provide convenient and transparent ways to contribute directly to developers and projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can companies contribute to open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Companies can contribute to open source projects through corporate sponsorships, donating funds, or offering resources like hosting or development tools. Many organizations also support projects they rely on to ensure their stability and long-term growth."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I support open source projects without donating money?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, open source projects can be supported in non-monetary ways, such as contributing code, submitting bug reports, improving documentation, or promoting the project to attract new contributors and supporters."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is GitHub Sponsors, and how does it work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "GitHub Sponsors is a platform that allows developers and organizations to fund open source projects or individual maintainers directly. It provides a way for contributors to offer financial support through one-time or recurring donations."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role do crowdfunding campaigns play in open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Crowdfunding campaigns allow maintainers to raise funds for specific goals, such as building a new feature, upgrading infrastructure, or covering development costs. These campaigns typically rely on collective contributions from supporters to meet their financial targets."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is transparency important in open source donations?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Transparency is important in open source donations to ensure that contributors know how their funds are being used. Platforms like Open Collective enable projects to manage donations and expenses in a transparent way, fostering trust between maintainers and donors."
+        }
+      }
+    ]
+  }
+]

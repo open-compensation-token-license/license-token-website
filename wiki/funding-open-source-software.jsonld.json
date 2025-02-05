@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What are the major challenges in funding open source software?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "There are several challenges, including misconceptions about open source being 'free as in beer,' high maintenance costs, burnout among developers who often work unpaid, and the reliance of businesses on OSS without financially contributing to its development."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some ways to fund open source software?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source software can be funded through methods such as corporate sponsorships, crowdfunding platforms, grants and foundations, dual licensing models, donations, paid support and services, and bounty programs."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is funding open source software important?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Funding ensures the long-term maintenance, sustainability, security, and community growth of vital OSS projects. Financial contributions reduce burnout, improve reliability, and foster innovation for the future."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some examples of crowdfunding platforms for OSS?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Platforms like Patreon, Open Collective, and GitHub Sponsors enable developers to receive financial contributions from individuals or organizations."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role do grants and foundations play in OSS funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Organizations like the Linux Foundation, Mozilla Foundation, and Open Source Initiative provide financial and organizational support to open source projects, ensuring their growth and sustainability."
+        }
+      }
+    ]
+  }
+]

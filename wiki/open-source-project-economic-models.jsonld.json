@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the Donations and Sponsorships model in open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Donations and sponsorships are traditional economic models where open source projects receive financial contributions from individuals and corporations. Platforms like Patreon and Open Collective facilitate these donations, providing money for ongoing development."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does dual-licensing work in open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dual-licensing involves releasing a project under both an open source and a proprietary license. This allows businesses to use the open source version under certain limits or purchase a commercial license for additional features and support, as seen with Qt."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the Commercial Open Source model?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Commercial Open Source model combines open source collaboration with financial benefits from commercial offerings. Companies, like Red Hat and Elastic, provide a commercial product layer on top of an open source core, offering premium features and support to generate revenue."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do Service-Based Models support open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Service-based models generate income by providing services such as installation, customization, or consultancy. For example, Automattic offers hosting and premium services for WordPress, leveraging the open-source project to attract users."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the future landscape for funding open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The future of open source funding includes emerging models like blockchain-based funding and crowdfunding, which emphasize community governance and decentralization. These models are still evolving but hold potential for sustainable development."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the value of open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source projects offer cost reduction, transparency, flexibility, and shared problem-solving. They drive innovation and community collaboration, but they often face challenges in monetization and long-term sustainability."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the main challenges of open source project economic viability?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The main challenges include dependency on unpaid volunteer work, limited revenue streams, and corporate exploitation where businesses use open source software without contributing back financially or technically."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What strategies can make open source projects economically viable?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Economic viability can be achieved through sponsorship programs like GitHub Sponsors and Open Collective, dual licensing models, offering support and consulting services, crowdfunding platforms, corporate contributions, and the backing of nonprofit foundations like the Apache Software Foundation or Linux Foundation."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some examples of sponsorship and funding platforms for open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Examples include GitHub Sponsors, Open Collective, Kickstarter, and Patreon. These platforms enable developers to collect donations or offer premium memberships to fund their work."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do dual licensing models support open source projects financially?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dual licensing allows open source software to remain free for community use while charging commercial entities for licenses. For example, MongoDB uses this model to ensure businesses contribute financially."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can corporations contribute to open source sustainability?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Corporations can contribute through direct financial support, dedicating employees to work on open source projects, or participating in programs like Google Summer of Code and Mozilla’s Open Source Support Program (MOSS)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role do foundations play in supporting open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Foundations such as the Apache Software Foundation and Linux Foundation provide funding, governance, and resources needed for open source projects to thrive, ensuring long-term sustainability and community support."
+        }
+      }
+    ]
+  }
+]

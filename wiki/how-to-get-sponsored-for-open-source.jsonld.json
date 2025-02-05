@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "Bangalore Blockchain License User Group",
+        "description": "An open source community in Bangalore focused on transparent, blockchain-powered compensation for open source contributors using the Open Compensation Token License (OCTL) framework.",
+        "url": "https://www.license-token.com",
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "contactType": "general inquiries",
+            "url": "https://www.license-token.com/#/contact"
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the Bangalore Blockchain License User Group?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It is a community in Bangalore that promotes and supports open source contributors using a transparent token mechanism governed by the Open Compensation Token License."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How can the Blockchain License help with open source sponsorship?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The Open Compensation Token License provides a blockchain-based token system for sponsors and admirers to support contributors, ensuring accountability and fairness in distributing rewards."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where can newcomers learn more or get involved?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Developers can participate in Bangalore-based meetups, workshops, and hackathons hosted by the Blockchain License User Group to learn about token-based funding models and engage with sponsors."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does the user group collaborate with other organizations?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The group partners with local businesses, tech parks, and foundations to form collaborations or secure grants, emphasizing the transparency advantages provided by the Open Compensation Token License framework."
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

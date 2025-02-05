@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why does funding matter for open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Funding matters for open source because contributors often rely on volunteer efforts, which can lead to burnout. Building and maintaining high-quality software is time-intensive, requiring long-term commitments for fixing bugs, ensuring security, creating documentation, and more. Sustainable funding ensures developers can dedicate their time and resources to these tasks, ensuring the quality and security of software that commercial products and services heavily rely on."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some strategies for funding open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Strategies for funding open source projects include corporate sponsorships, grants and nonprofit foundations, crowdfunding and donations, dual-licensing and paid extensions, and subscription models. These approaches provide financial support to maintainers and enable them to sustain and grow projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What challenges do open source projects face in securing funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Many open source projects struggle with consistent funding, especially smaller or niche ones that might lack visibility. Dependence on sponsors or commercial adaptations can also shift priorities away from the community-driven goals of open source projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the future of open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The future of open source funding involves promoting funding initiatives, educating communities about the importance of financial contributions, and encouraging corporations to support the projects they benefit from. Balancing the ethos of open source with compensating maintainers is critical for ensuring sustainability."
+        }
+      }
+    ]
+  }
+]

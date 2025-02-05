@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why is financial health important for open-source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Financial health ensures the sustainability, talent retention, and growth of open-source projects. It supports the ongoing development, bug fixing, and community building that are critical for long-term success."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the common funding sources for open-source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open-source projects are typically funded through donations, crowdfunding, corporate sponsorships, grants, commercial models (e.g., paid enterprise versions or services), and in some cases licensing or royalties."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What challenges do open-source projects face in maintaining financial health?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Challenges include dependency on limited funding, lack of consistent revenue streams, and difficulties balancing community interests with financial obligations. Smaller projects, in particular, often struggle to secure necessary resources."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can open-source projects improve their financial stability?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open-source projects can improve financial stability by diversifying revenue streams, engaging with corporate sponsors and the wider ecosystem, practicing financial transparency, and highlighting the value they bring to their users and contributors."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where can I learn more about funding open-source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "More information can be found through resources like the Linux Foundation (https://www.linuxfoundation.org/), GitHub Sponsors (https://github.com/sponsors), and Open Collective (https://opencollective.com/)."
+        }
+      }
+    ]
+  }
+]

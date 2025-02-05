@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How to fund open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Funding open source projects can be achieved through donations, sponsorships, crowdfunding, grants, and by developing business models like offering consulting services or premium features."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are open source project funding options?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Options include: Direct donations, sponsorships from businesses or foundations, crowdfunding campaigns, grants or bounties, and building sustainable business models like dual licensing or managed services."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are there grants for open source software?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, organizations like the Mozilla Foundation, Linux Foundation, and other governmental bodies offer grants for open source software development."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the best open source funding platforms?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Popular platforms include GitHub Sponsors, Bountysource, Open Collective, and License-token.com."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use crowdfunding for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, platforms like Kickstarter or Indiegogo can fund open source features, versions, or maintenance."
+        }
+      }
+    ]
+  }
+]

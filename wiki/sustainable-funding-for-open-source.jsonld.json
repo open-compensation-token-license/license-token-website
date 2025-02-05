@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is open source software (OSS) and why is it important?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source software (OSS) is collaboratively developed and freely distributed software that forms the backbone of much of the digital ecosystem. It powers websites, applications, infrastructure, and tools developers use daily. Despite its importance, many OSS projects are maintained by volunteers, leading to challenges like burnout, stagnation, or abandonment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is sustainable funding a challenge for open source software?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sustainable funding for open source software is a challenge because OSS is free to use and distribute, making it difficult to apply traditional business models. Many projects lack financial resources for critical activities such as maintenance, upgrades, and community growth. Additionally, unexpected issues like security vulnerabilities or the need for major updates exacerbate the funding challenge."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the approaches to funding open source software sustainably?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Several funding models help support open source software sustainably:\n\n1. **Corporate Sponsorships**: Companies that rely on OSS sponsor maintainers through platforms like GitHub Sponsors and OpenCollective.\n2. **Non-Profit Foundations**: Organizations like the Apache Software Foundation and the Linux Foundation pool resources to support OSS through infrastructure and governance.\n3. **Crowdfunding**: Maintainers solicit donations through platforms like Kickstarter and Patreon.\n4. **Subscription-Based Models**: Projects offer premium features or services, such as GitLab's hybrid model, to generate revenue.\n5. **Government Support**: Governments provide grants for critical OSS initiatives, like those supported by the European Commission.\n6. **Commercialization**: Companies like Red Hat monetize OSS by providing paid consulting, support, or customization services."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is sustainability important for open source software?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sustainability ensures open source projects remain reliable, secure, and innovative. Without proper funding mechanisms, critical projects risk stagnation or collapse, which can negatively impact the broader software ecosystem and supply chain. Collaborative efforts to address these challenges are essential for the future of open source."
+        }
+      }
+    ]
+  }
+]

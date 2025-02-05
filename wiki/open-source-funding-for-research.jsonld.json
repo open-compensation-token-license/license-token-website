@@ -1,0 +1,53 @@
+[
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "faq": "https://example.org/faq",
+      "answer": "https://example.org/answer",
+      "question": "https://example.org/question"
+    },
+    "@type": "faq",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the role of open source in research?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source in research promotes transparency, collaboration, and community involvement, encouraging shared resources and collective advancement."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is open-source funding essential for research?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open-source funding democratizes access, supports unconventional ideas, encourages interdisciplinary collaboration, and ensures research outputs are accessible to all."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some models of open-source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Models include crowdfunding platforms, sponsorships and donations, grants from organizations, and innovative models like subscription services and platform cooperatives."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the challenges of open-source funding in research?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Challenges include securing consistent financial support and balancing short-term results with long-term funding needs."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does the future hold for open-source funding in research?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The future is promising with increased demand for transparency and the potential integration of blockchain technology, which may streamline funding processes."
+        }
+      }
+    ]
+  }
+]

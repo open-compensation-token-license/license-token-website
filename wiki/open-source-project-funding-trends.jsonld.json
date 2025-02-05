@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What are the traditional funding models for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Traditional funding models include donations, sponsorships, grants, and supporting memberships."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some emerging trends in open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Emerging trends include platforms like Open Collective, GitHub Sponsors, Patreon, and the use of blockchain technology and cryptocurrency."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How is blockchain technology being used in open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Blockchain technology is being used through platforms like Gitcoin, which incentivizes open source work with cryptocurrency, and Decentralized Autonomous Organizations (DAOs) that support open source projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some challenges related to open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Challenges include ensuring financial sustainability, governance, transparency, and aligning funding models with the ethos of open source development."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where can I find more information on open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "More information can be found on websites like The Open Source Initiative, GitHub Community Forum, and Linux Foundation."
+        }
+      }
+    ]
+  }
+]

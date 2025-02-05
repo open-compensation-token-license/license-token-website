@@ -1,0 +1,104 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the Linux Foundation and how is it funded?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Linux Foundation is a global leader in managing and funding open-source projects. It is funded by over a thousand corporate members, including IBM, Intel, and Google, which provide financial and infrastructural support. Projects managed include Linux, Node.js, and Hyperledger."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How is PostgreSQL funded?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "PostgreSQL is funded through a distributed model supported by companies like Microsoft, Red Hat, and EDB that rely on its extensibility and performance. Contributions from enterprises that use PostgreSQL help sustain its development and competition with proprietary databases."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the business model for WordPress?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "WordPress is supported by Automattic, the company behind WordPress.com. Automattic funds WordPress through freemium features such as premium themes, hosting services, and customer support while keeping the core platform open source. This model has made WordPress a leader in website content management."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does LibreOffice remain funded?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "LibreOffice is governed by The Document Foundation and funded by donations from individuals, as well as corporate sponsors such as SUSE, Red Hat, and Google. This funding ensures continuous development and updates for the free office suite."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is OpenStreetMap and how is it supported?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "OpenStreetMap (OSM) is an open-source mapping platform supported by the OpenStreetMap Foundation through contributions from volunteers, community donors, and corporate sponsors like Facebook, Mapbox, and Microsoft. This funding allows OSM to provide free geospatial data for developers and businesses."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does Signal sustain itself financially?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Signal is funded by the Signal Foundation, which received a $50 million donation from WhatsApp co-founder Brian Acton during its launch. This funding allows Signal to remain privacy-focused, ad-free, and open-source."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does Elasticsearch generate revenue while staying open-source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Elasticsearch is developed by Elastic NV, which uses a dual licensing model to monetize premium features, cloud services, and support while keeping the core project open-source. This business model has helped Elasticsearch grow globally while supporting its development."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How is the Mozilla Foundation, behind Firefox, funded?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Mozilla Foundation is primarily funded through search engine partnerships, particularly with Google. These agreements generate annual revenues exceeding $450 million, enabling Mozilla to maintain and develop Firefox as a free, open-source browser."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What supports Kubernetes and the Cloud Native Ecosystem?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Kubernetes is now governed by the Cloud Native Computing Foundation (CNCF) and supported by sponsorships from companies such as AWS, Microsoft, and Red Hat. Its vendor-neutral model allows it to remain pivotal in managing modern cloud services."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How is Blender funded?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Blender, the open-source 3D creation suite, is funded by the Blender Development Fund. Individuals and sponsors like NVIDIA, Epic Games, and Unity contribute to the fund, enabling Blender to develop cutting-edge features while staying free for all users."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is Open Collective’s role in funding Webpack?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Webpack, a key tool for JavaScript web development, uses Open Collective to receive transparent funding from individuals and companies. Sponsorships from organizations like Airbnb and Microsoft have ensured its continued success and development."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does GitHub Sponsors support open-source maintainers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "GitHub Sponsors allows individuals and organizations to provide direct financial support to open-source maintainers. Projects like Vue.js have benefited from corporate sponsorships and community contributions, empowering creators to focus on development full-time."
+        }
+      }
+    ]
+  }
+]

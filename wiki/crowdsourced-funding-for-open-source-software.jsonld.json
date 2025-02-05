@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is Open Source Developer Patronage?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open Source Developer Patronage refers to financially or materially supporting developers who contribute to open-source software projects. This helps ensure developers are compensated for their work, fostering sustainability and innovation within the open-source ecosystem."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why does patronage for open-source developers matter?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open-source software powers digital infrastructure worldwide, but many projects are maintained by volunteers who risk burnout or financial instability. Patronage ensures developers can maintain and improve these crucial software projects, enhancing their sustainability, quality, and security."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the forms of patronage for open-source developers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Forms of patronage include individual donations through platforms like GitHub Sponsors, corporate sponsorship, grant funding from entities such as the Python Software Foundation, and crowdfunding campaigns on platforms like Kickstarter."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some popular platforms for open-source patronage?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Popular platforms include GitHub Sponsors, Open Collective, Liberapay, Buy Me a Coffee, Tidelift, and Ko-fi. Each platform provides a unique way to financially support open-source contributors."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the impacts of open-source developer patronage?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Patronage improves project sustainability by enabling ongoing maintenance, ensures quality and security through enhanced testing and documentation, and fosters innovation by giving developers the resources to create new features and tools."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What challenges exist with open-source developer patronage?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Patronage is often unevenly distributed, with high-profile projects receiving significant support while smaller yet essential projects struggle. Raising awareness and encouraging organizations to sponsor a diverse range of projects can help address this imbalance."
+        }
+      }
+    ]
+  }
+]

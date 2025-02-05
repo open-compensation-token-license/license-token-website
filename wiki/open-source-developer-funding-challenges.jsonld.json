@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the nature of open source software?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source software is community-driven and freely available, enabling rapid collaboration and innovation. Developers often contribute their time and expertise without financial compensation, despite the software forming the backbone of billion-dollar industries."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the main funding challenges for open source software?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The primary funding challenges include a lack of awareness among users, insufficient monetization models, the imbalance between maintenance and visibility, over-reliance on volunteers, and limited corporate contributions to less-visible projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why do users lack awareness about open source software?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Many users, especially larger organizations, rely on open source software without understanding the resources needed to maintain it. They often assume these projects are self-sustaining, which is not the case."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is it difficult to monetize open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The ethos of free software makes monetization challenging. While some use licensing or dual-licensing models, they face backlash from their communities or struggle to scale these efforts effectively."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the impact of maintenance vs. visibility in open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Critical but ‘invisible’ aspects of the software stack, like bug fixing, documentation, and security patches, often go unnoticed. These projects typically only gain attention when major issues, like vulnerabilities, arise."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the challenges of relying on volunteers in open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Volunteer-led efforts can suffer from burnout, inconsistent availability, or lack of direction. Without full-time maintainers, the long-term planning and sustainability of projects are at risk."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do corporations contribute to open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Although some companies contribute financially to open source projects, their efforts often focus on high-visibility projects aligned with their business interests. Many smaller, critical projects remain underfunded."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are potential solutions to address funding challenges in open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Solutions include platforms like Patreon, Open Collective, and GitHub Sponsors for direct support; structured funding foundations like The Linux Foundation; and increasing corporate and government funding to ensure the sustainability of critical open source projects."
+        }
+      }
+    ]
+  }
+]

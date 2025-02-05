@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is Open Source Project Budget Management?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open Source Project Budget Management involves organizing, allocating, and monitoring financial resources to sustain and grow open source initiatives. It ensures project sustainability, attracts contributors, and maintains transparency."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the key funding sources for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Key funding sources include donations from individuals and organizations, sponsorships from companies or foundations, grants prioritizing open source development, and community-backed crowdfunding via platforms like Open Collective and Patreon."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the common expenses in managing an open source project?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Common expenses include compensation for maintainers and developers, infrastructure costs like hosting and domain registration, community development such as meetups and hackathons, and marketing and outreach efforts."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What tools are commonly used for budget management in open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Popular tools include Open Collective for transparent fund management, GitHub Sponsors for direct funding, spreadsheets for simple projects, and ERP systems for larger-scale financial management."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the best practices for managing open source project budgets?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Best practices include emphasizing transparency by sharing budget details publicly, prioritizing funding needs like infrastructure and contributor support, engaging the community in financial decisions, and planning for sustainability through recurring funding streams."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the major challenges in open source project budget management?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Major challenges include inconsistent funding streams, volunteer burnout due to reliance on unpaid contributors, and the complexity of managing finances as the project scales."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What resources are available to learn more about funding open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Resources include Open Source Guides: Finding Financial Support, Linux Foundation Research on Open Source Funding, and GitHub Sponsors Documentation."
+        }
+      }
+    ]
+  }
+]

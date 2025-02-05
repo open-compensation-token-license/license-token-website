@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why is open source funding important?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source funding is crucial because it supports the sustainability of projects that are vital to modern technology infrastructure. These funds enable developers to dedicate more time and resources to their open source work, helping prevent burnout and project abandonment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Who benefits from open source grants and stipends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Both individual developers and entire communities benefit from open source funding. Individuals can focus on specific projects, while organizations might use funds to support larger initiatives, community events, or educational resources with the common goal of fostering innovative and sustainable development."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some prominent open source funding programs?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Prominent open source funding programs include Mozilla Open Source Support (MOSS), GitHub Sponsors, Google Summer of Code (GSoC), and Open Collective. These initiatives provide financial support to various open source projects and developers, fostering innovation and community engagement."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do open source grants and stipends impact diversity and inclusion?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Grants and stipends promote diversity and inclusion by lowering financial barriers to entry, allowing a more diverse range of developers to participate in open source. This inclusivity results in a richer pool of ideas and perspectives, essential for driving innovation."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the overall impact of open source developer grants and stipends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source developer grants and stipends ensure the vitality of the open source ecosystem by empowering developers, sustaining innovative projects, and fostering an inclusive community. These financial mechanisms are investments in the future of technology, community, and innovation."
+        }
+      }
+    ]
+  }
+]

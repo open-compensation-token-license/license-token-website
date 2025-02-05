@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is crowdfunding in open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Crowdfunding in open source is the practice of raising financial support for an open source project by appealing to a large number of individuals, often through online platforms. Developers present their project ideas or ongoing needs and invite contributions from users, organizations, or supporters."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the benefits of crowdfunding open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Crowdfunding offers multiple benefits for open source projects, including financial sustainability for developers, stronger community relationships, and the freedom to innovate without financial constraints. It provides a way for developers to dedicate time and resources to their projects while aligning them with the community's needs."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which platforms are popular for crowdfunding open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Popular platforms for crowdfunding open source projects include Patreon, Open Collective, Kickstarter, and GitHub Sponsors. These platforms enable developers to secure recurring or one-time contributions while offering transparency and ease of use for both backers and developers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the challenges of crowdfunding open source work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Challenges of crowdfunding open source work include gaining visibility and trust within the community, maintaining transparency about fund usage, meeting deadlines, and delivering promised features. Developers must balance communication with supporters and project development."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is crowdfunding important for open source development?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Crowdfunding is crucial for open source development because it empowers developers to work sustainably without reliance on corporate sponsorships or unpaid labor. It ensures that essential tools and technologies evolve while fostering collaboration, accessibility, and innovation in the tech community."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is financial sustainability in open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Financial sustainability in open source projects refers to the ability to secure consistent and sufficient funding to maintain and grow the project while covering operations, development, and community needs."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What challenges do open source projects face in achieving financial sustainability?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source projects often struggle with securing funding since the software is free to use. Challenges include the lack of consistent income, scaling costs as projects grow, and the reliance on voluntary donations or unpaid developer time."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What funding models are available for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source projects can use various funding models, including sponsorship and donations, grants from nonprofit organizations, freemium and dual licensing models, corporate backing, and merchandising or crowdfunding campaigns."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can corporations support open source projects financially?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Corporations can support open source projects by contributing funds through sponsorships, donating development resources, or entering revenue-sharing models. They can also invest in projects whose tools are central to their business processes."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are examples of successful corporate-backed open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "One successful example is Kubernetes, which is supported by Google. Another example is React, maintained by Meta (formerly Facebook). Both projects have strong financial and developmental backing from these corporations, ensuring their sustained growth."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role do the community and developers play in sustaining open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Communities play a critical role by advocating for the project, contributing to development, and participating in funding efforts. Developers help maintain the project, engage with contributors, and often drive innovation to ensure its long-term success."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What platforms can developers use to secure funding for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Developers can use platforms such as GitHub Sponsors, Open Collective, and Patreon for sponsorships. For crowdfunding, platforms like Kickstarter and Indiegogo are popular options to secure project funding."
+        }
+      }
+    ]
+  }
+]

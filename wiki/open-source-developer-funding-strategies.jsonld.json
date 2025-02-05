@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is crowdfunding in the context of open source development?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Crowdfunding is a method where open source developers raise financial support from a global audience through platforms like Kickstarter and Indiegogo. It involves pitching project ideas to potential funders, who in return may receive early access to software or exclusive rewards."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do sponsorships and donations support open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sponsorships and donations allow open source developers to receive recurring financial support through platforms like GitHub Sponsors and Open Collective. This funding model is especially useful for projects that are widely used but not easily monetizable."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can grants and awards benefit open source developers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Grants and awards provide financial aid and increased visibility for open source projects. Organizations such as the Mozilla Foundation and Linux Foundation offer grants to projects that align with their missions, helping to sustain and promote these initiatives."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is dual licensing and how does it work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dual licensing involves offering an open-source license while also providing a commercial license for additional features, warranties, or support. This model supports both community access and commercial use, as seen with projects like MySQL and QT."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do developers generate revenue through commercial support and services?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Developers can offer commercial support, custom development, and consulting services to enterprises. Companies like Red Hat demonstrate the success of this model by providing enterprise solutions based on open source software."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role do community events and merchandise play in funding open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Community events like conferences and workshops, along with branded merchandise sales, help generate revenue while fostering community ties. These activities can also provide valuable learning and engagement opportunities for contributors and fans."
+        }
+      }
+    ]
+  }
+]

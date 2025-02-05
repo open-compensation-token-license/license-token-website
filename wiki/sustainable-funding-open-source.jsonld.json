@@ -1,0 +1,88 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the importance of open source software (OSS)?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source software (OSS) powers websites, applications, infrastructure, and tools that developers and businesses rely on every day. It plays a critical role in the digital world, fostering innovation and collaboration."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What challenges does open source software face in terms of sustainability?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Many open source projects lack financial resources for maintenance, updates, and community support. Projects are often maintained by unpaid individuals or small teams, leading to issues like burnout, stalled development, or project abandonment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is securing sustainable funding for open source crucial?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sustainable funding ensures the health and stability of OSS projects, enabling innovation, improved security, and preventing systemic failures. It supports developers in maintaining the collaborative spirit of open source."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some emerging solutions for sustainable funding in open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Emerging solutions include corporate sponsorships, non-profit foundations, crowdfunding, subscription-based models, government grants, and commercialization. These strategies aim to provide financial stability and support for maintainers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do corporate sponsorships support open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Corporate sponsorships involve companies financially supporting the open source projects they depend on. Platforms like GitHub Sponsors and OpenCollective facilitate direct contributions, while organizations like Google and Microsoft contribute through dedicated funds or foundations."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role do non-profit foundations play in funding open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Non-profit foundations such as the Apache Software Foundation and the Linux Foundation provide critical support by pooling resources from donors and sponsors. They offer infrastructure, guidance, and funding for open source maintainers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does crowdfunding benefit open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Platforms like Kickstarter and Patreon allow developers to appeal directly to the OSS community for financial support. Supporters can contribute small amounts to fund specific goals, like new features or ongoing maintenance."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a subscription-based funding model for open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A subscription-based model involves offering premium tiers with enhanced features, hosted services, or dedicated customer support. For example, GitLab combines free software with paid solutions tailored for businesses."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do government grants support open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Governments recognize the importance of open source and offer funding through grants and programs. For instance, the European Commission supports critical open source infrastructure and innovation through targeted initiatives."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the commercialization model in open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Commercialization involves offering enterprise-grade solutions based on free open source software. Companies like Red Hat generate revenue through consulting, licensing, training, and other services while supporting the open source ecosystem."
+        }
+      }
+    ]
+  }
+]

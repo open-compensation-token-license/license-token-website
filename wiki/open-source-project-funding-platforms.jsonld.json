@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why is funding important for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Funding is crucial for open source projects to ensure maintenance, development, and improvement. Without financial support, maintaining the quality and security of software can become challenging. Contributors, particularly those building careers in open source, often face financial constraints, making funding a necessity."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is Open Collective?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open Collective is a platform that provides transparency in crowdfunding for open source projects. It allows developers to raise funds from users and companies, offering a transparent ledger for financial transactions and fiscal sponsorship to alleviate the need for formal organizational establishment for projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does GitHub Sponsors work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "GitHub Sponsors allows individuals and companies to fund developers directly through recurring or one-time contributions. Integrated with the GitHub ecosystem, it facilitates financial contributions as part of the development workflow, enhancing creators' visibility and reputation within the community."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role does Patreon play in open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Patreon acts as a membership platform connecting developers with supporters for regular financial backing. It allows developers to offer exclusive content and updates to patrons, fostering community around projects while ensuring necessary funding."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does Liberapay support open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Liberapay supports open source projects through continuous and sustainable donations, focusing on recurrent contributions rather than one-time. As a non-profit organization, it ensures that maximum funds are delivered to the creators without deducting commissions."
+        }
+      }
+    ]
+  }
+]

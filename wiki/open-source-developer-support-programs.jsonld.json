@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What are Open Source Developer Support Programs?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open Source Developer Support Programs are initiatives designed to help developers sustain, grow, and innovate within the open-source ecosystem. They provide resources, funding, mentorship, and tools to maintain and grow open-source projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What do Open Source Developer Support Programs offer?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "These programs typically focus on funding and sponsorships, free tools and services, training and mentorship, community building, and project security and documentation. Examples include GitHub Sponsors for funding, GitHub Actions for tools, and Google Summer of Code for mentorship."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which are some popular Open Source Developer Support Programs?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Some popular programs include Google Open Source Programs, GitHub Sponsors, Linux Foundation Support, Open Collective, and Mozilla Open Source Support. Each program offers unique tools, funding, or mentorship opportunities to developers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why are Open Source Developer Support Programs important?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "These programs address challenges like developer burnout, lack of funding, and limited resources for development and maintenance. They provide essential resources, encourage innovation, attract new contributors, and ensure that open-source software remains securely maintained and widely adopted."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can Open Source Developer Support Programs help developers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "They help developers by offering financial support, free access to premium tools, educational opportunities through mentorship, ways to build strong communities, and assistance in improving project security and documentation."
+        }
+      }
+    ]
+  }
+]

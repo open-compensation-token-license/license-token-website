@@ -1,0 +1,64 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "funder": {
+      "@id": "funder",
+      "@type": "@id"
+    },
+    "name": "name",
+    "text": "text",
+    "Corporation": "Corporation",
+    "OpenSourceProject": "OpenSourceProject"
+  },
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are dedicated funding programs in corporate sponsorship for open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dedicated funding programs are initiatives by large corporations such as Google, Microsoft, and IBM to provide financial support to open-source projects. Examples include Google's 'Season of Docs' and Microsoft's 'Open Source Fund', which fund projects aligning with the corporations' strategic goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do corporations contribute code and expertise to open-source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Corporations like Red Hat and Canonical contribute by providing technical expertise and code, involving their employees, infrastructure, and technical tools to help in the project's development. This support ensures projects meet professional standards and improve their quality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are partnership and collaboration models in open-source sponsorship?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Corporations form strategic partnerships with open-source projects to align them with their technological roadmaps. An example is the Linux Foundation, where industry leaders collaborate to standardize and promote open-source projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role do corporations play in commercial support and services for open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Corporations offer commercial support and services, such as enterprise-level support, consulting, and integration services, around open-source projects. This model, used by companies like GitLab and Elastic, provides financial sustainability while contributing back to the community."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impact does corporate sponsorship have on open-source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Corporate sponsorship fosters innovation, inclusivity, and project credibility. It helps bridge the gap between volunteer-driven projects and commercially viable software, aiding in the rapid development of new features, increased security, and improved stability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges are associated with corporate sponsorship in open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The challenges include issues of governance, project independence, and community influence. It's essential to maintain a balance where the community retains ownership while benefiting from corporate resources. Transparent governance and community-driven decision-making are vital to mitigating these risks."
+      }
+    }
+  ]
+}

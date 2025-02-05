@@ -1,11 +1,19 @@
 [
   {
+    "title": "Corporate Sponsorship Models",
+    "slug": "corporate-sponsorship-models",
+    "markdownFile": "wiki/corporate-sponsorship-models.md",
+    "jsonldFile": "wiki/corporate-sponsorship-models.jsonld.json",
+    "htmlMetadataFile": "wiki/corporate-sponsorship-models.htmlmetadata.json",
+    "lastModified": "2025-02-05T13:06:15+01:00"
+  },
+  {
     "title": "Crowdfunding Open Source Development",
     "slug": "crowdfunding-open-source-development",
     "markdownFile": "wiki/crowdfunding-open-source-development.md",
     "jsonldFile": "wiki/crowdfunding-open-source-development.jsonld.json",
     "htmlMetadataFile": "wiki/crowdfunding-open-source-development.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Crowdsourced Funding For Open Source Software",
@@ -13,7 +21,7 @@
     "markdownFile": "wiki/crowdsourced-funding-for-open-source-software.md",
     "jsonldFile": "wiki/crowdsourced-funding-for-open-source-software.jsonld.json",
     "htmlMetadataFile": "wiki/crowdsourced-funding-for-open-source-software.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Donations For Open Source Projects",
@@ -21,7 +29,7 @@
     "markdownFile": "wiki/donations-for-open-source-projects.md",
     "jsonldFile": "wiki/donations-for-open-source-projects.jsonld.json",
     "htmlMetadataFile": "wiki/donations-for-open-source-projects.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Funding Open Source Contributors",
@@ -29,7 +37,7 @@
     "markdownFile": "wiki/funding-open-source-contributors.md",
     "jsonldFile": "wiki/funding-open-source-contributors.jsonld.json",
     "htmlMetadataFile": "wiki/funding-open-source-contributors.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Funding Open Source Software",
@@ -37,7 +45,7 @@
     "markdownFile": "wiki/funding-open-source-software.md",
     "jsonldFile": "wiki/funding-open-source-software.jsonld.json",
     "htmlMetadataFile": "wiki/funding-open-source-software.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "How To Get Sponsored For Open Source",
@@ -45,7 +53,7 @@
     "markdownFile": "wiki/how-to-get-sponsored-for-open-source.md",
     "jsonldFile": "wiki/how-to-get-sponsored-for-open-source.jsonld.json",
     "htmlMetadataFile": "wiki/how-to-get-sponsored-for-open-source.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Innovative Funding For Open Source Projects",
@@ -53,7 +61,7 @@
     "markdownFile": "wiki/innovative-funding-for-open-source-projects.md",
     "jsonldFile": "wiki/innovative-funding-for-open-source-projects.jsonld.json",
     "htmlMetadataFile": "wiki/innovative-funding-for-open-source-projects.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Monetizing Open Source Projects Guide",
@@ -61,7 +69,7 @@
     "markdownFile": "wiki/monetizing-open-source-projects-guide.md",
     "jsonldFile": "wiki/monetizing-open-source-projects-guide.jsonld.json",
     "htmlMetadataFile": "wiki/monetizing-open-source-projects-guide.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Octl Alternative To Pure Open Source Capitalism",
@@ -69,7 +77,7 @@
     "markdownFile": "wiki/octl-alternative-to-pure-open-source-capitalism.md",
     "jsonldFile": "wiki/octl-alternative-to-pure-open-source-capitalism.jsonld.json",
     "htmlMetadataFile": "wiki/octl-alternative-to-pure-open-source-capitalism.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Capitalism Opportunities And Challenges Global South",
@@ -77,7 +85,7 @@
     "markdownFile": "wiki/open-source-capitalism-opportunities-and-challenges-global-south.md",
     "jsonldFile": "wiki/open-source-capitalism-opportunities-and-challenges-global-south.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-capitalism-opportunities-and-challenges-global-south.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Capitalism",
@@ -85,7 +93,7 @@
     "markdownFile": "wiki/open-source-capitalism.md",
     "jsonldFile": "wiki/open-source-capitalism.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-capitalism.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Compensation Models",
@@ -93,7 +101,7 @@
     "markdownFile": "wiki/open-source-developer-compensation-models.md",
     "jsonldFile": "wiki/open-source-developer-compensation-models.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-compensation-models.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Compensation Plans",
@@ -101,7 +109,7 @@
     "markdownFile": "wiki/open-source-developer-compensation-plans.md",
     "jsonldFile": "wiki/open-source-developer-compensation-plans.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-compensation-plans.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Crowdfunding",
@@ -109,7 +117,7 @@
     "markdownFile": "wiki/open-source-developer-crowdfunding.md",
     "jsonldFile": "wiki/open-source-developer-crowdfunding.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-crowdfunding.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Earnings",
@@ -117,7 +125,7 @@
     "markdownFile": "wiki/open-source-developer-earnings.md",
     "jsonldFile": "wiki/open-source-developer-earnings.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-earnings.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Financial Assistance",
@@ -125,7 +133,7 @@
     "markdownFile": "wiki/open-source-developer-financial-assistance.md",
     "jsonldFile": "wiki/open-source-developer-financial-assistance.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-financial-assistance.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Financial Education",
@@ -133,7 +141,7 @@
     "markdownFile": "wiki/open-source-developer-financial-education.md",
     "jsonldFile": "wiki/open-source-developer-financial-education.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-financial-education.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Financial Independence",
@@ -141,7 +149,7 @@
     "markdownFile": "wiki/open-source-developer-financial-independence.md",
     "jsonldFile": "wiki/open-source-developer-financial-independence.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-financial-independence.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Financial Planning",
@@ -149,7 +157,7 @@
     "markdownFile": "wiki/open-source-developer-financial-planning.md",
     "jsonldFile": "wiki/open-source-developer-financial-planning.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-financial-planning.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Financial Support",
@@ -157,7 +165,7 @@
     "markdownFile": "wiki/open-source-developer-financial-support.md",
     "jsonldFile": "wiki/open-source-developer-financial-support.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-financial-support.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Funding Challenges",
@@ -165,7 +173,7 @@
     "markdownFile": "wiki/open-source-developer-funding-challenges.md",
     "jsonldFile": "wiki/open-source-developer-funding-challenges.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-funding-challenges.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Funding Strategies",
@@ -173,7 +181,7 @@
     "markdownFile": "wiki/open-source-developer-funding-strategies.md",
     "jsonldFile": "wiki/open-source-developer-funding-strategies.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-funding-strategies.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Fundraising Overview",
@@ -181,7 +189,7 @@
     "markdownFile": "wiki/open-source-developer-fundraising-overview.md",
     "jsonldFile": "wiki/open-source-developer-fundraising-overview.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-fundraising-overview.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Grant Opportunities",
@@ -189,7 +197,7 @@
     "markdownFile": "wiki/open-source-developer-grant-opportunities.md",
     "jsonldFile": "wiki/open-source-developer-grant-opportunities.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-grant-opportunities.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Grants And Stipends",
@@ -197,7 +205,7 @@
     "markdownFile": "wiki/open-source-developer-grants-and-stipends.md",
     "jsonldFile": "wiki/open-source-developer-grants-and-stipends.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-grants-and-stipends.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Grants Application",
@@ -205,7 +213,7 @@
     "markdownFile": "wiki/open-source-developer-grants-application.md",
     "jsonldFile": "wiki/open-source-developer-grants-application.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-grants-application.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Grants Overview",
@@ -213,7 +221,7 @@
     "markdownFile": "wiki/open-source-developer-grants-overview.md",
     "jsonldFile": "wiki/open-source-developer-grants-overview.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-grants-overview.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Income Sources",
@@ -221,7 +229,7 @@
     "markdownFile": "wiki/open-source-developer-income-sources.md",
     "jsonldFile": "wiki/open-source-developer-income-sources.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-income-sources.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Income Strategies",
@@ -229,7 +237,7 @@
     "markdownFile": "wiki/open-source-developer-income-strategies.md",
     "jsonldFile": "wiki/open-source-developer-income-strategies.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-income-strategies.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Patronage Benefits",
@@ -237,7 +245,7 @@
     "markdownFile": "wiki/open-source-developer-patronage-benefits.md",
     "jsonldFile": "wiki/open-source-developer-patronage-benefits.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-patronage-benefits.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Patronage Programs",
@@ -245,7 +253,7 @@
     "markdownFile": "wiki/open-source-developer-patronage-programs.md",
     "jsonldFile": "wiki/open-source-developer-patronage-programs.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-patronage-programs.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Revenue Streams",
@@ -253,7 +261,7 @@
     "markdownFile": "wiki/open-source-developer-revenue-streams.md",
     "jsonldFile": "wiki/open-source-developer-revenue-streams.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-revenue-streams.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Sponsorship",
@@ -261,7 +269,7 @@
     "markdownFile": "wiki/open-source-developer-sponsorship.md",
     "jsonldFile": "wiki/open-source-developer-sponsorship.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-sponsorship.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Stipends",
@@ -269,7 +277,7 @@
     "markdownFile": "wiki/open-source-developer-stipends.md",
     "jsonldFile": "wiki/open-source-developer-stipends.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-stipends.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Support Networks",
@@ -277,7 +285,7 @@
     "markdownFile": "wiki/open-source-developer-support-networks.md",
     "jsonldFile": "wiki/open-source-developer-support-networks.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-support-networks.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Developer Support Programs",
@@ -285,7 +293,7 @@
     "markdownFile": "wiki/open-source-developer-support-programs.md",
     "jsonldFile": "wiki/open-source-developer-support-programs.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-developer-support-programs.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Development Funding",
@@ -293,7 +301,7 @@
     "markdownFile": "wiki/open-source-development-funding.md",
     "jsonldFile": "wiki/open-source-development-funding.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-development-funding.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Financial Backing",
@@ -301,7 +309,7 @@
     "markdownFile": "wiki/open-source-financial-backing.md",
     "jsonldFile": "wiki/open-source-financial-backing.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-financial-backing.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Financial Challenges",
@@ -309,7 +317,7 @@
     "markdownFile": "wiki/open-source-financial-challenges.md",
     "jsonldFile": "wiki/open-source-financial-challenges.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-financial-challenges.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Financial Support",
@@ -317,7 +325,7 @@
     "markdownFile": "wiki/open-source-financial-support.md",
     "jsonldFile": "wiki/open-source-financial-support.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-financial-support.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding Best Practices",
@@ -325,7 +333,7 @@
     "markdownFile": "wiki/open-source-funding-best-practices.md",
     "jsonldFile": "wiki/open-source-funding-best-practices.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-best-practices.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding Case Studies",
@@ -333,7 +341,7 @@
     "markdownFile": "wiki/open-source-funding-case-studies.md",
     "jsonldFile": "wiki/open-source-funding-case-studies.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-case-studies.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding Challenges",
@@ -341,7 +349,7 @@
     "markdownFile": "wiki/open-source-funding-challenges.md",
     "jsonldFile": "wiki/open-source-funding-challenges.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-challenges.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Collaboration",
@@ -349,7 +357,7 @@
     "markdownFile": "wiki/open-source-funding-for-collaboration.md",
     "jsonldFile": "wiki/open-source-funding-for-collaboration.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-collaboration.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Community Projects",
@@ -357,7 +365,7 @@
     "markdownFile": "wiki/open-source-funding-for-community-projects.md",
     "jsonldFile": "wiki/open-source-funding-for-community-projects.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-community-projects.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Development",
@@ -365,7 +373,7 @@
     "markdownFile": "wiki/open-source-funding-for-development.md",
     "jsonldFile": "wiki/open-source-funding-for-development.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-development.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Education",
@@ -373,7 +381,7 @@
     "markdownFile": "wiki/open-source-funding-for-education.md",
     "jsonldFile": "wiki/open-source-funding-for-education.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-education.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Educational Resources",
@@ -381,7 +389,7 @@
     "markdownFile": "wiki/open-source-funding-for-educational-resources.md",
     "jsonldFile": "wiki/open-source-funding-for-educational-resources.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-educational-resources.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Innovation",
@@ -389,7 +397,7 @@
     "markdownFile": "wiki/open-source-funding-for-innovation.md",
     "jsonldFile": "wiki/open-source-funding-for-innovation.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-innovation.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Maintenance",
@@ -397,7 +405,7 @@
     "markdownFile": "wiki/open-source-funding-for-maintenance.md",
     "jsonldFile": "wiki/open-source-funding-for-maintenance.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-maintenance.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For New Developers",
@@ -405,7 +413,7 @@
     "markdownFile": "wiki/open-source-funding-for-new-developers.md",
     "jsonldFile": "wiki/open-source-funding-for-new-developers.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-new-developers.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For New Initiatives",
@@ -413,7 +421,7 @@
     "markdownFile": "wiki/open-source-funding-for-new-initiatives.md",
     "jsonldFile": "wiki/open-source-funding-for-new-initiatives.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-new-initiatives.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Nonprofits",
@@ -421,7 +429,7 @@
     "markdownFile": "wiki/open-source-funding-for-nonprofits.md",
     "jsonldFile": "wiki/open-source-funding-for-nonprofits.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-nonprofits.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Open Source",
@@ -429,7 +437,7 @@
     "markdownFile": "wiki/open-source-funding-for-open-source.md",
     "jsonldFile": "wiki/open-source-funding-for-open-source.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-open-source.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Research",
@@ -437,7 +445,7 @@
     "markdownFile": "wiki/open-source-funding-for-research.md",
     "jsonldFile": "wiki/open-source-funding-for-research.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-research.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Scientific Research",
@@ -445,7 +453,7 @@
     "markdownFile": "wiki/open-source-funding-for-scientific-research.md",
     "jsonldFile": "wiki/open-source-funding-for-scientific-research.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-scientific-research.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Small Projects",
@@ -453,7 +461,7 @@
     "markdownFile": "wiki/open-source-funding-for-small-projects.md",
     "jsonldFile": "wiki/open-source-funding-for-small-projects.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-small-projects.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Startups",
@@ -461,7 +469,7 @@
     "markdownFile": "wiki/open-source-funding-for-startups.md",
     "jsonldFile": "wiki/open-source-funding-for-startups.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-startups.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding For Tech Projects",
@@ -469,7 +477,7 @@
     "markdownFile": "wiki/open-source-funding-for-tech-projects.md",
     "jsonldFile": "wiki/open-source-funding-for-tech-projects.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-for-tech-projects.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding Guide",
@@ -477,7 +485,7 @@
     "markdownFile": "wiki/open-source-funding-guide.md",
     "jsonldFile": "wiki/open-source-funding-guide.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-guide.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding Opportunities",
@@ -485,7 +493,7 @@
     "markdownFile": "wiki/open-source-funding-opportunities.md",
     "jsonldFile": "wiki/open-source-funding-opportunities.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-opportunities.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding Platforms",
@@ -493,7 +501,7 @@
     "markdownFile": "wiki/open-source-funding-platforms.md",
     "jsonldFile": "wiki/open-source-funding-platforms.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-platforms.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding Strategies",
@@ -501,7 +509,7 @@
     "markdownFile": "wiki/open-source-funding-strategies.md",
     "jsonldFile": "wiki/open-source-funding-strategies.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-strategies.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding Success Stories",
@@ -509,7 +517,7 @@
     "markdownFile": "wiki/open-source-funding-success-stories.md",
     "jsonldFile": "wiki/open-source-funding-success-stories.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-success-stories.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding Workshops For Developers",
@@ -517,7 +525,7 @@
     "markdownFile": "wiki/open-source-funding-workshops-for-developers.md",
     "jsonldFile": "wiki/open-source-funding-workshops-for-developers.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-workshops-for-developers.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Funding Workshops",
@@ -525,7 +533,7 @@
     "markdownFile": "wiki/open-source-funding-workshops.md",
     "jsonldFile": "wiki/open-source-funding-workshops.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-funding-workshops.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Grants For Developers",
@@ -533,7 +541,7 @@
     "markdownFile": "wiki/open-source-grants-for-developers.md",
     "jsonldFile": "wiki/open-source-grants-for-developers.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-grants-for-developers.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Investment Strategies",
@@ -541,7 +549,7 @@
     "markdownFile": "wiki/open-source-investment-strategies.md",
     "jsonldFile": "wiki/open-source-investment-strategies.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-investment-strategies.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Monetization Challenges And Strategies",
@@ -549,7 +557,7 @@
     "markdownFile": "wiki/open-source-monetization-challenges-and-strategies.md",
     "jsonldFile": "wiki/open-source-monetization-challenges-and-strategies.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-monetization-challenges-and-strategies.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Patronage",
@@ -557,7 +565,7 @@
     "markdownFile": "wiki/open-source-patronage.md",
     "jsonldFile": "wiki/open-source-patronage.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-patronage.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Backers",
@@ -565,7 +573,7 @@
     "markdownFile": "wiki/open-source-project-backers.md",
     "jsonldFile": "wiki/open-source-project-backers.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-backers.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Budget Management",
@@ -573,7 +581,7 @@
     "markdownFile": "wiki/open-source-project-budget-management.md",
     "jsonldFile": "wiki/open-source-project-budget-management.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-budget-management.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Business Models",
@@ -581,7 +589,7 @@
     "markdownFile": "wiki/open-source-project-business-models.md",
     "jsonldFile": "wiki/open-source-project-business-models.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-business-models.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Crowdfunding Tips",
@@ -589,7 +597,7 @@
     "markdownFile": "wiki/open-source-project-crowdfunding-tips.md",
     "jsonldFile": "wiki/open-source-project-crowdfunding-tips.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-crowdfunding-tips.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Economic Models",
@@ -597,7 +605,7 @@
     "markdownFile": "wiki/open-source-project-economic-models.md",
     "jsonldFile": "wiki/open-source-project-economic-models.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-economic-models.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Economic Viability",
@@ -605,7 +613,7 @@
     "markdownFile": "wiki/open-source-project-economic-viability.md",
     "jsonldFile": "wiki/open-source-project-economic-viability.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-economic-viability.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Aid",
@@ -613,7 +621,7 @@
     "markdownFile": "wiki/open-source-project-financial-aid.md",
     "jsonldFile": "wiki/open-source-project-financial-aid.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-aid.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Backing",
@@ -621,7 +629,7 @@
     "markdownFile": "wiki/open-source-project-financial-backing.md",
     "jsonldFile": "wiki/open-source-project-financial-backing.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-backing.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Education",
@@ -629,7 +637,7 @@
     "markdownFile": "wiki/open-source-project-financial-education.md",
     "jsonldFile": "wiki/open-source-project-financial-education.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-education.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Growth",
@@ -637,7 +645,7 @@
     "markdownFile": "wiki/open-source-project-financial-growth.md",
     "jsonldFile": "wiki/open-source-project-financial-growth.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-growth.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Health",
@@ -645,7 +653,7 @@
     "markdownFile": "wiki/open-source-project-financial-health.md",
     "jsonldFile": "wiki/open-source-project-financial-health.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-health.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Independence",
@@ -653,7 +661,7 @@
     "markdownFile": "wiki/open-source-project-financial-independence.md",
     "jsonldFile": "wiki/open-source-project-financial-independence.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-independence.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Management",
@@ -661,7 +669,7 @@
     "markdownFile": "wiki/open-source-project-financial-management.md",
     "jsonldFile": "wiki/open-source-project-financial-management.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-management.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Metrics",
@@ -669,7 +677,7 @@
     "markdownFile": "wiki/open-source-project-financial-metrics.md",
     "jsonldFile": "wiki/open-source-project-financial-metrics.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-metrics.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Models",
@@ -677,7 +685,7 @@
     "markdownFile": "wiki/open-source-project-financial-models.md",
     "jsonldFile": "wiki/open-source-project-financial-models.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-models.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Planning Tools",
@@ -685,7 +693,7 @@
     "markdownFile": "wiki/open-source-project-financial-planning-tools.md",
     "jsonldFile": "wiki/open-source-project-financial-planning-tools.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-planning-tools.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Planning",
@@ -693,7 +701,7 @@
     "markdownFile": "wiki/open-source-project-financial-planning.md",
     "jsonldFile": "wiki/open-source-project-financial-planning.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-planning.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Stability",
@@ -701,7 +709,7 @@
     "markdownFile": "wiki/open-source-project-financial-stability.md",
     "jsonldFile": "wiki/open-source-project-financial-stability.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-stability.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Strategies",
@@ -709,7 +717,7 @@
     "markdownFile": "wiki/open-source-project-financial-strategies.md",
     "jsonldFile": "wiki/open-source-project-financial-strategies.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-strategies.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Sustainability Tips",
@@ -717,7 +725,7 @@
     "markdownFile": "wiki/open-source-project-financial-sustainability-tips.md",
     "jsonldFile": "wiki/open-source-project-financial-sustainability-tips.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-sustainability-tips.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Sustainability",
@@ -725,7 +733,7 @@
     "markdownFile": "wiki/open-source-project-financial-sustainability.md",
     "jsonldFile": "wiki/open-source-project-financial-sustainability.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-sustainability.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Tools",
@@ -733,7 +741,7 @@
     "markdownFile": "wiki/open-source-project-financial-tools.md",
     "jsonldFile": "wiki/open-source-project-financial-tools.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-tools.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Financial Transparency",
@@ -741,7 +749,7 @@
     "markdownFile": "wiki/open-source-project-financial-transparency.md",
     "jsonldFile": "wiki/open-source-project-financial-transparency.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-financial-transparency.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Funding Alternatives",
@@ -749,7 +757,7 @@
     "markdownFile": "wiki/open-source-project-funding-alternatives.md",
     "jsonldFile": "wiki/open-source-project-funding-alternatives.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-funding-alternatives.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Funding Platforms",
@@ -757,7 +765,7 @@
     "markdownFile": "wiki/open-source-project-funding-platforms.md",
     "jsonldFile": "wiki/open-source-project-funding-platforms.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-funding-platforms.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Funding Platformsd",
@@ -765,7 +773,7 @@
     "markdownFile": "wiki/open-source-project-funding-platformsd.md",
     "jsonldFile": "wiki/open-source-project-funding-platformsd.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-funding-platformsd.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Funding Solutions",
@@ -773,7 +781,7 @@
     "markdownFile": "wiki/open-source-project-funding-solutions.md",
     "jsonldFile": "wiki/open-source-project-funding-solutions.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-funding-solutions.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Funding Strategies",
@@ -781,7 +789,7 @@
     "markdownFile": "wiki/open-source-project-funding-strategies.md",
     "jsonldFile": "wiki/open-source-project-funding-strategies.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-funding-strategies.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Funding Trends",
@@ -789,7 +797,7 @@
     "markdownFile": "wiki/open-source-project-funding-trends.md",
     "jsonldFile": "wiki/open-source-project-funding-trends.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-funding-trends.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Income Models",
@@ -797,7 +805,7 @@
     "markdownFile": "wiki/open-source-project-income-models.md",
     "jsonldFile": "wiki/open-source-project-income-models.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-income-models.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Investment Opportunities",
@@ -805,7 +813,7 @@
     "markdownFile": "wiki/open-source-project-investment-opportunities.md",
     "jsonldFile": "wiki/open-source-project-investment-opportunities.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-investment-opportunities.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Revenue Models",
@@ -813,7 +821,7 @@
     "markdownFile": "wiki/open-source-project-revenue-models.md",
     "jsonldFile": "wiki/open-source-project-revenue-models.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-revenue-models.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Revenue Strategies",
@@ -821,7 +829,7 @@
     "markdownFile": "wiki/open-source-project-revenue-strategies.md",
     "jsonldFile": "wiki/open-source-project-revenue-strategies.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-revenue-strategies.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Sponsorship Benefits",
@@ -829,7 +837,7 @@
     "markdownFile": "wiki/open-source-project-sponsorship-benefits.md",
     "jsonldFile": "wiki/open-source-project-sponsorship-benefits.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-sponsorship-benefits.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Sponsorship Impact",
@@ -837,7 +845,7 @@
     "markdownFile": "wiki/open-source-project-sponsorship-impact.md",
     "jsonldFile": "wiki/open-source-project-sponsorship-impact.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-sponsorship-impact.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Sponsorship Models",
@@ -845,7 +853,7 @@
     "markdownFile": "wiki/open-source-project-sponsorship-models.md",
     "jsonldFile": "wiki/open-source-project-sponsorship-models.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-sponsorship-models.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Sponsorship Networks",
@@ -853,7 +861,7 @@
     "markdownFile": "wiki/open-source-project-sponsorship-networks.md",
     "jsonldFile": "wiki/open-source-project-sponsorship-networks.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-sponsorship-networks.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Sponsorship Opportunities",
@@ -861,7 +869,7 @@
     "markdownFile": "wiki/open-source-project-sponsorship-opportunities.md",
     "jsonldFile": "wiki/open-source-project-sponsorship-opportunities.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-sponsorship-opportunities.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Sponsorship Platforms",
@@ -869,7 +877,7 @@
     "markdownFile": "wiki/open-source-project-sponsorship-platforms.md",
     "jsonldFile": "wiki/open-source-project-sponsorship-platforms.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-sponsorship-platforms.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Sponsorship Schemes",
@@ -877,7 +885,7 @@
     "markdownFile": "wiki/open-source-project-sponsorship-schemes.md",
     "jsonldFile": "wiki/open-source-project-sponsorship-schemes.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-sponsorship-schemes.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Project Sponsorship Tips",
@@ -885,7 +893,7 @@
     "markdownFile": "wiki/open-source-project-sponsorship-tips.md",
     "jsonldFile": "wiki/open-source-project-sponsorship-tips.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-project-sponsorship-tips.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Revenue Generation",
@@ -893,7 +901,7 @@
     "markdownFile": "wiki/open-source-revenue-generation.md",
     "jsonldFile": "wiki/open-source-revenue-generation.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-revenue-generation.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Open Source Sponsorship",
@@ -901,7 +909,7 @@
     "markdownFile": "wiki/open-source-sponsorship.md",
     "jsonldFile": "wiki/open-source-sponsorship.jsonld.json",
     "htmlMetadataFile": "wiki/open-source-sponsorship.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Sustainable Funding For Open Source",
@@ -909,7 +917,7 @@
     "markdownFile": "wiki/sustainable-funding-for-open-source.md",
     "jsonldFile": "wiki/sustainable-funding-for-open-source.jsonld.json",
     "htmlMetadataFile": "wiki/sustainable-funding-for-open-source.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   },
   {
     "title": "Sustainable Funding Open Source",
@@ -917,6 +925,6 @@
     "markdownFile": "wiki/sustainable-funding-open-source.md",
     "jsonldFile": "wiki/sustainable-funding-open-source.jsonld.json",
     "htmlMetadataFile": "wiki/sustainable-funding-open-source.htmlmetadata.json",
-    "lastModified": "2025-02-05T11:45:51+01:00"
+    "lastModified": "2025-02-05T13:06:15+01:00"
   }
 ]

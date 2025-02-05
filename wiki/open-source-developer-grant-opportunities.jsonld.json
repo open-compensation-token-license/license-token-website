@@ -1,0 +1,92 @@
+[
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "name": "https://schema.org/name",
+      "description": "https://schema.org/description",
+      "mainEntity": "https://schema.org/mainEntity",
+      "Question": "https://schema.org/Question",
+      "Answer": "https://schema.org/Answer",
+      "potentialAction": "https://schema.org/potentialAction",
+      "relatedLink": "https://schema.org/relatedLink"
+    },
+    "@type": "FAQPage",
+    "name": "Open Source Developer Grant Opportunities FAQ",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What are open source developer grants?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "description": "Open source developer grants are financial aids provided to developers or teams working on open source projects, designed to alleviate financial burdens, allowing them to focus on project development, maintenance, or innovation."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why are grants important for open source development?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "description": "Grants provide financial support and recognize the value of open source projects to the tech community. They help diversify the developer community by providing opportunities to underrepresented groups, enhancing innovation and technological advancement."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some examples of open source grant opportunities?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "description": "Examples include GitHub Sponsors, Mozilla Open Source Support (MOSS) Program, Google Open Source Programs, and The Apache Software Foundation (ASF), each providing various financial and mentorship support forms.",
+          "relatedLink": [
+            {
+              "@type": "LinkRole",
+              "potentialAction": {
+                "@type": "ViewAction",
+                "target": "https://github.com/sponsors"
+              },
+              "anchor": "GitHub Sponsors"
+            },
+            {
+              "@type": "LinkRole",
+              "potentialAction": {
+                "@type": "ViewAction",
+                "target": "https://www.mozilla.org/en-US/moss/"
+              },
+              "anchor": "MOSS Program"
+            },
+            {
+              "@type": "LinkRole",
+              "potentialAction": {
+                "@type": "ViewAction",
+                "target": "https://opensource.google/"
+              },
+              "anchor": "Google Open Source Programs"
+            },
+            {
+              "@type": "LinkRole",
+              "potentialAction": {
+                "@type": "ViewAction",
+                "target": "https://www.apache.org/foundation/contributing.html"
+              },
+              "anchor": "The Apache Software Foundation"
+            }
+          ]
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can developers apply for open source grants?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "description": "Developers can apply by submitting a proposal outlining their project, potential impact, and how they will utilize the grant. It's crucial to align with the grant's objectives and maintain knowledge of specific application criteria and schedules."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the impact of open source developer grants?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "description": "These grants help in sustaining development and innovation in open source, empowering individual developers and enhancing the technological infrastructure that modern digital services rely on."
+        }
+      }
+    ]
+  }
+]

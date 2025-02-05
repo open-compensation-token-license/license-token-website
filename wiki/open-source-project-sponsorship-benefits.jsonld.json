@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the importance of sponsoring open-source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sponsoring open-source projects helps strengthen the technologies your business relies on by ensuring stability, security, and continued development. It reduces the risk of vulnerabilities and guarantees faster implementation of updates and new features."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does open-source sponsorship boost brand visibility?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sponsorship places your company in the spotlight among open-source communities, demonstrating commitment to innovation and collaboration. It improves brand reputation, customer trust, and attracts talent who value open-source involvement."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does sponsoring open source help attract tech talent?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Developers are passionate about contributing to the community. Sponsoring projects builds goodwill and relationships with skilled professionals, making your company appealing to top talent who align with open-source values."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can sponsors influence the development of open-source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Sponsors often gain direct involvement with project maintainers, allowing them to influence the roadmap by proposing features and updates that align with their business needs while benefiting the wider community."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What competitive advantages can sponsorship offer?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sponsorship ensures technologies remain cutting-edge, empowering your business to innovate faster. Gaining early access to updates and improvements enhances your ability to stay ahead in the market."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is sponsoring open source cost-effective?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Supporting open-source projects is more cost-effective than developing proprietary alternatives, giving access to high-quality technology while saving resources and fostering shared innovation."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role does sponsorship play in Corporate Social Responsibility (CSR)?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open-source sponsorship aligns with CSR initiatives by promoting inclusivity, collaboration, and the shared growth of digital infrastructure. It showcases your company as one that supports the greater good beyond profitability."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I start sponsoring open-source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can get started by exploring platforms like GitHub Sponsors or Open Collective, which are designed to connect you with projects and maintainers in need of support."
+        }
+      }
+    ]
+  }
+]

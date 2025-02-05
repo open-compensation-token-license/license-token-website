@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What are the traditional funding models for sustaining open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Traditional funding models for open source projects include donations, sponsorships, and grants. Platforms like Patreon and Open Collective allow developers to receive financial support from users. Companies often sponsor projects that align with their interests, receiving branding opportunities and influence. Grants from nonprofit organizations and government bodies can provide significant funding, especially for projects with societal or technological goals."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does dual licensing work as a financial strategy for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dual licensing offers two types of licenses: an open source license with limits on commercial use and a commercial license for companies to integrate the software into proprietary products for a fee. This creates a revenue stream while retaining the benefits of community-driven development."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are innovative financial strategies for sustaining open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Innovative strategies include dual licensing, offering paid support and services, and crowdfunding. Dual licensing provides both an open source and commercial license, generating revenue while maintaining community engagement. Paid support, consultancy, and customization services can enhance income while fostering improvements. Crowdfunding on platforms like Kickstarter and Indiegogo can generate initial funding, attract attention, and build a supporter base."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How might blockchain technology and DeFi impact future open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Blockchain technology and decentralized finance (DeFi) introduce new models like token-based incentives and decentralized autonomous organizations (DAOs), which can transform community contribution and funding distribution. These innovations suggest a future where open source funding is more decentralized and community-driven."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is financial sustainability important for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Financial sustainability is crucial for maintaining the open-source ethos while consistently delivering improvements and innovation. As projects grow and require more resources such as hosting services, security audits, or full-time developers, structured financial strategies become essential to ensure their long-term viability."
+        }
+      }
+    ]
+  }
+]

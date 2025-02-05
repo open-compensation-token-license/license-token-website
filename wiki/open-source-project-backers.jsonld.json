@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What are open source project backers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source project backers are organizations, individuals, or businesses that financially or otherwise support open source projects. They help ensure the development, maintenance, and growth of free and open software by providing essential resources."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why back open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Backing open source projects helps ensure their sustainability by funding essential infrastructure, security patches, and more. For businesses, it’s an investment that supports tools they depend on, while individuals contribute to the community they benefit from."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some ways to support open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source projects can be supported financially through platforms like GitHub Sponsors, Open Collective, or Patreon. Businesses can also provide corporate sponsorships while organizations may offer grants, fellowships, or in-kind contributions such as server space or legal help."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the benefits of backing open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Backing open source projects fosters innovation, improves reputations, and helps recruit top talent for businesses. For individuals, it provides a sense of purpose while ensuring the sustainability and security of the software ecosystem."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What challenges do open source project backers face?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Backers face challenges such as determining how to allocate resources, ensuring projects are sustainable, and preventing dependency on monopolistic influences. Balancing altruism with business interests is a common concern for corporate sponsors."
+        }
+      }
+    ]
+  }
+]

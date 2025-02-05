@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "@context": "https://schema.org",
+      "type": "FAQPage",
+      "mainEntity": [
+        {
+          "type": "Question",
+          "name": "What is Open Source Funding for Education?",
+          "acceptedAnswer": {
+            "type": "Answer",
+            "text": "Open source funding refers to the practice of making educational resources, such as textbooks, videos, and software, freely available and modifiable by anyone."
+          }
+        },
+        {
+          "type": "Question",
+          "name": "What are the benefits of Open Source Funding for Education?",
+          "acceptedAnswer": {
+            "type": "Answer",
+            "text": "The benefits include accessibility, customizability, cost-effectiveness, and community engagement."
+          }
+        },
+        {
+          "type": "Question",
+          "name": "Can you provide examples of successful Open Source Funding initiatives for Education?",
+          "acceptedAnswer": {
+            "type": "Answer",
+            "text": "Yes, examples include OpenStax, Khan Academy, and Mozilla Open Badges."
+          }
+        },
+        {
+          "type": "Question",
+          "name": "What are the challenges and limitations of Open Source Funding for Education?",
+          "acceptedAnswer": {
+            "type": "Answer",
+            "text": "Challenges include sustainability, quality control, and infrastructure investments."
+          }
+        },
+        {
+          "type": "Question",
+          "name": "How can the challenges of Open Source Funding for Education be overcome?",
+          "acceptedAnswer": {
+            "type": "Answer",
+            "text": "By developing sustainable funding models, establishing quality control processes, and fostering community engagement."
+          }
+        },
+        {
+          "type": "Question",
+          "name": "Where can I find more information on Open Source Funding for Education?",
+          "acceptedAnswer": {
+            "type": "Answer",
+            "text": "You can visit the websites of organizations such as Wikimedia Foundation, Open Education Consortium, and Creative Commons."
+          }
+        }
+      ]
+    }
+  ]
+]

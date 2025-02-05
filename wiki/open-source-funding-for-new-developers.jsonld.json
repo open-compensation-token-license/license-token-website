@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source funding refers to financial support provided to developers contributing to open source projects. This can come from grants, sponsorships, crowdfunding, or corporate programs designed to support the sustainability of open source work."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why do developers need funding for open source work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "While open source software is often free to use, the time, resources, and effort required for its development and maintenance are significant. Funding ensures that developers, including new contributors, can sustain themselves financially while dedicating time to these important projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What platforms support open source sponsorships?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Platforms like GitHub Sponsors, Open Collective, and Liberapay help developers receive financial support directly from sponsors. These platforms allow developers to highlight their contributions and gain funding from individuals or organizations."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What grant programs are available for new developers in open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Programs like Google Summer of Code (GSoC) and Mozilla's Open Source Support (MOSS) provide financial grants to developers contributing to impactful open source projects. These initiatives are designed to reward and encourage contributors."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can new developers get started with open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "New developers can start by contributing to beginner-friendly projects (e.g., GitHub's 'Good First Issues'), building a public portfolio of their work, and engaging with open source communities. They can also explore funding opportunities through sponsorship platforms, apply for grants, or leverage corporate sponsorships."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which companies provide corporate sponsorship for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Large tech companies like Microsoft, Google, and Red Hat often support open source initiatives through sponsorships and funding programs. These companies recognize the importance of open source in advancing global technology."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the benefits of open source funding for new developers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source funding helps new developers sustain themselves while contributing to projects, improving their skills, and building a reputation within the community. It also enables them to work on impactful technologies and create a foundation for a sustainable open source career."
+        }
+      }
+    ]
+  }
+]

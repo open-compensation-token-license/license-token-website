@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is open source project sponsorship?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source project sponsorship refers to financial or material support provided to maintainers and contributors of open source software. It ensures sustainability, acknowledges efforts, and empowers developers to improve and maintain critical software."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is sponsorship important for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sponsorship is important because it ensures sustainability, attracts talent, secures maintenance, and benefits the broader ecosystem by supporting high-quality open source projects vital to modern digital infrastructure."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the common types of open source sponsorship?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sponsorship can take several forms: direct financial support, corporate sponsorships, donations or grants, and in-kind contributions, such as cloud resources or computing hardware."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can individuals sponsor open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Individuals can sponsor open source projects by identifying key tools or libraries they rely on, finding sponsorship channels like GitHub Sponsors or Open Collective, and contributing consistently, either financially or through participation."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can companies support open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Companies can sponsor projects by providing financial support, contributing resources like cloud services, and encouraging employees to actively participate in maintaining or improving relevant open source software."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why should businesses invest in sponsoring open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sponsoring open source projects is an investment in sustainability, innovation, and technological advancement. Supported projects ensure robust infrastructure and encourage collaboration, benefiting companies reliant on open source tools."
+        }
+      }
+    ]
+  }
+]

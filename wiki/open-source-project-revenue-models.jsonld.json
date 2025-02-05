@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is dual licensing in open source revenue models?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dual licensing is a revenue model where the software is offered under two different licenses: one open source and one proprietary. The open-source version is available for free while the proprietary version, which includes additional features or support, is available for a fee. An example of a project utilizing dual licensing is MySQL."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does the open core model generate revenue for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The open core model offers a core open-source product and provides premium features as part of a separate, paid product. While users can freely access and contribute to the base version, the project generates revenue through the sale of advanced features. GitLab is an example of a project using the open core model."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role do professional services and support play in open source project sustainability?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Professional services and support contracts are a revenue model where open source projects generate income by offering services such as implementation, customization, integration, and training. These services enable businesses to effectively use open-source technologies, as illustrated by Red Hat's enterprise-level support offerings."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do donations and crowdfunding support open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Donations and crowdfunding allow open source projects to receive financial contributions directly from the community. Platforms like Patreon and Open Collective facilitate this process, enabling community members to fund ongoing development and project maintenance."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why are sponsorships and partnerships beneficial for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sponsorships and partnerships provide open source projects with funding and resources from companies that rely on their technologies. These arrangements can include monetary support or infrastructure assistance, creating mutual benefits. Examples include sponsorships by Google and Microsoft."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are bounty programs and grants in the context of open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Bounty programs reward developers for completing specific tasks, encouraging community engagement and software improvement. Grants from institutions or foundations dedicated to technological advancement can also provide significant financial support. Mozilla's Open Source Support program is an example of grant-based support."
+        }
+      }
+    ]
+  }
+]

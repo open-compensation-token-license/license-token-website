@@ -1,0 +1,147 @@
+@use 'sass:color';
+@use 'variables' as *;
+
+/* Top-navbar */
+
+.top-navbar {
+  display: flex;
+  align-items: center;
+
+  .search-field {
+    flex: 1; /* Occupies available space */
+    margin: 0 16px; /* Spacing on left/right */
+    max-width: none; /* Remove any default max-width limits */
+  }
+
+  mat-icon {
+    color: $primary-yellow;
+  }
+
+  .toolbar-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 1rem;
+    transition: all 0.3s ease-in-out;
+
+  }
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+mat-list-item a.active {
+  font-weight: bold;
+  color: $primary-yellow;
+}
+
+
+mat-sidenav-content {
+  min-height: 100%;
+}
+
+/* Container and card styling */
+.articles-container {
+  padding: 0px 20px;
+
+  .row {
+    justify-content: center;
+  }
+
+  .col-md-8 {
+    .card {
+      background: $background-default;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+      overflow: hidden;
+      margin-bottom: 20px;
+
+      .card-body {
+        padding: 25px;
+        color: $text-light;
+        font-size: 1.2rem;
+        line-height: 1.6;
+        font-weight: 300;
+        font-family: 'Roboto', sans-serif;
+
+        a {
+          color: $primary-yellow;
+          text-decoration: none;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+
+        markdown {
+          font-family: 'Roboto', sans-serif;
+
+          a {
+            color: $primary-yellow;
+            text-decoration: none;
+
+            &:hover {
+              text-decoration: underline;
+            }
+          }
+
+          h1, h2, h3 {
+            font-weight: 600;
+            color: $text-light;
+          }
+        }
+      }
+    }
+
+    .last-modified {
+      font-size: 0.8rem;
+      color: $text-muted;
+      margin-bottom: 15px;
+      text-align: right;
+    }
+  }
+}
+
+.search-results {
+  margin-bottom: 20px;
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  ul li {
+    color: $primary-yellow;
+    margin-bottom: 10px;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.no-results {
+  color: $text-light;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+
+.next-article-link {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: $text-light;
+  padding: 10px;
+  font-size: 1.8rem;
+  font-family: 'Roboto', sans-serif;
+
+  a {
+    color: $primary-yellow;
+  }
+
+  a:hover {
+    color: $hover-light;
+    text-decoration: underline;
+  }
+}
+

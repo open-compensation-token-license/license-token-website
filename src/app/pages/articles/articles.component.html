@@ -1,0 +1,99 @@
+<mat-toolbar color="primary" class="top-navbar">
+  <!-- Menu Button (left) -->
+  <button mat-icon-button (click)="sidenav.toggle()">
+    <mat-icon>menu</mat-icon>
+  </button>
+
+  <!-- Search Field (only shown if showSearch is true) -->
+  <mat-form-field *ngIf="showSearch" class="search-field" subscriptSizing="dynamic" appearance="outline">
+    <mat-label>Search</mat-label>
+    <input
+      matInput
+      type="search"
+      [(ngModel)]="searchQuery"
+      (input)="searchArticles()"/>
+    <button mat-icon-button matSuffix (click)="clearSearch()">
+      <mat-icon>close</mat-icon>
+    </button>
+  </mat-form-field>
+
+  <!-- Title (only shown if showSearch is false) -->
+  <span *ngIf="!showSearch" class="toolbar-title">Overview</span>
+
+  <!-- Spacer to push the button to the right -->
+  <span *ngIf="!showSearch" class="spacer"></span>
+
+  <!-- Search Toggle Icon (right) -->
+  <button mat-icon-button (click)="toggleSearch()">
+    <mat-icon>search</mat-icon>
+  </button>
+
+  <button mat-icon-button [routerLink]="'/'">
+    <mat-icon>home</mat-icon>
+  </button>
+</mat-toolbar>
+
+
+<mat-sidenav-container>
+  <mat-sidenav #sidenav mode="side" opened>
+    <mat-nav-list>
+      <mat-list-item
+        *ngFor="let article of articlesList"
+        (click)="navigateToArticle(article); sidenav.toggle()"
+      >
+        <a matLine [class.active]="activeFile === article.markdownFile">{{ article.title }}</a>
+      </mat-list-item>
+    </mat-nav-list>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <div class="articles-container">
+      <div class="row justify-content-center">
+        <div class="col-md-8">
+          <!-- Search results card -->
+          <div *ngIf="searchQuery && searchResults.length > 0" class="card">
+            <div class="card-body">
+              <h2>Search Results</h2>
+              <div *ngFor="let result of searchResults">
+                <p>
+                  - <a (click)="navigateToArticle(result)">{{ result.title }}</a>
+                </p>
+              </div>
+
+            </div>
+          </div>
+
+          <!-- No results card -->
+          <div *ngIf="searchQuery && searchResults.length === 0" class="card">
+            <div class="card-body">
+              <p>No results found.</p>
+            </div>
+          </div>
+
+          <!-- Main article content card -->
+          <div *ngIf="!searchQuery && activeContent" class="card">
+            <div class="card-body">
+              <div *ngIf="activeFile" class="last-modified">
+                Last Modified: {{ getFormattedLastModified(getArticleLastModified()) }}
+              </div>
+              <markdown [data]="activeContent"></markdown>
+              <div *ngIf="getNextArticle() as nextArticle" class="next-article-link">
+                >>> Read more in the next post <a (click)="navigateToArticle(nextArticle)">{{ nextArticle.title }}</a>
+              </div>
+            </div>
+          </div>
+          <div *ngIf="!searchQuery && !activeContent" class="card">
+            <div class="card-body">
+              <h2>{{ contentMessage }}</h2>
+              <div *ngFor="let article of articlesList">
+                <p>
+                  - <a (click)="navigateToArticle(article)">{{ article.title }}</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is Open Source Project Investment?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open Source Project Investment refers to the strategic allocation of resources into open-source software projects to support development, sustainability, and innovation."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why should companies invest in open-source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Companies invest in open-source projects to foster community growth, reduce costs, build reputation, attract talent, and ensure the sustainability of critical software infrastructure."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can individuals or businesses invest in open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Investment can take many forms, including monetary donations, hiring developers, corporate sponsorships, partnerships, or providing infrastructure support."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are examples of open-source project investments?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Examples include the Linux Foundation, Kubernetes supported by the Cloud Native Computing Foundation, and GitHub Sponsors, which allows direct funding of maintainers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What challenges do open-source projects face?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Challenges include sustainability, resource allocation, and the community dynamics that arise from introducing funding into a traditionally volunteer-driven ecosystem."
+        }
+      }
+    ]
+  }
+]

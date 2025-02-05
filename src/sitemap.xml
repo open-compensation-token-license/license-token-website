@@ -19,729 +19,675 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/#/wiki/innovative_funding</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://nftpuzzle.license-token.com/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/funding-open-source-software.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/octl-alternative-to-pure-open-source-capitalism.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-capitalism-opportunities-and-challenges-global-south.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-capitalism.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-earnings.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-grants-overview.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-financial-support.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-opportunities.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-platforms.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-strategies.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-sponsorship.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/sustainable-funding-for-open-source.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/sustainable-funding-open-source.html</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/crowdsourced-funding-for-open-source-software.html</loc>
+    <loc>https://www.license-token.com/#/wiki/crowdfunding-open-source-development</loc>
     <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-patronage.html</loc>
+    <loc>https://www.license-token.com/#/wiki/crowdsourced-funding-for-open-source-software</loc>
     <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/donations-for-open-source-projects.html</loc>
+    <loc>https://www.license-token.com/#/wiki/donations-for-open-source-projects</loc>
     <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/how-to-get-sponsored-for-open-source.html</loc>
+    <loc>https://www.license-token.com/#/wiki/funding-open-source-contributors</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/funding-open-source-software</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/how-to-get-sponsored-for-open-source</loc>
     <lastmod>2025-02-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/monetizing-open-source-projects-guide.html</loc>
+    <loc>https://www.license-token.com/#/wiki/innovative-funding-for-open-source-projects</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/monetizing-open-source-projects-guide</loc>
     <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-investment-strategies.html</loc>
+    <loc>https://www.license-token.com/#/wiki/octl-alternative-to-pure-open-source-capitalism</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-capitalism-opportunities-and-challenges-global-south</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-compensation-models</loc>
     <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-revenue-generation.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-budget-management.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-compensation-models.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-financial-backing.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-guide.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-workshops.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-grants-for-developers.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-planning.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/crowdfunding-open-source-development.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-financial-challenges.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/crowdfunding-open-source-development.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-financial-challenges.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-success-stories.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-support-programs.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-best-practices.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-sponsorship-tips.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-sustainability.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-new-developers.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-stipends.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/funding-open-source-contributors.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-development-funding.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-revenue-strategies.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-fundraising-overview.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-maintenance.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-economic-viability.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-health.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-models.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-income-sources.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-backers.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-independence.html</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-grants-application.html</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-case-studies.html</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-sponsorship-benefits.html</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-patronage-programs.html</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-challenges.html</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-crowdfunding-tips.html</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-education.html</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-financial-support.html</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-transparency.html</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-funding-alternatives.html</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-education.html</loc>
-    <lastmod>2025-01-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-patronage-programs.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-compensation-plans</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-transparency.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-crowdfunding</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-education.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-earnings</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-financial-assistance</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-funding-trends.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-financial-education</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-business-models.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-financial-independence</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-research.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-financial-planning</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-planning-tools.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-financial-support</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-funding-challenges</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-sponsorship-schemes.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-funding-strategies</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-revenue-streams.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-fundraising-overview</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-grant-opportunities</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-strategies.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-grants-and-stipends</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-funding-challenges.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-grants-application</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-grants-overview</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-income-sources</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-income-strategies</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-patronage-benefits</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-patronage-programs</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-revenue-streams</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-sponsorship</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-stipends</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-support-networks</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-developer-support-programs</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-development-funding</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-financial-backing</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-financial-challenges</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-financial-support</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-best-practices</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-case-studies</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-challenges</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-collaboration</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-community-projects</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-development</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-education</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-educational-resources</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-innovation</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-maintenance</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-new-developers</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-new-initiatives</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-nonprofits</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-open-source</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-research</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-scientific-research</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-small-projects</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-startups</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-for-tech-projects</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-guide</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-opportunities</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-platforms</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-strategies</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-success-stories</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-funding-workshops-for-developers</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-grants-for-developers</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-investment-strategies</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-monetization-challenges-and-strategies</loc>
     <lastmod>2025-02-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-community-projects.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-patronage</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-backers</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-budget-management</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-business-models</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-aid.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-crowdfunding-tips</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-economic-models</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-sponsorship.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-economic-viability</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-aid</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-income-models.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-backing</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-workshops-for-developers.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-education</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-growth</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-funding-solutions.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-health</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-independence</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-management</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-financial-independence.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-metrics</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-sponsorship-impact.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-models</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-planning-tools</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-small-projects.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-stability</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-grant-opportunities.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-strategies</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-metrics.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-sustainability-tips</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-innovation.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-tools</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-sponsorship-networks.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-financial-transparency</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-financial-planning.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-funding-alternatives</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-funding-platforms</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-funding-platformsd.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-funding-platformsd</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-nonprofits.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-funding-solutions</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-revenue-models.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-funding-strategies</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-funding-strategies.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-funding-trends</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-sustainability-tips.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-income-models</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-startups.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-investment-opportunities</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-investment-opportunities.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-revenue-models</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-financial-education.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-revenue-strategies</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-sponsorship-benefits</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-sponsorship-impact</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-sponsorship-models.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-sponsorship-models</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-collaboration.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-sponsorship-networks</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-support-networks.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-sponsorship-opportunities</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-backing.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-sponsorship-platforms</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-tech-projects.html</loc>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-sponsorship-schemes</loc>
     <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-patronage-benefits.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.license-token.com/#/wiki/open-source-project-sponsorship-tips</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-management.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.license-token.com/#/wiki/open-source-revenue-generation</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-scientific-research.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.license-token.com/#/wiki/open-source-sponsorship</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-crowdfunding.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.license-token.com/#/wiki/sustainable-funding-for-open-source</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-growth.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-educational-resources.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-sponsorship-opportunities.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-open-source.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-economic-models.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-compensation-plans.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-funding-strategies.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-financial-assistance.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-tools.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-new-initiatives.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-grants-and-stipends.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-sponsorship-platforms.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-funding-for-development.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-developer-income-strategies.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-financial-stability.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-project-funding-platforms.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.license-token.com/wiki/open-source-monetization-challenges-and-strategies.html</loc>
-    <lastmod>2025-02-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <loc>https://www.license-token.com/#/wiki/sustainable-funding-open-source</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

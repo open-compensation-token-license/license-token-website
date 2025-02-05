@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the importance of open source funding for maintenance?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source software is critical to modern technology, powering countless applications and systems. However, maintaining open source projects requires adequate funding to cover essential tasks like bug fixing, security updates, and adapting to technological advancements. Without funding, sustainability becomes a challenge."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some common funding strategies for open source maintenance?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source projects can be funded through corporate sponsorships, grants from nonprofits, community crowdfunding, service-based revenue models (e.g., consulting or support), and government or institutional support."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do corporate sponsorships contribute to open source maintenance?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Corporate sponsorships involve companies financially backing open source projects they use. Platforms like GitHub Sponsors and Open Collective allow structured sponsorships, while companies like Google, Microsoft, and AWS directly fund initiatives to ensure the stability of their dependencies."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role do grants and nonprofits play in open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Grants and nonprofits provide financial support to ensure the sustainability of vital open source projects. Programs such as the Mozilla Open Source Support Program (MOSS) and organizations like the Open Source Initiative (OSI) help direct resources where they are needed most."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can the community support open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The community can back open source projects by donating through platforms like Patreon or GitHub Sponsors, or by participating in crowdfunding campaigns. Individual contributions help maintainers keep the projects active and up-to-date."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a service-based revenue model in open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "In a service-based revenue model, maintainers generate income by offering paid services such as custom implementations, consulting, technical support, or integration services related to their projects. This approach leverages the maintainers’ expertise while supporting the software's development."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do governments and institutions support open source maintenance?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Governments and institutions fund open source projects that are critical to infrastructure and innovation. For example, the European Union has launched funding initiatives to support the maintenance and sustainability of essential open source software."
+        }
+      }
+    ]
+  }
+]

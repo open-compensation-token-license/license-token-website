@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is financial transparency in open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Financial transparency refers to the practice of openly sharing financial information, such as income, expenses, and funding sources, with the community and stakeholders."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is financial transparency important for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Financial transparency helps build trust with the community, sponsors, and stakeholders, and demonstrates a commitment to accountability and good governance."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the benefits of financial transparency for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The benefits include increased trust, improved accountability, better decision-making, and attracting more sponsors and funding opportunities."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can open source projects achieve financial transparency?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Projects can use transparent accounting systems, publish regular financial reports, disclose funding sources, and establish a transparent budgeting process."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What tools are available to help open source projects achieve financial transparency?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Tools such as Open Collective, GitHub Sponsors, and Stripe can be used to manage finances, funding, and donations."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are there any examples of open source projects that have successfully implemented financial transparency?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, examples include FreeBSD, Drupal, and the Linux Foundation, which publish regular financial reports and disclose their funding sources."
+        }
+      }
+    ]
+  }
+]

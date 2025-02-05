@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why does sponsorship matter for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sponsorship matters because it provides financial support that can help maintainers manage the growing workload of maintenance, improvements, and security updates. This financial backing can fund part-time or full-time work, cover operational costs, or support community events, thereby preventing maintainers from burnout and sustaining the project's growth."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are popular sponsorship models for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Popular sponsorship models include Donation Platforms, Crowdfunding, Corporate Sponsorship, and Dual Licensing. Donation platforms like GitHub Sponsors, Open Collective, and Patreon allow for recurring donations. Crowdfunding through platforms like Kickstarter or Indiegogo supports specific project goals. Corporate Sponsorship involves companies providing financial support, infrastructure, or employees. Dual Licensing offers the software under an open source license and a separate commercial license for monetization."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are donation platforms and how do they work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Donation platforms such as GitHub Sponsors, Open Collective, and Patreon enable users to provide recurring financial support to open source projects. These platforms maintain transparency by showing donors how their contributions are used. Funds are typically used to compensate maintainers or aid development efforts."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does crowdfunding support open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Crowdfunding supports open source projects by raising money through specific campaigns on platforms like Kickstarter or Indiegogo. These campaigns target specific goals, such as new features or major updates, and help generate excitement and financial support by appealing to a broad audience."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role do corporate sponsorships play in open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Corporate sponsorships provide financial support, infrastructure, or employees to open source projects. Companies often engage in formal agreements to outline deliverables and expectations. Organizations such as the Linux Foundation and Apache Software Foundation rely on corporate sponsors for significant support. This model ensures sustainability for projects that companies depend on."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is dual licensing in open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dual licensing is a model where a project is available both under an open source license and a separate commercial license. This allows companies to monetize their software from commercial clients while maintaining an open source version. Projects like MongoDB and Qt effectively employ dual licensing to generate income and contribute to the open source community."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What key considerations should sponsors and maintainers keep in mind?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sponsors and maintainers need clear expectations regarding their relationship. Transparency is important for sponsors to understand how funds are used, while maintainers should provide regular project updates. Setting realistic funding goals and deliverables builds trust and encourages support. Successful sponsorships require mutual respect, shared goals, and an understanding of the project's importance beyond immediate business benefits."
+        }
+      }
+    ]
+  }
+]

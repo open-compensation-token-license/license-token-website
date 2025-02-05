@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What are crowdfunding platforms for open source project funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Crowdfunding platforms like Patreon, Open Collective, and Kickstarter allow developers to receive financial support directly from the community. These platforms enable developers to collect one-time payments for specific goals or ongoing contributions for maintenance and improvements."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is sponsorship for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sponsorship platforms like GitHub Sponsors and Tidelift enable companies and individuals to sponsor open source developers. Sponsors provide recurring funding, helping maintainers ensure consistent updates and support for their projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can donations support open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source projects often rely on direct donations facilitated through services like PayPal, Liberapay, or cryptocurrency. Project websites typically have donation buttons, making it simple for users and companies to contribute financially."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does corporate backing work for open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Corporate backing involves companies like Google or Microsoft sponsoring open source initiatives they rely on. Developers may also join open source teams within companies to work on projects in a funded environment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What grants and foundations fund open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Organizations such as the Linux Foundation, Mozilla Foundation, and Apache Software Foundation provide grants to support open source projects. Governments and research institutions may also fund projects with societal or technological importance."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can merchandising support open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, open source projects can sell branded merchandise like T-shirts, stickers, or other items via platforms such as Teespring and Redbubble. This approach generates funds and fosters a sense of community among supporters."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the role of service and consulting in open source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Maintainers can provide paid services such as consulting, customization, or deployment to generate revenue. For example, the Red Hat business model offers open source services and support to businesses."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is dual licensing for open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dual licensing involves offering a project under an open source license for community use and under a proprietary license with advanced features or support for commercial clients. MongoDB and ElasticSearch follow this model."
+        }
+      }
+    ]
+  }
+]

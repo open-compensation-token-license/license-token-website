@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What are Open Source Developer Patronage Programs?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open Source Developer Patronage Programs are platforms that enable individuals and organizations to provide recurring financial support to open source developers and projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do Open Source Developer Patronage Programs work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "These programs typically operate on a subscription-based model, where patrons contribute a fixed amount of money on a regular basis to support their favorite open source projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the benefits of Open Source Developer Patronage Programs?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The benefits include financial stability, predictable income, freedom to focus on high-impact work, and community engagement."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some examples of Open Source Developer Patronage Programs?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Examples include Patreon, GitHub Sponsors, and Open Collective."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I get involved with Open Source Developer Patronage Programs?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can start by exploring the resources listed, such as the Open Source Initiative, GitHub Open Source Guides, and Patreon Developer Documentation."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some challenges facing Open Source Developer Patronage Programs?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Challenges include discovery, funding inequality, and sustainability."
+        }
+      }
+    ]
+  }
+]

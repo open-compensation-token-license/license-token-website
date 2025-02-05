@@ -1,0 +1,80 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What are open-source funding platforms?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open-source funding platforms are tools and services that enable financial contributions—whether recurring donations, one-time payments, or grants—directly to the developers and maintainers of open-source projects. They help address challenges like lack of compensation, burnout, and scaling difficulties while ensuring the sustainability of open-source ecosystems."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is GitHub Sponsors?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "GitHub Sponsors is a platform integrated directly into GitHub, allowing users to financially support open-source contributors. Developers can set up profiles, tiers, and goals to receive recurring monthly donations, and GitHub currently charges no fees for this service."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is Open Collective?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open Collective helps communities and projects raise funds transparently. Donors contribute to a shared fund, and expenditures are displayed on public ledgers, fostering trust between contributors and maintainers. Popular projects like Webpack and Babel use this platform."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is Liberapay?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Liberapay is a platform for recurring donations to open-source creators and teams. It's completely open-source and focuses on predictable, long-term funding without fees for donations, making it suitable for many developers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does Patreon support open-source creators?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Patreon provides a platform for creators, including open-source maintainers, to receive monthly pledges in exchange for perks like early access or behind-the-scenes content. It is not specific to open source but commonly used by creators."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is Buy Me a Coffee?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Buy Me a Coffee is a platform that allows creators and maintainers to receive small, one-time contributions. It is ideal for developers seeking lightweight funding without the complexities of recurring payments or formalized support."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is Tidelift?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Tidelift connects organizations using open-source software with maintainers who provide long-term support. It offers guaranteed, recurring funding to developers who maintain their projects, enabling them to focus on sustainable development."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role do grants and foundations play in open-source funding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Grants and foundations like the Linux Foundation, Mozilla Open Source Support Fund (MOSS), and Google's Open Source Programs Office provide large-scale funding for significant open-source projects. These initiatives foster innovation and ensure the longevity of impactful projects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why are open-source funding platforms important?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open-source funding platforms address financial shortfalls faced by independent creators and teams. They sustain the development of essential tools, frameworks, and infrastructure by providing maintainers with the resources needed to continue their work and foster innovation."
+        }
+      }
+    ]
+  }
+]

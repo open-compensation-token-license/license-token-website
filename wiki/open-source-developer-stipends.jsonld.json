@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What are open source developer stipends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Open source developer stipends are financial incentives offered by organizations, nonprofits, or crowdfunding platforms to support open-source contributors. They help developers focus on projects or tasks while providing monetary support, enabling sustainable contributions to open-source software."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why are developer stipends important for open source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Developer stipends are essential for maintaining sustainability in critical open-source projects, encouraging diverse participation, and fostering innovation by providing financial stability to contributors."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What organizations offer open source developer stipends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Organizations offering open source developer stipends include initiatives like GitHub Sponsors, Open Collective, and Google's Season of Docs."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do developer stipends help maintain open source projects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Stipends provide financial stability to contributors, allowing them to focus on maintaining and improving open-source projects without suffering financial strain. This long-term support helps sustain key software that powers modern technology."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where can I learn more about open source funding opportunities?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can learn more about open source funding opportunities from resources such as the Open Source Guides (https://opensource.guide/getting-paid/), Sustain Open Source Collective (https://sustainoss.org), and GitHub’s blog on funding open-source sustainability (https://github.blog/2019-05-23-funding-open-source-sustainability/)."
+        }
+      }
+    ]
+  }
+]

@@ -1,4 +1,4 @@
-### Open Source Funding for Maintenance
+# Open Source Funding for Maintenance
 
 Open source software plays a vital role in the modern technology landscape, forming the backbone of countless applications and systems. Despite its importance, maintaining open source projects remains a significant challenge, particularly in securing adequate funding to support their long-term upkeep and stability.
 

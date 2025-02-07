@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of Contributor License Agreements (CLAs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CLAs provide legal protection by ensuring contributors have the rights to contribute their code. They enable project maintainers to modify and redistribute code while protecting against IP infringement claims."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks and challenges associated with CLAs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risks include complexity that may deter contributions, redundancy and conflicts with existing licenses, employer ownership issues, and potential rights waivers or liabilities for contributors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can legal risks associated with CLAs be mitigated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mitigation strategies include reviewing the necessity of a CLA, simplifying and aligning agreements with specific project needs, and consulting legal experts for clarity and proper alignment with open source licensing agreements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do CLAs affect contributors employed by companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contributors may face issues if their employer claims ownership over their work. It's important for CLAs to require contributors to confirm employer approval to prevent disputes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What resources are available for learning more about CLAs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Resources from the Open Source Initiative and GitHub provide more insights into CLAs and their implications."
+      }
+    }
+  ]
+}

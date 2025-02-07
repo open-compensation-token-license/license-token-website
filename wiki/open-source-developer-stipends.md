@@ -1,4 +1,4 @@
-### Open Source Developer Stipends: A Boost for Open Collaboration  
+# Open Source Developer Stipends: A Boost for Open Collaboration  
 
 Open-source software is the backbone of modern technology, powering everything from operating systems to web browsers and cloud platforms. However, the developers who contribute their time and expertise to these projects often do so for free, driven by passion or necessity. This imbalance has prompted discussions about sustainable funding models for open-source contributors. One solution gaining traction is **open source developer stipends**.
 

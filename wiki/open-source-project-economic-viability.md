@@ -1,4 +1,4 @@
-### Open Source Project Economic Viability: A Mini-Article
+# Open Source Project Economic Viability: A Mini-Article
 
 Open source projects have become a cornerstone of modern software development, enabling collaboration, innovation, and community-driven growth. However, the question of economic viability often lingers for contributors, maintainers, and organizations dependent on these projects. Ensuring sustained development while balancing financial needs is a complex issue.
 

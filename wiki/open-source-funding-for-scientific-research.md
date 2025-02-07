@@ -1,4 +1,4 @@
-## Open Source Funding for Scientific Research: A New Era of Collaboration
+# Open Source Funding for Scientific Research: A New Era of Collaboration
 
 In the rapidly evolving landscape of scientific research, the necessity for sustainable funding is more pressing than ever. The rise of open source funding provides an innovative approach to fulfilling this need by democratizing access to resources and promoting greater collaboration among researchers, institutions, and the public.
 

@@ -1,4 +1,4 @@
- # Open Source Developer Financial Support
+# Open Source Developer Financial Support
 
 Open source software drives much of today's technological landscape, powering everything from web servers to operating systems and development tools. However, the developers behind these projects often do not receive direct financial compensation for their efforts, despite the fact that their work benefits millions of users and companies worldwide. Financial support for open source developers is an increasingly important conversation in ensuring the sustainability of this vital ecosystem.
 

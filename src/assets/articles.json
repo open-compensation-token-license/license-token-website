@@ -1,5 +1,13 @@
 [
   {
+    "title": "Corporate Sponsorship Models",
+    "slug": "corporate-sponsorship-models",
+    "markdownFile": "wiki/corporate-sponsorship-models.md",
+    "jsonldFile": "wiki/corporate-sponsorship-models.jsonld.json",
+    "htmlMetadataFile": "wiki/corporate-sponsorship-models.htmlmetadata.json",
+    "lastModified": "2025-02-07T16:35:45+01:00"
+  },
+  {
     "title": "Crowdfunding Open Source Development",
     "slug": "crowdfunding-open-source-development",
     "markdownFile": "wiki/crowdfunding-open-source-development.md",

@@ -1,4 +1,4 @@
-### Open Source Funding for New Developers: Opportunities and Pathways
+# Open Source Funding for New Developers: Opportunities and Pathways
 
 Open source software (OSS) has transformed the tech industry by promoting collaboration, innovation, and community-driven development. It provides developers worldwide the chance to work on impactful projects, grow their skills, and connect with vibrant communities. For new developers, open source contributions offer a unique learning ground. However, the challenge of financial sustainability often hinders their ability to contribute consistently.
 
@@ -6,7 +6,7 @@ Fortunately, a growing ecosystem of funding mechanisms exists to support develop
 
 ---
 
-#### **Why is Open Source Funding Essential?**
+## **Why is Open Source Funding Essential?**
 
 While open source software is freely available, the time, effort, and resources required to develop and maintain projects are significant. For new developers juggling education or other financial responsibilities, it can be difficult to dedicate time to unpaid work. Funding addresses this challenge by:
 - Compensating developers for their contributions.
@@ -15,7 +15,7 @@ While open source software is freely available, the time, effort, and resources 
 
 ---
 
-#### **Funding Opportunities for New Developers**
+## **Funding Opportunities for New Developers**
 
 1. **Sponsorship Models**  
    Platforms like **[GitHub Sponsors](https://github.com/sponsors)**, **[Liberapay](https://liberapay.com/)**, and **[Open Collective](https://opencollective.com/)** allow developers to receive financial support from individuals or organizations. New developers can highlight their contributions, share project goals, and invite direct sponsorship from users and companies.
@@ -33,7 +33,7 @@ While open source software is freely available, the time, effort, and resources 
 
 ---
 
-#### **How New Developers Can Stand Out**
+## **How New Developers Can Stand Out**
 
 To make the most of these opportunities, new developers can take the following steps:  
 
@@ -44,6 +44,6 @@ To make the most of these opportunities, new developers can take the following s
 
 ---
 
-#### **Conclusion**
+## **Conclusion**
 
 Open source funding provides a pathway for new developers to contribute meaningfully while ensuring financial sustainability. By leveraging sponsorships, grants, and corporate support, developers can grow their skills, build networks, and pursue their passions. Ultimately, funding isn’t just about financial support—it’s about creating a thriving, inclusive environment for new developers to help shape the future of open source.

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What role do donations play in the open-source ecosystem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Donations are crucial in the open-source software ecosystem as they provide the financial support necessary for continuous development, security, and evolution of open-source projects. They help sustain the efforts of passionate developers who drive these collaborative and innovative initiatives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I support open-source developers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can support open-source developers by contributing through platforms such as Patreon, GitHub Sponsors, and Open Collective. These platforms facilitate ongoing funding and help communities manage and distribute finances to developers transparently."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What initiatives do large organizations take towards open-source contributions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Large organizations support open-source projects by establishing grant programs and aligning their corporate responsibilities with the ethos of open-source contributions. This support not only aids developers but also invests in the global digital landscape, ensuring a vibrant and inclusive development community."
+      }
+    }
+  ]
+}

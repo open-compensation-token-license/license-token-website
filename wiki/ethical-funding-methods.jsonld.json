@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is ethical funding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ethical funding involves aligning financial activities with sustainability, transparency, and community welfare principles. It avoids supporting industries with negative impacts and invests in sectors that contribute positively to society, such as renewable energy and education."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the core principles of ethical funding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The core principles of ethical funding include transparency and accountability, social responsibility, environmental sustainability, and ethical governance, which promote informed stakeholder engagement, societal improvement, eco-friendly investments, and diverse governance practices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are ethical funding methods applied in practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ethical funding practices include impact investing, crowdfunding for social good, green bonds, and community investment. These methods support financial returns alongside social or environmental benefits, enhance grassroots funding, finance eco-friendly projects, and boost underserved areas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is ethical funding important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ethical funding is crucial for building a just, inclusive society by harmonizing financial goals with societal and environmental priorities. It calls for adopting practices that ensure transparency, sustainability, and social equity, thereby contributing to a fairer and more sustainable future."
+      }
+    }
+  ]
+}

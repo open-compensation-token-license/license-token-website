@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is dual licensing in open source software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dual licensing is a monetization strategy where software is offered under both an open source license and a proprietary license. This approach allows companies to provide enhanced tools or support while maintaining a freely accessible version. Examples include Oracle and MongoDB."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the open core model?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The open core model is a strategy where the core functionality of a software is open source, while additional premium features are proprietary. This model is used by companies such as GitLab, which offers extra security and productivity features for a fee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do subscription and support services work in OSS monetization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Subscription and support services involve offering enterprise-grade support for open source software, ensuring efficient deployment and building a loyal customer base. Red Hat is a key example of this strategy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can hosting and cloud services monetize open source software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open source software can be provided as a hosted or cloud-based service, offering convenience and scalability to users. Amazon RDS for MySQL and Elasticsearch Service are examples of monetizing OSS through hosting and cloud services."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do donations and crowdfunding support open source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Donations and crowdfunding allow individual contributors and organizations to financially support open source projects. Platforms like Patreon, Open Collective, and GitHub Sponsors facilitate this kind of support from the community."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the implications of monetizing open source software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monetizing open source software can lead to community concerns, affect maintenance and quality, and influence innovation. It requires balancing community values with financial sustainability to ensure a thriving ecosystem."
+      }
+    }
+  ]
+}

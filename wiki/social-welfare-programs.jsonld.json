@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are social welfare programs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Social welfare programs are government or organized efforts aimed at ensuring that basic needs such as healthcare, food, and housing are accessible to all. They provide financial support and work to reduce socio-economic disparities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of social welfare programs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The purpose of social welfare programs is to address poverty and societal issues like unemployment and homelessness, promote inclusion, and foster a fair society by providing support in terms of health, nutrition, and financial assistance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the impact of social welfare programs on society?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Social welfare programs contribute to social equity, minimize poverty, stimulate economic growth through increased consumer spending, and prevent severe societal issues by addressing basic needs early on."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the challenges and criticisms of social welfare programs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include issues related to funding sustainability, avoidable dependency, and bureaucratic inefficiencies. There is also a concern about stigmatization deterring eligible individuals from accessing these programs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can policy towards social welfare programs be balanced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Policymakers need to focus on making these programs efficient and accessible while promoting self-sufficiency. Continuous evaluation and refinement are necessary to adapt to changing societal needs and economic conditions."
+      }
+    }
+  ]
+}

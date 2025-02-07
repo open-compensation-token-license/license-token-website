@@ -1,63 +1,68 @@
 {
-  "@context": {
-    "@vocab": "https://schema.org/",
-    "funder": {
-      "@id": "funder",
-      "@type": "@id"
-    },
-    "name": "name",
-    "text": "text",
-    "Corporation": "Corporation",
-    "OpenSourceProject": "OpenSourceProject"
-  },
+  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What are dedicated funding programs in corporate sponsorship for open source?",
+      "name": "What is Traditional Sponsorship?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Dedicated funding programs are initiatives by large corporations such as Google, Microsoft, and IBM to provide financial support to open-source projects. Examples include Google's 'Season of Docs' and Microsoft's 'Open Source Fund', which fund projects aligning with the corporations' strategic goals."
+        "text": "Traditional sponsorship involves companies providing direct funding for events or projects in exchange for advertising opportunities. It is commonly used in sports, music, and community events.",
+        "url": "https://en.wikipedia.org/wiki/Sponsorship#Sports_sponsorship"
       }
     },
     {
       "@type": "Question",
-      "name": "How do corporations contribute code and expertise to open-source projects?",
+      "name": "What is Cause-Related Sponsorship?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Corporations like Red Hat and Canonical contribute by providing technical expertise and code, involving their employees, infrastructure, and technical tools to help in the project's development. This support ensures projects meet professional standards and improve their quality."
+        "text": "Cause-related sponsorship merges corporate social responsibility with brand marketing by supporting initiatives that align with a corporation's values.",
+        "url": "https://www.businessnewsdaily.com/5500-cause-related-marketing.html"
       }
     },
     {
       "@type": "Question",
-      "name": "What are partnership and collaboration models in open-source sponsorship?",
+      "name": "What are Naming Rights in Sponsorship?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Corporations form strategic partnerships with open-source projects to align them with their technological roadmaps. An example is the Linux Foundation, where industry leaders collaborate to standardize and promote open-source projects."
+        "text": "Naming rights sponsorship allows businesses to acquire the naming of facilities, thereby creating expansive long-term branding opportunities.",
+        "url": "https://www.researchgate.net/publication/242199918_The_Role_of_Naming_Rights_in_Sponsorship"
       }
     },
     {
       "@type": "Question",
-      "name": "What role do corporations play in commercial support and services for open source?",
+      "name": "What is In-Kind Sponsorship?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Corporations offer commercial support and services, such as enterprise-level support, consulting, and integration services, around open-source projects. This model, used by companies like GitLab and Elastic, provides financial sustainability while contributing back to the community."
+        "text": "In-kind sponsorship involves the provision of goods or services rather than direct financial support to events or initiatives.",
+        "url": "https://thebalance.com/sponsorship-definition-2947678"
       }
     },
     {
       "@type": "Question",
-      "name": "What impact does corporate sponsorship have on open-source projects?",
+      "name": "What is Media Sponsorship?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Corporate sponsorship fosters innovation, inclusivity, and project credibility. It helps bridge the gap between volunteer-driven projects and commercially viable software, aiding in the rapid development of new features, increased security, and improved stability."
+        "text": "Media sponsorship entails media entities providing event exposure and coverage, benefiting both the event and the media partner.",
+        "url": "https://publicrelationssydney.com.au/sponsorship-and-media-opportunities-in-2021/"
       }
     },
     {
       "@type": "Question",
-      "name": "What challenges are associated with corporate sponsorship in open source?",
+      "name": "What is Digital Sponsorship?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The challenges include issues of governance, project independence, and community influence. It's essential to maintain a balance where the community retains ownership while benefiting from corporate resources. Transparent governance and community-driven decision-making are vital to mitigating these risks."
+        "text": "Digital sponsorship includes sponsoring digital content like webinars or podcasts, allowing businesses to engage with targeted audiences effectively.",
+        "url": "https://digitalmarketinginstitute.com/blog/types-of-digital-sponsorship-influence"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the Benefits and Challenges of Corporate Sponsorships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Corporate sponsorships provide increased brand recognition and community involvement opportunities. However, they require strategic foresight to select suitable partnerships and measure impacts.",
+        "url": "https://knowhow.ncvo.org.uk/funding/fundraising/sponsorship"
       }
     }
   ]

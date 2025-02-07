@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is software sustainability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Software sustainability refers to the practice of building and maintaining software systems that are lasting, adaptable, and responsible, addressing technical, ecological, economic, and social dimensions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key aspects of technical sustainability in software development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Technical sustainability focuses on maintaining and updating software through agile methodologies and scalable system design, such as microservices architecture."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does software contribute to ecological sustainability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ecological sustainability in software includes initiatives like the Green Software Foundation to reduce carbon emissions and practices to enhance energy efficiency through optimized code and use of renewable energy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does open source software play in economic sustainability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open source software supports economic sustainability by fostering collaborative development, which helps ensure the longevity and adaptability of software solutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is inclusive design important for social sustainability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inclusive design is key to social sustainability as it ensures that technology is accessible to a diverse range of users, promoting fairness and accessibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can ethical considerations influence software development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ethical considerations in software development aim to ensure fairness and privacy, guiding developers to create responsible technology solutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can software sustainability be promoted effectively?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Promoting software sustainability involves education and advocacy, as well as the implementation of policy frameworks that establish standards and certifications for sustainable practices."
+      }
+    }
+  ]
+}

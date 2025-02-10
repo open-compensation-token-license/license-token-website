@@ -1,6 +1,6 @@
 import {HttpClient} from '@angular/common/http';
 import {MarkdownComponent} from 'ngx-markdown';
-import {Component, inject, OnInit, ViewChild, ViewEncapsulation} from '@angular/core';
+import {Component, ElementRef, inject, OnInit, ViewChild, ViewEncapsulation} from '@angular/core';
 import {ActivatedRoute, Router, RouterLink} from '@angular/router';
 import {CommonModule} from '@angular/common';
 import {MatListItem, MatNavList} from '@angular/material/list';
@@ -68,6 +68,7 @@ export class ArticlesComponent implements OnInit {
   jsonLdService = inject(JsonLdService);
 
   @ViewChild('sidenav') sidenav!: MatSidenav;
+  @ViewChild('searchField') searchField?: ElementRef<HTMLInputElement>;
 
   ngOnInit(): void {
     this.route.params
@@ -127,8 +128,12 @@ export class ArticlesComponent implements OnInit {
     });
   }
 
+  getArticleLink(article: { slug: string }): string {
+    return `/wiki/${article.slug}`;
+  }
+
   navigateToArticle(article: { slug: string }): void {
-    this.router.navigate(['/wiki', article.slug]);
+    this.router.navigate([this.getArticleLink(article)]);
     this.clearSearch();
   }
 
@@ -156,8 +161,15 @@ export class ArticlesComponent implements OnInit {
     });
   }
 
+
   toggleSearch(): void {
     this.showSearch = !this.showSearch;
+    if (this.showSearch) {
+      setTimeout(() => {
+        this.searchField?.nativeElement.focus();
+        this.searchField?.nativeElement.select();
+      })
+    }
   }
 
   searchArticles(): void {

@@ -37,10 +37,7 @@
 <mat-sidenav-container>
   <mat-sidenav #sidenav mode="side" opened>
     <mat-nav-list>
-      <mat-list-item
-        *ngFor="let article of articlesList"
-        (click)="navigateToArticle(article); sidenav.toggle()"
-      >
+      <mat-list-item *ngFor="let article of articlesList" (click)="navigateToArticle(article); sidenav .toggle()">
         <a matLine [class.active]="activeFile === article.markdownFile">{{ article.title }}</a>
       </mat-list-item>
     </mat-nav-list>
@@ -78,7 +75,7 @@
               </div>
               <markdown [data]="activeContent"></markdown>
               <div *ngIf="getNextArticle() as nextArticle" class="next-article-link">
-                >>> Read more in the next post <a (click)="navigateToArticle(nextArticle)">{{ nextArticle.title }}</a>
+                >>> Read more in the next post <a [routerLink]="[ getArticleLink(nextArticle) ]" rel="ugc">{{ nextArticle.title }}</a>
               </div>
             </div>
           </div>
@@ -87,7 +84,7 @@
               <h2>{{ contentMessage }}</h2>
               <div *ngFor="let article of articlesList">
                 <p>
-                  - <a (click)="navigateToArticle(article)">{{ article.title }}</a>
+                  - <a [routerLink]="[ getArticleLink(article) ]" rel="ugc">{{ article.title }}</a>
                 </p>
               </div>
             </div>

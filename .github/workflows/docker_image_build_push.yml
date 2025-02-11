@@ -41,4 +41,4 @@ jobs:
 
       - name: Inspect
         run: |
-          docker image inspect iunera/druid:$IMAGE_TAG
+          docker image inspect iunera/license-token-website:$IMAGE_TAG

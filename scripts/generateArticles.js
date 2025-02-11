@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
+const {execSync} = require('child_process');
 
-const wikiDir = path.join(__dirname, '../wiki'); // Adjust path as necessary
+const wikiDir = path.join(__dirname, '../wikisrc'); // Adjust path as necessary
 const outputFile = path.join(__dirname, '../src/assets/articles.json');
 
 function generateSlug(fileName) {
@@ -15,13 +15,24 @@ function generateSlug(fileName) {
 function getLastGitCommitTimestamp(filePath) {
   try {
     // Execute the git command to get the last commit date in ISO format
-    const timestamp = execSync(`git log -1 --format=%cI -- "${filePath}"`, { cwd: wikiDir })
+    const timestamp = execSync(`git log -1 --format=%cI -- "${filePath}"`, {cwd: wikiDir})
       .toString()
       .trim();
+    if (!timestamp) {
+      throw new Error('Empty timestamp');
+    }
+
     return timestamp;
   } catch (error) {
     console.warn(`Could not retrieve Git commit timestamp for "${filePath}":`, error.message);
-    return null;
+
+    // Fallback: get the file last modified timestamp using the filesystem
+    try {
+      const stats = fs.statSync(filePath);
+      return stats.mtime.toISOString();
+    } catch (fsError) {
+      console.error(`Could not retrieve filesystem timestamp for "${filePath}":`, fsError.message);
+    }
   }
 }
 
@@ -60,9 +71,9 @@ function scanMarkdownFiles() {
     articles.push({
       title,
       slug: generateSlug(file),
-      markdownFile: `wiki/${file}`,         // Adjust path to match Angular's assets
-      jsonldFile: `wiki/${jsonldCandidate}`,
-      htmlMetadataFile: `wiki/${metadataCandidate}`,
+      markdownFile: `wikisrc/${file}`,         // Adjust path to match Angular's assets
+      jsonldFile: `wikisrc/${jsonldCandidate}`,
+      htmlMetadataFile: `wikisrc/${metadataCandidate}`,
       lastModified, // Added lastModified timestamp from Git
     });
   }

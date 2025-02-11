@@ -5,7 +5,7 @@ const path = require('path');
 const cheerio = require('cheerio');
 
 // Configuration
-const BASE_URL = 'https://www.license-token.com/#/wiki/';
+const BASE_URL = 'https://www.license-token.com/wiki/';
 const ARTICLES_JSON_PATH = path.join(__dirname, '../src/assets/articles.json');
 const SITEMAP_XML_PATH = path.join(__dirname, '../src/sitemap.xml');
 

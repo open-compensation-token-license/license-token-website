@@ -34,8 +34,8 @@
               },
               {
                 "glob": "**/*",
-                "input": "wiki",
-                "output": "wiki"
+                "input": "wikisrc",
+                "output": "wikisrc"
               },
               {
                 "glob": "**/*",
@@ -123,8 +123,8 @@
               },
               {
                 "glob": "**/*",
-                "input": "wiki",
-                "output": "wiki"
+                "input": "wikisrc",
+                "output": "wikisrc"
               },
               {
                 "glob": "**/*",

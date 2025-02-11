@@ -74,7 +74,8 @@ export class ArticlesComponent implements OnInit {
     this.route.params
       .pipe(
         switchMap((params: RouteParams) => {
-          const slug = params.slug || '';
+          let slug = params.slug || '';
+          slug = slug.replace(/\.html$/, '');
 
           return this.httpClient
             .get<Article[]>('assets/articles.json')

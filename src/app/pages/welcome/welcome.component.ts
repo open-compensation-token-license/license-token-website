@@ -117,28 +117,28 @@ export class WelcomeComponent {
       {
         title: 'Tracking, Prediction and Analytics',
         link: 'https://www.iunera.com/kraken/big-data-examples/third-party-data-geotracking-coronavirus/',
-        image: 'assets/images/logo-trackingapp.png',
+        image: 'assets/images/logo-trackingapp.webp',
         alt: 'Tracking App',
         subtitle: 'Insights from Covid pandemic tracking apps',
       },
       {
         title: 'AI Social Altcoin Analytics',
         link: 'https://www.youtube.com/watch?v=4tv_L7W76b8',
-        image: 'assets/images/logo-scoinanalytics.png',
+        image: 'assets/images/logo-scoinanalytics.webp',
         alt: 'Scoinanalytics',
         subtitle: 'AI-powered altcoin trends and tweetbot'
       },
       {
         title: 'AI Analytics of German Federal Election',
         link: 'https://www.iunera.com/kraken/projects/baden-tv-interview-dr-frey-bundestagswahlanalyse/',
-        image: 'assets/images/logo-bundestagswahlanalyse.png',
+        image: 'assets/images/logo-bundestagswahlanalyse.webp',
         alt: 'Election Analytics',
         subtitle: 'In-depth election analysis powered by AI'
       },
       {
         title: 'Swarm Travel Guide Apps',
         link: 'https://www.chip.de/downloads/Stappz-Android-App_74740571.html',
-        image: 'assets/images/logo-stappz.png',
+        image: 'assets/images/logo-stappz.webp',
         alt: 'Stappz',
         subtitle: 'Discover destinations with travel guide apps'
       },

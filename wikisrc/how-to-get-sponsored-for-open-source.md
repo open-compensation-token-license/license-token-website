@@ -11,6 +11,8 @@ The Blockchain License User Group in Bangalore serves as the central hub for:
 - **Workshops & Events**: Learn about token-based funding, project best practices, and upcoming hackathons held across Bangalore’s major tech hotspots (Koramangala, HSR Layout, Whitefield, and others).
 - **On-Chain Compensation**: This well-established Blockchain License ensures that open source contributors receive transparent and tangible rewards for their work.
 
+For more insights on [open source sponsorship](https://www.license-token.com/wiki/open-source-sponsorship), explore our detailed guide.
+
 ---
 
 ## 2. Build a Recognizable Open Source Profile
@@ -20,7 +22,9 @@ The Blockchain License User Group in Bangalore serves as the central hub for:
 - **Showcase Your Work**: Keep your GitHub profile active, highlighting significant contributions to attract potential sponsors in Bangalore's tech circles.
 
 ### Local Tip
-• Present your open source accomplishments at Bangalore tech conferences or in specialized meetups to increase visibility, credibility, and potential sponsorships.
+Present your open source accomplishments at Bangalore tech conferences or in specialized meetups to increase visibility, credibility, and potential sponsorships.
+
+Learn more about [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) to enhance your project's longevity.
 
 ---
 
@@ -32,7 +36,9 @@ Extend your funding sources by pairing traditional sponsorship platforms with th
 - **[Patreon](https://www.patreon.com/)** & **[Buy Me a Coffee](https://www.buymeacoffee.com/)**: Suitable for recurring or one-time individual supporter contributions.
 
 ### Why This Matters in Bangalore
-• Many startups and established tech companies in Bangalore sponsor open source projects. The integration of Blockchain Licenses ensures an additional layer of accountability, which appeals to businesses prioritizing transparency.
+Many startups and established tech companies in Bangalore sponsor open source projects. The integration of Blockchain Licenses ensures an additional layer of accountability, which appeals to businesses prioritizing transparency.
+
+Explore various [open source project sponsorship platforms](https://www.license-token.com/wiki/open-source-project-sponsorship-platforms) to diversify your funding channels.
 
 ---
 
@@ -42,6 +48,8 @@ Extend your funding sources by pairing traditional sponsorship platforms with th
 - **Foundations and Grants**: Look into funding opportunities from entities like Mozilla or Google and highlight how integrating Blockchain Licenses improves accountability and transparency.
 - **Local Tech Forums**: Join Bangalore-specific LinkedIn groups or participate in open source and blockchain-oriented meetups to connect with like-minded individuals and businesses.
 
+For more strategies, check out [open source project funding strategies](https://www.license-token.com/wiki/open-source-project-funding-strategies).
+
 ---
 
 ## 5. Communicate Your Needs Clearly
@@ -49,6 +57,8 @@ Extend your funding sources by pairing traditional sponsorship platforms with th
 - **Visibility**: Clearly explain in repositories and website documentation how your project benefits from sponsorship—be it through Blockchain License tokens or traditional funding.
 - **Transparency**: Share regular project updates, discuss your use of resources openly, and outline your progress toward milestones.
 - **Targeted Outreach**: Use social media to post updates and follow Bangalore-focused hashtags (#BengaluruTech, #OpenSourceInBangalore, #BlockchainFunding) to exponentially increase your sponsorship reach.
+
+Learn more about [open source financial transparency](https://www.license-token.com/wiki/open-source-project-financial-transparency) to build trust with potential sponsors.
 
 ---
 
@@ -58,6 +68,8 @@ Local sponsors in Bangalore appreciate acknowledgment and engagement:
 - **Acknowledgment**: Highlight sponsors prominently in your project’s README or dedicate a section of your documentation to recognizing their contributions.
 - **Exclusive Perks**: Offer sponsors early previews of features, closed beta versions, or similar incentives.
 - **Local Events**: Host meetups to demonstrate your project in real-time and offer contributors and sponsors an opportunity to connect face-to-face.
+
+Explore the [benefits of corporate sponsorship](https://www.license-token.com/wiki/corporate-sponsorship-benefits) to enhance your project's appeal.
 
 ---
 

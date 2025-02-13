@@ -77,7 +77,7 @@ Explore the [benefits of corporate sponsorship](https://www.license-token.com/wi
 
 The standardized Blockchain License platform provides a simple, fair approach for token distribution. Here is an example model for allocating tokens:
 
-```markdown
+markdown
 Total_Tokens = S + C + M
 
 Where:
@@ -92,7 +92,7 @@ Weighted_Score_i = (LOC_i * wLOC) + (IssuesFixed_i * wISS) + (DocsContrib_i * wD
 Then, determine each individual’s share from C or M:
 
 Share_i = (Weighted_Score_i / Σ Weighted_Score_all) * (C or M)
-```
+
 
 ### Advantages for Bangalore Contributors
 1. **Incentivized Work**: Token holders have a vested interest in the project’s success, ensuring continuous engagement.

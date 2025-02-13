@@ -1,4 +1,3 @@
-```markdown
 # Open Source Project Funding Trends
 
 The world of open source software has experienced tremendous growth over the years, with numerous projects emerging to cater to diverse needs. However, one of the significant challenges faced by these projects is securing adequate funding to sustain their development and maintenance. In this article, we will delve into the trends shaping open source project funding, exploring the traditional models, newer strategies, and the impact of blockchain and cryptocurrency on this landscape.
@@ -50,4 +49,3 @@ For more information on open source funding and how you can contribute or suppor
 - [Linux Foundation](https://www.linuxfoundation.org/)
 
 Together, we can build a stronger foundation for the open source community by embracing these funding trends and ensuring that the software of the future remains accessible, collaborative, and innovative.
-```

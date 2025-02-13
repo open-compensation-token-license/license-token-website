@@ -1,4 +1,3 @@
-```markdown
 # Open Source Developer Income Sources
 
 Open source development has grown exponentially, with developers contributing to projects that power much of today’s technology. While open source software is freely available, developers often wonder: how do contributors earn income from their efforts? Thankfully, there are several revenue streams available for open source developers.
@@ -36,4 +35,3 @@ Several organizations and companies offer grants or rewards for contributing to 
 ## Conclusion
 
 Open source development is no longer just a labor of love—it has evolved into a viable career path. With sponsorships, corporate support, premium features, and opportunities for consulting or training, developers can sustainably support their work while continuing to contribute value to the open source community. By building expertise and leveraging multiple income streams, open source developers can thrive both professionally and financially. For more insights, visit [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
-```

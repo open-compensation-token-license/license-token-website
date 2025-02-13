@@ -1,4 +1,3 @@
-```markdown
 # Open Source Funding Guide
 
 Open source software has revolutionized the technology landscape, fostering innovation, collaboration, and accessibility. However, sustaining open source projects requires reliable funding to cover development costs, maintenance, and community support. This guide explores various strategies and best practices for securing funding to ensure the longevity and success of open source initiatives.
@@ -69,4 +68,3 @@ For more resources, visit:
 - [Open Source Initiative](https://opensource.org/)
 - [Fundraising for Open Source](https://fundraisingopensource.com/)
 - [Sustain Open](https://www.sustainopensource.com/)
-```

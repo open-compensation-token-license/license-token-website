@@ -1,4 +1,3 @@
-```markdown
 # Unlocking Sustainability: Funding Solutions for Open Source Projects
 
 The open-source software movement has revolutionized the tech industry, democratizing access to powerful tools and fostering collaboration across the globe. However, beneath the surface of this community-driven revolution lies a persistent challenge: funding. Many open-source projects struggle to sustain themselves due to a lack of financial support. As more individuals and organizations become reliant on these projects, finding viable funding solutions has become crucial. Here we explore various ways open-source projects can secure funding and ensure their longevity.
@@ -26,5 +25,3 @@ For many open-source projects, particularly those in enterprise software, offeri
 ## Conclusion
 
 Navigating the funding landscape for open-source projects is complex but increasingly critical. By exploring a combination of these funding solutions, open-source projects can find pathways to sustainability. Community-driven collaboration remains at the heart of open-source, and with the right funding structures in place, these projects can continue to foster innovation and accessibility in the digital age. Each funding solution presents its own challenges and opportunities, but with careful strategy, open-source projects can thrive long into the future. For additional strategies, consider [sustainable funding for open-source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
-
-```

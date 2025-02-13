@@ -1,4 +1,3 @@
-```markdown
 # Exploring Dual Licensing in Open Source Software
 
 Dual licensing in open-source software serves as an innovative method for balancing community engagement with commercial interests. This approach allows software creators to extend the reach of their projects while establishing a revenue model. Let's delve into how dual licensing operates, its benefits, and notable examples that highlight its application.
@@ -34,4 +33,3 @@ Dual licensing effectively merges the benefits of open-source collaboration with
 For more detailed insights into open-source licenses, including dual licensing strategies, you can explore resources at the [Open Source Initiative](https://opensource.org/). Additionally, understanding the challenges and strategies for [open-source monetization](https://www.license-token.com/wiki/open-source-monetization-challenges-and-strategies) can further enhance the effectiveness of dual licensing.
 
 By integrating these strategies, developers can ensure that their projects not only survive but thrive in the competitive software landscape.
-```

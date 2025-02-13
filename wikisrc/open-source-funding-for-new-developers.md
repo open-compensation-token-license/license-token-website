@@ -1,4 +1,3 @@
-```markdown
 # Open Source Funding for New Developers: Opportunities and Pathways
 
 Open source software (OSS) has transformed the tech industry by promoting collaboration, innovation, and community-driven development. It provides developers worldwide the chance to work on impactful projects, grow their skills, and connect with vibrant communities. For new developers, open source contributions offer a unique learning ground. However, the challenge of financial sustainability often hinders their ability to contribute consistently. 
@@ -52,5 +51,3 @@ To make the most of these opportunities, new developers can take the following s
 ## **Conclusion**
 
 Open source funding provides a pathway for new developers to contribute meaningfully while ensuring financial sustainability. By leveraging sponsorships, grants, and corporate support, developers can grow their skills, build networks, and pursue their passions. Ultimately, funding isn’t just about financial support—it’s about creating a thriving, inclusive environment for new developers to help shape the future of open source. For further reading, consider exploring [open source funding strategies](https://www.license-token.com/wiki/open-source-funding-strategies).
-
-```

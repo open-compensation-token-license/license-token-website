@@ -1,4 +1,3 @@
-```markdown
 # Funding Open Source Contributors: Empowering Sustainable Innovation
 
 Open source software plays an integral role in powering the modern digital ecosystem. From operating systems to web frameworks, countless projects heavily depend on open source code. However, while the software industry reaps the benefits of these projects, many open source contributors often remain unfunded, volunteering their skills and time without financial compensation. The issue of funding open source contributors is vital to ensure the sustainability and long-term growth of the open source ecosystem.
@@ -36,4 +35,3 @@ Funding open source contributors is not just about fairness; it’s about securi
 Learn more about supporting open source contributors through initiatives like [GitHub Sponsors](https://github.com/sponsors), [Open Source Collective](https://opencollective.com/opensource), or [SustainOSS resources](https://sustainoss.org/).
 
 In a world that runs on open source software, investing in its creators is a necessity—not an option.
-```

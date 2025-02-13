@@ -1,4 +1,3 @@
-```markdown
 # Open Source Funding for Education
 
 ## Introduction
@@ -53,4 +52,3 @@ For more information on open source funding for education, visit:
 * [Creative Commons](https://creativecommons.org/)
 * [Open Source Funding for Education](https://www.license-token.com/wiki/open-source-funding-for-education)
 * [Open Source Funding for Educational Resources](https://www.license-token.com/wiki/open-source-funding-for-educational-resources)
-```

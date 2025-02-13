@@ -40,7 +40,7 @@ A freemium model offers a free version of the software while charging for premiu
 
 For popular projects with a dedicated community, selling branded merchandise such as T-shirts, stickers, or mugs can be a creative monetization approach. It fosters community engagement and generates small revenue streams. Learn more about community-driven monetization in [community-driven projects](https://www.license-token.com/wiki/community-driven-projects).
 
-*Example:* [`Vue.js` Store](https://store.vuejs.org/) offers branded Vue.js apparel and merchandise.
+*Example:* [Vue.js Store](https://store.vuejs.org/) offers branded Vue.js apparel and merchandise.
 
 ---
 

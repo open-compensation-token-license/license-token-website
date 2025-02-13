@@ -35,7 +35,7 @@ Individuals and organizations looking to sponsor open source projects can follow
 
 1. **Identify Key Projects**: Evaluate the open source tools and libraries integral to your work or industry. For guidance, check out [open source project sponsorship tips](https://www.license-token.com/wiki/open-source-project-sponsorship-tips).
 
-2. **Find Sponsorship Channels**: Check if the project lists sponsorship options via platforms like [GitHub Sponsors](https://github.com/sponsors) or [Open Collective](https://opencollective.com/). Many maintainers publicly state their funding needs in `README.md` files.
+2. **Find Sponsorship Channels**: Check if the project lists sponsorship options via platforms like [GitHub Sponsors](https://github.com/sponsors) or [Open Collective](https://opencollective.com/). Many maintainers publicly state their funding needs in README.md files.
 
 3. **Allocate Support Consistently**: Sponsorship isn’t always just a one-time event. Regular contributions ensure long-term project stability. Platforms like [GitHub Sponsors](https://github.com/sponsors) enable recurring contributions.
 

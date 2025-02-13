@@ -1,4 +1,3 @@
-```markdown
 # Open Source Project Investment
 
 **Open Source Project Investment** refers to the strategic allocation of resources—financial, human, or otherwise—into open-source software (OSS) projects for both altruistic and business-driven reasons. Open-source projects are built on publicly accessible codebases, enabling transparency, collaboration, and free redistribution. Investing in these projects benefits not only the investors but the larger developer community and ecosystems that utilize OSS.
@@ -44,5 +43,3 @@
 ## Conclusion
 
 Investing in open-source projects is both a practical and ethical choice for individuals and businesses. By ensuring the longevity and advancement of OSS, investors not only strengthen global software ecosystems but often gain competitive and reputational advantages. The key lies in fostering sustainable contributions that balance individual, community, and corporate interests. For more insights, explore [open-source monetization challenges and strategies](https://www.license-token.com/wiki/open-source-monetization-challenges-and-strategies).
-
-```

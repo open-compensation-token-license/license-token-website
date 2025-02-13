@@ -1,4 +1,3 @@
-```markdown
 # The Vital Role of Developer Community Support in Open Source
 
 In the realm of open source software, developer community support is crucial for advancing technology and promoting collaboration and innovation. This support system ensures the ongoing prosperity and advancement of open source initiatives.
@@ -37,4 +36,3 @@ Developer community support is fundamental to the success and sustainability of 
 For further reading on the economic aspects of open source, you might explore [open source project economic models](https://www.license-token.com/wiki/open-source-project-economic-models).
 
 By integrating these resources and insights, the open source community can continue to grow and adapt, ensuring that both developers and projects benefit from a robust support network.
-```

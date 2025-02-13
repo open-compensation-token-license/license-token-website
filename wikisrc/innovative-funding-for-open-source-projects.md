@@ -1,4 +1,3 @@
-```markdown
 # Innovative Funding for Open Source Projects: Exploring the Open Compensation Token License Model
 
 **Meta Description:** Discover how the Open Compensation Token License (OCTL) revolutionizes open source funding. Learn about grants, sponsorships, crowdfunding, and more with actionable insights from OCTL's whitepaper.
@@ -74,4 +73,3 @@ Open source software has transformed how we develop, share, and use technology. 
 ### Conclusion
 
 While traditional funding methods are still vital, OCTL offers a futuristic blueprint for sustainable open source development. It's an exciting time for maintainers and developers who can now see a clearer path to not just funding their projects but also ensuring their long-term viability and growth.
-```

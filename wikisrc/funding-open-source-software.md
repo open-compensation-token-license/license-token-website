@@ -49,10 +49,10 @@ Open source software (OSS) plays a critical role in the modern digital landscape
 
 Open source software forms the backbone of the internet, cloud services, AI research, and countless other areas. Funding OSS ensures:
 
-- **Long-Term Maintenance**: Quality improvements, bug fixes, and feature development are possible when developers are supported financially.
-- **Sustainability**: Reduces the risk of burnout for maintainers, ensuring consistent and reliable updates. For more on this, see [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
-- **Security**: Underfunded projects may lack the resources to patch vulnerabilities, creating risks for organizations and individuals relying on them.
-- **Community Growth**: Financial support fosters innovation and increases accessibility, encouraging participation from diverse communities.
+- **Long-Term Maintenance**: Quality improvements, bug fixes, and feature development are possible when developers are supported financially. For more on this, see [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
+- **Sustainability**: Reduces the risk of burnout for maintainers, ensuring consistent and reliable updates.
+- **Security**: Underfunded projects may lack the resources to patch vulnerabilities, creating risks for organizations and individuals relying on them. Explore [risk management strategies](https://www.license-token.com/wiki/risk-management-strategies) for more insights.
+- **Community Growth**: Financial support fosters innovation and increases accessibility, encouraging participation from diverse communities. Learn more about [community engagement strategies](https://www.license-token.com/wiki/community-engagement-strategies).
 
 ---
 

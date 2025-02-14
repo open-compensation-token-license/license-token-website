@@ -68,3 +68,5 @@ For more resources, visit:
 - [Open Source Initiative](https://opensource.org/)
 - [Fundraising for Open Source](https://fundraisingopensource.com/)
 - [Sustain Open](https://www.sustainopensource.com/)
+
+Explore additional insights on [open source funding strategies](https://www.license-token.com/wiki/open-source-funding-strategies) and [open source financial support](https://www.license-token.com/wiki/open-source-financial-support) to further enhance your project's financial health.

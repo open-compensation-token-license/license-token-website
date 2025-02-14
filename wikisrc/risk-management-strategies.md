@@ -46,6 +46,10 @@ Open source sponsorship can be a valuable tool in mitigating risks associated wi
 
 Ethical considerations are increasingly important in risk management. Adopting [ethical funding methods](https://www.license-token.com/wiki/ethical-funding-methods) can enhance a company's reputation and reduce risks associated with unethical practices.
 
+### Additional Resources
+
+For further insights into managing risks in open source projects, consider exploring topics such as [open source financial support](https://www.license-token.com/wiki/open-source-financial-support) and [open source development funding](https://www.license-token.com/wiki/open-source-development-funding). These resources can provide valuable guidance on building sustainable and resilient open source initiatives.
+
 ### Conclusion
 
 By adopting these strategies, companies can enhance resilience, seize opportunities, and navigate uncertainty effectively. For more insights into risk management strategies, explore [risk management strategies](https://www.license-token.com/wiki/risk-management-strategies) and learn how businesses capitalize on these essential practices.

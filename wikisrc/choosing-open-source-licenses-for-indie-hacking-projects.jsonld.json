@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main categories of open source licenses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open source licenses generally fall into two categories: Permissive Licenses, which offer minimal restrictions and allow integration into proprietary software, and Copyleft Licenses, which require derivative works to remain open source."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which open source licenses are considered permissive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permissive open source licenses include the MIT License, Apache License 2.0, and BSD License, all of which allow code integration into proprietary software with few restrictions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why might someone choose a Copyleft License for their project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Copyleft License, like the GNU GPL, might be chosen to ensure that all derivative works remain open source, fostering a collaborative environment and ensuring transparency in project evolution."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What factors should indie hackers consider when selecting an open source license?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indie hackers should assess their project goals, consider community involvement, understand legal and commercial implications, and project future needs. Seeking legal advice is also recommended for complex projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key features of the MIT License?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The MIT License is simplistic with maximum freedom, offering minimal restrictions and is widely popular for a variety of projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the Apache License 2.0 differ from other permissive licenses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Apache License 2.0 is permissive like other licenses but includes strong patent rights, which is beneficial for innovation-rich projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When might a Creative Commons (CC0) license be appropriate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Creative Commons (CC0) license is suitable for projects where the creator wants to relinquish all rights, supporting free and unrestricted creative sharing. It is not specifically a software license."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should be taken to choose the right open source license?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To choose the right open source license, one should clarify project objectives, recognize community norms, understand legal texts, project future needs, and consider seeking legal advice."
+      }
+    }
+  ]
+}

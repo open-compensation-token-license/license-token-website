@@ -4,7 +4,7 @@ As the world becomes increasingly reliant on [Free and Open-Source Software (FOS
 
 ## Introduction
 
-Traditionally, open source projects have relied on [donations](https://www.license-token.com/wiki/donations-for-open-source-projects), [grants](https://www.license-token.com/wiki/open-source-grants-for-developers), and [corporate sponsorships](https://www.license-token.com/wiki/corporate-sponsorship-models) to fund their development and maintenance. However, these models often fall short in providing a stable and predictable income stream for developers. This is where Open Source Developer Patronage Programs come into play.
+Traditionally, open source projects have relied on [donations](https://www.license-token.com/wiki/donations-for-open-source-projects), [grants](https://www.license-token.com/wiki/open-source-grants-for-developers), and [corporate sponsorships](https://www.license-token.com/wiki/corporate-sponsorship-models) to fund their development and maintenance. However, these models often fall short in providing a stable and predictable income stream for developers. This is where Open Source Developer Patronage Programs come into play, offering a more [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
 
 ## What are Open Source Developer Patronage Programs?
 
@@ -50,4 +50,4 @@ Open Source Developer Patronage Programs offer a promising solution for sustaina
 - [GitHub Open Source Guides](https://github.com/open-source/guides): A collection of resources for open source contributors, including guidance on patronage programs.
 - [Patreon Developer Documentation](https://www.patreon.com/developers/docs): Technical documentation for integrating Patreon with open source projects.
 
-By embracing Open Source Developer Patronage Programs, we can create a more sustainable future for FOSS and ensure that the developers who build our digital world receive the support they deserve.
+By embracing Open Source Developer Patronage Programs, we can create a more sustainable future for FOSS and ensure that the developers who build our digital world receive the support they deserve. For more insights on [open-source developer support programs](https://www.license-token.com/wiki/open-source-developer-support-programs) and [open-source developer financial support](https://www.license-token.com/wiki/open-source-developer-financial-support), explore additional resources and strategies.

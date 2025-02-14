@@ -11,7 +11,7 @@ The Blockchain License User Group in Bangalore serves as the central hub for:
 - **Workshops & Events**: Learn about token-based funding, project best practices, and upcoming hackathons held across Bangalore’s major tech hotspots (Koramangala, HSR Layout, Whitefield, and others).
 - **On-Chain Compensation**: This well-established Blockchain License ensures that open source contributors receive transparent and tangible rewards for their work.
 
-For more insights on [open source sponsorship](https://www.license-token.com/wiki/open-source-sponsorship), explore our detailed guide.
+For more insights on [open source sponsorship](https://www.license-token.com/wiki/open-source-sponsorship), explore our detailed guide. You might also be interested in understanding the [open source project sponsorship platforms](https://www.license-token.com/wiki/open-source-project-sponsorship-platforms) available to diversify your funding channels.
 
 ---
 
@@ -24,7 +24,7 @@ For more insights on [open source sponsorship](https://www.license-token.com/wik
 ### Local Tip
 Present your open source accomplishments at Bangalore tech conferences or in specialized meetups to increase visibility, credibility, and potential sponsorships.
 
-Learn more about [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) to enhance your project's longevity.
+Learn more about [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) to enhance your project's longevity. Additionally, explore [open source project funding strategies](https://www.license-token.com/wiki/open-source-project-funding-strategies) for more insights.
 
 ---
 
@@ -38,7 +38,7 @@ Extend your funding sources by pairing traditional sponsorship platforms with th
 ### Why This Matters in Bangalore
 Many startups and established tech companies in Bangalore sponsor open source projects. The integration of Blockchain Licenses ensures an additional layer of accountability, which appeals to businesses prioritizing transparency.
 
-Explore various [open source project sponsorship platforms](https://www.license-token.com/wiki/open-source-project-sponsorship-platforms) to diversify your funding channels.
+Explore various [open source project sponsorship opportunities](https://www.license-token.com/wiki/open-source-project-sponsorship-opportunities) to diversify your funding channels.
 
 ---
 
@@ -48,7 +48,7 @@ Explore various [open source project sponsorship platforms](https://www.license-
 - **Foundations and Grants**: Look into funding opportunities from entities like Mozilla or Google and highlight how integrating Blockchain Licenses improves accountability and transparency.
 - **Local Tech Forums**: Join Bangalore-specific LinkedIn groups or participate in open source and blockchain-oriented meetups to connect with like-minded individuals and businesses.
 
-For more strategies, check out [open source project funding strategies](https://www.license-token.com/wiki/open-source-project-funding-strategies).
+For more strategies, check out [open source project funding solutions](https://www.license-token.com/wiki/open-source-project-funding-solutions).
 
 ---
 
@@ -80,6 +80,7 @@ The standardized Blockchain License platform provides a simple, fair approach fo
 markdown
 Total_Tokens = S + C + M
 
+
 Where:
 - S = Sponsor Contribution Tokens
 - C = Contributor Earnings
@@ -87,10 +88,13 @@ Where:
 
 For each contributor or maintainer i, calculate a weighted score:
 
+markdown
 Weighted_Score_i = (LOC_i * wLOC) + (IssuesFixed_i * wISS) + (DocsContrib_i * wDOC)
+
 
 Then, determine each individual’s share from C or M:
 
+markdown
 Share_i = (Weighted_Score_i / Σ Weighted_Score_all) * (C or M)
 
 

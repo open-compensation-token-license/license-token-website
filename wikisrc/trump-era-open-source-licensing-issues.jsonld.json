@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How did Trump-era intellectual property policies impact open source licensing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Trump administration focused on strengthening IP enforcement to combat perceived IP theft, especially from countries like China. This raised concerns in the open source community about potential limits on modifying and sharing software freely due to stringent IP protections, potentially prioritizing proprietary interests over open methodologies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What were the cybersecurity concerns regarding open source during the Trump era?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cybersecurity became a major focus, as open source software, foundational to internet infrastructure, formed part of national security discussions. Efforts were made to promote secure coding practices and quick responses to vulnerabilities, urging the open source community to adapt to evolving security regulations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How did trade policies under the Trump administration affect international collaboration on open source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Protectionist trade policies and tariffs designed to protect American businesses resulted in increased costs related to hardware and services tied to open source software, potentially creating barriers to international collaboration vital for open source projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Did the Trump administration promote open source adoption within government?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, continuing the Federal Source Code Policy from the Obama administration, the Trump era promoted open source adoption in governmental agencies for transparency, collaboration, and cost savings, although challenges in policy application across government persisted."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How did the open source community respond to the challenges of the Trump era?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The community adapted by increasing advocacy and awareness efforts, maintaining a commitment to inclusivity and knowledge-sharing, underscoring the importance of collaboration and transparency. Organizations like the Linux Foundation and the Open Source Initiative played crucial roles in educating about open source's significance amid changing frameworks."
+      }
+    }
+  ]
+}

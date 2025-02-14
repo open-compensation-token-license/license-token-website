@@ -42,3 +42,5 @@ Think long-term when handling finances. Reserve some funds for emergencies or re
 ## Conclusion
 
 Financial planning is often overlooked in the open source world, but it is a vital step towards achieving sustainability. Clear goals, diverse monetization strategies, a transparent budget, and an engaged community can help your open source project secure the funding it needs to continue making an impact. By prioritizing financial planning, you are not only ensuring the survival of your project but also fostering its growth and success.
+
+For more information on sustainable funding, explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) and [open source project financial management](https://www.license-token.com/wiki/open-source-project-financial-management). Additionally, consider the [open source project economic models](https://www.license-token.com/wiki/open-source-project-economic-models) to better understand the financial dynamics of your project.

@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How did the Trump administration's trade policies affect open source licensing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Trump administration's trade policies focused on protecting American intellectual property, initially promoting proprietary software. This protectionist approach emphasized the value of international collaboration, a fundamental aspect of open source licensing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impact did the net neutrality repeal have on open source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The repeal of net neutrality by the FCC in 2017 threatened equal internet access, potentially disadvantaging smaller open source projects dependent on free data flow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What were the impacts of immigration policies on open source contributions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stringent immigration policies reduced the influx of international talent, affecting the diversity and volume of contributions to American-based open source projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Did the Trump administration promote open source software in government projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The administration did not explicitly promote open source solutions in government projects, missing opportunities to enhance transparency and collaborative governance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How did heightened security and surveillance under the Trump administration affect open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Increased scrutiny on software due to national security concerns highlighted the need for robust security in open source projects. This may impact how security is integrated into open source licensing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What resources can provide further insights into the impact of policies on open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For further information, consult the Open Source Initiative and the Electronic Frontier Foundation, as well as exploring topics like open source financial support."
+      }
+    }
+  ]
+}

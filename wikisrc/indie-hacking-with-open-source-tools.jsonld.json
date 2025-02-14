@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Indie Hacking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indie hacking involves entrepreneurs who choose flexibility and freedom over rapid scaling and venture capital investment, focusing instead on sustainable, bootstrapped projects. This DIY ethos allows them to juggle multiple roles and pivot quickly without the bureaucracy of larger companies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of open source in indie hacking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open source software is crucial for indie hackers due to cost-effectiveness, customization and flexibility, community and support, and transparency and security."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are essential open source tools for indie hackers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential tools include Node.js, Python, Django, Ruby on Rails, Docker, Git for development; GIMP, Inkscape, Figma for design; WordPress, WooCommerce, Ghost for content management; Mattermost, Rocket.Chat, Nextcloud for communication; and Matomo, Ackee for analytics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some case studies of indie hackers leveraging open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Examples include Maria creating a productivity tool using React, Node.js, and MongoDB, and Jon and Lisa launching an eco-friendly product site using WordPress, WooCommerce, and Matomo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the challenges and opportunities in indie hacking with open source tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include the learning curve, compatibility issues, and community reliance for support. Opportunities arise from the ability to innovate affordably and creatively using open source tools."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I learn more about indie hacking and open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For more information, explore resources such as Indie Hackers and the Open Source Initiative."
+      }
+    }
+  ]
+}

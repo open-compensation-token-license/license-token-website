@@ -15,7 +15,7 @@ For example:
 - "$100/month covers server costs."
 - "$500 will fund development on a new feature or bug fixes."
 
-Both individuals and organizations are more likely to contribute if they know exactly how their sponsorship helps.
+Both individuals and organizations are more likely to contribute if they know exactly how their sponsorship helps. Learn more about [open source project financial strategies](https://www.license-token.com/wiki/open-source-project-financial-strategies).
 
 ---
 
@@ -37,6 +37,8 @@ To encourage sponsorship, offer something in return. While monetary contributors
 - **Priority Support:** Provide quicker responses to issues or feature requests.
 - **Credibility:** Large organizations may sponsor simply to show their support for open source, but acknowledging them in your project boosts their visibility.
 
+Explore more about [open source sponsorship benefits](https://www.license-token.com/wiki/open-source-project-sponsorship-benefits).
+
 ---
 
 ### 4. **Build and Engage Your Community**
@@ -57,7 +59,7 @@ For instance:
 - "Sponsorship funds helped release v2.0.0 two months earlier than expected."
 - "The funds supported critical security fixes after reports of vulnerabilities."
 
-This transparency builds trust and encourages continued support.
+This transparency builds trust and encourages continued support. Learn more about [open source project financial transparency](https://www.license-token.com/wiki/open-source-project-financial-transparency).
 
 ---
 
@@ -76,7 +78,7 @@ Sponsoring open source can provide significant business benefits, such as:
 - **Recruiting:** It signals your company values open source and may attract talented developers.
 - **Competitive Edge:** Funding features or fixes can help tailor the project to better suit your needs while benefiting others.
 
-Choose projects aligned with your industry’s focus or areas where positive exposure will resonate with your user base.
+Choose projects aligned with your industry’s focus or areas where positive exposure will resonate with your user base. Explore more about [open source project investment opportunities](https://www.license-token.com/wiki/open-source-project-investment-opportunities).
 
 ---
 

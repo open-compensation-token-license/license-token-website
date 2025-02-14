@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are NFTs and how do they benefit indie hackers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs, or non-fungible tokens, provide a decentralized platform that allows indie hackers to create and monetize digital content without being constrained by traditional gatekeepers. This fosters innovation and financial independence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How did a digital artist succeed using NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A digital artist leveraged NFTs to directly reach a global audience, bypassing traditional art gatekeepers and gaining financial independence. This is explored in [their journey](https://example.com/nft-digital-artist-story)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was the impact of NFTs on an indie game developer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An indie game developer redefined gaming economics through NFTs, allowing players to have true ownership of in-game assets, leading to a successful project discussed in [how they achieved success](https://example.com/nft-game-developer-story)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How did an indie musician use NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An indie musician released limited-edition albums via NFTs, offering exclusive content and creating a sustainable income stream independent of record labels. The process can be read in [their innovative approach](https://example.com/nft-musician-story)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the story behind the NFT-powered fashion line?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A fashion designer launched an NFT-powered collection that connected virtual and physical fashion, targeting a tech-forward audience, as detailed in [their creative use of NFTs](https://example.com/nft-fashion-line-story)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do NFTs empower creative independence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs enable indie hackers to disrupt industries and gain financial independence. They offer limitless possibilities for innovation, providing a platform for sustainable growth and impact, similar to principles in [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source)."
+      }
+    }
+  ]
+}

@@ -12,9 +12,9 @@ Open source projects are built on the principle of collaboration, with contribut
 
 In response to this need, [funding platforms](https://www.opencollective.com/) have emerged, providing a structured way for open source projects to receive financial support. These platforms operate on various models, including but not limited to:
 
-- **Donation-based**: Allowing users to donate small sums of money directly to the project.
+- **Donation-based**: Allowing users to donate small sums of money directly to the project. Explore more about [Donations for Open Source Projects](https://www.license-token.com/wiki/donations-for-open-source-projects).
 - **Sponsorship**: Where companies can sponsor specific features or components of a project. Learn more about [Open Source Sponsorship](https://www.license-token.com/wiki/open-source-sponsorship).
-- **Grants**: Larger, often one-time payments for significant developments or milestones.
+- **Grants**: Larger, often one-time payments for significant developments or milestones. Discover [Open Source Grants for Developers](https://www.license-token.com/wiki/open-source-grants-for-developers).
 
 ## Key Players in Open Source Funding
 
@@ -29,9 +29,9 @@ Several platforms have stood out in supporting open source projects financially:
 The utilization of these platforms brings numerous benefits to the open source community:
 
 - **Sustainability**: Stable financial support helps ensure that crucial projects continue to evolve and improve. For more on this, see [Software Sustainability](https://www.license-token.com/wiki/software-sustainability).
-- **Transparency**: Donors can see exactly where their money is going, promoting trust within the community.
+- **Transparency**: Donors can see exactly where their money is going, promoting trust within the community. Learn more about [Open Source Project Financial Transparency](https://www.license-token.com/wiki/open-source-project-financial-transparency).
 - **Incentivization**: Financial rewards can motivate contributors to engage more deeply with projects they believe in.
-- **Community Engagement**: Funding platforms often facilitate interaction between donors and project maintainers, enhancing the sense of community.
+- **Community Engagement**: Funding platforms often facilitate interaction between donors and project maintainers, enhancing the sense of community. Discover [Community Engagement Strategies](https://www.license-token.com/wiki/community-engagement-strategies).
 
 ## Challenges and Future Directions
 

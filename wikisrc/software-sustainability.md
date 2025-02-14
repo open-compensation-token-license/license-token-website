@@ -17,6 +17,8 @@ Software sustainability is a crucial aspect of modern technology development, ad
 
 - **Open Source Software**: Encourages collaborative development for longevity. Investigate the impact at [Open Source Initiative](https://opensource.org/).
 - **Sustainable Funding for Open Source**: Explore strategies for maintaining financial viability in open source projects at [Sustainable Funding for Open Source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
+- **Open Source Sponsorship**: Discover how sponsorship models can support open source projects by visiting [Open Source Sponsorship](https://www.license-token.com/wiki/open-source-sponsorship).
+- **Open Source Project Forking**: Learn about the risks and benefits of forking projects in open source development at [Software Project Forking](https://www.license-token.com/wiki/software-project-forking).
 
 ## Social Sustainability
 
@@ -31,7 +33,8 @@ Software sustainability is a crucial aspect of modern technology development, ad
 
 ## Additional Considerations
 
-- **Open Source Sponsorship**: Discover how sponsorship models can support open source projects by visiting [Open Source Sponsorship](https://www.license-token.com/wiki/open-source-sponsorship).
-- **Software Project Forking**: Learn about the risks and benefits of forking projects in open source development at [Software Project Forking](https://www.license-token.com/wiki/software-project-forking).
+- **Unpaid Volunteer Work**: Recognize the contributions of unpaid volunteers in sustaining open source projects. Learn more at [Unpaid Volunteer Work](https://www.license-token.com/wiki/unpaid-volunteer-work).
+- **Open Source Project Revenue Models**: Explore different revenue models for open source projects at [Open Source Project Revenue Models](https://www.license-token.com/wiki/open-source-project-revenue-models).
+- **Open Source Developer Support Programs**: Discover support programs available for open source developers by visiting [Open Source Developer Support Programs](https://www.license-token.com/wiki/open-source-developer-support-programs).
 
 Embracing software sustainability is vital for a balanced digital evolution, ensuring that technological advancements benefit both current and future generations effectively and responsibly. By integrating these practices and principles, developers and organizations can contribute to a more sustainable digital future.

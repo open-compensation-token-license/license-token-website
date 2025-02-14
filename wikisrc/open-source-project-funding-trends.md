@@ -15,7 +15,7 @@ Traditional models of funding open source projects include:
 - **Grants**: Financial support provided by foundations or government agencies for specific purposes, such as research and development. Explore [open source grants for developers](https://www.license-token.com/wiki/open-source-grants-for-developers).
 - **Supporting Memberships**: Some projects offer memberships where individuals or organizations can pay a recurring fee to access exclusive content, priority support, or other benefits.
 
-These models have been effective in varying degrees but come with their limitations. Dependence on voluntary contributions can make project funding unpredictable, and sponsorships may introduce conflicts of interest if not managed carefully.
+These models have been effective in varying degrees but come with their limitations. Dependence on voluntary contributions can make project funding unpredictable, and sponsorships may introduce conflicts of interest if not managed carefully. For more on these challenges, visit [open source funding challenges](https://www.license-token.com/wiki/open-source-funding-challenges).
 
 ## Emerging Trends in Open Source Funding
 

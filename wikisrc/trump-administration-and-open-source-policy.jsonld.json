@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How did the Trump administration influence open source policy in the United States?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Trump administration's tenure from 2017 to 2021 was marked by a mix of deregulation, trade protectionism, and a focus on cybersecurity. This mix indirectly influenced open source adoption as deregulation efforts potentially reduced bureaucratic hurdles for developers and firms engaging with open source technologies. Although there was no explicit directive, the administration's broader goals of economic efficiency and modernization kept open source solutions in consideration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was the impact of the Trump administration's policy on federal IT infrastructure regarding open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The prior Obama administration initiated a push towards open source adoption in federal IT, which continued, albeit less aggressively, under Trump. Open source solutions were considered due to their flexibility and cost-saving potential, aligning with Trump's emphasis on trimming federal costs. The ongoing digital transformation during his tenure necessitated using open source systems to modernize while controlling government spending."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How did the Trump administration's focus on cybersecurity relate to open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Trump administration prioritized building resilient cybersecurity infrastructure, as seen in the Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure. Although open source solutions were not explicitly prioritized, the order's emphasis on flexibility and robustness in cybersecurity implicitly encouraged their consideration due to open source's transparent and potentially secure nature."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role did open source play in the private sector during the Trump administration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Trump administration's policies of reducing government intervention influenced private sector technology firms that are key contributors to the open source ecosystem. While intellectual property protections were strengthened, creating a paradox with open source's emphasis on collaborative improvement, the private sector naturally gravitated towards open source solutions for their innovation and cost-effectiveness."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was there a specific open source policy framework under the Trump administration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There was no dedicated open source policy framework under the Trump administration. Instead, the engagement with open source policy was characterized by continuity and subtle influence driven by broader administrative goals of economic efficiency, deregulation, and security. It allowed open source advocates to highlight its benefits as economically viable and secure options aligning with conservative values."
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Open Source Project Sponsorship
 
-Open source project sponsorship refers to the financial or material support provided to the maintainers and contributors of open source software. Open source software plays a critical role in the modern digital ecosystem, powering everything from operating systems to web applications and infrastructure. While this software is often offered freely, it requires significant investment in terms of time, skill, and resources. Sponsorship provides a way to ensure the sustainability of these projects and acknowledges the efforts of the individuals who create and maintain them.
+Open source project sponsorship refers to the financial or material support provided to the maintainers and contributors of open source software. Open source software plays a critical role in the modern digital ecosystem, powering everything from operating systems to web applications and infrastructure. While this software is often offered freely, it requires significant investment in terms of time, skill, and resources. Sponsorship provides a way to ensure the sustainability of these projects and acknowledges the efforts of the individuals who create and maintain them. For more on this, see [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
 
 ---
 
@@ -8,9 +8,9 @@ Open source project sponsorship refers to the financial or material support prov
 
 The importance of open source sponsorship lies in its ability to:
 
-1. **Ensure Sustainability**: Many open source maintainers work voluntarily or with limited resources. Sponsorship can empower them to dedicate more time and effort toward improving the software. For more insights, explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
+1. **Ensure Sustainability**: Many open source maintainers work voluntarily or with limited resources. Sponsorship can empower them to dedicate more time and effort toward improving the software. For more insights, explore [unpaid volunteer work](https://www.license-token.com/wiki/unpaid-volunteer-work).
 2. **Attract Talent**: Providing financial rewards or incentives can motivate contributors to join or remain dedicated to a project. Learn more about [open source contributors' motivation](https://www.license-token.com/wiki/open-source-contributors-motivation).
-3. **Secure Maintenance**: With funding, projects can address security vulnerabilities, implement new features, and provide timely updates more efficiently.
+3. **Secure Maintenance**: With funding, projects can address security vulnerabilities, implement new features, and provide timely updates more efficiently. Discover [software sustainability](https://www.license-token.com/wiki/software-sustainability).
 4. **Benefit the Ecosystem**: Sustaining high-quality open source projects ensures broader benefits for corporations, startups, and developers who rely on them. Discover the [benefits of open source sponsorship](https://www.license-token.com/wiki/open-source-project-sponsorship-benefits).
 
 ---

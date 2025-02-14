@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is indie hacking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indie hacking focuses on creating small-scale, sustainable business models, often avoiding traditional startup approaches like seeking VC funding. Indie hackers typically leverage open source tools to maintain control and reduce initial costs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does open source software benefit indie hackers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open source software provides a robust foundation for indie developers, allowing them to save time and resources. The open source community also provides essential support and collaboration opportunities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some successful indie hacking stories using open source licenses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Examples include Ghost, Mattermost, 7-Zip, WordPress, and Jitsi. Each has leveraged open source licenses like MIT, GNU LGPL, and Apache to build successful and sustainable ventures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the right licensing strategy important for open source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right licensing strategy ensures legal protection and empowers creators and users by defining how software can be used, modified, and distributed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lessons can be learned from these indie hacking success stories?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key lessons include the importance of community engagement, a strategic approach to licensing, the offering of value-added services, adaptability to market demands, and iterative product development."
+      }
+    }
+  ]
+}

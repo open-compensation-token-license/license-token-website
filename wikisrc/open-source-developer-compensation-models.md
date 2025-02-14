@@ -90,6 +90,8 @@ Some open source projects monetize by selling complementary products or services
 
 Sustaining open source projects financially is a multifaceted challenge that requires a combination of strategies tailored to the project's nature and community. By leveraging sponsorships, corporate partnerships, bounties, dual licensing, support services, crowdfunding, and marketplace sales, developers can establish viable compensation models. Ultimately, the key to success lies in balancing revenue generation with the core principles of openness and community collaboration that define the open source movement. For more strategies, visit [open source revenue generation](https://www.license-token.com/wiki/open-source-revenue-generation).
 
+For further exploration of sustainable funding methods, consider reading about [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) and the [open source project sponsorship models](https://www.license-token.com/wiki/open-source-project-sponsorship-models). Additionally, understanding [open source project financial management](https://www.license-token.com/wiki/open-source-project-financial-management) and [open source developer income strategies](https://www.license-token.com/wiki/open-source-developer-income-strategies) can provide deeper insights into maintaining financial stability in open source projects.
+
 # References
 
 - [GitHub Sponsors](https://github.com/sponsors)

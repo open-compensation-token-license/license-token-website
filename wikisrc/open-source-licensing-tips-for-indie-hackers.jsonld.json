@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are some key open source licenses indie hackers should consider?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indie hackers should consider the following licenses: \n1. MIT License: Offers simplicity and flexibility. \n2. GNU General Public License (GPL): Requires derivative works to be open source under the same terms. \n3. Apache License 2.0: Balances permissiveness with contributor protections. \n4. BSD License: Similar to MIT, providing permissive and minimal restrictions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can indie hackers align their project goals with an open source license?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indie hackers should align their project's objectives with an open source license by choosing permissive licenses like MIT or Apache for ease of use, and copyleft licenses like GPL to ensure openness."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to communicate licensing clearly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clearly stating your choice of license in a LICENSE file and README avoids confusion and is an integral part of broader community engagement strategies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should indie hackers consider regarding dependencies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indie hackers should examine the licenses of third-party dependencies to ensure compatibility and manage them effectively by understanding software project forking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can licenses be used to build a community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Licenses can foster community engagement by encouraging contributions, and choosing licenses that support community-driven projects can provide more insights."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should indie hackers approach the commercialization of open source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If monetization is a goal, indie hackers should select a license that accommodates commercial use and educate themselves on monetizing open source projects to align licensing with revenue goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to review licensing strategy regularly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As projects and market conditions evolve, licenses should be adjusted accordingly. Staying informed about open-source project funding trends can help guide these adjustments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can indie hackers seek advice on open source licensing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indie hackers can consult legal experts or engage with open-source communities and resources such as open-source developer support networks to gain valuable insights."
+      }
+    }
+  ]
+}

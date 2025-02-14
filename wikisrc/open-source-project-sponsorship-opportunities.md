@@ -18,11 +18,11 @@ Further, sponsoring an open source project grants companies a voice in the proje
 
 ## How to Engage with Open Source Sponsorship
 
-Organizations interested in sponsoring projects can start by researching projects that align with their technological interests and strategic goals. Websites like [Open Collective](https://opencollective.com) and [Patreon](https://www.patreon.com) offer platforms for finding projects seeking financial support.
+Organizations interested in sponsoring projects can start by researching projects that align with their technological interests and strategic goals. Websites like [Open Collective](https://opencollective.com) and [Patreon](https://www.patreon.com) offer platforms for finding projects seeking financial support. Additionally, exploring [open source project sponsorship platforms](https://www.license-token.com/wiki/open-source-project-sponsorship-platforms) can provide more options for engagement.
 
 Moreover, companies can connect with project maintainers directly to understand the challenges they face and discuss potential sponsorship arrangements. Establishing a dialogue ensures that the sponsorship effectively addresses the project's needs, fostering a more rewarding partnership for both parties. For tips on effective engagement, refer to [open source project sponsorship tips](https://www.license-token.com/wiki/open-source-project-sponsorship-tips).
 
-It’s vital, however, for sponsors to maintain a balanced approach in their involvement. Sponsors should respect the autonomy of open source maintainers, encouraging innovation without imposing undue constraints or expecting proprietary control over the project's direction.
+It’s vital, however, for sponsors to maintain a balanced approach in their involvement. Sponsors should respect the autonomy of open source maintainers, encouraging innovation without imposing undue constraints or expecting proprietary control over the project's direction. For more insights on maintaining balance, consider reading about [ethical funding methods](https://www.license-token.com/wiki/ethical-funding-methods).
 
 ## Conclusion
 

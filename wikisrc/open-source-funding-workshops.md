@@ -42,6 +42,16 @@ Promoting the project to attract funders involves:
 - **Creating a Strong Online Presence:** Maintaining an [up-to-date website](https://www.license-token.com/#/) and active social media channels.
 - **Storytelling:** Sharing the project's journey, success stories, and future plans to resonate with potential supporters. Learn more about [open source funding success stories](https://www.license-token.com/wiki/open-source-funding-success-stories).
 
+## Additional Resources
+
+To further explore the landscape of open source funding, consider these resources:
+
+- [Open Source Funding Challenges](https://www.license-token.com/wiki/open-source-funding-challenges): Understand the obstacles faced in securing funding.
+- [Open Source Funding Best Practices](https://www.license-token.com/wiki/open-source-funding-best-practices): Learn effective methods for obtaining financial support.
+- [Innovative Funding for Open Source Projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects): Discover creative approaches to funding.
+- [Open Source Project Sponsorship Tips](https://www.license-token.com/wiki/open-source-project-sponsorship-tips): Gain insights into attracting and managing sponsorships.
+- [Open Source Developer Support Programs](https://www.license-token.com/wiki/open-source-developer-support-programs): Explore programs designed to assist developers.
+
 ## Conclusion
 
 Open Source Funding Workshops play a pivotal role in empowering communities to sustain and grow their projects. By providing the necessary skills and strategies, these workshops help ensure that valuable open source initiatives continue to thrive and make a meaningful impact on the global tech landscape. For further reading, explore the [open source funding guide](https://www.license-token.com/wiki/open-source-funding-guide).

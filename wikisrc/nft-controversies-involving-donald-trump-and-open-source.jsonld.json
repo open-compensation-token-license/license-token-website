@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are NFTs and why are they controversial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non-Fungible Tokens (NFTs) are unique digital assets that exist on a blockchain, providing proof of ownership for digital items like art and music. They have sparked controversy due to their environmental impact, high valuations, and the complexities introduced when high-profile figures like Donald Trump enter the market."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How did Donald Trump become involved with NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Donald Trump entered the NFT space by releasing digital collectibles featuring his likeness and brand. This move was controversial due to the mixing of commercial interests with political influence and raised questions about transparency and ethical dimensions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are NFTs at odds with open-source principles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The open-source movement promotes free access and collaborative improvement of software, while NFTs assert ownership over digital goods, which can conflict with open-source principles. NFTs derived from free software models are seen as contrary to the ethos of free and open collaboration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What legal challenges do NFTs pose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs can complicate the landscape of intellectual property rights, especially for high-profile figures like Trump. There is potential for misuse of copyrighted material, unauthorized sales using a public figure's likeness, and legal disputes over rights and ownership."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do NFTs impact the market and public perception?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs, especially when associated with influential personalities, can significantly impact market valuations and public perception, sometimes causing increased interest or skepticism. However, backlash from open-source communities can also tarnish the market's reputation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of NFTs in relation to open-source values?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future of NFTs involves balancing commercial pursuits with respect for open-source values. Stakeholders must engage in dialogue and reforms to navigate these challenges while promoting inclusivity and ethical practices in digital ownership."
+      }
+    }
+  ]
+}

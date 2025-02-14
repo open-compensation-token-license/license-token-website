@@ -4,7 +4,7 @@ Open source development, once considered a domain of hobbyists and enthusiasts, 
 
 ## The Evolution of Open Source Contribution
 
-Initially, the allure of contributing to open source projects lay in the inherent challenge and the opportunity for collaboration. For many developers, it was a way to showcase skills, learn from peers, and contribute to something greater than individual proprietary products. Yet, as businesses began to depend on open source technology, the demand for sustaining developers' livelihoods through compensation became apparent.
+Initially, the allure of contributing to open source projects lay in the inherent challenge and the opportunity for collaboration. For many developers, it was a way to showcase skills, learn from peers, and contribute to something greater than individual proprietary products. Yet, as businesses began to depend on open source technology, the demand for sustaining developers' livelihoods through compensation became apparent. For an in-depth look at the motivations behind open source contributions, see [open source contributors motivation](https://www.license-token.com/wiki/open-source-contributors-motivation).
 
 ## Models of Compensation
 
@@ -12,7 +12,7 @@ Initially, the allure of contributing to open source projects lay in the inheren
 
 One of the simplest forms of compensation is direct sponsorship. Companies and individuals can support developers who work on open source projects through platforms like [GitHub Sponsors](https://github.com/sponsors) or [Patreon](https://www.patreon.com/). These platforms offer recurring or one-time payments, enabling developers to receive financial rewards for their efforts. For more insights on sponsorship, explore [open source sponsorship](https://www.license-token.com/wiki/open-source-sponsorship).
 
-Bounty programs also provide monetary incentives. Platforms like [Bountysource](https://www.bountysource.com/) allow entities to post tasks with attached financial rewards. Developers can then claim these bounties by resolving specific issues or implementing desired features.
+Bounty programs also provide monetary incentives. Platforms like [Bountysource](https://www.bountysource.com/) allow entities to post tasks with attached financial rewards. Developers can then claim these bounties by resolving specific issues or implementing desired features. Learn more about [developer compensation models](https://www.license-token.com/wiki/developer-compensation-models).
 
 ### Grants and Fellowships
 
@@ -34,4 +34,4 @@ While there are numerous paths to compensation, challenges remain. Many traditio
 
 The world of open source development is poised for transformation as the conversation about compensation becomes increasingly vital. By leveraging diverse compensation models and advocating for sustainability and equity in open source contributions, the community can continue to thrive. The ongoing challenge is to balance the spirit of open collaboration with tangible rewards, ensuring that everyone benefits from the collective effort.
 
-For more insights into open source communities and compensation, check out resources like the [Open Source Guide](https://opensource.guide/) and the [Linux Foundation’s research](https://www.linuxfoundation.org/research). By understanding and embracing effective compensation strategies, we'll ensure that the open source movement remains a cornerstone of innovation.
+For more insights into open source communities and compensation, check out resources like the [Open Source Guide](https://opensource.guide/) and the [Linux Foundation’s research](https://www.linuxfoundation.org/research). By understanding and embracing effective compensation strategies, we'll ensure that the open source movement remains a cornerstone of innovation. Additionally, explore [open source developer compensation models](https://www.license-token.com/wiki/open-source-developer-compensation-models) for a deeper understanding of the financial frameworks available.

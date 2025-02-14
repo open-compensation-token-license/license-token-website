@@ -14,9 +14,9 @@ Developers maintain open-source projects, often on a voluntary basis, dedicating
 
 3. **Grants and Donations**: Nonprofit organizations and tech foundations, such as the [Linux Foundation](https://www.linuxfoundation.org/) or [Mozilla Foundation](https://foundation.mozilla.org/), offer grants aimed at supporting the open-source community. Individual users can also provide donations through payment integrations. Discover more about grant opportunities in [open source developer grants overview](https://www.license-token.com/wiki/open-source-developer-grants-overview).
 
-4. **Selling Services**: Developers often monetize their expertise by offering consulting or implementing custom features for companies that depend on their project.
+4. **Selling Services**: Developers often monetize their expertise by offering consulting or implementing custom features for companies that depend on their project. This approach can be explored further in [open-source project revenue strategies](https://www.license-token.com/wiki/open-source-project-revenue-strategies).
 
-5. **Merchandising and Products**: Selling branded merchandise (like [stickers](https://stickermule.com/) or T-shirts) or related products can be a unique way to involve the community while raising funds.
+5. **Merchandising and Products**: Selling branded merchandise (like [stickers](https://stickermule.com/) or T-shirts) or related products can be a unique way to involve the community while raising funds. For more on this, see [monetizing open source projects guide](https://www.license-token.com/wiki/monetizing-open-source-projects-guide).
 
 ## Challenges in Open Source Fundraising
 
@@ -30,7 +30,8 @@ The open-source ecosystem thrives on collaboration, and the efforts of those mai
 
 Fundraising ensures that open-source projects continue to thrive and evolve. By leveraging donations, sponsorships, and community support, developers can create more sustainable projects, free from the pressures of unpaid labor. The key lies in fostering collaboration among businesses, developers, and users to sustain the vital infrastructure that open-source software provides. Every contribution, be it monetary or otherwise, helps build a stronger, open technology ecosystem. For strategies on sustainable funding, visit [sustainable funding open source](https://www.license-token.com/wiki/sustainable-funding-open-source).
 
-## Useful Resources:
+## Useful Resources
+
 - [Open Collective](https://opencollective.com/)
 - [GitHub Sponsors](https://github.com/sponsors)
 - [Linux Foundation](https://www.linuxfoundation.org/)

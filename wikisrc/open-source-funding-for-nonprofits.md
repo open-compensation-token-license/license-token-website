@@ -28,9 +28,9 @@ Furthermore, community involvement is crucial. By engaging with the open source 
 
 ### Challenges and Considerations
 
-Adopting open source solutions isn't without challenges. Nonprofits may face issues related to compatibility, scalability, and ongoing technical support. Additionally, transitioning from existing proprietary systems to open source alternatives can be resource-intensive.
+Adopting open source solutions isn't without challenges. Nonprofits may face issues related to compatibility, scalability, and ongoing technical support. Additionally, transitioning from existing proprietary systems to open source alternatives can be resource-intensive. For insights on managing these challenges, explore [Risk Management Strategies](https://www.license-token.com/wiki/risk-management-strategies).
 
-Nonetheless, with careful planning and commitment to community engagement, the benefits of open source funding are manifold. Nonprofits stand to gain not only in terms of financial resources but also through access to cutting-edge technologies and a global network of collaborators.
+Nonetheless, with careful planning and commitment to community engagement, the benefits of open source funding are manifold. Nonprofits stand to gain not only in terms of financial resources but also through access to cutting-edge technologies and a global network of collaborators. For further reading on sustainable funding, see [Sustainable Funding for Open Source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
 
 ### Conclusion
 

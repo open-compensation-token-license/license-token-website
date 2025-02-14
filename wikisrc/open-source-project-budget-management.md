@@ -39,7 +39,7 @@
 
 1. **Inconsistent Income**: Donations and sponsorships can be unpredictable, affecting financial stability. Learn about [open source funding challenges](https://www.license-token.com/wiki/open-source-funding-challenges).
 2. **Volunteer Burnout**: Reliance on unpaid contributors can lead to burnout without proper funding for their efforts. Understand more about [unpaid volunteer work](https://www.license-token.com/wiki/unpaid-volunteer-work).
-3. **Scalability**: Budget management becomes increasingly complex as the project and donations grow.
+3. **Scalability**: Budget management becomes increasingly complex as the project and donations grow. Explore [open source project financial management](https://www.license-token.com/wiki/open-source-project-financial-management) for more insights.
 
 ---
 
@@ -48,6 +48,8 @@
 - [Open Source Guides: Finding Financial Support](https://opensource.guide/getting-paid/)
 - [Linux Foundation Research: Open Source Funding](https://linuxfoundation.org/research/)
 - [GitHub Sponsors Documentation](https://docs.github.com/en/sponsors)
+- [Innovative Funding for Open Source Projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects)
+- [Open Source Project Financial Strategies](https://www.license-token.com/wiki/open-source-project-financial-strategies)
 
 ---
 

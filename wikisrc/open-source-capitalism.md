@@ -14,9 +14,7 @@ In the realm of software development, **Open Source Software** was traditionally
 
 ## Exploitation in Open Source
 
-The longest enduring model of [open source capitalism](https://github.com/open-compensation-token-license/octl/blob/main/octl-whitepaper.md#introduction) has been leveraging donations to support development. There's a stark disparity between the massive cost savings realized by using open source software and the relatively modest donation costs, resulting in a capitalist open source return on investment factor of 5,294 times. This economic model shows how open source can be both a source of innovation and a significant economic advantage. 
-
-For further insights on this economic model, explore [open source revenue generation](https://www.license-token.com/wiki/open-source-revenue-generation) and [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
+The longest enduring model of [open source capitalism](https://github.com/open-compensation-token-license/octl/blob/main/octl-whitepaper.md#introduction) has been leveraging donations to support development. There's a stark disparity between the massive cost savings realized by using open source software and the relatively modest donation costs, resulting in a capitalist open source return on investment factor of 5,294 times. This economic model shows how open source can be both a source of innovation and a significant economic advantage. For further insights on this economic model, explore [open source revenue generation](https://www.license-token.com/wiki/open-source-revenue-generation) and [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
 
 ## The Economics of Open Source
 
@@ -36,7 +34,7 @@ Open Source foundations define software as 'open source' when it can be exploite
 ## New Licenses Reflecting Capitalist Principles
 
 - **Open Compensation Token License (OCTL):** This license introduces a novel approach by allowing parts of the code to be sold, with licensing required for commercial use where royalties are redistributed to the code's owners. This model incentivizes contribution through financial reward, pushing towards a more direct form of **open source capitalism**.
-  
+
 - **Server Side Public License (SSPL):** Ensures that any server software using the code must share its source code publicly, aiming to prevent large corporations from monopolizing community-developed software.
 
 - **Business Source License (BSL):** Allows companies to share software with commercial use restrictions, which then transition to open-source after a set period, fostering initial commercial exclusivity while ensuring eventual open access.
@@ -47,4 +45,4 @@ Open Source foundations define software as 'open source' when it can be exploite
 - Which license best embodies the spirit of **open source capitalism**, or what criteria should we use to judge the balance between exploiting capitalism and fostering innovation?
 - Can **Open Source Capitalism** truly balance the open source ideals of freedom and collaboration with the profit motives of capitalism, or does one inevitably compromise the other?
 
-For more on these topics, explore [open source project financial strategies](https://www.license-token.com/wiki/open-source-project-financial-strategies) and [open source project economic models](https://www.license-token.com/wiki/open-source-project-economic-models).
+For more on these topics, explore [open source project financial strategies](https://www.license-token.com/wiki/open-source-project-financial-strategies), [open source project economic models](https://www.license-token.com/wiki/open-source-project-economic-models), and [innovative funding for open source projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects). Additionally, consider the [challenges and strategies for monetizing open source](https://www.license-token.com/wiki/monetizing-open-source-projects-guide) and the [impact of unpaid volunteer work](https://www.license-token.com/wiki/unpaid-volunteer-work) on the sustainability of open source projects.

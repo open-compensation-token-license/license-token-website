@@ -30,8 +30,10 @@ Larger companies, recognizing their dependency on these projects, are beginning 
 
 ### Grants and Fellowship Programs
 
-Grants, along with fellowship programs from organizations like the [Software Freedom Conservancy](https://sfconservancy.org/), provide structured financial and mentoring support to sustain mission-critical open-source projects. 
+Grants, along with fellowship programs from organizations like the [Software Freedom Conservancy](https://sfconservancy.org/), provide structured financial and mentoring support to sustain mission-critical open-source projects. For more information on grants, explore [open-source grants for developers](https://www.license-token.com/wiki/open-source-grants-for-developers).
 
 ## Conclusion
 
 The challenges surrounding open-source developer funding are complex and multifaceted. To ensure sustainability in this indispensable sector, multifarious approaches involving community involvement, increased corporate responsibility, and innovative funding models are necessary. Stakeholders across the spectrum must recognize the essential nature of open-source contributions and the associated funding needs, ensuring a vibrant and secure open-source future. For more information, consider exploring [innovative funding for open source projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects).
+
+By addressing these challenges through diverse strategies, the open-source community can continue to thrive and contribute to the technological advancements that shape our world.

@@ -31,3 +31,5 @@ To sustain funding for a small open source project, it's crucial to:
 - **Implement Governance Structures**: Establish clear governance that can make decision-making processes transparent. This encourages trust and accountability, both vital for long-term support.
 
 For small open source projects, securing funding is not just a financial necessity but a catalyst for growth and innovation. By creatively leveraging available resources and establishing a sustainable funding model, developers can ensure the longevity and continued impact of their projects while keeping the spirit of open source collaboration alive. For more on open source funding strategies, visit the [Open Source Initiative](https://opensource.org/).
+
+For additional insights, explore related topics such as [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source), [software sustainability](https://www.license-token.com/wiki/software-sustainability), and [funding open source software](https://www.license-token.com/wiki/funding-open-source-software).

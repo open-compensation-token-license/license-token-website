@@ -9,7 +9,7 @@
 Open-source software powers much of the digital infrastructure used worldwide, including [Linux](https://www.linux.org/), [Apache](https://httpd.apache.org/), and [Node.js](https://nodejs.org/). Many projects, however, are maintained by individual contributors or small teams working voluntarily. Without proper funding:
 
 - Developers risk burnout or financial instability.
-- Projects may stagnate due to lack of resources.
+- Projects may stagnate due to a lack of resources.
 - Critical software dependencies might remain unmaintained, causing security or performance issues.
 
 Patronage addresses these challenges by providing developers the means to continue their work, focus on quality improvements, and foster future development. For more insights on sustainable funding, you can explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
@@ -27,7 +27,7 @@ There are several ways to support open-source developers, including:
    Companies that rely on open-source software provide financial backing to ensure projects remain viable. Examples include [Microsoft's sponsorship](https://opensource.microsoft.com/) of various open-source projects and [Google's Open Source Programs](https://opensource.google/). Discover the benefits of [corporate sponsorship models](https://www.license-token.com/wiki/corporate-sponsorship-models).
 
 3. **Grant Funding**  
-   Nonprofits and foundations, like the [Python Software Foundation](https://www.python.org/psf/), [Mozilla Open Source Support Program](https://www.mozilla.org/en-US/moss/), and [Linux Foundation](https://www.linuxfoundation.org/), offer grants to developers for specific enhancements, research, or maintenance tasks. Explore [open-source developer grants overview](https://www.license-token.com/wiki/open-source-developer-grants-overview).
+   Nonprofits and foundations, like the [Python Software Foundation](https://www.python.org/psf/), [Mozilla Open Source Support Program](https://www.mozilla.org/en-US/moss/), and [Linux Foundation](https://www.linuxfoundation.org/), offer grants to developers for specific enhancements, research, or maintenance tasks. Explore the [open-source developer grants overview](https://www.license-token.com/wiki/open-source-developer-grants-overview).
 
 4. **Crowdfunding Campaigns**  
    Open-source maintainers run campaigns on general platforms like [Kickstarter](https://www.kickstarter.com/) or tech-specific sites like [Snowdrift.coop](https://snowdrift.coop/) to raise funds for new features or releases. For tips, see [crowdfunding open source development](https://www.license-token.com/wiki/crowdfunding-open-source-development).
@@ -44,6 +44,8 @@ Here are some prominent platforms for supporting open-source developers:
 - **[Buy Me a Coffee](https://www.buymeacoffee.com/)**: A lightweight crowdfunding method for creators, including developers.  
 - **[Tidelift](https://tidelift.com/)**: Offers maintainers a subscription-based funding model by helping enterprises manage their open-source dependencies.  
 - **[Ko-fi](https://ko-fi.com/)**: Another platform for micro-donations, similar to Buy Me a Coffee.
+
+For more on platforms, visit [open-source project sponsorship platforms](https://www.license-token.com/wiki/open-source-project-sponsorship-platforms).
 
 ---
 
@@ -63,4 +65,4 @@ For more on the impact, visit [open-source project sponsorship impact](https://w
 
 Despite its benefits, patronage is often unevenly distributed. High-profile projects (e.g., [React](https://react.dev/) or [Kubernetes](https://kubernetes.io/)) tend to attract significant funding, while smaller but essential projects struggle for support. Raising awareness through platforms such as [FOSS Fund](https://fossfund.org/) and encouraging more organizations to sponsor developers are critical to addressing this imbalance. To understand these challenges better, see [open-source funding challenges](https://www.license-token.com/wiki/open-source-funding-challenges).
 
-By supporting open-source developer patronage, individuals and organizations can ensure the development and maintenance of high-quality software that benefits everyone.
+By supporting open-source developer patronage, individuals and organizations can ensure the development and maintenance of high-quality software that benefits everyone. For further reading, explore [open-source developer patronage benefits](https://www.license-token.com/wiki/open-source-developer-patronage-benefits).

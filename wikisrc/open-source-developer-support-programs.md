@@ -6,7 +6,7 @@ Open Source Developer Support Programs are initiatives designed to help develope
 
 Support programs typically focus on several key strategies:
 
-1. **Funding and Sponsorships**: Many open-source maintainers rely on financial support to dedicate time to their projects. Programs like [GitHub Sponsors](https://github.com/sponsors) or [Open Collective](https://opencollective.com/) allow individuals and companies to directly fund developers. For more insights on funding, you can explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
+1. **Funding and Sponsorships**: Many open-source maintainers rely on financial support to dedicate time to their projects. Programs like [GitHub Sponsors](https://github.com/sponsors) or [Open Collective](https://opencollective.com/) allow individuals and companies to directly fund developers. For more insights on funding, you can explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) and [open-source sponsorship](https://www.license-token.com/wiki/open-source-sponsorship).
 
 2. **Free Tools and Services**: Companies like GitHub, Google, and Microsoft provide free access to their premium tools for open-source contributors. For instance, [GitHub Actions](https://github.com/features/actions) offers free CI/CD pipelines, and [Google Open Source](https://opensource.google/) provides cloud credits and developer tools.
 
@@ -26,7 +26,7 @@ Support programs typically focus on several key strategies:
 
 ## Why Are These Programs Important?
 
-The open-source movement has transformed software development, enabling collaboration across borders and industries. However, it’s not without challenges: developers face burnout, lack of funding, and limited resources for project maintenance. Developer support programs address these issues by offering tangible assistance, ensuring open-source projects thrive sustainably. For more on overcoming these challenges, see [open-source funding challenges](https://www.license-token.com/wiki/open-source-funding-challenges).
+The open-source movement has transformed software development, enabling collaboration across borders and industries. However, it’s not without challenges: developers face burnout, lack of funding, and limited resources for project maintenance. Developer support programs address these issues by offering tangible assistance, ensuring open-source projects thrive sustainably. For more on overcoming these challenges, see [open-source funding challenges](https://www.license-token.com/wiki/open-source-funding-challenges) and [open-source developer financial support](https://www.license-token.com/wiki/open-source-developer-financial-support).
 
 By providing essential resources, these programs empower developers to focus on innovation, attract new contributors, and handle the complexities of maintaining widely-used software. For companies, supporting such efforts helps them foster goodwill, increase exposure, and ensure the open-source projects they rely on remain secure and maintained. Explore [open-source developer financial support](https://www.license-token.com/wiki/open-source-developer-financial-support) for more information on financial assistance.
 

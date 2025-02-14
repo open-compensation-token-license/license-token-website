@@ -8,7 +8,7 @@ The Apache License, especially version 2.0 by the [Apache Software Foundation (A
 
 ### Downsides of the Apache License
 
-1. **Weak Copyleft Protection**: Compared to the [GPL](https://www.gnu.org/licenses/gpl-3.0.html), Apache License allows proprietary derivation which could discourage community contributions. This can lead to issues with [software project forking](https://www.license-token.com/wiki/software-project-forking) and the dilution of community-driven efforts.
+1. **Weak Copyleft Protection**: Compared to the [GPL](https://www.gnu.org/licenses/gpl-3.0.html), the Apache License allows proprietary derivation which could discourage community contributions. This can lead to issues with [software project forking](https://www.license-token.com/wiki/software-project-forking) and the dilution of community-driven efforts.
 
 2. **Dependency Management and Compatibility Concerns**: Although permissive, combining it with stricter licenses (e.g., GPL) might require complex legal compliance efforts. This complexity can be a barrier for small teams or individuals who prefer [reduced legal complexity](https://www.license-token.com/wiki/open-source-project-funding-strategies).
 
@@ -34,4 +34,4 @@ The Apache License, especially version 2.0 by the [Apache Software Foundation (A
 
 ### Conclusion
 
-It's vital to align your project goals with the right licensing framework. While the Apache License's freedoms are substantial, developers must evaluate whether its downsides negate its benefits for their particular needs. Exploring varied open-source licenses allows developers to choose one that best aligns with their vision and enhances the collaborative spirit of their projects.
+It's vital to align your project goals with the right licensing framework. While the Apache License's freedoms are substantial, developers must evaluate whether its downsides negate its benefits for their particular needs. Exploring varied open-source licenses allows developers to choose one that best aligns with their vision and enhances the collaborative spirit of their projects. For a deeper understanding of why some developers might avoid the Apache License, consider reading about [the downside of the Apache License](https://www.license-token.com/wiki/the-downside-of-apache-license-and-why-i-never-would-use-it).

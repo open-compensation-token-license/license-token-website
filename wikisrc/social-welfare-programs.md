@@ -21,3 +21,7 @@ Policymakers must focus on program efficiency and accessibility, promoting self-
 In summary, social welfare programs are crucial for societal equity and stability. They require ongoing refinement and innovative approaches to funding and implementation to maximize their impact and sustainability. By addressing these challenges and leveraging insights from related fields, we can enhance the effectiveness of social welfare initiatives and promote a more equitable society.
 
 For more information on global social welfare initiatives, you can explore [UNICEF's Social Policy](https://www.unicef.org/social-policy) and [World Bank's Social Protection](https://www.worldbank.org/en/topic/socialprotection) resources.
+
+## Additional Resources
+
+To further explore the intricacies of social welfare programs and their parallels with open-source funding, consider reading about [software sustainability](https://www.license-token.com/wiki/software-sustainability) and [innovative funding for open source projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects). These resources provide valuable insights into maintaining program viability and effectiveness in various contexts.

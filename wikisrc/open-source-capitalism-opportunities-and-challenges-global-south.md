@@ -1,6 +1,6 @@
 # Open Source Capitalism in the Global South
 
-The [Heise interview with Thabang Mashologu from the Eclipse Foundation](https://www.heise.de/hintergrund/Open-Source-im-Globalen-Sueden-mehr-als-nur-ein-technisches-Werkzeug-10223042.html) emphasizes open source in the Global South as an opportunity with key challenges of financing and infrastructure. Open Source Capitalism could be a solution for the Global South, offering significant implications and opportunities, but also unique challenges stemming from economic, social, and technological contexts. Here's an exploration of how it might work:
+The [Heise interview with Thabang Mashologu from the Eclipse Foundation](https://www.heise.de/hintergrund/Open-Source-im-Globalen-Sueden-mehr-als-nur-ein-technisches-Werkzeug-10223042.html) highlights open source in the Global South as an opportunity with key challenges of financing and infrastructure. Open Source Capitalism could be a solution for the Global South, offering significant implications and opportunities, but also unique challenges stemming from economic, social, and technological contexts. Here's an exploration of how it might work:
 
 ---
 
@@ -37,10 +37,10 @@ Together, these opportunities could enable the [Global South to become more inde
    - Internet access and technological infrastructure are still limited in many areas of the Global South, which could constrain participation in global open source ecosystems.
 
 2. **Exploitation Concerns**
-   - Open source capitalism could risk exploitation by large corporations that capitalize on global open source communities while providing little compensation or benefits to contributors from the Global South.
+   - Open source capitalism could risk exploitation by large corporations that capitalize on global open source communities while providing little compensation or benefits to contributors from the Global South. This is a common issue discussed in [unpaid volunteer work](https://www.license-token.com/wiki/unpaid-volunteer-work).
 
 3. **Lack of Early Financial Resources**
-   - While open source licensing reduces the cost of access to software, other associated costs (e.g., hardware, training, scaling businesses) might still be prohibitively high.
+   - While open source licensing reduces the cost of access to software, other associated costs (e.g., hardware, training, scaling businesses) might still be prohibitively high. Exploring [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) could provide solutions.
 
 4. **Weaker Legal Frameworks**
    - Intellectual property laws and enforcement mechanisms may not provide sufficiently robust protections for developers, making it difficult to ensure fair compensation under models like BSL or SSPL. The [distributed Blockchain approach of the OCTL](https://license-token.com) could be a solution for this.
@@ -57,7 +57,7 @@ Together, these opportunities could enable the [Global South to become more inde
 
 1. **Government and Institutional Support**
    - Governments could encourage open source adoption in education, public services, and local industries while creating policies that protect and incentivize local developers.
-   - Public-private partnerships could facilitate training and infrastructure development.
+   - Public-private partnerships could facilitate training and infrastructure development. More insights can be found in [government funding support](https://www.license-token.com/wiki/government-funding-support).
 
 2. **Innovative Funding Models**
    - Donation-based models or systems similar to the [Open Compensation Token License](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects) could help fund open source projects while ensuring fair compensation for developers.

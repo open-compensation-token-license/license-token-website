@@ -1,6 +1,6 @@
 # Open Source Funding Best Practices
 
-Open source software is the backbone of modern technology, with millions of developers and organizations relying on it to build applications and systems. However, sustaining and funding open source projects can be challenging. Funding ensures developers can commit time, effort, and resources to maintain, secure, and improve their projects. Without adequate funding, even mission-critical open source projects risk stagnation or maintenance voids.
+Open source software forms the backbone of modern technology, with millions of developers and organizations relying on it to build applications and systems. However, sustaining and funding open source projects can be challenging. Funding ensures developers can commit time, effort, and resources to maintain, secure, and improve their projects. Without adequate funding, even mission-critical open source projects risk stagnation or maintenance voids.
 
 This article outlines the best practices for funding open source software, helping maintainers, contributors, and organizations support these vital projects effectively.
 
@@ -97,7 +97,7 @@ Utilize platforms specifically designed to support open source projects, which o
 
 While funding can significantly alleviate burdens, open source maintainers often face the following challenges:
 
-1. **Sustainability**: One-time donations or inconsistent funding hinder long-term project stability.
+1. **Sustainability**: One-time donations or inconsistent funding hinder long-term project stability. Explore [sustainable funding open source](https://www.license-token.com/wiki/sustainable-funding-open-source).
 2. **Fair Distribution**: Deciding how to distribute funds among contributors can lead to conflicts.
 3. **Convincing Stakeholders**: Many companies and users assume open source should always remain free.
 

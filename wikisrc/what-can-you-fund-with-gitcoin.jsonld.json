@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is a platform that facilitates funding for projects across various fields by utilizing Ethereum blockchain technology and decentralized finance principles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What fields does Gitcoin support for funding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin supports funding for open source software development, decentralized finance (DeFi), climate and environment projects, education and skill development, community and social impact, and research and development."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Gitcoin's quadratic funding work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin's quadratic funding model prioritizes projects with broad support from a large number of contributors, leveraging pooled resources to maximize impact based on community interest."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I learn more about contributing or benefiting from Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can learn more about contributing or benefiting from Gitcoin by exploring their blog and engaging with their platform. Gitcoin's blog provides insights into their innovative funding mechanisms and their impact on technology and society."
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What wallet should I use to buy Drip tokens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can use a cryptocurrency wallet that supports Binance Smart Chain like MetaMask or Trust Wallet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I acquire Binance Coin (BNB) to buy Drip tokens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can purchase Binance Coin (BNB) on various exchanges such as Binance, Kraken, or Coinbase."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the steps to transfer BNB to my wallet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To transfer BNB to your wallet, get your wallet address from MetaMask or Trust Wallet and use it for withdrawal from the exchange."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I swap BNB for Drip tokens on PancakeSwap?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use PancakeSwap to swap BNB for DRIP tokens by connecting your wallet, adding the DRIP token using the correct contract address, and confirming the swap transaction."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What security measures should I take for my Drip tokens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To secure your Drip tokens, enable Two-Factor Authentication, backup your wallet's recovery seed phrase, and ensure your wallet software is updated."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What can I do with my Drip tokens after purchase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can stake your Drip tokens, participate in the referral program, or engage with the Drip community for additional benefits."
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is a decentralized platform that connects developers with open-source projects needing funding, primarily using Ethereum-based transactions for transparency and security."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should I donate through Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Donating through Gitcoin allows you to support the growth and sustainability of open-source projects, empower developers, leverage cryptocurrency, and make use of decentralized, transparent blockchain transactions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I create a Gitcoin account?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To create a Gitcoin account, visit their website, sign up using your email or GitHub account, and verify your email to secure your account."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I connect a wallet to Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need an ERC-20 compatible wallet like MetaMask or Trust Wallet with some ETH. Navigate to your Gitcoin account, connect your wallet, and authorize the integration by following the prompts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find a project to donate to on Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Browse the 'Grants' section on Gitcoin to explore projects seeking funding. Filter projects by categories of interest, review their descriptions and goals, and decide which to support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I make a donation on Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Specify the amount of ETH to donate, review transaction details including gas fees, confirm the donation, and approve it through your linked wallet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What additional tips are there for donating on Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Participate in matching rounds to amplify your impact, stay informed about project updates, engage with the community on Gitcoin forums, and consider setting up recurring donations for consistent support."
+      }
+    }
+  ]
+}

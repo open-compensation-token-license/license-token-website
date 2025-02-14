@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is a platform dedicated to supporting the financial sustainability of open-source software developers through a unique blend of crowdfunding and grants powered by blockchain and decentralized finance (DeFi)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do Gitcoin funding rounds work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin funding rounds distribute funds to open-source projects using Quadratic Funding, a mechanism that optimizes fund distribution based on community support. Individual contributions are matched from a pool based on the number of unique contributions a project receives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Quadratic Funding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quadratic Funding is a funding model that emphasizes community support. A project receiving multiple small contributions can get more matching funds than from a single large donation, thereby encouraging broad community engagement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impact do Gitcoin funding rounds have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin funding rounds provide necessary financial support to developers, foster community-driven progress, encourage diversity and resilience, and help projects align with genuine community interests."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you provide examples of notable Gitcoin funding rounds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notable Gitcoin funding rounds include Grants Round 5 in 2019, which demonstrated the potential of Quadratic Funding, Round 8 in 2020, which expanded in scale and participation, and Round 11 in 2021, which included dedicated funding categories for issues like climate change and privacy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of Gitcoin funding rounds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin plans to scale community involvement, integrate emerging technologies, strengthen partnerships, and focus on global issues like climate change and digital inclusion to adapt its funding models to future challenges."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Web3?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Web3 is a decentralized web that shifts control from tech giants to users, allowing individuals to manage their own data, identity, and transactions. It features decentralization, interoperability, blockchain utilization, and token-based economics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does Gitcoin play in the Web3 ecosystem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is a platform that catalyzes open-source development within the Web3 ecosystem by connecting developers with projects. It offers features like fund matching, bounties, grants, and hackathons, and practices decentralized governance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Web3 impact the future of work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Web3 transforms the work paradigm by enabling decentralized marketplaces, supporting user-controlled digital identities, and offering tokenized incentives, which creates more equitable and efficient opportunities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does Web3 face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Web3 faces challenges such as scalability and usability of networks, navigating the regulatory landscape, ensuring security against cyber threats, and providing inclusive access through education and accessible tools."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Gitcoin support open-source development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin supports open-source development by incentivizing contributions through fund matching, bounties, grants, and hackathons, while promoting a community-driven, decentralized governance model."
+      }
+    }
+  ]
+}

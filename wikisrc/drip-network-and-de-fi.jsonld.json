@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Drip Network?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drip Network is a decentralized finance (DeFi) protocol designed to provide users with passive income streams through staking its native cryptocurrency, DRIP. Users earn a daily return of approximately 1% by depositing DRIP tokens."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Drip Network operate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drip Network operates via liquidity mining or yield farming. Users lock up DRIP tokens in the Faucet contract to receive daily returns. It features automated smart contract rewards, a referral system, token burning mechanisms, and the compounding of returns to enhance user benefits and protocol sustainability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does Drip Network play in the DeFi ecosystem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drip Network contributes to DeFi by simplifying participation in yield farming, offering compounded daily returns to encourage saving and investing, supporting long-term user engagement, and strengthening decentralized blockchain ecosystems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the potential risks associated with Drip Network?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potential risks include market volatility affecting token value, security vulnerabilities requiring audits, the need for sustained user participation for long-term viability, and the possibility of increased regulatory scrutiny as the platform grows."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Drip Network ensure sustainability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drip Network uses mechanisms like token burning to ensure scarcity, applies fees for transaction and participation activities, and uses an automated reward system to align with long-term ecosystem sustainability."
+      }
+    }
+  ]
+}

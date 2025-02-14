@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the standard transaction tax on DRIP token transfers within the Drip Network?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard 10% tax is levied on DRIP token transfers to deter excessive trading and support the rewards pool."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the buy tax in the Drip Network?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The buy tax, usually set at 10%, is implemented to encourage the purchase of tokens within the network."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the sell tax impact the Drip Network?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 10% sell tax is applied to curb sell pressure, thereby supporting token stability within the Drip Network."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are dividend and claim taxes, and why are they important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dividend and claim taxes are applied to earnings claims, encouraging users to reinvest and strengthen the rewards pool."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the Drip Network tax structure benefit users?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The tax structure promotes long-term engagement and deters speculative trading, ensuring ecosystem sustainability and token price stability. Users can optimize their participation by adopting long-term holding strategies and carefully analyzing transaction costs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find more information about the Drip Network?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For more details on the Drip Network, visit the official [Drip Network Community website](https://drip.community/)."
+      }
+    }
+  ]
+}

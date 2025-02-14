@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are Gitcoin Bounties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin Bounties transform how open-source development is incentivized by linking developers with projects. They promote economic reward systems over traditional volunteer models to foster innovation within the open-source ecosystem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the Gitcoin Bounties reward system work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin utilizes blockchain technology to fund bounties with cryptocurrencies like Ether (ETH). Developers earn rewards by solving issues within open-source projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the process for participating in Gitcoin Bounties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Project maintainers post tasks needing development, developers then browse, apply, complete tasks, and submit their work for approval. Successful contributions are financially rewarded."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the advantages of using Gitcoin Bounties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin Bounties offer global accessibility, encourage diverse contributions leading to innovation, and provide developers with career growth, portfolio building, and community recognition."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges do Gitcoin Bounties face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include ensuring quality assurance by defining clear task goals, maintaining transparency and fairness, and securing long-term funding solutions for project support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is poised to adapt with innovations like quadratic funding, enhancing community-driven initiatives. This aligns funding with community priorities, reinforcing Gitcoin’s role in collaborative software development."
+      }
+    }
+  ]
+}

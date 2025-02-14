@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the main objective of the Arbitrum Project Grants Program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main objective of the Arbitrum Project Grants Program is to support developers and innovators by providing financial and technical assistance for creating decentralized applications on the Arbitrum platform, thereby fostering innovation and ecosystem growth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of projects does the Arbitrum Project Grants Program support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The program supports various projects, including dApp development focusing on DeFi and gaming, infrastructure and tooling to enhance development efficiency, research on layer 2 solutions, educational resources for developers, and security projects to improve infrastructure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can developers apply for the Arbitrum Project Grants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Developers can apply by submitting a detailed proposal highlighting the project's objectives and benefits to the ecosystem. The proposals are then evaluated by a committee based on innovation, feasibility, and alignment with Arbitrum's goals. Successful applications receive financial support and technical mentorship."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some notable success stories from the Arbitrum Project Grants Program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notable success stories include projects focused on cross-chain interoperability, optimized DeFi platforms, robust developer tools and SDKs, and educational initiatives such as hackathons to inspire and educate new talent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does the Arbitrum Project Grants Program face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include maintaining alignment with the program's goals, ensuring sustainable funding, and providing ongoing project support. There is also a focus on enhancing global reach and exploring emerging technologies like zero-knowledge proofs and privacy solutions."
+      }
+    }
+  ]
+}

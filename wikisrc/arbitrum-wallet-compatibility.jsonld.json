@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Arbitrum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arbitrum is a layer two scaling solution for Ethereum designed to enhance transaction efficiency and cost-effectiveness using Optimistic Rollups. It processes transactions off-chain and posts them to the Ethereum mainnet, thus reducing congestion and costs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is wallet compatibility important for using Arbitrum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wallet compatibility is crucial for seamless transactions, DApp interaction, and asset management on Arbitrum. It ensures users have enhanced security and flexibility when accessing various functionalities of the network."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I connect MetaMask to Arbitrum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To connect MetaMask to Arbitrum, users need to configure a custom RPC endpoint within the wallet settings. By inputting Arbitrum's network specifications, users can facilitate transactions on the layer two network."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which wallets are compatible with Arbitrum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several wallets are compatible with Arbitrum, including MetaMask, Trust Wallet, Ledger and Trezor (hardware wallets), Rainbow Wallet, and Argent Wallet. These options offer varying features for managing assets on Arbitrum."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I set up my wallet to connect with Arbitrum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To set up your wallet to connect with Arbitrum, access the wallet settings, add a new network or custom RPC, input Arbitrum's specifications, confirm the setup, and test transactions to ensure proper connectivity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does Arbitrum enhance Ethereum scalability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arbitrum enhances Ethereum scalability by processing transactions off-chain using Optimistic Rollups, which reduces congestion on the Ethereum mainnet, thereby lowering costs and improving transaction speeds."
+      }
+    }
+  ]
+}

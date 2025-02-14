@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is a platform that redefines the way developers and communities collaborate on open-source projects through decentralized funding and open-source collaboration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When was Gitcoin founded and by whom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin was founded in 2017 by Kevin Owocki."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the mission of Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The mission of Gitcoin is to grow and sustain open-source software by bridging the gap between funding and innovation, rewarding developers for their contributions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who are the members of the Gitcoin community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Members of the Gitcoin community, known as 'Gitcoiners', include developers, funders, and supporters from diverse backgrounds such as software engineering and project management."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role do developers play in the Gitcoin community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Developers are essential to the Gitcoin community, bringing projects to life through code and innovation, and participating in bounties, hackathons, and grants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin's Quadratic Funding model?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Quadratic Funding model in Gitcoin democratizes funding by matching individual donations with a larger pool of funds to maximize impact, supporting a range of open-source projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Gitcoin Grants program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Gitcoin Grants program facilitates funding for open-source projects, focusing on real-world problems and innovative solutions, using a collaborative funding mechanism."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do Gitcoin hackathons contribute to the community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin hackathons engage developers in solving specific challenges, showcasing their skills, collaborating, and learning from industry experts, fostering innovation and community bonds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does Gitcoin face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin faces challenges such as balancing stakeholder interests, ensuring project sustainability, and adapting to a changing technological landscape, which it addresses through transparency and community collaboration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the long-term vision of Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin envisions a more open, transparent, and inclusive digital ecosystem where decentralized governance and self-organizing communities drive innovation and equitable resource distribution."
+      }
+    }
+  ]
+}

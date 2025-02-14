@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where can I learn more about Gitcoin's governance model?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a comprehensive understanding of Gitcoin's innovative governance model, visit their official website at [Gitcoin](https://gitcoin.co/)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I participate in Gitcoin's community discussions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can participate in Gitcoin's community discussions through their [Discord](https://discord.com/invite/gitcoin) channel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find Gitcoin's development resources?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin's development resources are available on [GitHub](https://github.com/gitcoinco)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Quadratic Funding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quadratic Funding is a principle guiding decentralized organizations like Gitcoin, explained by Vitalik Buterin in his article on [Quadratic Funding](https://vitalik.ca/general/2019/12/07/quadratic.html)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I join Gitcoin's community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Join Gitcoin’s vibrant community on [Twitter](https://twitter.com/gitcoin) and [Reddit](https://www.reddit.com/r/gitcoin/), and engage in governance discussions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are Decentralized Autonomous Organizations (DAOs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Explore the concept of Decentralized Autonomous Organizations (DAOs) and their impact in the blockchain space through [this article](https://decrypt.co/34909/what-is-a-dao)."
+      }
+    }
+  ]
+}

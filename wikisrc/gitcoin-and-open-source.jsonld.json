@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is a platform founded in 2017 that utilizes blockchain technology to foster and fund open source software development, offering a sustainable path for creators and contributors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does open source software matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open source software matters because it encourages innovation through diverse contributions, helps organizations cut costs, and makes software accessible to individuals by tapping into community expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What features does Gitcoin offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin offers Bounties for developers to earn cryptocurrency, Grants for community financial support, Hackathons for global teamwork, and Quests and Kudos for gamified engagement and skill development."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Gitcoin impact the open source community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin impacts the open source community by providing financial backing and creating a thriving ecosystem that accelerates development and attracts diverse contributions, leading to a richer pool of ideas and solutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are Gitcoin's future plans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin plans to enhance collaborative opportunities through blockchain, provide robust developer tools, and emphasize educational growth, aiming to contribute significantly to the sustainability and growth of open source software."
+      }
+    }
+  ]
+}

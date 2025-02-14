@@ -1,0 +1,5 @@
+{
+  "description": "Explore the current scalability issues faced by Arbitrum, a leading Layer 2 scaling solution for Ethereum. This article delves into the challenges concerning throughput, fraud proofs, interoperability, and the balance between decentralization and efficiency. Learn about potential solutions like implementing multiple sequencers, optimizing fraud proof mechanisms, and enhancing interoperability to improve performance and security.",
+  "keywords": "Arbitrum, scalability, Ethereum, Layer 2, Optimistic Rollups, throughput, fraud proofs, decentralization, efficiency, interoperability, Ethereum 2.0",
+  "title": "Tackling Arbitrum's Scalability Issues"
+}

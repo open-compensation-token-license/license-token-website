@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is an innovative platform focused on addressing funding challenges in open-source development through unique models such as quadratic funding, which democratizes financial support for projects garnering broad community backing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Gitcoin utilize quadratic funding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quadratic funding is used by Gitcoin to democratize financial support, allowing projects with wide community backing to receive more funding, compared to traditional funding methods."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin's approach to environmental sustainability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin aims for environmental sustainability by supporting projects focused on energy efficiency and reduced carbon footprints. It aligns with Proof of Stake systems rather than more resource-intensive models."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Gitcoin promote equitable access?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin promotes equitable access by offering developers worldwide opportunities to engage in projects that foster social good, such as education and healthcare initiatives, thereby integrating technological advances with social equity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does Gitcoin face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin faces challenges such as funding volatility. However, its emphasis on community building and inclusion helps lay a solid foundation for a sustainable future in the tech ecosystem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is Gitcoin considered a model for responsible innovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is considered a model for responsible innovation because of its commitment to sustainability, community inclusion, and equitable access, which contribute to a balanced technological and social future."
+      }
+    }
+  ]
+}

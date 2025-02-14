@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin Grants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin Grants is a platform designed to fund open-source projects and initiatives that contribute to technological advancement within the blockchain ecosystem. It leverages a community-driven funding model using quadratic funding to support projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Gitcoin Grants work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin Grants operates using quadratic funding, which favors the number of contributors over the size of individual contributions. This mechanism allows smaller projects with significant community support to thrive by matching funds from multiple sources."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the steps to apply for a Gitcoin Grant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To apply for a Gitcoin Grant, follow these steps: 1. Identify your project scope and need. 2. Prepare your Gitcoin profile. 3. Create a grant application. 4. Submit and promote your grant. 5. Manage contributions. 6. Reflect and iterate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I prepare my Gitcoin profile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sign up on Gitcoin and complete your profile with a high-quality picture, a comprehensive bio, and relevant links to enhance your credibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I include in my Gitcoin Grant application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your Gitcoin Grant application should include a compelling title and description, a demonstration of your project's value proposition, a reasonable funding goal, visuals, and a detailed roadmap."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I promote my Gitcoin Grant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Promote your Gitcoin Grant through your network and engage with the Gitcoin community via Discord, forums, and townhalls. Regular updates help maintain backer engagement and trust."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I manage contributions for my Gitcoin Grant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Provide transparent reporting on fund usage, acknowledge contributions, and fulfill promises to build trust and encourage continued support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do after a Gitcoin Grant funding round?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reflect on your experience after a funding round to assess improvements and gather feedback, which will be useful for future projects or funding rounds."
+      }
+    }
+  ]
+}

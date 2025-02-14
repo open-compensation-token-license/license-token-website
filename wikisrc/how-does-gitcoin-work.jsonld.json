@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is a platform that connects developers with funding opportunities for open-source projects, using models like quadratic funding and a vibrant ecosystem of bounties, grants, and hackathons."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some features of Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin features include Quests, Bounties, Grants, Kernel, and Hackathons. These platforms provide educational tutorials, a marketplace for paid tasks, a novel funding model, a virtual accelerator, and competitive events for innovation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impact does Gitcoin have on the open-source community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin incentivizes open-source development, decentralizes funding models, fosters a global developer community, promotes innovation through hackathons, and supports lifelong learning with its Quests and Kernel programs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Gitcoin benefit developers and funders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Developers can monetize their skills and gain financial rewards, while funders have the opportunity to support transformative projects within the open-source and decentralized technology sectors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find more information about Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For more details, you can visit Gitcoin's official website at https://gitcoin.co/."
+      }
+    }
+  ]
+}

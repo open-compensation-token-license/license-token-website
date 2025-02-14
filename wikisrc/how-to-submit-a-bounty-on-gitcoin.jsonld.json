@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is a decentralized platform built on Ethereum that facilitates collaboration between developers and project funders in the blockchain space by offering bounties for specific tasks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I prepare prerequisites to submit a bounty on Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare prerequisites for submitting a bounty on Gitcoin, you must create an account using your GitHub profile, connect an Ethereum wallet such as Metamask, clearly define your task, set a reward based on standard pricing, and compile necessary documentation for contributors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I submit a bounty on Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To submit a bounty on Gitcoin, log into your account, navigate to the Bounties section, complete the submission form with the required details, deposit the funds into your Gitcoin wallet, and submit the bounty for visibility to developers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I engage with developers after submitting a bounty on Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After submitting a bounty, monitor the progress using Gitcoin’s dashboard, communicate promptly with developers to ensure clarity, and evaluate submissions based on predefined criteria."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do after receiving submissions on Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After receiving submissions, evaluate the work against predefined criteria, provide constructive feedback to developers, and approve satisfactory submissions to release the reward from escrow."
+      }
+    }
+  ]
+}

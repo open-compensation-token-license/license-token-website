@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are Gitcoin Kudos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin Kudos are digital badges that serve as tokens of appreciation and acknowledgment within the Gitcoin network. Created as non-fungible tokens (NFTs) on the Ethereum blockchain, these badges highlight contributors' skills and achievements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can Gitcoin Kudos be customized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Users can create customizable Kudos badges or choose from available options, tailoring designs and descriptions to align with community or project goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the process of minting and distributing Gitcoin Kudos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kudos are minted as NFTs, ensuring their uniqueness and secure ownership. Smart contracts manage their properties and exchange rules."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do Gitcoin Kudos impact the open source community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin Kudos bolster community motivation and productivity by recognizing individual contributions and encouraging diversity and collaboration. They serve as a portfolio tool for developers, enhancing professional visibility and facilitating networking opportunities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Gitcoin Kudos be traded or gifted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Gitcoin Kudos can be traded or gifted, serving not just as decorative badges but also as reputational assets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some success stories involving Gitcoin Kudos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin Kudos have been effectively used to drive engagement during hackathons, promote community cohesion, and acknowledge contributions beyond coding, like advocacy and design work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of Gitcoin Kudos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin's ongoing enhancement of Kudos aims to expand interoperability, integrate more deeply with professional networks, and improve customization, reshaping how contributions in professional ecosystems are rewarded and recognized."
+      }
+    }
+  ]
+}

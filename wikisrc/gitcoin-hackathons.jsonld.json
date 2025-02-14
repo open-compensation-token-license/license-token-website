@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is a platform that supports open-source software development by connecting developers with projects. It uses blockchain to incentivize and reward contributions, aiming to build and fund digital public goods."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes Gitcoin hackathons unique?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin hackathons focus on decentralization and blockchain technologies, encourage global participation, offer incentives for contributions, provide a supportive ecosystem with resources and mentorship, and align with Web3 principles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impact have Gitcoin hackathons had?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin hackathons have led to influential projects like Uniswap, Gnosis Safe, ENS, and Open-Zeppelin, which have significantly influenced the blockchain and decentralized tech space."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the challenges faced by Gitcoin hackathons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include adapting to rapid technological advancements, converting ideas into market-ready products, and navigating regulatory landscapes to ensure ethical innovation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the future directions for Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin aims to expand its influence through partnerships with educational institutions and tech hubs to enhance mentorship and streamline project launch pathways."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should one participate in a Gitcoin hackathon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Participating in a Gitcoin hackathon allows individuals to engage with cutting-edge blockchain projects, collaborate globally, and contribute to decentralization advancements, enhancing the future of the internet."
+      }
+    }
+  ]
+}

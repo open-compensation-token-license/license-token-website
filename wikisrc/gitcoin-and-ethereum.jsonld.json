@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gitcoin and how does it support open-source development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is a platform founded to address the funding challenges faced by open-source developers. It creates a space for digital collaboration by utilizing Ethereum's blockchain to operate Gitcoin Grants, employing a Quadratic Funding Model for community-driven growth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Ethereum act as the foundation for decentralized applications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ethereum is a platform for decentralized applications and smart contracts, going beyond just being a cryptocurrency. It supports innovations and transparency through a democratic structure with DAOs, aligning with Gitcoin’s mission."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In what ways does Gitcoin enhance the Ethereum ecosystem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin enhances Ethereum by incentivizing innovation, securing funding for developers, fostering community engagement, and supporting projects with real-world impact across industries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you list some success stories of projects funded through Gitcoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notable projects include Optimism, enhancing Ethereum's transaction capacity; Uniswap, leading in decentralized finance; and WalletConnect, improving wallet security and user experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the future pathways anticipated for Gitcoin and Ethereum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future directions include enhancing incentive models, adopting more DAOs for governance, focusing on Layer-2 solutions for scalability, encouraging cross-chain protocols, and supporting projects offering societal benefits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can Gitcoin and Ethereum impact the future of decentralized development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Together, Gitcoin and Ethereum embody the potential of decentralized technology, empowering developers and driving the blockchain ecosystem while promoting a more inclusive digital future."
+      }
+    }
+  ]
+}

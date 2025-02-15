@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Moonbirds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moonbirds is a prominent NFT project that combines art, technology, and community engagement. It offers unique opportunities for indie hackers in the NFT ecosystem by leveraging a blend of creativity and technology."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What opportunities exist for indie hackers in the NFT ecosystem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indie hackers can explore creating NFT art, developing NFT platforms, building community tools, leveraging NFTs for education, and developing gamification and interactive experiences with NFTs like Moonbirds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some Moonbirds-specific ideas for indie hackers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indie hackers can explore Moonbirds-specific ideas like augmented reality (AR) integration, designing branded merchandise, organizing exclusive token-gated events, and engaging in storytelling to expand the Moonbirds universe."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the challenges faced in the NFT landscape?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some of the challenges include legal and intellectual property considerations, market volatility, technical complexities, and fostering trust in the decentralized space."
+      }
+    }
+  ]
+}

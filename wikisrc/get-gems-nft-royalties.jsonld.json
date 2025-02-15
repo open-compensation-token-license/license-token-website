@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are NFTs and how does GetGems innovate in this space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs are unique digital assets authenticated through blockchain technology, providing a new way to verify and own digital content. GetGems is a pioneering platform that integrates sophisticated royalty systems, which extend beyond simple transactions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are NFT royalties important for artists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFT royalties are crucial as they allow artists to earn a percentage of secondary sales, providing sustainable income beyond the initial sale. This model is embedded into GetGems NFTs, ensuring artists can benefit continuously."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes GetGems' royalty approach unique?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GetGems allows artists to customize their royalty terms, which supports their financial and artistic goals over the long term. This flexibility promotes community and shared success between creators and collectors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do NFT royalties impact the art economy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFT royalties reshape the art economy by promoting equitable practices and ensuring financial stability, which encourages diverse voices within the market."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges exist in enforcing NFT royalties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Enforcing royalties can be challenging, as some markets bypass these payments. GetGems addresses this by integrating royalties within its platform, championing compliance and collaboration with partners to maintain this structure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of NFT marketplaces according to GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GetGems plans to enhance its royalty infrastructure and explore technologies like AI and augmented reality to lead the next wave of digital collectibles. This aims to offer enriched artistic value and user interactivity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the overall significance of GetGems' royalty model?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GetGems' royalty model demonstrates blockchain's transformative impact on creator compensation. As the NFT space evolves, GetGems will be key in fostering a fair, transparent digital art market, with royalty payments becoming fundamental to sustainable digital creativity and equity."
+      }
+    }
+  ]
+}

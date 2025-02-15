@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain is a decentralized ledger technology that records transactions securely and transparently across multiple nodes. It uses smart contracts to automate agreements, reducing reliance on intermediaries and minimizing fraud risks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does crowdfunding benefit from blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain enhances crowdfunding by providing a transparent framework for fund usage, reducing transaction costs, increasing accessibility, securing transactions, and enabling smart contract automation. This ensures accountability and trust between creators and supporters."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are smart contracts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart contracts are self-executing contracts with the terms of the agreement directly written into code. They ensure funds are dispersed only when project milestones are achieved, enhancing accountability and reassuring investors of proper fund usage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is tokenization in the context of blockchain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tokenization refers to the digital representation of assets on blockchain. It allows for new funding models such as Initial Coin Offerings (ICOs) and Security Token Offerings (STOs), providing varied investment avenues."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some current applications of blockchain in crowdfunding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current applications include blockchain-based crowdfunding platforms like FundYourselfNow for transparent fundraising, Ethereum hosting ICOs and STOs, and DAOs pooling resources and decision-making collectively."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does blockchain-based crowdfunding face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include regulatory hurdles, technical complexity, cryptocurrency volatility, and the need for education and adoption, as understanding blockchain's advantages and risks is crucial."
+      }
+    }
+  ]
+}

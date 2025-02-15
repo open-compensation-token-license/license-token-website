@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors is a platform by GitHub that allows developers to receive financial support from the community for their open-source contributions through recurring or one-time payments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the tax implications for individual developers using GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For individual developers, income received through GitHub Sponsors is typically considered taxable and may be subject to self-employment tax in the U.S. Proper record-keeping of contributions and expenses is important for accurate tax reporting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do tax considerations differ for business entities using GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Business entities must report contributions received as business income, which could potentially reduce tax liabilities through deductions and related expenses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are contributions by individual sponsors tax-deductible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For individual sponsors, contributions are generally non-deductible personal expenses. It's recommended to consult with local tax regulations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can business sponsors deduct contributions as expenses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Business sponsors may deduct contributions as business expenses if they can demonstrate a direct business purpose and maintain proper documentation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the IRS requirements for U.S. developers using GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "U.S. developers using GitHub Sponsors might need to issue 1099 forms when applicable, while ensuring compliance with IRS requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should international developers consider when using GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "International developers need to comply with their local tax laws and consider international tax treaties to address potential dual taxation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is proper record-keeping important for both developers and sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining detailed records of transactions is essential for developers and sponsors to provide evidence if audited by tax authorities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should developers and sponsors seek professional tax advice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Professional tax advice is encouraged to navigate potential liabilities, optimize tax outcomes, and ensure compliance with tax laws."
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are NFTs and how do they differ from cryptocurrencies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs, or non-fungible tokens, are unique digital tokens stored on a blockchain that represent ownership of a digital asset. Unlike cryptocurrencies, which are fungible and can be exchanged on a one-to-one basis, NFTs are distinct and unique."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you get copyright when you buy an NFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, purchasing an NFT does not mean purchasing the copyright. Copyright remains with the creator unless explicitly transferred, which can lead to misunderstandings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do smart contracts relate to NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart contracts can define the terms of NFT transactions, including specified usage rights. These automated agreements help manage rights, though they can be challenging to fully integrate with detailed copyright terms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is unauthorized minting and why is it a problem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unauthorized minting refers to the creation of NFTs from content without permission from the copyright holder. This poses significant copyright infringement issues and underscores the need for vigilance by platforms and creators."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does fair use apply to NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fair use allows certain reproductions under specific conditions. However, applying it to NFTs is complex due to their transformative nature and the global variation in legal standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What jurisdictional challenges exist with NFTs and copyright?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The decentralized nature of blockchain complicates jurisdiction for copyright disputes. Different countries have disparate copyright laws, making enforcement complex."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are creators' moral rights affected by NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Creators' moral rights, such as authorship and integrity, can be impacted by the minting of NFTs, particularly if there are unintended alterations or contexts applied to their work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should creators and collectors consider regarding NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Creators and collectors should ensure clear terms and agreements are defined for NFT sales, use smart contracts for rights and royalties, monitor platforms for unauthorized minting, consult legal experts for guidance, and educate buyers on NFT ownership nuances."
+      }
+    }
+  ]
+}

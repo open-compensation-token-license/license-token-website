@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What role does blockchain play in logistics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain offers a secure and transparent system for tracking products throughout the supply chain, enhancing transparency, improving traceability, increasing efficiency, and reducing costs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the main sources of funding for blockchain innovations in logistics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key sources include venture capital and private equity, accelerators and incubators, corporate investments, government grants, and crowdfunding through token sales."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who are the key stakeholders in funding blockchain in logistics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stakeholders include startups and innovators, logistics corporations, financial institutions and investors, regulatory bodies, governments, and technology and infrastructure providers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does blockchain face in logistics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include regulatory uncertainty, technical complexity, market volatility, and proving return on investment (ROI)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What opportunities does blockchain offer in logistics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opportunities include achieving competitive advantage, enhancing sustainability, and optimizing global supply chains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future prospect for blockchain in logistics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As regulatory landscapes clarify and strategic investments grow, blockchain can transform global supply chains, with collaboration between stakeholders being essential for long-term success."
+      }
+    }
+  ]
+}

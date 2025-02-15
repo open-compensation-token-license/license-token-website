@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology provides transparency, security, and immutability, enhancing trust and accountability, particularly in non-profit organizations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain improve transparency and accountability in non-profits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain's immutable ledger allows donors to track their contributions, ensuring full transparency in fund usage and fostering donor trust, as seen in platforms like Alice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In what ways can blockchain increase efficiency and reduce costs for non-profits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart contracts on blockchain can automate processes, reducing administration and cross-border transaction costs. Non-profits like Giveth use these tools for more efficient operations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain enhance donor engagement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain tokenization allows for interactive donor experiences through community tokens that represent contributions, demonstrated by BitGive's GiveTrack."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some real-world applications of blockchain in non-profits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Real-world applications include Alice for tracking charitable donations, Giveth for transparent philanthropy, and BitGive for cryptocurrency-based charitable giving solutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges do non-profits face when implementing blockchain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non-profits must address technical, legal, and privacy challenges. Collaborating with tech experts is essential to fully leverage blockchain's potential for social impact."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What role does blockchain play in the pharmaceutical supply chain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology enhances transparency and traceability in the pharmaceutical supply chain, ensuring drug authenticity and improving patient safety."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain help combat counterfeit drugs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain provides a secure and immutable ledger that tracks drugs from production to distribution, making it difficult for counterfeit drugs to enter the supply chain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are smart contracts, and how do they impact the pharmaceutical industry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart contracts are self-executing contracts with the terms of the agreement directly written into code. In the pharmaceutical industry, they automate processes in the supply chain, reducing errors and enhancing efficiency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain technology ensure data security in healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain secures healthcare data by encrypting it and storing it across a decentralized network, preventing unauthorized access and ensuring data integrity and confidentiality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of blockchain technology in personalized medicine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The integration of blockchain in personalized medicine can potentially improve data sharing, patient privacy, and treatment customization by creating a secure platform for managing individualized healthcare data."
+      }
+    }
+  ]
+}

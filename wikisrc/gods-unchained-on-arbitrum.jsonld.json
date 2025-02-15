@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gods Unchained?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gods Unchained is a blockchain-based trading card game developed by Immutable. To learn more, you can visit the project's official website."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is the developer behind Gods Unchained?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The developer behind Gods Unchained is Immutable. More information can be found on Immutable's official website."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What scalability challenges does Ethereum face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ethereum faces scalability issues due to limited transaction throughput and high gas fees. More details can be explored on Ethereum's official documentation about scalability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Arbitrum and how does it help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arbitrum is a Layer-2 scaling solution that enhances Ethereum's efficiency by using rollups. It offers increased scalability and lower costs. Detailed mechanics of Arbitrum can be explored on their website."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What benefits does Arbitrum bring to Gods Unchained?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By utilizing Arbitrum's Layer-2 rollups, Gods Unchained benefits from improved transaction speeds and reduced costs, enhancing the overall user experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I explore the Gods Unchained marketplace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can explore the Gods Unchained marketplace on the IMX Marketplace. It provides a platform for trading and purchasing game cards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Arbitrum contributing to blockchain innovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arbitrum contributes by providing efficient scalability solutions for Ethereum, supporting broader blockchain innovation and making decentralized applications more accessible. For more, visit Offchain Labs' website."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find updates on Gods Unchained?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For updates on Gods Unchained, visit their News & Announcements section on the official website."
+      }
+    }
+  ]
+}

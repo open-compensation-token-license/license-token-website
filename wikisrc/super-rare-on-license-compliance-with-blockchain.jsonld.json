@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is SuperRare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SuperRare is a leading digital art marketplace that utilizes blockchain technology to transform art creation, distribution, and verification."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does SuperRare address traditional challenges in digital art licensing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SuperRare uses blockchain to address challenges such as unauthorized use and difficulties in tracking ownership by providing a decentralized ledger for seamless ownership and provenance tracking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does blockchain play in SuperRare's digital art marketplace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain provides a decentralized ledger for tracking digital asset ownership and provenance, ensuring transparency and trust in the digital art marketplace."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do smart contracts benefit artists on SuperRare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart contracts automate licensing terms and royalty payments, ensuring artists receive appropriate compensation for their works, including from secondary sales."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the security and transparency benefits of using blockchain for digital art?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain's immutable nature enhances security against unauthorized distribution, while real-time verification of ownership fosters trust and reduces disputes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does SuperRare support global access for artists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SuperRare allows artists to reach a global audience without traditional intermediaries, expanding their reach and market access."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What considerations exist for the adoption of blockchain in art marketplaces like SuperRare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Considerations include navigating legal and regulatory challenges, providing education for adoption, and addressing technical barriers by ensuring user-friendly platforms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future prospects exist for blockchain in digital art licensing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future prospects include technology innovations like AI and AR and increased industry collaboration to develop standard practices and ethical frameworks."
+      }
+    }
+  ]
+}

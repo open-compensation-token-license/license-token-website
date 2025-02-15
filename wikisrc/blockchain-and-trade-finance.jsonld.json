@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is trade finance and its traditional challenges?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trade finance involves financial activities that facilitate international trade and commerce, such as letters of credit, bank guarantees, and insurance. Traditionally, it faces challenges like inefficiencies due to paper-intensive processes, multiple intermediaries, manual documentation, and compliance burdens."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain technology transform trade finance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology enhances trade finance by providing transparency and trust through a single source of truth for all parties, increasing efficiency and speed with smart contracts, reducing costs by minimizing intermediaries, enhancing security and compliance, and preventing fraud by offering an immutable audit trail."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some use cases of blockchain in trade finance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key use cases include digitizing letters of credit, facilitating invoice financing with immutable invoice records, ensuring supply chain tracking transparency, and simplifying KYC compliance by securely storing and accessing verified customer credentials on a distributed ledger."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does blockchain face in trade finance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include interoperability issues due to lack of standardization, regulatory uncertainty, scalability concerns, significant initial investment and technological adaptation costs, and data privacy concerns despite blockchain's transparency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future outlook for blockchain in trade finance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future of blockchain in trade finance looks promising, with ongoing exploration and investment by consortia like the Marco Polo Network and we.trade. Synergies with AI and IoT, along with proactive regulatory frameworks, could further enhance blockchain's role in trade finance."
+      }
+    }
+  ]
+}

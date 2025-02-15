@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+      "@type": "Question",
+      "name": "What is Ordinal Maxi Biz (OMB) on Arbitrum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ordinal Maxi Biz (OMB) is an innovative NFT project on the Arbitrum network designed to maximize NFT potential through strategies such as fractional ownership, interoperability, and sustainable practices. It offers a scalable platform for NFT trading, creation, and investment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does OMB utilize fractional ownership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "OMB employs fractional ownership to democratize access to high-value NFTs, dividing them into smaller fractions that are tradable. This model enhances liquidity, broadens market participation, and allows a wider audience to engage with premium digital assets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What advantages does Arbitrum provide for OMB?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arbitrum offers advantages like scalability, faster transaction speeds, and reduced costs using optimistic rollups. This enhances user experiences and attracts NFT enthusiasts and developers seeking more efficient and accessible trading environments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does OMB ensure sustainability in NFT trading?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "OMB is committed to sustainable practices by implementing eco-friendly protocols and initiatives to reduce its carbon footprint. This approach aligns with global environmental awareness and sets a standard for sustainability in the NFT industry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impact does OMB have on the NFT landscape?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "OMB is expected to increase adoption and market growth by improving accessibility and reducing barriers. It promotes new NFT use cases across sectors like gaming and DeFi and enhances community engagement through its participatory governance model."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does OMB foster community engagement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "OMB emphasizes community-driven development and governance, allowing stakeholders to influence platform evolution. This participatory model increases user involvement and fosters an inclusive environment for creativity and innovation."
+      }
+    }
+  ]
+}

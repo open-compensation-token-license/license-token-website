@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GitHub Sponsors and why is it important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors is a platform that revolutionizes financial sustainability for open source projects by facilitating direct financial support for developers and organizations. It addresses economic hurdles faced by many essential projects and promotes a thriving open source ecosystem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I learn more about GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can learn more about GitHub Sponsors by visiting their website at [GitHub Sponsors](https://github.com/sponsors), which provides detailed information on how the platform can help your project."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you provide an example of a successful project enhanced by GitHub sponsorships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One example of a successful project enhanced by GitHub sponsorships is Homebrew, which has greatly benefited from the financial support and community engagement facilitated by the platform."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find details on setting up a GitHub Sponsorship profile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Details on setting up your GitHub Sponsorship profile can be found in the [official documentation](https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors). This resource provides step-by-step guidance to help you get started."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of using GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors offers pathways to financial stability, increased collaboration, and greater innovation within open source software. It empowers developers and contributors to support their projects and contributes to a thriving open source ecosystem."
+      }
+    }
+  ]
+}

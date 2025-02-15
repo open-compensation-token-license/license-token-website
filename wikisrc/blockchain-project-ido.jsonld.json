@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an IDO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An Initial DEX Offering (IDO) is a decentralized fundraising model where projects sell tokens directly on a Decentralized Exchange (DEX), bypassing centralized exchanges. It increases security and efficiency in the fundraising process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do IDOs work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The IDO process includes preparation, token listing on a DEX, liquidity provision, and trading activities. Tokens are often paired with stablecoins or major cryptocurrencies, allowing for immediate liquidity and market-driven price discovery."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of IDOs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IDOs offer decentralization, immediate liquidity, reduced costs, and enhanced community engagement, making them attractive for projects and investors in the crypto space."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges do IDOs face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IDOs face challenges such as market volatility, security risks, and regulatory uncertainties. Additionally, the ease of launching an IDO can lead to substandard or fraudulent projects, which requires careful investor due diligence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should participants consider before joining an IDO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Participants should conduct thorough research, verify smart contract audits, scrutinize the project's whitepaper, engage with the community, and understand their risk tolerance due to the volatile nature of cryptocurrency investments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of IDOs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As the DeFi sector expands, IDOs are expected to attract more institutional interest, adopt enhanced security measures, and face evolving regulatory landscapes. Cross-chain IDOs and deeper community involvement highlight their future significance."
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Opulus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opulus is a platform at the intersection of music and blockchain technology, designed to democratize music investment by enabling artists to tokenize their music rights as NFTs, thus creating new revenue opportunities and fostering closer artist-fan relationships."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the Opulus NFT roadmap?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal of the Opulus NFT roadmap is to expand the platform's functionality, enhance accessibility, and reshape the music industry by integrating blockchain technology and decentralized finance, ultimately transforming artist-fan engagements and financial models."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key phases of the Opulus NFT roadmap?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The key phases include Platform Launch and Initial Integrations, Expanding Collaborations and Partnerships, Diversifying NFT Offerings, Incorporating Advanced Technologies, and Community Building and Governance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Opulus empower artists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opulus empowers artists by offering greater control over their music rights and revenues. Through the platform, artists can tokenized music rights, bypass traditional financial intermediaries, and connect directly with their audience to obtain funding transparently and equitably."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impact does Opulus have on fan engagement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opulus enhances fan engagement by allowing them to financially participate in an artist's success through NFTs. This creates deeper connections as fans become stakeholders, incentivized to promote and support their favorite artists."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Opulus contribute to diversifying revenue streams for artists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opulus offers artists new ways to monetize their music by enabling them to sell portions of their future earnings through NFTs, providing sustainable revenue options beyond traditional models such as album sales and concerts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In what ways does Opulus promote financial inclusion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opulus promotes financial inclusion by allowing everyday fans and investors to participate in the financial success of the music industry, breaking down barriers traditionally reserved for industry insiders and democratizing access to music investment opportunities."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is OpenSea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "OpenSea is a decentralized marketplace for non-fungible tokens (NFTs), allowing users to buy, sell, and trade digital assets such as art, music, domain names, and virtual worlds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Rarible work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarible is a decentralized NFT marketplace that enables creators to mint, buy, and sell digital collectibles and assets. It operates on the Ethereum blockchain and also offers a governance token, RARI, to its community."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Foundation is an NFT marketplace focused on digital art. It provides a platform for artists to auction their work and for collectors to purchase unique digital artworks and crypto art."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What can you do on SuperRare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SuperRare is an exclusive marketplace for buying and selling single edition digital artwork. Artists create and tokenize their digital art, and collectors can purchase these unique pieces on the Ethereum blockchain."
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non-Fungible Tokens, or NFTs, are unique digital assets verified using blockchain technology. Unlike cryptocurrencies like Bitcoin or Ethereum—which are fungible and can be exchanged on a one-to-one basis—NFTs are one-of-a-kind and hold distinct value. Each NFT represents ownership of a specific digital item, whether it be art, music, or exclusive sports content."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are Fan Tokens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fan Tokens are a type of cryptocurrency specifically designed to offer fans a more active role in their favorite sports organizations. They provide a currency that fans can utilize within a team’s ecosystem, granting access to exclusive content, voting rights, and engagement opportunities. Fan Tokens enable fans to actively participate in club decisions and interact more intimately with their teams."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are NFTs used in sports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs in sports have created a new frontier for fan interaction and memorabilia. They offer digital collectibles such as exclusive video highlights, digital art, and virtual tickets. An example is the NBA Top Shot platform, which allows fans to purchase and trade officially licensed NBA collectible highlights as NFTs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of Fan Tokens in sports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fan Tokens strengthen the connection between sports teams and their global fanbase by enabling fans to partake in certain club-related decisions. Clubs issue these tokens, which fans can purchase for exclusive experiences like voting on team-related matters. This model enhances fan involvement and opens new revenue channels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of NFTs and Fan Tokens for sports teams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The benefits include enhanced fan engagement, new revenue streams, and global reach. NFTs and Fan Tokens allow fans to connect more deeply with teams, offer teams a novel revenue source, and help expand the team's global brand presence by making digital assets accessible worldwide."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges face the adoption of NFTs and Fan Tokens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include market volatility, regulatory concerns, and the environmental impact of blockchain technology. The financial value of NFTs and Fan Tokens is subject to fluctuation, regulatory frameworks are still evolving, and the energy consumption of blockchain platforms has raised environmental issues."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of NFTs and Fan Tokens in sports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future might include integration with augmented and virtual reality, concierge-like benefits for Fan Tokens, and technological innovations to address environmental impacts. As these technologies evolve, they could offer fans more immersive experiences and teams new ways to engage and monetize global audiences."
+      }
+    }
+  ]
+}

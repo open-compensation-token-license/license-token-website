@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What role does blockchain play in agriculture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain offers solutions to challenges in agriculture by improving supply chain transparency, traceability, and financial accessibility. It can streamline operations, enhance food safety, open market access, and support decentralized finance applications tailored to rural stakeholders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is funding important for blockchain adoption in agriculture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Funding is essential as it supports infrastructure development, research and development, capacity building and education, pilot projects, and engagement with regulatory frameworks, all of which are critical to adopting blockchain technologies in agriculture."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the current sources of funding for blockchain innovations in agriculture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current funding sources include government initiatives, venture capital and private equity, international aid and development organizations, and corporate investments from agribusiness companies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you provide examples of blockchain ventures in agriculture that received funding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Examples include AgriDigital in Australia, Provenance in the UK, and BanQu in the USA, all of which have developed blockchain solutions for enhanced traceability, market access, and financial inclusion in agriculture."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges exist in funding blockchain initiatives for agriculture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include high entry costs, complex regulatory environments, a general lack of understanding of blockchain technology, and ensuring equitable benefit distribution among stakeholders, especially for marginalized communities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the future directions for funding blockchain in agriculture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future directions involve multi-stakeholder collaboration, innovative funding models like blended finance and public-private partnerships, and increasing digital literacy which could lead to more investment and demand for blockchain-based services."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the potential impact of funding on blockchain use in agriculture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With adequate funding, blockchain has the potential to revolutionize agricultural practices by improving transparency, empowering farmers, ensuring food security, and making farming more sustainable and profitable."
+      }
+    }
+  ]
+}

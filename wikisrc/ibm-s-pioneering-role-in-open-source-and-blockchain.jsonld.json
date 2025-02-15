@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How did IBM demonstrate its commitment to open source through Linux?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In 2000, IBM invested $1 billion in Linux, emphasizing its support for open source principles and promoting the adoption of open source software in enterprise settings. More details can be found at IBM's Linux resources."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What contributions has IBM made to Apache projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IBM has contributed to several Apache Software Foundation projects, including Apache Hadoop and Apache Spark, which play crucial roles in big data analytics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the significance of IBM launching Eclipse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IBM launched Eclipse in 2001, an open-source development environment that has become invaluable to developers globally, showcasing IBM's dedication to community-driven innovation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was the impact of IBM's acquisition of Red Hat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IBM's 2019 acquisition of Red Hat reinforces its commitment to open source, leveraging Red Hat's expertise in cloud computing and Linux distributions to enhance IBM's overall capabilities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role did IBM play in the creation of Hyperledger?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IBM was a founding member of the Hyperledger Project, coordinated by the Linux Foundation to further blockchain technology across various industries, with Hyperledger Fabric exemplifying IBM's blockchain innovation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is IBM using blockchain in supply chain management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IBM's Food Trust utilizes blockchain to enhance supply chain transparency, ensuring traceability and reliability from source to consumer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is TradeLens and its purpose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Developed by IBM and Maersk, TradeLens is a blockchain-enabled platform improving transparency and efficiency in the global shipping industry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is IBM employing blockchain in banking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IBM's World Wire is a blockchain-based financial platform that facilitates real-time cross-border payments, advancing transaction security and efficiency in banking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future directions is IBM exploring with AI and cloud technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IBM is integrating open source in its AI and cloud initiatives, particularly through IBM Watson, to bolster collaboration and technological advancement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does IBM promote ethical technology development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IBM encourages ethical innovation and community empowerment with initiatives like Call for Code, urging technology-driven social responsibility."
+      }
+    }
+  ]
+}

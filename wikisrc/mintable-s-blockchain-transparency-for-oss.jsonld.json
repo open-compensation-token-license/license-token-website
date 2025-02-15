@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Mintable use blockchain for managing intellectual property in Open Source Software (OSS)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mintable uses blockchain to timestamp and authenticate contributions, ensuring proper recognition and legal protection for contributors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impact does blockchain have on collaboration within OSS according to Mintable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By transparently tracking contributions, blockchain minimizes disputes, which enhances collaboration in the OSS community."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain increase security in Open Source Software as per Mintable's innovations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The immutable nature of blockchain protects OSS software from tampering, thereby increasing trust among users and potential adopters."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role do NFTs play in Mintable's approach to software licensing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mintable issues NFTs for software licensing, ensuring verifiable usage rights and streamlined royalty distributions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are smart contracts utilized by Mintable in OSS projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart contracts are used to automate governance processes, ensuring fair and accountable project management in OSS initiatives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In what way does blockchain facilitate transparent funding for OSS projects according to Mintable's model?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain enables transparent tracking of donations and fund usage, which drives more support for OSS projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What benefits does Mintable's blockchain approach offer for the future of software development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mintable's approach democratizes software development, invites commercial sectors through assured integrity, boosts developer engagement, and provides legal compliance and transparency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the challenges faced by Mintable in integrating blockchain with Open Source Software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include scalability, regulatory compliance, and integration complexity, which require further innovation and refinement."
+      }
+    }
+  ]
+}

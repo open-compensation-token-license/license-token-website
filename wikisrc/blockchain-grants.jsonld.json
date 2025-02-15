@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the role of blockchain grants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain grants provide non-dilutive capital, boosting innovation by allowing founders to retain control over their ventures. They enhance credibility, foster networking, and support technology, infrastructure, and proof-of-concept advancements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the different types of blockchain grants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The types of blockchain grants include Research Grants, Development Grants, Infrastructure Grants, Community and Education Grants, and Social Impact Grants. Each targets different aspects like academia, development, ecosystem building, awareness promotion, and societal challenges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some notable blockchain grant programs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some notable blockchain grant programs are Ethereum Foundation Grants, Web 3.0 Foundation Grants, Algorand Foundation Grants, Lisk Grant Program, and Filecoin Foundation Grants. These programs support various initiatives from decentralized web technologies to decentralized storage solutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What strategies can help secure blockchain grants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To secure blockchain grants, craft a compelling proposal with clear objectives, demonstrate technical competency, showcase social and economic impact, engage with the community, align with grant objectives, and provide a clear roadmap with deliverables."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are blockchain grants important for innovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain grants are crucial for innovation as they provide essential financial resources without equity relinquishment. They propel the adoption and development of blockchain technology, enabling innovators to achieve technological progress and societal change."
+      }
+    }
+  ]
+}

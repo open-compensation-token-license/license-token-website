@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does blockchain enhance financial transparency in sports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain can provide a transparent ledger for sports clubs, ensuring financial transactions from ticket sales to player transfers are open to verification and less susceptible to fraud."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can sports teams generate revenue through tokenization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By creating their own cryptocurrencies or tokens, sports teams can offer fans new ways to engage with their favorite clubs, from voting on team decisions to accessing exclusive content."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you provide examples of blockchain usage in sports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, examples include Socios.com where teams allow fan participation in club decisions via tokens, and NBA Top Shot which enables fans to trade collectible highlights as NFTs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some challenges faced by blockchain integration in sports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include dealing with regulatory hurdles, cryptocurrency volatility, technological barriers, and the need for educating fans about these new technologies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is blockchain technology used to combat ticket fraud?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Startups are leveraging blockchain to ensure secure transactions and authenticate tickets and merchandise, thus combating ticket fraud."
+      }
+    }
+  ]
+}

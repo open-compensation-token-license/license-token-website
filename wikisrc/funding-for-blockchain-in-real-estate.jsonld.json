@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the role of blockchain in real estate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology plays a critical role in real estate by facilitating the tokenization of assets, implementing smart contracts, managing property registries, streamlining transactions, and improving due diligence processes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the current funding landscape for blockchain in real estate composed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The funding landscape for blockchain in real estate involves venture capital firms investing in PropTech platforms, tokenization services, and smart contract solutions. Corporate investments include joint ventures and internal development programs, while government and institutional funding focus on land registry projects and smart city initiatives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which venture capital firms are investing in blockchain for real estate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Leading firms such as Andreessen Horowitz, Sequoia Capital, and Union Square Ventures are actively investing in blockchain innovations within the real estate sector."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the advantages of blockchain funding in real estate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain funding in real estate offers increased transparency, cost efficiency, enhanced security, global reach, and market accessibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does blockchain face in the real estate industry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include regulatory hurdles, technical and scalability issues, market maturity and acceptance, and privacy concerns."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future outlook for blockchain in real estate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Despite challenges, ongoing funding and technological advancements suggest a promising future for blockchain adoption and integration in the real estate sector."
+      }
+    }
+  ]
+}

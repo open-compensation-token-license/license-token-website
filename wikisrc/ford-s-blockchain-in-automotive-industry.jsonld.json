@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is blockchain technology in the automotive industry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain functions as a decentralized digital ledger, enhancing security, transparency, and immutability for transactions. It reduces manipulation and fraud risks, making it an optimal solution for complex, data-heavy industries like automotive."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Ford using blockchain for supply chain transparency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ford utilizes blockchain to trace the origins of raw materials, such as cobalt, to ensure ethical sourcing for electric vehicle (EV) batteries and overcome supply chain inefficiencies and quality control issues."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Ford's approach to vehicle-to-grid transactions with blockchain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ford is exploring decentralized systems via blockchain for vehicle-to-grid (V2G) energy exchanges. This enables peer-to-peer energy marketplaces, allowing EV owners to actively participate in energy distribution."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain enhance payment processes at Ford?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain aims to revolutionize Ford's payment processes by improving transaction efficiency and simplifying automotive financing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the advantages of blockchain in the automotive industry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain provides enhanced transparency and trust, heightened efficiency through smart contracts, and strengthened security with decentralized data storage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does Ford face in implementing blockchain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include scalability to maintain transaction speed without compromising security, integrating with legacy systems, and navigating regulatory and legal frameworks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future applications of blockchain does Ford envision?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future applications may include autonomous vehicle data management, identity verification, industrial collaboration for cost reduction, and decentralized mobility ecosystems like ride-sharing."
+      }
+    }
+  ]
+}

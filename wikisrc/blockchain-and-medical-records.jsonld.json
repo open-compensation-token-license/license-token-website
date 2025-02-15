@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does blockchain enhance the security and privacy of medical records?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain enhances security by using cryptographic principles to encrypt patient data, making it only accessible to individuals with appropriate cryptographic keys. Its immutable nature prevents tampering, ensuring data integrity and privacy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does blockchain play in improving interoperability in healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain facilitates seamless data exchange by using standardized formats and protocols, reducing data silos. It allows different healthcare systems to communicate without losing data fidelity, which is crucial for comprehensive patient care."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain empower patients in terms of data ownership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology can shift control of medical records to patients, allowing them to manage and share their data. Patients can grant or revoke access to their information, having a say in who can view their data and when."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does blockchain face in the healthcare sector?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include data privacy compliance with regulations like HIPAA and GDPR, scalability issues due to blockchain's decentralized nature, integration difficulties with legacy systems, and the need for education and adoption within the cautious healthcare industry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some real-world applications of blockchain in healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Examples include Estonia's e-health system using blockchain for secure medical record tracking, MediBloc's patient-centric health information ecosystem, and IBM's collaboration with the CDC on secure data exchange and public health threat tracking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of blockchain in healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As blockchain technology matures, its adoption in healthcare could accelerate, facilitating secure medical records management, improving clinical trials, and enhancing patient engagement. Collaboration among stakeholders is essential for successful integration into healthcare infrastructure."
+      }
+    }
+  ]
+}

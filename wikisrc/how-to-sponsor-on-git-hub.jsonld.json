@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What Are GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors is a feature on GitHub that allows users to provide financial support to developers and projects they rely on. This can help maintain project momentum and offer the sponsor benefits such as community engagement, recognition, and incentives like exclusive content."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I sponsor a developer or project on GitHub?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To sponsor a developer or project on GitHub, you need to follow these steps: 1. Create a GitHub account. 2. Find the projects or developers you want to sponsor using GitHub's Explore feature. 3. Check if they have a 'Sponsor' button indicating they accept sponsorships. 4. Select a sponsorship tier. 5. Set up your payment method. 6. Initiate sponsorship by clicking the 'Sponsor' button and confirming the details. 7. Engage with the community through sponsor-only discussions or events."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I manage my active sponsorships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can manage your active sponsorships by accessing the 'Sponsorships' section under Billing in your GitHub account. Here, you can view, modify, or cancel your active sponsorships as needed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some best practices for sponsoring on GitHub?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some best practices for sponsoring on GitHub include starting with a lower-tier sponsorship if you're new to this, communicating with developers through available channels, and promoting supported projects within tech communities to enhance their visibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find more detailed information about GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For more detailed information about GitHub Sponsors, you can visit the GitHub Sponsors FAQ page at https://docs.github.com/en/sponsors."
+      }
+    }
+  ]
+}

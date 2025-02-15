@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors is a platform that provides financial support to developers, empowering them to work on open-source projects by allowing them to receive sponsorships from individuals and organizations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does GitHub Sponsors benefit developers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors benefits developers by democratizing financial support, providing them with the flexibility to set their sponsorship terms and maintain creative control, and fostering project sustainability and community connections."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the advantages for companies supporting developers through GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sponsoring developers through GitHub Sponsors allows companies to align their business interests with open-source community engagement, supporting collaborative advancements and enhancing the software industry's foundational projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does GitHub Sponsors enhance project sustainability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By providing financial support, GitHub Sponsors enhances project sustainability by allowing developers to focus more on their projects without financial constraints, contributing to the ongoing development and improvement of open-source software."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find more information about GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a detailed exploration of GitHub Sponsors and how it transforms the open-source ecosystem, visit the official GitHub Sponsors page at https://github.com/sponsors."
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain is a decentralized and distributed digital ledger used to securely record transactions across many computers. It is designed to ensure transparency, security, and permanence, replacing traditional databases managed by central authorities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the main components of blockchain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main components of blockchain include decentralization, transparency, security through cryptography and consensus mechanisms, immutability, and smart contracts which automate contracts execution without intermediaries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is blockchain used in cryptocurrencies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain underpins cryptocurrencies by enabling decentralized and transparent digital transactions, with Bitcoin being the first and most well-known application."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some real-world applications of blockchain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain is applied in cryptocurrencies, financial services, supply chain management, healthcare, voting systems, and intellectual property management, enhancing transparency, security, and efficiency in these sectors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does blockchain face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain faces challenges such as scalability, energy consumption, regulatory concerns, interoperability, and security concerns. Solutions like sharding and Proof of Stake are being explored to address these challenges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain's future includes potential integrations with IoT, convergence with AI for smarter applications, growth in decentralized finance (DeFi), and improvements in digital identity verification, all of which promise to advance transparency, efficiency, and security across industries."
+      }
+    }
+  ]
+}

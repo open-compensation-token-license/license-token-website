@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is blockchain important for supply chains?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology enhances transparency, traceability, and efficiency in supply chain management by creating a transparent, immutable record of transactions, which helps reduce malpractices, ensure product authenticity, and boost process efficiency through smart contracts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the crucial elements of blockchain funding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key elements include venture capital and private equity, corporate investment, government support, and crowdfunding & ICOs. These are essential in developing and integrating blockchain solutions in supply chains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges exist in securing funding for blockchain in supply chains?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include high initial costs, regulatory hurdles, scalability concerns, and security issues, which may deter investors from committing funds to blockchain projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the future landscape of blockchain in supply chains look like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future landscape includes matured technologies addressing scalability and interoperability, enhanced awareness and education, collaborative ventures fostering innovation, and sustainability initiatives aligning with blockchain capabilities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can one explore more resources on blockchain applications in supply chain management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For further exploration, refer to resources such as Blockchain in Supply Chain by IBM and Blockchain Technology Applications in Supply Chain by SAP."
+      }
+    }
+  ]
+}

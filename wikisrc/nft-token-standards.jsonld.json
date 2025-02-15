@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are NFTs and why are they significant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs, or Non-Fungible Tokens, are unique digital assets that represent ownership of distinct items like art, collectibles, or virtual real estate. Unlike fungible tokens such as cryptocurrencies, each NFT has unique properties making them ideal for representing singular digital assets. They are significant because they offer new ways for creators to monetize their work and for collectors to invest in digital assets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the ERC-721 token standard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ERC-721 is a pioneering token standard introduced by Ethereum in 2017, specifically designed for creating and managing NFTs. Key features include uniqueness, ownership tracking, metadata extension, and interoperability, making it foundational for many early NFT projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does ERC-1155 improve upon ERC-721?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ERC-1155, developed by Enjin, introduces a more versatile and efficient approach by supporting both fungible and non-fungible tokens within a single smart contract. It allows batch operations, combines different asset types for simplified management, increases efficiency by reducing redundancy, and includes safe transfer functions to prevent transaction errors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is ERC-998 and how does it expand digital ownership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ERC-998 enables the creation of composable NFTs, which can own other ERC-721 or ERC-20 tokens. It facilitates complex asset structures by supporting parent-child relationships and advanced composability, making it ideal for intricate collectibles and digital environments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some alternative NFT standards outside of Ethereum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alternatives to Ethereum's NFT standards include BEP-721 and BEP-1155 on Binance Smart Chain, offering lower fees and faster processing; Flow's Cadence language built for NFTs and games; and Tezos' FA2 standard, providing a unified interface for multiple token types while emphasizing sustainability and low energy costs."
+      }
+    }
+  ]
+}

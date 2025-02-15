@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are Oracle's significant contributions to the open-source community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oracle has made significant contributions to the open-source community, notably after its 2010 acquisition of Sun Microsystems. It has taken a leading role in the development of Java through the OpenJDK project and maintains MySQL as an open-source database. Additionally, Oracle supports open-source tools in its Oracle Cloud Infrastructure and contributes to platforms like Oracle Linux, showcasing its commitment to open-source innovation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Oracle support open-source cloud computing and big data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oracle's cloud computing solutions, such as Oracle Cloud Infrastructure, integrate seamlessly with open-source tools like Kubernetes and Terraform, offering users flexibility and scalability. Furthermore, Oracle's participation in organizations like the Cloud Native Computing Foundation exemplifies its dedication to advancing open-source technology."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Oracle's role in blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oracle has embraced blockchain technology to offer innovative enterprise solutions. The Oracle Blockchain Platform was launched in 2018 to help businesses leverage distributed ledger technology. Oracle collaborates with various industries, including supply chain, financial services, and healthcare, to enhance transparency, traceability, and secure transactions. Additionally, Oracle supports government initiatives using blockchain for purposes such as land registry digitization and secure voting systems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Oracle's dual strategy of open-source contribution and blockchain adoption benefit the technology industry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oracle's dual strategy focuses on innovation, transparency, and democratization within the technology industry. Through its open-source contribution, Oracle promotes community collaboration and technological advancement. The adoption of blockchain technology allows Oracle to deliver state-of-the-art solutions that meet modern enterprise requirements, enabling enhanced operational efficiency and secure digital transformation."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of using Blockchain in land registries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology offers increased transparency, security, and efficiency in land registries by immutably recording transactions, reducing fraud, and simplifying the verification process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Blockchain technology applied to land registries in Central Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Central Africa, blockchain technology is being explored to address fragile land tenure issues, which could impact peace and security by creating more reliable and transparent land records."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What advancements has Sweden made in Blockchain land registry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sweden's land registry initiative involves blockchain technology to increase transparency and efficiency in property transactions, aiming to reduce fraud and streamline processes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How has Georgia implemented Blockchain in its land registry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Georgia has expanded its use of blockchain technology in land titling, focusing on security and efficiency. The initiative has been successful in creating a more reliable system for property records."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are India's efforts in using Blockchain for land registries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In India, particularly in Andhra Pradesh, pilot projects using blockchain for land records aim to enhance security and reduce the potential for property fraud, serving as a test case before expanding to other states."
+      }
+    }
+  ]
+}

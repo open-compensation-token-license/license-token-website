@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are Hashmasks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hashmasks are a collection of digital art pieces created by over 70 artists globally. They represent a new form of collectible art where each piece is unique and can be owned by individuals in the form of NFTs (Non-Fungible Tokens)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do Hashmasks revolutionize art?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hashmasks combine digital art with blockchain technology to offer a novel way of owning and trading art pieces. Owners can interact with their art, and scarcity is encoded in the NFT itself, thereby providing art enthusiasts with unique and verifiable ownership."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Elon Musk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elon Musk is the CEO of Tesla and SpaceX, widely recognized as a tech entrepreneur and engineer with a significant influence on the technology and aerospace industries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Elon Musk involved with NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elon Musk has shown interest in NFTs, reflecting his engagement with cutting-edge technology and digital innovation. He has made public statements and tweets about NFTs, often sparking discussions about the potential and future of digital collectibles."
+      }
+    }
+  ]
+}

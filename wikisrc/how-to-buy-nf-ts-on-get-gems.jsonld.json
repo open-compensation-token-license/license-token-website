@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs are digital assets that represent ownership or proof of authenticity of a unique item or piece of content, such as art, music, or tweets, linked to the blockchain. Unlike fungible cryptocurrencies like Bitcoin or Ethereum, NFTs are unique and non-exchangeable on a one-to-one basis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why use GetGems for buying NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GetGems is known for its user-friendly and comprehensive platform that caters to NFT enthusiasts and creators. It offers an intuitive interface, a robust marketplace, and tools that facilitate easy buying, selling, and trading of NFTs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I set up an account on GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Visit the GetGems website, click 'Sign Up' to create an account by providing your email and a secure password. You might be prompted to link a digital wallet. Verify your email via a confirmation link to activate your account."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which digital wallets are compatible with GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GetGems supports various digital wallets including MetaMask, Trust Wallet, and others. Ensure you download a compatible wallet and securely save your seed phrase during the creation process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I browse NFTs on GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the search bar or explore categories like Art, Music, and Gaming. Utilize filters and sorting options to narrow your search and click on NFTs for detailed views on creator information, ownership history, and pricing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know about buying NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Understand whether the NFT is sold at a fixed price or through auction. Confirm your budget, including purchase price and additional fees. Once selected, click 'Buy Now' for fixed-price NFTs or place a bid in auctions, ensuring your wallet has sufficient funds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I secure my NFTs after purchase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verify the NFT's details and its appearance in your wallet. For security, store NFTs in a secure digital wallet, and consider using a hardware wallet for added protection."
+      }
+    }
+  ]
+}

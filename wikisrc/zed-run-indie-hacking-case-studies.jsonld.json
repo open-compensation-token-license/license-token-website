@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Zed Run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zed Run is a platform developed by an Australian studio that combines horse racing with NFTs on Ethereum's blockchain, allowing users to buy, breed, and race digital horses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Zed Run exemplify indie hacking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zed Run exemplifies indie hacking through its innovative approach by using community engagement, grassroots marketing, and cutting-edge blockchain technology to create a virtual horse racing ecosystem without the extensive resources of major studios."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What strategies did Zed Run use to build its platform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zed Run employed key strategies such as community building and engagement, emphasizing digital ownership, and leveraging blockchain technology to support its innovative platform."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Zed Run's economic model work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zed Run generates revenue through fees from sales and breeding marketplaces, prize pools from races, and secondary market transactions, which support an entire racehorse economy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges has Zed Run faced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zed Run has faced challenges such as scalability issues due to Ethereum constraints, navigating regulatory landscapes, simplifying user experience and onboarding, and ensuring sustainability and longevity in the fast-paced NFT space."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lessons can be learned from Zed Run's journey?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zed Run's journey teaches that indie hacking can lead to success with vision, perseverance, and community engagement—essential components for creating innovative and impactful digital platforms."
+      }
+    }
+  ]
+}

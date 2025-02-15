@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Blockchain Technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain is a decentralized digital ledger that ensures transparency and security across various applications, notably in supply chains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain enhance traceability and transparency in supply chains?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain creates an immutable and transparent record of transactions, enhancing traceability which is vital for sectors such as food and pharmaceuticals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does decentralization in blockchain build trust?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Decentralization ensures that each participant in the network holds identical copies of the ledger, reducing reliance on trusted intermediaries and fostering trust."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In what ways does blockchain technology streamline processes and reduce costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain automates processes, helps to cut costs, and optimizes logistics, significantly transforming industries like shipping."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain improve sustainability practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain transparency supports verifiable and sustainable practices, enhancing consumer trust and reducing environmental impacts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain tackle counterfeiting and fraud?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain secures the authenticity of products from their origin, helping to safeguard brands and ensure consumer safety against counterfeiting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some case studies of blockchain in action?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notable case studies include IBM Food Trust for food supply safety, De Beers’ Tracr for diamond authenticity, and Maersk’s TradeLens for enhancing shipping logistics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges exist in implementing blockchain in supply chains?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include investment requirements, interoperability issues, and regulatory hurdles that must be overcome for widespread blockchain adoption."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of blockchain in supply chains?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The integration of IoT and AI with blockchain is expected to enhance predictive capabilities and operational resilience, suggesting a transformative future for supply chains."
+      }
+    }
+  ]
+}

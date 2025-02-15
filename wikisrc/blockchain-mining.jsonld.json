@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is blockchain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain is a decentralized, distributed ledger technology where data is encrypted and linked together across a network, ensuring transparency and security."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of mining in blockchain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mining is essential for creating new cryptocurrencies and securing the network by validating and confirming transactions without a central authority."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain mining work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The mining process involves transaction collection, formation of a block, solving the puzzle (Proof of Work), broadcast and verification, and reward distribution."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the challenges of blockchain mining?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mining faces several challenges, including energy consumption, centralization risk, hardware costs, regulatory uncertainty, and adaptive difficulty."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are alternative consensus mechanisms to Proof of Work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alternative mechanisms gaining popularity include Proof of Stake (PoS), Delegated Proof of Stake (DPoS), and Proof of Authority (PoA) due to their lower energy requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the future of blockchain mining look like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future involves advancements such as scaling solutions and renewable energy usage, aiming to make mining more sustainable and accessible."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes GetGems different from other NFT platforms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GetGems differentiates itself by offering collaborative tools and community-focused features that enhance creator-community interactions. It emphasizes usability, economic efficiency, and the building of strong artist-audience relationships."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the main features of OpenSea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "OpenSea is a large, versatile marketplace that supports a wide range of NFTs across multiple blockchains. It offers features like auction bidding and bundled sales, catering to users seeking a diversified trading experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Rarible empower decentralization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarible empowers decentralization through its governance structure powered by the RARI token, which allows users to influence the platform's evolution. It also offers customizable smart contracts and a participatory community framework."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is unique about Foundation compared to other NFT platforms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Foundation stands out by focusing on high-quality, exclusive art collections. It provides a curated space that attracts dedicated art collectors, offering valued auctions and curated drops."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some key features of GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GetGems offers community-driven interactions that promote creator growth and includes marketing and educational tools to enhance visibility and understanding in the NFT landscape."
+      }
+    }
+  ]
+}

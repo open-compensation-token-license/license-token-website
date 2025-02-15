@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the core principles of blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain is a decentralized, immutable ledger designed to ensure secure, transparent transactions. It is ideal for supply chain applications because it provides enhanced transparency, data integrity, and security."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is General Electric (GE) integrating blockchain into its supply chain management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GE integrates blockchain into its supply chain to address issues like transparency, data discrepancies, and efficiency bottlenecks across its diverse business sectors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the advantages of implementing blockchain in GE’s supply chain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The advantages include enhanced transparency, improved traceability, streamlined transactions via smart contracts, robust data security, and the assurance of sustainability and ethical sourcing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does GE face in adopting blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include integrating blockchain with legacy systems, handling scalability issues, ensuring regulatory compliance across jurisdictions, and fostering industry collaboration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future applications of blockchain is GE considering?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GE is considering expanded blockchain applications in asset management and intellectual property protection. The company aims to become an industry leader, form collaborations for research and development, and enhance customer engagement."
+      }
+    }
+  ]
+}

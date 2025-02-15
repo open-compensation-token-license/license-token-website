@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the major open-source licenses relevant to blockchain projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The major open-source licenses relevant to blockchain projects include the GNU General Public License (GPL), MIT License, Apache License 2.0, and BSD Licenses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key compliance considerations for open-source licenses in blockchain projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key compliance considerations include ensuring license compatibility, managing contributions with CLAs or DCOs, proper attribution and documentation, understanding obligations of derivative works and redistribution, and evaluating patent risks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What strategies can be implemented to maintain compliance with open-source licenses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strategies for maintaining compliance include establishing compliance frameworks tailored to your technology stack, using software composition analysis tools, providing regular training and comprehensive documentation, partnering with legal experts, and incorporating licensing into governance policies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is open-source compliance important in blockchain projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open-source compliance is important in blockchain projects to adhere to legal mandates, honor the collaborative spirit of the community, mitigate legal risks, foster trust, and contribute to the open-source ecosystem."
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are conflict minerals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Conflict minerals include tin, tantalum, tungsten, and gold (3TG), primarily sourced from the Democratic Republic of Congo. These minerals are often extracted under severe human rights abuses and fund armed conflicts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges exist in tracking conflict minerals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The supply chain for conflict minerals is complex, with issues such as document fraud and ineffective regulation enforcement making it difficult to verify the ethical sourcing of these resources."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain provide a solution for ethical sourcing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain creates an immutable and transparent record of transactions, which can enhance traceability, reduce fraud, and ensure ethical sourcing. Applications include tracking the mineral's journey, preventing record tampering, automating processes with smart contracts, and reducing corruption through decentralized verification."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you provide examples of blockchain being used for ethical sourcing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, initiatives such as Hyperledger’s Sawtooth Lake, Everledger, and IBM's Blockchain Initiatives highlight blockchain's potential in ethically sourcing minerals and ensuring corporate responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does blockchain face in implementation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing blockchain faces hurdles such as technology accessibility, data integrity, scalability, and regulatory compliance, which must all be addressed to harness its full potential."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the broader implications of blockchain in supply chains?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain represents a shift toward sustainable and transparent supply chains, empowering consumers and contributing to peace-building and improved labor standards in conflict regions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can blockchain's potential be fully leveraged for ethical sourcing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Collaboration across sectors and commitment to infrastructure and regulation are essential. As blockchain matures, its role in promoting sustainable supply chains and human rights is expected to grow."
+      }
+    }
+  ]
+}

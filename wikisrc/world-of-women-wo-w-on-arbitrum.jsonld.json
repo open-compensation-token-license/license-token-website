@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is World of Women (WoW)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "World of Women (WoW) is an NFT project founded by artist Yam Karkai in July 2021. It focuses on celebrating diversity and inclusivity by showcasing 10,000 unique hand-drawn portraits of women from various backgrounds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What inspired the creation of World of Women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "World of Women was created in response to the underrepresentation of women in the NFT community. It aims to empower women by featuring digital art that celebrates femininity and diversity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does World of Women promote diversity and inclusivity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "World of Women is committed to diversity by representing women of different ethnicities, ages, and backgrounds in its artwork. The WoW community is inclusive and partners with initiatives that promote gender equality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why did World of Women choose to transition to Arbitrum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "World of Women transitioned to Arbitrum to enhance scalability, efficiency, and reduce transaction costs. Arbitrum is a Layer 2 scaling solution that offers faster and cheaper transactions compared to the Ethereum mainnet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Arbitrum impact accessibility and environmental sustainability for WoW?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adopting Arbitrum reduces gas fees and transaction times, making NFTs more accessible to a broader audience. It also lowers the carbon footprint of transactions, aligning with WoW's commitment to sustainability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the future prospects for World of Women after integrating Arbitrum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The integration with Arbitrum opens up new possibilities for innovative use cases, collaborations, and features. It enhances WoW's ability to engage with its community and strengthens its role in promoting diversity in the NFT space."
+      }
+    }
+  ]
+}

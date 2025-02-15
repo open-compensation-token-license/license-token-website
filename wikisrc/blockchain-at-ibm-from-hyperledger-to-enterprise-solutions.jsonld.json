@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What role has IBM played in the Hyperledger project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IBM has been a significant contributor to the Hyperledger project, working to advance the development of enterprise blockchain solutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Hyperledger Fabric?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hyperledger Fabric is a blockchain framework developed under the Hyperledger project. It provides a robust foundation for building secure and scalable applications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What solutions does the IBM Blockchain Platform offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The IBM Blockchain Platform extends blockchain capabilities across various sectors, including supply chain management and finance, offering solutions for secure and scalable blockchain applications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future directions is IBM exploring in blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IBM is exploring future directions in blockchain technology, including decentralized finance (DeFi) initiatives and multi-cloud deployments, emphasizing sustainable and innovative solutions."
+      }
+    }
+  ]
+}

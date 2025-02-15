@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors is an initiative that allows users to financially support developers and projects, similar to platforms like Patreon or Kickstarter. It offers sponsorship tiers with varying rewards and GitHub handles all payment processing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key privacy concerns with GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key privacy concerns include data collection of personal details such as names and email addresses, financial information, transactional records, and the potential jeopardy of sponsor anonymity due to default public listings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does GitHub address privacy in GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub adheres to comprehensive privacy protocols that meet global standards like GDPR. It uses advanced encryption, authentication, and third-party financial handlers to protect data. Users can customize privacy settings, keeping sponsorships private and managing visibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does GitHub balance transparency and privacy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub offers customizable settings that allow users to choose between public recognition and private support, ensuring a balance between transparency and privacy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What ethical considerations does GitHub keep in mind for GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub focuses on ethical data management and transparency in data practices. Clear communication about data use and active consent are essential components to ensure ethical integrity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future directions is GitHub taking regarding privacy in GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub plans to continue refining privacy practices and expanding features to meet user expectations. Community feedback will be instrumental in enhancing the user experience responsibly."
+      }
+    }
+  ]
+}

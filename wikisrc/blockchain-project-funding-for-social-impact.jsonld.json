@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does blockchain technology extend beyond cryptocurrency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology promotes transparency and efficiency in various sectors, transforming them by reducing inefficiencies and corruption through its decentralizing features."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is there a critical need for social impact funding using blockchain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain streamlines funding processes, empowers local stakeholders, and ensures transparency in resource allocation for social initiatives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does Decentralized Finance (DeFi) play in impact investing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DeFi platforms like Giveth and Gitcoin enable global impact investing on the blockchain, connecting donors and projects to revitalize social impact funding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does tokenization open new avenues for raising funds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tokenization democratizes access to funding by allowing fractional ownership and creating new opportunities for investment in social initiatives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you provide examples of blockchain driving social good?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Examples include Plastic Bank's collaboration with IBM for tackling plastic pollution, BitGive Foundation's transparency efforts, and BanQu's economic inclusion projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the main challenges of implementing blockchain in social impact projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include addressing scalability issues and the digital divide, which are crucial for the broad adoption and effectiveness of blockchain in social impact."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the future hold for blockchain in social impact funding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Developments like NFTs and DAOs present new possibilities, with collaborations across sectors being essential for overcoming challenges and realizing blockchain's potential for sustainable impact funding."
+      }
+    }
+  ]
+}

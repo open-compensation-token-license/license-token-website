@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gemesis (OSP)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gemesis is an open-source platform at the forefront of the NFT industry, designed to support indie creators and collectors by providing a decentralized space for collaboration, accessibility, and sustainability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are NFTs and why are they significant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs, or Non-Fungible Tokens, are unique digital assets validated through blockchain technology. They are significant because each NFT is unique and indivisible, revolutionizing digital ownership."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Gemesis promote indie hacking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gemesis promotes indie hacking by empowering creators with tools for NFT minting, enabling direct monetization without intermediaries, and fostering networking and feedback for personal branding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does the NFT space face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The NFT space faces challenges such as environmental concerns and market saturation. Gemesis addresses these through sustainable practices and ensuring authenticity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of Gemesis and indie hacking in the NFT industry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gemesis aims to support the evolution and democratization of NFTs by embracing decentralization, open collaboration, and community empowerment, inspiring a new era of digital creativity and ownership."
+      }
+    }
+  ]
+}

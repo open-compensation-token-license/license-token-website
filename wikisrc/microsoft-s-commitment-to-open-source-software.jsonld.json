@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What was Microsoft's initial stance on open source software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Initially, Microsoft was resistant to open source software. This was exemplified by former CEO Steve Ballmer's critique of Linux as a major threat. However, this stance began to change under the leadership of Satya Nadella as Microsoft started embracing open source technologies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some key milestones in Microsoft's open source journey?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key milestones in Microsoft's open source journey include the integration of Linux within Azure, the acquisition of GitHub, open sourcing projects such as .NET Core and Visual Studio Code, forming strategic partnerships with companies like Red Hat and Canonical, and the establishment of the Microsoft Open Source Programs Office (OSPO)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How has Microsoft's embrace of open source impacted the developer community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Microsoft's embrace of open source has democratized access to powerful tools and fueled innovation, enabling significant contributions to projects like the Linux Kernel and the Kubernetes ecosystem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges and criticisms does Microsoft face regarding its involvement in open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Despite progress, Microsoft faces skepticism, particularly concerns about consolidation following the GitHub acquisition. The company needs to address these concerns to maintain trust within the open source community."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are Microsoft's future prospects in the open source domain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Looking to the future, Microsoft aims to continue integrating open source technology within its platforms, enhance security in open source projects, engage developers through educational and community initiatives, and invest in the sustainability of open source projects."
+      }
+    }
+  ]
+}

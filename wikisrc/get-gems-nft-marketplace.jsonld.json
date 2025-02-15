@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GetGems is an innovative marketplace specializing in Non-Fungible Tokens (NFTs), offering a seamless experience for creators and collectors in the blockchain space."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs, or Non-Fungible Tokens, are unique digital tokens representing ownership or authenticity of a digital asset, secured on blockchain platforms like Ethereum. They differ from cryptocurrencies because they are non-interchangeable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should I choose GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GetGems offers a user-friendly platform, a diverse NFT marketplace, community engagement, cost-effective trading, and eco-conscious practices, making it an attractive choice for both new and experienced users."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get started with GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get started with GetGems, create an account, explore NFTs using advanced filters, and participate in buying or selling. GetGems provides secure transactions and blockchain-backed protection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What security measures does GetGems have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GetGems prioritizes asset protection with measures such as two-factor authentication and offers a robust customer support system to assist users."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future impact of GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GetGems empowers creators with direct access to global audiences and focuses on simplicity and education to attract new participants, maintaining a strong dedication to transparency and innovation in the NFT market."
+      }
+    }
+  ]
+}

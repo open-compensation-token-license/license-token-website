@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors is a program that allows the community to provide direct financial support to developers working on open source projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does GitHub Sponsors impact open source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It provides a direct financial channel from the community to developers, helping sustain and grow open source projects that are essential for modern software development."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does GitHub Sponsors charge a platform fee?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, GitHub Sponsors operates with a zero platform fee policy, ensuring that 100% of sponsorship funds go directly to developers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any fees associated with donations through GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While GitHub Sponsors does not charge a fee, Stripe's payment processing fees may apply to the transactions. These fees are a standard part of processing payments online."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I learn more about supporting open source through GitHub?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can learn more about the GitHub Sponsors program by visiting their website where detailed information on how to support or receive support for open source contributions is provided."
+      }
+    }
+  ]
+}

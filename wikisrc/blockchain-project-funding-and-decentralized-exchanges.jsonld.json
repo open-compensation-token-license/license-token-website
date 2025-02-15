@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are Initial Coin Offerings (ICOs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ICOs are fundraising models that enable projects to issue tokens to investors, allowing for capital raising without conventional barriers. They democratize the fundraising process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What distinguishes Security Token Offerings (STOs) from ICOs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "STOs operate within a regulated environment, providing asset-backed tokens compliant with securities regulations, which enhances investor trust compared to ICOs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do Initial Exchange Offerings (IEOs) work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IEOs involve projects partnering with exchanges to reach a wide investor base, offering tokens vetted by the exchange to ensure due diligence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role do Decentralized Autonomous Organizations (DAOs) play?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DAOs use smart contracts for community-driven funding and governance, removing traditional investment barriers through decentralized decision-making."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do Decentralized Exchanges (DEXs) operate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DEXs use smart contracts to enable peer-to-peer transactions, offering enhanced security and user control compared to centralized exchanges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the advantages of using DEXs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DEXs offer improved security, privacy, and censorship resistance compared to centralized exchanges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges do DEXs face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DEXs face challenges such as liquidity issues, usability difficulties, and regulatory compliance hurdles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some leading decentralized exchanges?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prominent DEXs include Uniswap, SushiSwap, and PancakeSwap, each offering unique features and community governance options."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the future hold for blockchain project funding and DEXs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future promises enhanced cross-chain functionality, layer 2 solutions for reduced costs and faster confirmations, regulatory advancements, and potential AI integration to optimize strategies."
+      }
+    }
+  ]
+}

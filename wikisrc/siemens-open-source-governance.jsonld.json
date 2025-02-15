@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Siemens Open Source Governance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Siemens Open Source Governance is an initiative that incorporates open source software to drive innovation across various business sectors while ensuring security and compliance. It includes a framework supported by the Open Source Program Office (OSPO) and cross-functional teams."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key objectives of Siemens' open source governance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The key objectives of Siemens' open source governance include fostering innovation, ensuring compliance, promoting collaboration, and enhancing efficiency within its operations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Siemens ensure compliance with open source usage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Siemens ensures compliance through stringent policies that govern OSS usage, license compliance, and security protocols. This includes automating compliance reviews and conducting regular security assessments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Siemens participate in the open source community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Siemens actively participates in the open source community by contributing to OSS projects, establishing strategic partnerships, and engaging in industry conferences and events."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future trends is Siemens focusing on within its open source strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Siemens is focusing on improving automation, enhancing global collaboration, fostering an open source culture, and adapting to emerging trends such as Artificial Intelligence (AI) and blockchain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can more information about Siemens' Open Source strategy be found?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For more information about Siemens' Open Source strategy, you can explore their dedicated web pages on their Open Source Strategy and Open Source Governance at: [Siemens Open Source Strategy](https://www.siemens.com)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is digital identity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Digital identity refers to personal data such as usernames, passwords, and biometric data, which are often aggregated in centralized systems, risking privacy and security."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain enhance digital identity security?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain enhances digital identity security through its attributes such as decentralization, which eliminates single points of failure; security and immutability, which protect data integrity; user control and transparency, which enhance privacy; and interoperability, which allows seamless digital interactions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of decentralization in blockchain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Decentralization in blockchain eliminates single points of failure, thus reducing the risk of data breaches and enhancing overall system reliability and security."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Self-Sovereign Identity (SSI)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Self-Sovereign Identity (SSI) is a blockchain-enabled concept that allows individuals to have complete control over their personal information, without the need for intermediaries. It promotes privacy and user empowerment in managing digital identities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does blockchain-based digital identity face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain-based digital identity faces challenges in scalability, regulation, and trust, which require ongoing efforts to optimize performance, establish clear regulatory frameworks, and build public trust in blockchain technologies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which sectors can benefit from blockchain-based digital identity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sectors that can benefit from blockchain-based digital identity include financial services, healthcare, public services, supply chain management, and education, thanks to improved security, transparency, and efficiency in managing personal data."
+      }
+    }
+  ]
+}

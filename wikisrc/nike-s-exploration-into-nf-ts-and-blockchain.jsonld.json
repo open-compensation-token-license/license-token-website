@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are NFTs and why are they important to Nike?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs (Non-Fungible Tokens) are unique digital assets verified using blockchain technology. They provide proof of ownership for both digital and physical items. For Nike, NFTs are important because they enable the creation of unique digital experiences and personalized products, facilitating consumer engagement and offering new revenue streams."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain function within Nike's digital strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain acts as a secure, decentralized ledger that maintains transaction records across various computers, ensuring the integrity and transparency of NFTs. For Nike, it supports authenticity and traceability in digital fashion, contributing to the brand’s innovative digital strategy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the significance of Nike's Cryptokicks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cryptokicks is Nike's initiative into digital sneaker NFTs. This concept involves digitally tokenizing footwear, allowing ownership and trading of virtual sneakers. It aligns with consumer preferences for unique digital experiences and reinforces Nike’s position in the digital fashion space."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the RTFKT acquisition benefit Nike?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The acquisition of RTFKT Studios, known for digital collectibles and gaming synergy, strengthens Nike’s capability in the NFT and blockchain space. It enhances Nike’s offerings by broadening digital experiences and integrating cutting-edge technology into its products."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impact does Nike's NFT strategy have on the environment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nike’s NFT strategy promotes sustainability by reducing the environmental impact associated with traditional manufacturing through digital fashion. However, it also faces challenges such as blockchain's energy consumption, which Nike addresses by exploring eco-friendly solutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does Nike face in the NFT market?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nike must navigate the evolving regulatory landscape and manage environmental concerns related to blockchain energy use. Additionally, the company must remain agile to address the volatility of the NFT market, ensuring resilience and strategic adaptation."
+      }
+    }
+  ]
+}

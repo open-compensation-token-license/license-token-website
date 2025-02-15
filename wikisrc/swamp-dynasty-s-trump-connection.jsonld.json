@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Swamp Dynasty NFT collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Swamp Dynasty is a collection of NFTs known for its vivid depictions of otherworldly swamp creatures, created by The Marsh Collective. It blends surrealism, fantasy, and environmental commentary."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How did Swamp Dynasty become associated with Donald Trump?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The connection to Donald Trump arose from subtle nods within the artwork and promotional materials, such as orange-tinted creatures and caricature-like depictions, which sparked debate and interest."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What themes does Swamp Dynasty explore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Swamp Dynasty explores themes of power, corruption, and environmental degradation, often using satire to critique societal issues and drawing on political metaphors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do NFTs intersect with art and politics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs like Swamp Dynasty highlight the intersection of art, commerce, and politics by offering unique digital creations that critique societal norms and the influence of leaders on the global stage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role do celebrities play in the NFT market?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Celebrities have helped popularize NFTs, lending legitimacy and attracting attention. The Trump connection in Swamp Dynasty taps into this culture, furthering the collection's prominence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impact has Swamp Dynasty had on the NFT market?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Swamp Dynasty's politically charged nature and artistic innovation have led to commercial success, appealing to both art enthusiasts and investors due to its thematic depth and collectability."
+      }
+    }
+  ]
+}

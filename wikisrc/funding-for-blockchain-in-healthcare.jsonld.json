@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the role of blockchain in healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain acts as a decentralized, immutable ledger enhancing transparency and security in healthcare. It is used in patient data management, pharmaceutical supply chain integrity, and clinical trial enhancements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain improve patient data management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain ensures secure record keeping by allowing access only to authorized users, thus improving patient data management.",
+        "url": "https://healthcareweekly.com/blockchain-healthcare-guide/"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of blockchain in the pharmaceutical supply chain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain reduces counterfeit risks by documenting every touchpoint of a product in the pharmaceutical supply chain.",
+        "url": "https://www.jpmorgan.com/solutions/healthcare-blockchain"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain enhance clinical trials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain maintains data integrity and fosters trust and reliability in clinical research.",
+        "url": "https://www.forbes.com/sites/bernardmarr/2020/01/07/how-blockchain-is-transforming-healthcare-secure-medical-data-and-improve-patient-outcomes/"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who are the key investors in blockchain healthcare development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key investors include venture capital firms like Andreessen Horowitz, Digital Currency Group, and Binance Labs.",
+        "url": "https://www.cbinsights.com/research/blockchain-healthcare-startups-to-watch/"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some government initiatives for blockchain in healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Governments in Estonia, Dubai, and the US are leading the adoption of blockchain in healthcare through grants and initiatives.",
+        "url": "https://www.govtech.com/future/Can-Blockchain-Disrupt-the-Health-Care-Industry.html"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are corporations contributing to blockchain healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Corporations like IBM and Microsoft are developing blockchain solutions and investing in related startups.",
+        "url": "https://www.ibm.com/blockchain/solutions/healthcare"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the challenges in funding blockchain healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Funding challenges include regulatory hurdles, high initial costs, and the technological complexity of blockchain systems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the future prospects of blockchain funding in healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future prospects include an increase in global spending, innovation in funding mechanisms like ICOs and STOs, cross-industry collaborations, and a focus on pilot projects demonstrating tangible benefits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is funding important for blockchain in healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Funding is crucial for blockchain innovations as it facilitates the development of enhanced, secure, and efficient healthcare systems.",
+        "url": "https://www.healthcareitnews.com/news/value-proposition-blockchain-what-has-change-healthcare"
+      }
+    }
+  ]
+}

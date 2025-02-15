@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are NFTs and how do they work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An introductory article from The Verge explaining the basics of NFTs. [Read more](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the environmental impact of NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Wired article discussing the environmental concerns associated with NFT transactions. [Read more](https://www.wired.com/story/nfts-hot-new-crypto-hype-is-straining-earths-energy-supply/)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the cultural impact of memes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Time piece examining memes' influential role in pop culture. [Read more](https://time.com/5795434/memes-the-importance-of-their-place-in-pop-culture/)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who are the accidental ghostwriters of the meme economy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A New Yorker article focusing on individuals behind popular memes and their unexpected foray into the NFT market. [Read more](https://www.newyorker.com/tech/annals-of-technology/the-accidental-ghostwriter-of-the-meme-economy)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the economic implications of digital collectibles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Forbes discusses the economic potential of NFTs as digital assets in the marketplace. [Read more](https://www.forbes.com/sites/forbestechcouncil/2021/02/26/the-nft-explosion/?sh=10b5e4392e05)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the impact of blockchain on logistics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology is revolutionizing the logistics industry by streamlining global shipping operations, enhancing traceability, and improving dispute resolution."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Maersk and IBM's TradeLens platform affecting global shipping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maersk and IBM's TradeLens blockchain platform is providing insights into the logistics industry by streamlining global shipping operations through enhanced data sharing and transparency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is FedEx's involvement with blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FedEx is using blockchain technology to improve logistics by addressing dispute resolution, aiming to enhance trust and efficiency in their global commerce operations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is blockchain used in food provenance tracking at Walmart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In collaboration with IBM, Walmart is leveraging blockchain to track food provenance, providing traceability for food safety and ensuring a transparent supply chain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is blockchain considered a transformative force in logistics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain is considered transformative in logistics due to its ability to improve transparency, traceability, and efficiency across supply chains, reducing fraud and errors."
+      }
+    }
+  ]
+}

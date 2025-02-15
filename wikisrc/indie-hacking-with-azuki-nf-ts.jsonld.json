@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are Azuki NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Azuki NFTs are digital artworks that combine traditional and modern aesthetics, influenced by anime culture and streetwear fashion. Each Azuki NFT is unique, non-interchangeable, and stored on blockchain technology, ensuring provenance and scarcity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can indie hackers benefit from Azuki NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indie hackers can explore opportunities with Azuki NFTs such as creating curated NFT platforms, building NFT-centric communities, developing analytics tools, and creating interactive NFT experiences."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges do indie hackers face with Azuki NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include market competition, legal and regulatory hurdles, technical complexity, and volatile market conditions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What strategies can lead to success in the Azuki NFT space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indie hackers can achieve success by focusing on community engagement, innovation, leveraging partnerships, staying informed and adaptable, and ensuring transparency and security."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the potential future of indie hacking with Azuki NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The potential future includes contributing to digital art innovation, creating value through community and technology, and participating in the evolution of digital collectibles as a cultural movement."
+      }
+    }
+  ]
+}

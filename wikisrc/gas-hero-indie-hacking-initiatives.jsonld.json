@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Gas Hero's main objective in the NFT space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gas Hero aims to reduce transaction costs associated with NFTs by using Layer-2 Integration, making it more accessible and affordable for users."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Gas Hero reduce gas fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gas Hero integrates Layer-2 technologies to combine reduced fees with faster transactions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does community governance play in Gas Hero?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Community Governance allows users to participate in decision-making processes, fostering a more democratic and participatory system."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Gas Hero contribute to education about NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gas Hero offers educational resources that help demystify blockchain processes and make NFTs more comprehensible for new users."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does Gas Hero face, and how do they address them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gas Hero tackles challenges such as scalability through efficient use of layer-2 technologies, builds awareness by creating educational content and events, and enhances community trust through transparency and user engagement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future does Gas Hero see for indie hacking in NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gas Hero sees a future where indie hacking continues to solve specific issues within the NFT space, thereby boosting accessibility and fostering innovation in blockchain technology."
+      }
+    }
+  ]
+}

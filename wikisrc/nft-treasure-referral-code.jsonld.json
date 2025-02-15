@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is NFT Treasure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFT Treasure is a leading marketplace that enables artists, musicians, and collectors to trade NFTs. The platform prioritizes secure transactions and offers a diverse range of NFTs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the NFT Treasure referral program work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The NFT Treasure referral program allows users to share a unique referral code. When new users join and engage on the platform using this code, the referrer and referee earn benefits such as reduced transaction fees, exclusive NFTs, or bonuses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I create a referral code on NFT Treasure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To create a referral code on NFT Treasure, register and sign up for an account. Then, navigate to the 'Referral' section under your account settings to generate and distribute your unique referral code."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of using a referral code on NFT Treasure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Referrers enjoy benefits like reduced transaction fees and access to exclusive NFTs, while referees receive perks such as signing bonuses, fee discounts, or free NFTs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I effectively share my NFT Treasure referral code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can share your referral code through social media platforms like Twitter and Instagram, email contacts, embedding in blog posts or videos, and during live engagement sessions such as webinars."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I maximize the effectiveness of my NFT Treasure referral code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Educate your audience on NFTs and platform benefits, share testimonials, create engaging visual content, host webinars, and regularly update your audience with platform and industry trends."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I effectively thank my GitHub sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To effectively thank your GitHub sponsors, consider acknowledging them publicly, providing exclusive benefits, and engaging them in project updates to display gratitude and foster ongoing relationships."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find documentation on managing GitHub sponsorships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can find documentation on managing GitHub sponsorships on the GitHub Sponsors Documentation page. It provides detailed instructions on managing your sponsorships, from setup to receiving updates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some best practices for marketing on GitHub?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For best practices in marketing on GitHub, you can visit the GitHub Marketing Best Practices page. This resource offers insights into managing and engaging your open-source community effectively."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to thank GitHub sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thanking GitHub sponsors is important because it helps maintain strong relationships, showcases the value of their contributions, and encourages a supportive and vibrant community around your projects."
+      }
+    }
+  ]
+}

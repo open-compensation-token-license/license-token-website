@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain is a decentralized digital ledger that records transactions across multiple computers. This ensures that once a transaction is recorded, it becomes immutable, providing unsurpassable transparency and security."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain address the problem of supply chain opacity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain offers solutions to supply chain opacity by providing transparent and immutable record-keeping. This reduces the involvement of intermediaries, decreases transaction costs, and minimizes data manipulation vulnerabilities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does blockchain play in enhancing supply chain transparency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain enhances supply chain transparency through immutable record-keeping, enhanced traceability, smart contracts, and improved security and reliability. This allows for better tracking of products and more efficient processes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the impact of blockchain on the food industry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the food industry, blockchain aids in better traceability which helps reduce recall time and improve food safety. Major companies like Walmart are using blockchain to make their food systems safer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is blockchain being used in the textile industry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the textile industry, initiatives like Provenance are using blockchain to ensure ethical sourcing and sustainability by tracking processes from farms to garments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the challenges of implementing blockchain in supply chains?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The challenges of implementing blockchain in supply chains include the need for industry-wide collaboration, initial costs, and regulatory issues. However, once these hurdles are overcome, the potential for transparency is immense."
+      }
+    }
+  ]
+}

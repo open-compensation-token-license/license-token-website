@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the NFT Treasure Team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The NFT Treasure Team is a group formed in early 2020, consisting of technologists, artists, and entrepreneurs focused on the art and blockchain space, led by blockchain developer Jacob Tyler."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the team's vision and objectives?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Their mission is to democratize digital art access and educate creators about NFTs, empowering artists with ownership and royalties, and fostering a broader understanding of digital ownership."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What key innovations has the NFT Treasure Team introduced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key innovations include interactive NFTs like 'Echoes of Infinity,' collaborative drops with artists like Elara, and environmental initiatives like the Green Minting Fund."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges has the team faced and overcome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The team has faced market volatility and regulatory hurdles but has thrived through resilience and innovation, building a loyal community and solidifying its industry status."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How has the NFT Treasure Team impacted the NFT landscape?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They have legitimized NFTs as artistic expression, expanded artist exposure and revenue opportunities, and helped demystify NFTs for a broader audience through education."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the team's future endeavors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They aim to explore VR and AR integration, create immersive experiences, expand reach to underrepresented communities, and foster diversity within the NFT ecosystem."
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does blockchain technology impact patent management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology improves patent management by enhancing efficiency, transparency, and security. It creates immutable records, accelerates examination processes, provides security against fraud, automates licensing with smart contracts, and aids in global patent harmonization."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the current challenges in patent management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patent management faces challenges such as complex procedures, prolonged timelines, inconsistent cross-border enforcement, and risks of data manipulation and unauthorized access in centralized systems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain enhance transparency and record-keeping in patent management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain ensures an immutable record of patent activities, preventing ownership disputes and aiding in transparency. Platforms like IPwe illustrate real-world applications of this transparency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role do smart contracts play in patent management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart contracts automate patent licensing, minimize errors, and ensure compliance, making patent management more efficient. The Ethereum platform provides comprehensive documentation on implementing smart contracts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges exist in implementing blockchain in patent management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing blockchain requires substantial investment and must overcome regulatory challenges. Achieving a balance between transparency and confidentiality is crucial, and legal frameworks need to evolve."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future prospects exist for blockchain in patent management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As technology and regulatory environments mature, blockchain has the potential to democratize access to patent data and foster innovation by creating more efficient, secure, and equitable patent systems globally."
+      }
+    }
+  ]
+}

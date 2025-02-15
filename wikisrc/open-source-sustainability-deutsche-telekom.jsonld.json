@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What role does Deutsche Telekom play in open source sustainability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deutsche Telekom stands at the forefront of integrating open source into its sustainability and innovation strategies, actively participating in impactful initiatives and global projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is open source, and why is it important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open source is a collaborative model where software source code is publicly accessible for global contributions and innovations. It plays a vital role in technology advancement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Deutsche Telekom contribute to open source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deutsche Telekom actively contributes to collaborative platforms and projects like OpenStack and Kubernetes, advancing cloud and container technologies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What sustainable technologies is Deutsche Telekom focusing on?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deutsche Telekom focuses on technologies such as Software-Defined Networking (SDN) and Network Function Virtualization (NFV), which help reduce energy consumption."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges and opportunities does Deutsche Telekom face in open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While facing challenges like code quality and intellectual property, Deutsche Telekom sees opportunities in expanding into AI and IoT technologies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Deutsche Telekom plan to build a sustainable future with open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deutsche Telekom aims to foster deeper community ties through hackathons and collaborative projects, ensuring open source becomes central to technological development."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find more information about Deutsche Telekom's sustainability initiatives?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For further insights, visit Deutsche Telekom's sustainability initiatives page on their corporate responsibility website."
+      }
+    }
+  ]
+}

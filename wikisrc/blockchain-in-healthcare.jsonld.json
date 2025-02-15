@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain is a distributed ledger that records transactions across a decentralized network. It ensures transparency, security, efficiency, and decentralization by allowing all participants to view and verify transactions, protecting data with cryptographic techniques, cutting down intermediaries, and reducing risks associated with single points of failure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain address healthcare challenges?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology enhances data security and privacy, improves interoperability, streamlines supply chain management, and facilitates clinical trials and research. It offers secure data transfer, acts as a universal standard for data exchange, and ensures transparency and data integrity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some promising blockchain healthcare applications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Promising applications include patient-centric health records, pharmaceutical authentication, decentralized health and wellness apps, and smart contracts for automated processes like insurance claims and billing systems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does blockchain face in healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include scalability, regulatory compliance with standards like HIPAA and GDPR, integration with legacy systems, and the need for change management and stakeholder collaboration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the potential impact of blockchain on healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain has the potential to transform healthcare by enhancing security, interoperability, and efficiency, leading to improved patient care and operational excellence."
+      }
+    }
+  ]
+}

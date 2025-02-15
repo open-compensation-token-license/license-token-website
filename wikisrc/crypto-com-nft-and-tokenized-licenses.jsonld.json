@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs (Non-Fungible Tokens) are unique digital tokens that validate ownership of specific assets such as digital art, music, or virtual real estate. They are non-fungible, meaning each NFT is unique and cannot be exchanged on a one-to-one basis like cryptocurrencies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are tokenized licenses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tokenized licenses are digital claims to particular rights or assets on the blockchain, offering enhanced security, traceability, and efficiency, particularly in managing intellectual property rights."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Crypto.com involved in the NFT market?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crypto.com entered the NFT market by launching its NFT platform in March 2021, with the aim of simplifying NFT transactions and making digital assets more accessible to a diverse community of creators."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Crypto.com ensure the sustainability of its NFT platform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crypto.com showcases its commitment to sustainability by utilizing a Proof-of-Stake blockchain, which is more energy-efficient compared to traditional Proof-of-Work systems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of tokenized licenses on Crypto.com's platform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tokenized licenses on Crypto.com's platform streamline traditional licensing processes with blockchain's transparency and security, facilitating shared ownership and innovation in various industries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Crypto.com address regulatory and security concerns?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crypto.com actively engages in regulatory discussions to help shape policies that balance innovation with user protection. They also prioritize clarity in digital rights and employ advanced security measures."
+      }
+    }
+  ]
+}

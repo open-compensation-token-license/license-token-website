@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Art Blocks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Art Blocks is a platform that allows artists to create generative art using blockchain technology, founded by Erick Calderon in 2020. Each piece is created upon minting, giving collectors a unique and original artwork."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Art Blocks work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Art Blocks operates on the Ethereum blockchain, using smart contracts to deploy and verify art pieces. Artists submit scripts that generate art upon purchase, with each unique piece minted as an NFT and transferred to the collector's wallet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does blockchain play in Art Blocks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology in Art Blocks offers decentralization, immutability, transparency, and security, allowing artworks to reach global audiences, ensuring authenticity, building trust, and safeguarding digital art."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Art Blocks embody open-source principles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Art Blocks uses open-source programming languages and fosters a collaborative community environment. This transparency encourages innovation and knowledge sharing, akin to open-source projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future potential of combining blockchain with open-source practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Combining blockchain with open-source practices can democratize art creation, spur innovation through shared knowledge, empower artists, expand cultural reach, and address scalability and sustainability challenges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges do blockchain-based art platforms like Art Blocks face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include technical barriers for artists, cryptocurrency market volatility, environmental concerns around blockchain's energy use, and evolving digital copyright and ownership issues."
+      }
+    }
+  ]
+}

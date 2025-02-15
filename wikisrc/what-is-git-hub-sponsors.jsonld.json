@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Launched in 2019, GitHub Sponsors allows developers to financially support open source contributors, aiding in creating a sustainable ecosystem by rewarding maintainers for their work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does GitHub Sponsors work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Developers need a GitHub account and must apply through the GitHub Sponsors dashboard. Various sponsorship tiers can be created, offering different benefits and encouraging varied contributions. GitHub Sponsors manages payment processing and displays contributions on developer profiles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The benefits include financial support, sustainability for developers, community building, and increased exposure for projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does GitHub Sponsors face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include accessibility for lesser-known contributors, dependency risks from sponsorship withdrawal, and balancing sponsor expectations with community goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the impact of GitHub Sponsors on open source development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors provides pivotal support for open source development by offering financial backing to developers, fostering sustainable software innovation. However, strategic addressing of challenges is necessary for broad, inclusive benefits."
+      }
+    }
+  ]
+}

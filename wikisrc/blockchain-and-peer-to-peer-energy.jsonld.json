@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is blockchain technology's role in energy markets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology facilitates the decentralization of energy markets by enabling secure, transparent, and efficient peer-to-peer energy trading. This empowers consumers and supports the adoption of renewable energy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does peer-to-peer energy trading work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peer-to-peer energy trading allows consumers to buy and sell excess renewable energy directly with each other, without intermediaries. This system relies on blockchain technology to maintain secure and transparent transactions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some examples of blockchain-based energy initiatives?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Initiatives like the Brooklyn Microgrid and Power Ledger are examples of blockchain-based energy projects. They aim to create decentralized energy networks that support local energy trading and increase the use of renewable resources."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What benefits do blockchain and P2P energy trading offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "These technologies offer several benefits, including enhanced energy independence, increased renewable energy adoption, and the potential for consumers to reduce energy costs by trading excess energy directly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I learn more about blockchain and P2P energy markets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To learn more, you can explore resources such as the Wikipedia page on blockchain and the websites for initiatives like the Brooklyn Microgrid and Power Ledger."
+      }
+    }
+  ]
+}

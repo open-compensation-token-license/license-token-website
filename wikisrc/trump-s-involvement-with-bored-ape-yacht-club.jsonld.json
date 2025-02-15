@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Bored Ape Yacht Club (BAYC)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Bored Ape Yacht Club is a collection of 10,000 unique digital ape NFTs, launched by Yuga Labs in April 2021. These NFTs act as both digital art and membership tokens to exclusive events, and have become status symbols in the NFT community."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is Donald Trump reportedly involved with the Bored Ape Yacht Club?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Donald Trump's reported involvement with BAYC could be driven by his desire to stay culturally relevant, capitalize on financial opportunities within the NFT market, and extend his brand into the digital space, aligning with his history of embracing new trends."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How might Trump's involvement impact the NFT space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trump's involvement in the NFT community could have mixed reactions. It highlights the intersection of celebrity culture and digital assets, potentially influencing market dynamics and raising questions about authenticity in the space."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are potential future trends for the NFT landscape?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future trends may include increased regulation and sustainability efforts as public interest grows, as well as technological advancements that offer deeper engagement beyond mere ownership of digital assets."
+      }
+    }
+  ]
+}

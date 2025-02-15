@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where can I find more information about Pudgy Penguins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can find more information about Pudgy Penguins by visiting their official Twitter page at https://twitter.com/pudgypenguins or their website at https://pudgypenguins.com."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I learn more about Arbitrum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To learn more about Arbitrum, you can visit their official website at https://offchainlabs.com or their Twitter page at https://twitter.com/arbitrum."
+      }
+    }
+  ]
+}

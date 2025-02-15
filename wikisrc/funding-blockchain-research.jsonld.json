@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is blockchain research important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology offers decentralized, transparent, and secure solutions across various sectors, but challenges such as scalability, interoperability, and energy efficiency persist. Research is essential to address these issues and fully realize blockchain's potential."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the main sources of funding for blockchain research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main sources of funding for blockchain research include private investments and venture capital, government grants and public funding, academic and institutional funding, and corporate investments and consortia."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do venture capitalists focus on blockchain projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Venture capitalists focus on blockchain projects because they often look for investments that promise short- to medium-term returns. However, this sometimes results in the overlook of fundamental research needs in blockchain technology."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do government grants support blockchain research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Governments support blockchain research through initiatives like the European Union's Horizon 2020, which allocates resources for projects exploring blockchain's applications in the public sector."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role do universities play in blockchain research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Universities engage in theoretical blockchain research, funded by government grants, private sector partnerships, and philanthropic donations. They often collaborate with startups to bridge the gap between research and real-world applications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges exist in funding blockchain research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges in funding blockchain research include the perception of it solely as cryptocurrency-related, rapid technological changes, and regulatory uncertainties, which can deter investment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What strategies can enhance funding for blockchain research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strategies to enhance funding include promoting awareness about blockchain applications, encouraging public-private partnerships, advocating for regulatory clarity, and exploring innovative funding mechanisms such as token-based fundraising or decentralized autonomous organizations (DAOs)."
+      }
+    }
+  ]
+}

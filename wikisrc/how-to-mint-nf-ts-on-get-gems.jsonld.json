@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "[GetGems](https://getgems.io/) is a user-friendly NFT marketplace designed for artists, collectors, and investors. It is built on blockchain technology, allowing users to create, buy, sell, and trade NFTs in a secure and decentralized environment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I set up an account on GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To set up an account on GetGems:\n1. Visit the [GetGems website](https://getgems.io/).\n2. Click on the 'Sign Up' button.\n3. Fill in the required fields with your name, email address, and password.\n4. Verify your email by clicking the verification link sent to your inbox.\n5. Enable two-factor authentication (2FA) for added security."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I integrate a wallet for NFT minting on GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To integrate a wallet:\n1. Choose a digital wallet such as [MetaMask](https://metamask.io/) or [Trust Wallet](https://trustwallet.com/).\n2. Connect your wallet through the GetGems account dashboard.\n3. Ensure your wallet has enough cryptocurrency, typically Ethereum, for minting and transaction fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I create an NFT on GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To create an NFT on GetGems:\n1. Log in to your GetGems account.\n2. Navigate to the minting section labeled 'Create' or 'Mint NFT.'\n3. Upload your digital file (image, audio, video, etc.).\n4. Enter NFT details like title, description, properties, and supply.\n5. Set a royalty percentage for secondary sales."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the steps to mint an NFT on GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steps to mint an NFT:\n1. Review all NFT details as minting is immutable.\n2. Be aware of the gas fees involved.\n3. Confirm the transaction via your connected wallet to complete minting.\n4. Wait for the confirmation, which can take from a few minutes to an hour."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I list my NFT for sale on GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To list your NFT for sale:\n1. Set a selling price or choose to auction it.\n2. Determine the duration for which the NFT will be listed.\n3. Submit the listing details and confirm through your connected wallet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I promote my NFT on GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Promote your NFT by:\n1. Sharing it on social media platforms.\n2. Engaging with NFT and crypto community forums.\n3. Considering collaborations with other artists or influencers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of minting NFTs on GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minting NFTs on GetGems allows artists and digital creators to monetize their work in a decentralized, secure environment, reaching a broader audience and opening new revenue streams."
+      }
+    }
+  ]
+}

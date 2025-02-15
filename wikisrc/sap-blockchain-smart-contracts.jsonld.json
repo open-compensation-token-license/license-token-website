@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Blockchain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain is a decentralized digital ledger that records transactions across multiple computers in a way that ensures security, transparency, and immutability. This technology is robust against fraud and unauthorized manipulation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are Smart Contracts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart contracts are self-executing contracts with terms directly written into lines of code, automatically enforcing and executing contractual clauses based on predefined triggers, thus reducing intermediaries and enhancing efficiency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is SAP using Blockchain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SAP is integrating blockchain technology into its offerings to revolutionize enterprise operations. Through the SAP Cloud Platform Blockchain, it offers a Blockchain-as-a-Service (BaaS) solution that helps businesses build and extend applications with blockchain capabilities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the applications of smart contracts in SAP's ecosystem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart contracts in SAP's ecosystem are applied in areas like supply chain management, procurement, and financial services, automating processes to enhance efficiency, accuracy, and compliance while reducing costs and manual interventions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of SAP Blockchain Smart Contracts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The benefits include increased efficiency and accuracy by eliminating intermediaries, enhanced security through tamper-proof features, greater transparency and trust with real-time contract access, and streamlined compliance with automatic enforcement of regulations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges are associated with implementing smart contracts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include technical complexity, evolving legal and regulatory implications, and integration with existing legacy systems. Organizations must invest in necessary skills and partner with experienced providers like SAP for successful deployment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of SAP Blockchain and Smart Contracts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future includes expanding solutions into new industries, focusing on advancements in interoperability, and contributing to sustainability efforts by enabling more efficient and sustainable operations through smart contracts."
+      }
+    }
+  ]
+}

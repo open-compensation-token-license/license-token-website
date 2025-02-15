@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GitHub Sponsors and how does it support open-source projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors is a program launched in 2019 to provide financial backing to open-source developers and projects directly through the GitHub platform, helping sustain open-source work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can organizations use GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Organizations can create a sponsorship profile to receive support, sponsor other developers or projects, and use funds for employee compensation in support of open-source contributions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of using GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The benefits include financial support, increased visibility within the open-source community, strengthened community ties, and enhanced employee engagement and satisfaction."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do organizations need to follow to set up GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Organizations should check eligibility, create a profile, set up sponsorship tiers, promote through channels like social media, and engage with sponsors through updates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can organizations maximize their success using GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Success can be maximized by being transparent with fund utilization, highlighting impact, engaging continuously with sponsors, broadening promotional reach, and appreciating sponsors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges might organizations face with GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include the complexity of initial setup, the need for ongoing engagement to sustain interest, and managing funds efficiently to achieve development goals."
+      }
+    }
+  ]
+}

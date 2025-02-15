@@ -1,0 +1,1 @@
+For more information on Pudgy Penguins, you can visit their official [Twitter page](https://twitter.com/pudgypenguins) and [website](https://pudgypenguins.com). Learn more about Arbitrum by visiting their [official site](https://offchainlabs.com) or their [Twitter page](https://twitter.com/arbitrum).

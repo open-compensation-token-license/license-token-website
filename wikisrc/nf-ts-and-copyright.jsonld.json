@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are NFTs and how do they relate to copyright?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs, or non-fungible tokens, are unique digital assets verified on a blockchain. They represent exclusive items and provide a way for artists to monetize digital creations. However, owning an NFT does not always transfer copyright of the associated work, leading to potential legal complexities regarding intellectual property rights."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do NFT transactions convey intellectual property rights?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, NFT transactions primarily establish record ownership on a blockchain but do not convey intellectual property rights of the associated creative work. Separate agreements are needed to transfer such rights, typically involving specific licensing terms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can smart contracts assist in NFT licensing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart contracts can automate transaction processes and embed licensing terms in NFTs. They can dictate actions like resale royalties for creators, though clarity in the contract parameters is required for effective enforcement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the copyright protection challenges related to NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key challenges include jurisdictional issues due to the global nature of blockchain and decentralized NFT trading environments, which complicates copyright infringement policing. Solutions often require cross-jurisdictional cooperation and industry-standard initiatives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What best practices should creators follow when dealing with NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Creators should clarify licensing terms, implement resale royalties using smart contracts, register copyrights to strengthen legal protection, and deploy technical protections like watermarks to deter unauthorized use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should buyers consider before purchasing NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Buyers should conduct thorough due diligence to understand the rights acquired by the NFT purchase, review associated contract terms, verify NFT authenticity, and ensure that their intended use aligns with the rights received."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How might legal frameworks adapt to the growth of NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As NFTs grow in relevance, there is a demand for adaptive legal frameworks that balance innovation with intellectual property protection. Developing coherent industry standards and legal precedents, along with stakeholder collaboration, will be crucial in defining the future of NFTs in copyright law."
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Basic Attention Token (BAT)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Basic Attention Token (BAT) is a cryptocurrency designed to improve efficiency in digital advertising by creating a token that can be exchanged between publishers, advertisers, and users on the Brave platform. BAT leverages tokenization to reward user attention while preserving user privacy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Filecoin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Filecoin is a decentralized storage network that turns cloud storage into an algorithmic market. It is an innovative approach to digital storage, where users earn tokens by renting out available storage space, thus creating a decentralized and open-source file storage ecosystem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Gitcoin support open-source development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitcoin is a decentralized platform that helps fund open-source development projects using tokenization. It connects developers with those who need their skills and allows for financial contributions to open-source projects, helping to maintain and grow sustainable open-source ecosystems."
+      }
+    }
+  ]
+}

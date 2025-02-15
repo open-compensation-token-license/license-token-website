@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors is a program developed by GitHub to financially support open-source projects and their maintainers by allowing developers and companies to sponsor them through monthly payments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does GitHub Sponsors work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Developers can apply to join GitHub Sponsors by maintaining an open-source project and having a verified bank account. They create sponsorship profiles and tiers. Sponsors choose a tier to provide monthly contributions, and GitHub processes these transactions, waiving fees for the first year."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is eligible to participate in GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Developers must maintain at least one open-source project and have a verified bank account in a supported region. Any GitHub user can sponsor a project, regardless of having their own project."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the impacts of GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors promotes financial sustainability for developers, encourages innovation by reducing financial constraints, and provides incentives for new developers. It also poses challenges like potential equity issues and over-dependence on sponsorships."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What best practices should developers follow on GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Developers should communicate the impact and goals of funding clearly, engage regularly with sponsors, and utilize social media to enhance visibility and engagement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some best practices for sponsors on GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sponsors should research projects before sponsoring, engage with the community, and provide consistent support to help maintainers sustain their projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is GitHub Sponsors significant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors is significant because it sustains and nurtures the open-source ecosystem by enabling financial backing for projects, thereby fostering innovation and ensuring the longevity of open-source contributions."
+      }
+    }
+  ]
+}

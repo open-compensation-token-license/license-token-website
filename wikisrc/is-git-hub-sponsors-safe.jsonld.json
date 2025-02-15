@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is GitHub Sponsors safe?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors is designed with multiple safety layers for secure financial support, including secure communication, encryption, fraud detection, and data protection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does GitHub Sponsors ensure technical security?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors ensures technical security through HTTPS for encrypted communication, OAuth authorization, strong encryption, and recommends using Two-Factor Authentication (2FA) for account safety."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What financial security measures does GitHub Sponsors employ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The platform relies on Stripe for PCI DSS compliant payment processing, utilizes fraud detection mechanisms, provides clear refund and dispute policies, and ensures transparent fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What personal security features are available on GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Personal security includes privacy controls for anonymous sponsorships, GDPR-compliant data handling, strict community guidelines, and user reviews for credibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What potential risks should users be aware of on GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Users should be cautious of phishing attacks and fake sponsorship programs, though these risks are mitigated by GitHub's security measures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can users stay safe on GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Users should enable 2FA, verify the legitimacy of projects and maintainers, use privacy controls, monitor financial transactions for unauthorized actions, and educate themselves about GitHub's privacy policies and guidelines."
+      }
+    }
+  ]
+}

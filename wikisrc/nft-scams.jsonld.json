@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs are unique digital assets representing ownership of content or items on the blockchain. Unlike cryptocurrencies such as Bitcoin, NFTs are unique and non-interchangeable, making them valuable in digital art, music, and gaming."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are common types of NFT scams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common NFT scams include phishing scams, counterfeit and copyright infringement scams, pump and dump schemes, rug pull scams, and bidding scams."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I protect myself from phishing scams in the NFT space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To protect against phishing scams, verify site authenticity, enable two-factor authentication, and be wary of suspicious links."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do to avoid buying counterfeit NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Research the seller’s reputation and look for platforms with robust verification to avoid buying counterfeit NFTs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I identify a pump and dump scheme in NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Research the price history of NFTs and be skeptical of sudden price spikes to identify potential pump and dump schemes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What precautions should I take to avoid rug pull scams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scrutinize project transparency, check team credentials, and verify community engagement to avoid rug pull scams."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I recognize bidding scams in NFT auctions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Understand auction rules and be wary of out-of-place, high last-minute bids to recognize bidding scams."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does community vigilance play in NFT safety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Engaging with reputable communities and following industry experts can provide valuable insights and updates on scams, aiding in informed decision-making and enhanced NFT safety."
+      }
+    }
+  ]
+}

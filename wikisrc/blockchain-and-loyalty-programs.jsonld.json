@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is blockchain technology and how does it relate to loyalty programs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology is a decentralized, distributed ledger that records transactions across many computers. In the context of loyalty programs, it offers solutions for enhancing customer engagement by providing increased security, transparency, and interoperability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Singapore Airlines utilizing blockchain in its loyalty program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Singapore Airlines uses blockchain technology in its KrisPay program, enabling their customers to convert air miles into units that can be spent at partner merchants, thereby increasing the program's flexibility and reach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is LoyalCoin and how does it relate to blockchain-based loyalty programs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LoyalCoin is a blockchain-based loyalty program that integrates cryptocurrency with customer rewards, allowing participants to earn and spend across different services and platforms seamlessly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is American Express exploring blockchain technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "American Express is exploring blockchain technology to streamline and secure transactions, enhance loyalty rewards, and improve customer engagement through innovative applications of the technology."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are smart contracts and their role in blockchain-based loyalty programs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart contracts are self-executing contracts with the terms directly written into code. They play a crucial role in blockchain-based loyalty programs by automating processes, reducing the need for intermediaries, and ensuring secure, transparent transactions."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key points to consider before cancelling a GitHub Sponsorship?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before cancelling a GitHub Sponsorship, understand how GitHub Sponsors supports developers and projects and reflect on personal, financial, or alignment issues prompting your decision."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the step-by-step process to cancel a GitHub Sponsorship?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1. Log in to your GitHub Account. 2. Navigate to Your Profile. 3. Access the Sponsorships Page. 4. Review Active Sponsorships. 5. Select the Sponsorship to Cancel. 6. Cancel the Sponsorship. 7. Confirm Cancellation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens immediately after cancelling a GitHub Sponsorship?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cancellations take effect immediately. There are no refunds for current cycle payments, the developer will be notified of your cancellation, and access to tier-specific benefits will cease."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some alternatives to cancelling a GitHub Sponsorship?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consider adjusting the sponsorship tier to a more manageable level, pausing the sponsorship if allowed, providing feedback to the developer, or offering in-kind contributions like code contributions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find further details on cancelling a GitHub Sponsorship?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For more information, refer to GitHub's official guide on sponsorship handling: https://help.github.com/en/articles/canceling-a-github-sponsorship."
+      }
+    }
+  ]
+}

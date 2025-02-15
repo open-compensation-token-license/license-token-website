@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Decentralized Autonomous Organization (DAO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Decentralized Autonomous Organization (DAO) is a system of governing a blockchain project where rules are encoded in smart contracts, allowing decisions to be made by members without centralized control. This structure enhances decentralization, transparency, and global participation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do DAOs work in project funding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DAOs work in project funding through a structured process that includes proposal submission by project teams, member voting using tokens, and automated fund distribution via smart contracts as proposals receive sufficient votes. Funding can be staged and contingent on verified milestones."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What advantages do DAOs offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DAOs offer several advantages including decentralization which reduces central control, transparency given all decisions are recorded on the blockchain, global reach allowing access to diverse investors, and efficiency with automated processes minimizing administrative tasks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the challenges faced by DAOs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges faced by DAOs include security risks from potential smart contract vulnerabilities, regulatory uncertainty impacting operations, difficulties in consensus building within large DAOs, and potential barriers to entry due to token requirements that can lead to plutocracy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which are some successful DAO-funded projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Successful DAO-funded projects include Uniswap, a decentralized exchange governed by its community; Gitcoin, which supports open-source projects with community-driven funds; and MakerDAO, which manages the DAI stablecoin via a robust governance mechanism."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the future hold for DAOs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future of DAOs involves enhanced governance and dispute resolution models, integration with traditional financial systems, improved accessibility and user-friendly platforms, and potential expansion into sectors beyond cryptocurrency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Deutsche Bank's approach to open-source technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deutsche Bank has embraced open-source technology to drive innovation and efficiency in the financial services sector. By adopting open-source software, which allows for public access, alteration, and distribution of the source code, the bank aims to foster collaboration and rapid progress."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is dbOpenSource?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "dbOpenSource is Deutsche Bank's platform for open-source collaboration. It offers tools and repositories that enable developers to engage with the bank's projects, thereby facilitating innovation and efficiency through an open-source technology approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does the Apigee Integration play?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Apigee Integration is an API management platform used by Deutsche Bank. It facilitates seamless operational connectivity, enhancing digital customer experiences by providing robust integration capabilities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the FDC3 Consortium?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The FDC3 Consortium is a collaborative initiative that Deutsche Bank is part of, which aims to standardize desktop interoperability across the financial services industry. This standardization helps streamline processes and improves efficiency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What technologies are involved in Deutsche Bank's cloud native transition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deutsche Bank's cloud native transition involves the use of technologies like Kubernetes and Apache Kafka. These technologies are implemented to boost operational resilience and scalability, aligning with modern digital transformation goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does Deutsche Bank face with adopting open-source technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While Deutsche Bank is strategically adopting open-source technology, it faces challenges such as security risks and intellectual property concerns. Balancing innovation with these challenges is an integral part of its journey towards efficiency and customer satisfaction."
+      }
+    }
+  ]
+}

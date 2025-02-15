@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Rarible's approach to open source sustainability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarible leverages open source principles to create a decentralized NFT marketplace that empowers creators and fosters a sustainable digital ecosystem. This approach includes community involvement, collaborative governance, and incentivized contributions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Rarible empower artists through its platform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarible allows creators to control and monetize their digital art within a decentralized marketplace, reflecting the collaborative spirit inherent in open source technologies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does open source play in blockchain technology within Rarible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open source code in blockchain development enhances transparency, security, and adaptability, which Rarible utilizes to build trust and encourage global developer contributions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is governance handled in Rarible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarible promotes a community-led decision-making process through its DAO, where RARI token holders can influence the platform's future, aligning with decentralization principles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What incentives does Rarible provide for contributors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarible offers incentives like 'bounties' to reward development contributions, fostering a collaborative community enriched by shared skills and knowledge."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Rarible ensure financial sustainability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarible relies on transaction fees for revenue, supporting ongoing platform development and community initiatives within an open source framework. Collaborative grants from the DAO fund impactful projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What measures does Rarible take to enhance transparency and trust?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarible ensures transparency through public roadmaps, regular progress updates, security audits, and peer reviews, all contributing to user trust and platform integrity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What educational initiatives does Rarible offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarible invests in educational initiatives like workshops, tutorials, and hackathons to build skills and empower users and contributors within the community."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Rarible addressing environmental concerns?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarible is transitioning to more efficient blockchain protocols and advocating for green initiatives to address environmental concerns and promote sustainable practices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does Rarible face, and how does it plan to overcome them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarible faces challenges such as scalability and complex governance. By exploring effective solutions, the platform aims to adapt and grow sustainably to support its community."
+      }
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+**Explore the GetGems NFT Community**
+
+Dive into the transformative realm of NFTs with the [GetGems NFT community](https://getgems.com/). Discover how this dynamic platform empowers artists, supports collectors, and fosters innovation in the digital art space. With a commitment to sustainability and social responsibility, GetGems exemplifies community-driven collaboration and creativity. Check out [GetGems](https://getgems.com/) to become part of this pioneering movement!

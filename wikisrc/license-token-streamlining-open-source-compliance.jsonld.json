@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the purpose of open-source licenses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open-source licenses ensure compliance with specific terms while promoting innovation. They are broadly categorized into permissive licenses, such as the MIT License, which offers more flexibility, and copyleft licenses like the GNU General Public License, which require derivative works to adhere to the same terms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the main challenges of open-source software compliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main compliance challenges include identifying open-source components and ensuring adherence to license obligations, which can be time-consuming and expose businesses to legal risks. With over 200 types of licenses, navigating this landscape can be complex."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is License-Token?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "License-Token is a tool that provides a streamlined approach to open-source software compliance by creating digital artefacts for managing license data efficiently. It automates compliance processes and supports legal and regulatory adherence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does License-Token work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "License-Token functions by generating unique digital fingerprints for each component, maintaining a centralized, up-to-date license repository, offering tools for automated compliance verification, generating streamlined audit reports, and ensuring integration and scalability for existing software environments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of using License-Token?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "License-Token increases efficiency and reduces compliance costs, mitigates legal risks by automating issue detection, enhances open-source collaboration, and improves governance by promoting adherence to best practices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the potential challenges when implementing License-Token?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include the initial complexity of set-up, which may require adjustments and training, data privacy concerns that necessitate vigilant security measures, and the need for continuous updates to keep the system current."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How might License-Token influence the future of compliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "License-Token could drive innovations like using machine learning to resolve conflicts or employing blockchain technology for transparency. Such advances could revolutionize compliance by reducing legal burdens and optimizing innovation."
+      }
+    }
+  ]
+}

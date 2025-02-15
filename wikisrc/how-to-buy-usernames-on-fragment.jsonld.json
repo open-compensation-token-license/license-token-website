@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Fragment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fragment is a digital marketplace designed for buying and selling unique usernames, connecting sellers with buyers in search of the perfect digital moniker. It provides a transparent transaction process with features that protect both parties."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I register and set up an account on Fragment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Visit the Fragment website and click on the 'Sign Up' button. Fill in your details, including an email address and a secure password. Confirm your email address by clicking on the link sent to your inbox. Familiarize yourself with the user interface and features after setting up your account."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I explore available usernames on Fragment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the search bar to input keywords or specific usernames. Filter results based on criteria such as price, popularity, and category. Review details for listings, including history, platforms, and seller ratings to assess potential value and authenticity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I consider when evaluating username quality?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consider factors such as length, memorability, and relevance. Short and easily recognizable usernames are usually more valuable. Ensure the username aligns with your brand or persona and digital goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the pricing structure on Fragment work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prices vary based on factors like uniqueness, demand, and length. They can range from a few dollars to thousands. Understand the pricing, set a budget, and note that Fragment may allow bidding on certain usernames."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the process for purchasing a username on Fragment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After identifying the ideal username, click 'Buy Now'. Review the terms, conditions, payment methods, and policies. Fragment supports various payment forms including credit cards, PayPal, and cryptocurrency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the transfer of ownership work on Fragment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After payment, the transfer process begins where the username rights are handed over securely. Follow the provided instructions carefully to ensure a successful transfer and avoid disputes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I build my digital identity with a new username?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utilize your new username consistently across platforms like social media and gaming accounts. Create custom logos or graphics around your username to enhance its online visibility and memorability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are important considerations when buying a username on Fragment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Conduct thorough research, verify sellers, stay updated on trends, and plan how the username fits into your long-term digital strategy. Ensure purchases are made from reputable sellers."
+      }
+    }
+  ]
+}

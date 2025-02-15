@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors is a platform launched in May 2019 that allows financial support for developers and open-source contributors. It aims to bolster sustainability and enhancement for open-source projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which countries in North America support GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In North America, GitHub Sponsors is supported in the United States and Canada."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you name some European countries that support GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Europe, GitHub Sponsors is available in the United Kingdom, Germany, France, Netherlands, and Sweden."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any Asian countries that support GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in Asia, GitHub Sponsors is supported in India and Japan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is GitHub Sponsors available in Oceania?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in Oceania, GitHub Sponsors is available in Australia."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which Latin American countries support GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Latin America, GitHub Sponsors is supported in Brazil and Mexico."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impact has the expansion of GitHub Sponsors had on the open-source community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The expansion has increased global participation and collaboration, enhanced financial sustainability for developers, and fostered connections across borders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does GitHub face with its Sponsors program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub continues to navigate challenges such as payment processing and geographical inclusivity, aiming to foster a diverse and connected open-source community worldwide."
+      }
+    }
+  ]
+}

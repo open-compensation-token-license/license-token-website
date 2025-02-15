@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the types of NFT scams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common types of NFT scams include counterfeit NFTs, phishing scams, pump and dump schemes, rug pulls, and fake celebrity endorsements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a counterfeit NFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Counterfeit NFTs are bogus copies of popular NFTs created by fraudsters to deceive buyers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do phishing scams relate to NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Phishing scams in the NFT space often involve fake NFT marketplaces designed to steal personal information from unsuspecting users."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a pump and dump scheme in the NFT market?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A pump and dump scheme in NFTs involves artificially inflating the price of NFTs to make them appear more valuable, then selling them off for profit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are rug pulls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rug pulls occur when a project is abandoned by its creators after collecting investment funds, leaving investors with worthless assets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can you protect yourself from NFT scams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To protect yourself from NFT scams, conduct thorough research, use secure wallet practices, purchase from verified platforms, engage with the NFT community, and verify celebrity endorsements through trusted sources."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can regulations help prevent NFT scams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is a growing call for regulation in the NFT market to protect investors. While regulation can help discourage fraudulent activities, it needs to balance security with decentralization and privacy principles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happened in the Evolved Apes scandal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Evolved Apes scandal, the project was abandoned by its creator after securing investments, resulting in a loss of $2.7 million."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was the fake Banksy NFT sale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A counterfeit Banksy NFT was sold for $336,000, which highlighted the sophistication of some NFT fraud schemes."
+      }
+    }
+  ]
+}

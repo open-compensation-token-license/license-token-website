@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are gas fees in the NFT ecosystem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gas fees are transaction costs incurred on a blockchain network, serving as a reward for miners who validate and process transactions. In the context of NFTs, these fees arise during minting, buying, selling, or transferring an NFT."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do gas fees impact GetGems transactions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gas fees increase the total cost of acquiring NFTs, posing a barrier to entry for casual collectors. Fluctuating gas fees lead to unpredictability, frustrating users. High fees may hinder user growth and engagement on platforms like GetGems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What strategies can be employed to manage gas fees on GetGems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strategies include timing transactions during low network congestion periods, using layer-2 solutions for reduced fees, batching transactions to save costs, considering gas-efficient token standards like ERC-1155, and educating users about gas fee mechanics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does Ethereum 2.0 play in the future of gas fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ethereum 2.0 aims to improve scalability and reduce gas fees through its transition to proof-of-stake from proof-of-work. This upgrade promises enhanced efficiency and more predictable fee structures beneficial for platforms like GetGems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do alternative blockchains impact the gas fee landscape for NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alternative blockchains like Solana and Flow offer lower transaction costs, which might divert NFT activity from Ethereum-based platforms but also inspire innovations in transaction efficiency for platforms like GetGems."
+      }
+    }
+  ]
+}

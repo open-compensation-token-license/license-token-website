@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are cryptocurrencies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cryptocurrencies are digital currencies using cryptography for secure transactions. Some well-known cryptocurrencies include Bitcoin, Ethereum, Ripple, and Litecoin. They serve various functions, from facilitating transactions to powering smart contract platforms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non-fungible tokens (NFTs) are unique digital assets representing ownership or authenticity on a blockchain. They differ from cryptocurrencies in that each NFT is unique and irreplaceable, commonly used in digital art, music, and gaming."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do cryptocurrencies and NFTs differ in terms of fungibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cryptocurrencies are fungible, meaning each unit is interchangeable and has a uniform value. NFTs, on the other hand, are non-fungible, each possessing unique attributes and value."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the primary uses of cryptocurrencies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cryptocurrencies are primarily used as digital currencies for facilitating transactions and as investment vehicles similar to stocks. They also power decentralized applications (DApps) and smart contracts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the primary uses of NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs are mainly used to establish ownership and provenance for digital assets like art and collectibles. They also offer unique items and experiences in gaming and marketplaces, and verify ownership or identity of digital or physical assets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges and criticisms do cryptocurrencies and NFTs face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both face criticism for their environmental impact due to energy-intensive blockchain transactions. There is also high market volatility posing financial risks, a complex regulatory landscape, and security risks from potential hacks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future potential of cryptocurrencies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cryptocurrencies have the potential to further decentralize finance, enhance cross-border transactions, and democratize financial access. The development of central bank digital currencies (CBDCs) suggests deeper integration into daily financial activities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future potential of NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs could transform various industries like entertainment, real estate, and identity management by establishing digital property rights and creating new revenue streams for creators. They might become key in creating verifiable digital ownership and enhancing user experiences."
+      }
+    }
+  ]
+}

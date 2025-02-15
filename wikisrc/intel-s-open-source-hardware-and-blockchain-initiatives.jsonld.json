@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Intel's Open FPGA Stack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Intel’s Open FPGA Stack provides modular building blocks designed to maximize the potential of FPGAs. It aims to enhance their application across data centers and edge devices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Intel involved with the RISC-V architecture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Intel supports the open standard instruction set of RISC-V, contributing to its development to facilitate diverse processing solutions in the technology ecosystem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of Intel's OneAPI initiative?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "OneAPI is a programming model developed by Intel to unify hardware and software development across CPUs, GPUs, and FPGAs, streamlining development processes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Hyperledger Sawtooth and how is Intel involved?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hyperledger Sawtooth, developed by Intel under the Linux Foundation's Hyperledger project, focuses on modular and scalable blockchain architecture and introduces the energy-efficient Proof-of-Elapsed-Time consensus mechanism."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Intel's Trustworthy Computing Initiative?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Intel's Trustworthy Computing Initiative emphasizes the development of secure platforms utilizing trusted execution environments to enhance privacy and security within blockchain technologies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Intel contribute to blockchain standards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Intel contributes to blockchain standards through involvement in projects like the Enterprise Ethereum Alliance, promoting industry-wide standardization for blockchain technologies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What opportunities arise from the intersection of open source hardware and blockchain at Intel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The intersection offers opportunities such as blockchain-enabled open hardware, decentralized hardware platforms for IoT security and management, and enhanced supply chain transparency using blockchain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the challenges Intel faces in its open source and blockchain initiatives?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include blockchain's high energy consumption, requiring sustainable solutions, and the issue of standardization and adoption, where Intel's leadership can aid in overcoming interoperability and legacy system integration hurdles."
+      }
+    }
+  ]
+}

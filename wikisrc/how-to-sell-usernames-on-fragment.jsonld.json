@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Fragment and its value proposition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fragment is a decentralized social platform that prioritizes privacy and community engagement. It provides a marketplace for buying and selling unique usernames."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I create a Fragment account?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To create a Fragment account, visit the Fragment website. Sign up and optimize your profile by choosing a professional username."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I understand the marketplace on Fragment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Research trending usernames and competitor activity to understand what sells. Use keywords and memorable usernames to attract buyers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I build a portfolio of usernames on Fragment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brainstorm creative usernames, verify their availability on Fragment, and secure them under your account."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What strategies should I use to price usernames?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Price your usernames strategically by analyzing the market, considering factors such as uniqueness and demand. Be open to adjusting prices dynamically."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I list usernames for sale on Fragment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Access Fragment's marketplace, create listings with appealing titles and descriptions, and make sure your profile settings are public."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I promote my usernames for sale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Leverage social media platforms like Twitter and Instagram to reach potential buyers. Engage in niche communities and actively network on Fragment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take to close deals securely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Communicate professionally, use escrow services for secure transactions, and ensure a smooth transfer process after confirmation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I build a reputation after making sales?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Encourage buyer feedback, stay updated with market trends, and continually expand your portfolio to establish a strong reputation on Fragment."
+      }
+    }
+  ]
+}

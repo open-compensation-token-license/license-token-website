@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I set up GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To set up GitHub Sponsors, start by enrolling in the GitHub Sponsors program. You can then configure Stripe or PayPal as your payout method based on your preferences and regional considerations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which payout methods are available for GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GitHub Sponsors allows you to choose between Stripe and PayPal for receiving payouts. The choice depends on personal preference and regional availability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I manage my sponsorships on GitHub?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can manage your sponsorships using the GitHub Sponsors dashboard, which helps in monitoring transactions and communicating with sponsors. This is crucial for maintaining transparency and fostering strong community relations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I consider regarding taxes with GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is important to understand your local tax implications when using GitHub Sponsors. It is advised to review GitHub's documentation related to tax considerations to ensure compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I promote sustained support from sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Promote sustained support by actively engaging with your community, showcasing your work, and offering exclusive incentives to sponsors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find more information about GitHub Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For more detailed insights and guidance on maximizing your GitHub Sponsors experience, refer to GitHub's official documentation on Sponsors."
+      }
+    }
+  ]
+}

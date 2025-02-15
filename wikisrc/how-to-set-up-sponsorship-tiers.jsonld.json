@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What Are Sponsorship Tiers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sponsorship tiers are structured levels offering different involvement and recognition opportunities. Typically labeled with hierarchical names such as ‘Bronze,’ ‘Silver,’ ‘Gold,’ and ‘Platinum,’ each tier provides varying benefits and visibility to sponsors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How Do You Define Your Goals for Sponsorship Tiers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Identify your needs by determining how sponsorship fits into your revenue strategy and define what you aim to achieve. Also, define the value for sponsors by offering benefits like brand visibility, customer engagement, or exclusive access."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What Research is Needed When Creating Sponsorship Tiers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Research involves analyzing your audience demographics and preferences, as well as studying competitors' sponsorship packages to find inspiration and gaps."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How Do You Create Sponsorship Packages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Create sponsorship packages with distinct contribution levels and benefits. Bronze tier offers entry-level benefits like logo placements, Silver tier offers mid-range benefits like event booths, Gold tier offers high-level benefits like speaking opportunities, and Platinum tier offers exclusive rights and prime advertising spots."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How Should Sponsorship Tier Pricing Be Set?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Set pricing by conducting a cost analysis to ensure value and profitability, and consider offering flexible options like early-bird rates or custom packages."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How Do You Develop Marketing Materials for Sponsorship Tiers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Develop a prospectus which includes detailed information for each tier and pricing, and use visual aids such as infographics and charts for easy understanding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Best Approach for Reaching Out to Potential Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a personalized approach to align sponsorship with the potential sponsor's goals, and have a follow-up strategy to encourage timely responses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How Do You Manage Relationships with Sponsors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Manage relationships by delivering on promises to build trust, and providing updates to share the impact of their contributions."
+      }
+    }
+  ]
+}

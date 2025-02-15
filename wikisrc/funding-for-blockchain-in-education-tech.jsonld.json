@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the HolonIQ Report on Global EdTech Investments cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The HolonIQ Report on Global EdTech Investments provides a detailed analysis of investment trends and insights in the EdTech sector globally for the year 2020. It examines funding data, highlighting key investors and emerging trends that might impact the sector."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Coinbase Ventures?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Coinbase Ventures is an investment arm of Coinbase, which focuses on funding early-stage cryptocurrency and blockchain startups. It aims to drive innovation and bring new products to the crypto market."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Ripple's Xpring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ripple's Xpring is an initiative by Ripple to support and invest in projects aimed at creating an Internet of Value. It provides tools, services, and programs to developers and entrepreneurs building on open-source technologies and digital currencies, particularly focusing on Ripple's XRP ecosystem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the focus of Blockchain Research at MIT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain Research at MIT focuses on conducting comprehensive research on cryptocurrency and blockchain technology. It aims to advance the understanding of these technologies and their potential applications in various fields, including financial systems, digital identity, and supply chains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What topics does Stanford's Blockchain Research cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stanford's Blockchain Research covers a wide range of topics related to blockchain technology. It includes cryptographic protocols, consensus mechanisms, and the economic and ethical implications of blockchain. The research aims to contribute to both the academic understanding and practical applications of blockchain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is blockchain playing a role in EdTech?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain is playing a transformative role in EdTech by enabling secure and transparent digital credentialing, decentralized learning platforms, and enhanced data privacy. These innovations help in building trust in digital learning tools and democratizing access to education."
+      }
+    }
+  ]
+}

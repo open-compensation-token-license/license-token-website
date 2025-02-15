@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are Blockchain Funding Mechanisms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain funding mechanisms, such as Initial Coin Offerings (ICOs) and Security Token Offerings (STOs), function as a means of raising capital for blockchain-based projects. These mechanisms pave the way for decentralized finance by distributing tokens that represent value or utility in the project, enabling broader participation in funding initiatives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do Smart Contracts Work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart contracts are self-executing contracts with the terms of the agreement directly written into lines of code. They automatically execute and enforce the terms of a contract based on predefined conditions, reducing the need for intermediaries and offering applications across various industries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are Decentralized Autonomous Organizations (DAOs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DAOs are organizations represented by rules encoded as a transparent computer program, controlled by organization members, and not influenced by a central government. They democratize decision-making processes, allowing stakeholders to have a direct impact on the project direction and governance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is Security Important in Smart Contracts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Security in smart contracts is crucial as they manage valuable digital assets and execute automated agreements. To safeguard against vulnerabilities, security audits and rigorous testing are essential to ensure the integrity and reliability of smart contracts, thereby preventing potential exploits and financial losses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Blockchain Scalability Being Addressed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain scalability is being addressed through technologies like sharding and layer-two solutions. Sharding increases throughput by splitting the blockchain into smaller, manageable pieces, while layer-two solutions provide off-chain processes to facilitate faster and more efficient transactions."
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+      "@type": "Question",
+      "name": "What are the challenges of integrating Open Source Software (OSS) in SAP environments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Integrating OSS in SAP environments is challenging due to the need to comply with various open source licenses, each with specific obligations. This requires a robust compliance strategy to manage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What key strategies does SAP employ for OSS compliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SAP employs a culture of compliance through specific tools and systematic approaches, including inventory management, leveraging automated tools, and conducting regular audits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What resources are available for understanding open source licenses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Resources such as the 'Choose a License' website provide detailed information about different types of open source licenses and their implications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does SAP foster community engagement in its open source strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SAP encourages active participation in open source communities, which offers mutual benefits such as collaboration and innovation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What tools are recommended for maintaining OSS compliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tools like Black Duck and FOSSID provide essential capabilities for maintaining compliance with open source licenses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important for SAP to stay informed about the open source landscape?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The open source landscape continually evolves, and staying informed is crucial for turning potential compliance liabilities into strategic assets."
+      }
+    }
+  ]
+}

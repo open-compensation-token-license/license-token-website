@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are Non-Fungible Tokens (NFTs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs are unique digital assets verified using blockchain technology, offering verifiable ownership of digital or physical items. Unlike cryptocurrencies, NFTs are non-interchangeable and have gained popularity in art, music, and virtual real estate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes Bera Apes a unique NFT project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bera Apes is unique due to its combination of artistic creativity and community-driven incentives, offering digital avatars that provide exclusive access to events. The project's dual focus attracts both art collectors and community-focused individuals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How did Elon Musk influence the NFT market?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elon Musk influenced the NFT market by expressing interest through cryptic tweets, which spurred inquiries and investments in NFTs. His acknowledgment of NFTs, including Bera Apes, led to increased demand and higher market valuations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the environmental concerns associated with NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NFTs face criticism for their environmental impact due to the energy-intensive blockchain technology, particularly with Ethereum. Projects are exploring greener solutions and alternatives like Ethereum's shift to proof-of-stake to address sustainability issues."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does regulatory clarity play in the NFT market?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As NFTs overlap with art, securities, and digital assets, regulatory clarity is essential for balancing innovation and consumer protection. High-profile involvement, like Musk's, intensifies the dialogue for frameworks that ensure market stability."
+      }
+    }
+  ]
+}

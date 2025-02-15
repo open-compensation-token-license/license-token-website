@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Sorare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sorare is a global fantasy football game that uses blockchain technology to manage digital player cards as collectibles. Founded in 2018, it offers players tradable, officially licensed digital cards based on the Ethereum blockchain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does blockchain technology enhance gaming?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blockchain technology provides a decentralized, digital ledger that allows for the creation of non-fungible tokens (NFTs) in gaming. This results in unique, secure, and verifiable digital items, enhancing ownership and trading capabilities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Sorare's Open Source Rewards initiative?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sorare's Open Source Rewards initiative encourages community contributions by offering rewards within its blockchain ecosystem. Contributors can earn tokens through participation in Sorare's projects, which are then actionable within the ecosystem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of Sorare's blockchain-based rewards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sorare's blockchain-based rewards enhance community engagement, ensure trust and transparency through visible and verifiable transactions, and leverage innovation from a global talent pool."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Sorare impact digital ownership in gaming?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sorare redefines digital ownership in gaming by allowing users to own, trade, and capitalize on unique digital assets, paving the way for new engagement and monetization strategies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does Sorare face with its blockchain integration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sorare faces challenges such as scalability, where solutions like layer-two protocols and sharding can help, and regulatory compliance, which requires adaptation to varying global standards."
+      }
+    }
+  ]
+}

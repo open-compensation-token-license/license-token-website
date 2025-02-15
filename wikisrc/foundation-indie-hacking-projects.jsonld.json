@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Foundation is a blockchain-powered platform that allows artists to mint and sell NFTs, providing a decentralized and transparent ecosystem for digital art trading."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do indie hackers thrive on Foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indie hackers thrive on Foundation due to access to a streamlined minting process, a community-driven approach, monetization opportunities, and creative autonomy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some notable indie hacking projects on Foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notable projects include generative art collections, interactive digital storytelling, gamification and play-to-earn models, social impact and charitable initiatives, and personalized and identity-based NFTs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges do indie hackers face on Foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include navigating technical barriers of blockchain, strategizing around market volatility, addressing sustainability concerns, and protecting intellectual property."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the future hold for indie hacking on Foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future includes opportunities in AI, augmented reality, and the metaverse, with evolving blockchain technology making the NFT landscape more accessible and sustainable."
+      }
+    }
+  ]
+}

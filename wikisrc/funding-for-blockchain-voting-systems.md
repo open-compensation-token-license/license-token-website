@@ -1,3 +1,4 @@
+```markdown
 ## Funding Blockchain Voting: Transforming Electoral Integrity
 
 Blockchain technology presents a transformative opportunity for enhancing electoral systems worldwide by improving security, transparency, and accessibility. Ensuring adequate funding for blockchain voting systems is pivotal to realizing these benefits.
@@ -24,3 +25,12 @@ Despite its promise, implementing blockchain voting requires overcoming technica
 4. **Academic Research:** Innovating through academic partnerships and in-depth research.
 
 By exploring these pathways, stakeholders can pave the way for blockchain voting systems to strengthen democracies globally. [Discover more about blockchain technology's role in voting](https://www.blockchain-voting-potential.com).
+
+### Additional Resources
+
+- [What is Blockchain](https://www.license-token.com/wiki/what-is-blockchain)
+- [Smart Contracts on Blockchain](https://www.license-token.com/wiki/smart-contracts-on-blockchain)
+- [Types of Blockchains](https://www.license-token.com/wiki/types-of-blockchains)
+- [Public vs Private Blockchains](https://www.license-token.com/wiki/public-vs-private-blockchains)
+- [Sustainable Blockchain Practices](https://www.license-token.com/wiki/sustainable-blockchain-practices)
+```

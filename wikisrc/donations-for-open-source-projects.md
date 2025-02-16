@@ -1,3 +1,4 @@
+```markdown
 # Donations for Open Source Projects
 
 Open source projects are pivotal in the evolution of software and technology globally. These projects, available for anyone to use, modify, and distribute, foster innovation, collaboration, and cost-efficiency across various sectors. However, the creation and maintenance of open source software demand considerable time, skill, and effort. Donations are a vital means of supporting the individuals and communities behind these projects, ensuring their sustainability and growth. For more insights on sustainable funding, you can explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
@@ -63,3 +64,4 @@ These platforms ensure that donations are routed conveniently and transparently.
 Donating to open source projects is an excellent way to empower innovation and support the communities behind vital tools. Whether you are an individual developer benefiting from the software or a business reliant on these projects, contributions—both monetary and non-monetary—can make a substantial difference. By valuing and aiding open source, we ensure its continued success and foster a more open and collaborative digital future.
 
 For further reading on the economic models of open source projects, visit [open source project economic models](https://www.license-token.com/wiki/open-source-project-economic-models).
+```

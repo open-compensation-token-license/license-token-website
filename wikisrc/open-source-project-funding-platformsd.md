@@ -1,3 +1,4 @@
+```markdown
 # Open Source Project Funding Platforms: Empowering Innovation and Collaboration
 
 ## Introduction
@@ -20,7 +21,7 @@ In response to this need, [funding platforms](https://www.opencollective.com/) h
 
 Several platforms have stood out in supporting open source projects financially:
 
-- **[GitHub Sponsors](https://github.com/sponsors)**: A platform that enables developers to fund their work on GitHub through recurring donations from fans and other developers.
+- **[GitHub Sponsors](https://github.com/sponsors)**: A platform that enables developers to fund their work on GitHub through recurring donations from fans and other developers. For more details, see [What is GitHub Sponsors](https://www.license-token.com/wiki/what-is-git-hub-sponsors).
 - **[Open Collective](https://www.opencollective.com/)**: Makes it easy to manage finances for open source communities, providing transparency and a legal framework.
 - **[Patreon](https://www.patreon.com/)**: While not exclusively focused on open source, Patreon has been used by developers to receive funding for their projects through patronage.
 
@@ -46,3 +47,4 @@ To overcome these hurdles, platforms are exploring innovative models such as sub
 ## Conclusion
 
 Open Source Project Funding Platforms have revolutionized the way community-driven software initiatives receive financial backing, fostering a healthier, more sustainable ecosystem. As these platforms continue to evolve and address existing challenges, they will play an increasingly vital role in promoting innovation and collaboration within the open source world. By supporting these efforts, we not only ensure the maintenance and growth of essential software but also contribute to the principles of openness, accessibility, and community that define the spirit of open source. For those looking to explore or support open source projects financially, visiting [Open Source Funding Opportunities](https://www.license-token.com/wiki/open-source-funding-opportunities) can provide insights and opportunities to get involved.
+```

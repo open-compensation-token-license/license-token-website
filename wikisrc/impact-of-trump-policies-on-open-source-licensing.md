@@ -1,3 +1,4 @@
+```markdown
 # The Impact of Trump Administration Policies on Open Source Licensing
 
 Open source software has long been a cornerstone for innovation and collaboration, with its numerous licensing models allowing developers to share their work while maintaining control. During the Trump administration, several policies emerged that affected this ecosystem, either directly or indirectly. This analysis explores the influence of these policies on open source licensing.
@@ -37,3 +38,4 @@ Increased state surveillance and national security focus under Trump's presidenc
 The Trump administration's policies created challenges and opportunities for open source licensing. These policies emphasized the need for resilient, international collaboration across software communities. The open source sector has learned to navigate the complex interplay between government policies and development practices, reinforcing the importance of open licensing principles.
 
 For further reading on the topic, consider exploring [Open Source Initiative](https://opensource.org/) and resources from the [Electronic Frontier Foundation](https://www.eff.org/) that discuss policy impacts on open source. Additionally, examining [open source financial support](https://www.license-token.com/wiki/open-source-financial-support) can provide insights into maintaining financial health in the open source ecosystem.
+```

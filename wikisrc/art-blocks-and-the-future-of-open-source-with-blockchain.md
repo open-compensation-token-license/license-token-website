@@ -12,7 +12,7 @@ Art Blocks is a revolutionary platform that allows artists to create generative 
 
 ### How Does Art Blocks Work?
 
-Art Blocks operates on the Ethereum blockchain, taking advantage of smart contracts to deploy and verify art pieces. Here's a basic overview of how the platform works:
+Art Blocks operates on the Ethereum blockchain, taking advantage of [smart contracts on blockchain](https://www.license-token.com/wiki/smart-contracts-on-blockchain) to deploy and verify art pieces. Here's a basic overview of how the platform works:
 
 1. **Artist Submission:** Artists submit a script written in a programming language such as JavaScript or Processing. This script defines how the artwork is generated, including variables and constraints to ensure each piece is unique.
 
@@ -96,7 +96,7 @@ The volatile nature of cryptocurrency markets can impact the art market within b
 
 ### Environmental Concerns
 
-Blockchain's environmental impact, particularly Ethereum's energy consumption, is a topic of concern. Transitioning to more efficient consensus mechanisms, such as Proof of Stake, is crucial for sustainable growth.
+Blockchain's environmental impact, particularly Ethereum's energy consumption, is a topic of concern. Transitioning to more efficient consensus mechanisms, such as [Proof of Stake](https://www.license-token.com/wiki/blockchain-consensus-mechanisms), is crucial for sustainable growth.
 
 ### Copyright and Ownership Issues
 

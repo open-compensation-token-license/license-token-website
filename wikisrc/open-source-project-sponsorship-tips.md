@@ -1,3 +1,4 @@
+```markdown
 # Open Source Project Sponsorship Tips
 
 Open source projects are the backbone of modern software development, providing critical libraries, frameworks, and tools used by millions of developers worldwide. However, sustaining open source projects is not always easy, as they often require funding to cover development time, infrastructure costs, and ongoing maintenance. Sponsorship remains an effective way to support these projects while benefiting their sponsors. For more insights on sustainable funding, you might explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
@@ -113,3 +114,4 @@ By going beyond your financial contributions, you can deepen your partnership wi
 Sponsoring open source projects is a win-win for maintainers and contributors alike. For maintainers, good organization, value-added perks, and transparency can drive sponsorships that bring much-needed stability. For sponsors, supporting open source enhances reputation, secures vital software, and strengthens the broader tech ecosystem.
 
 By following the tips above, maintainers can keep their projects thriving, and sponsors can build stronger and mutually beneficial relationships with the open source community.
+```

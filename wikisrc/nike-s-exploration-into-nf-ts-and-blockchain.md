@@ -6,8 +6,8 @@ In the rapidly evolving world of fashion and technology, Nike stands as a beacon
 
 To comprehend Nike's pioneering moves, it's essential to understand NFTs and blockchain:
 
-- **NFTs** (Non-Fungible Tokens) are unique digital assets verified using blockchain technology, offering proof of ownership for digital and physical items. Unlike cryptocurrencies, NFTs cannot be exchanged on a one-to-one basis.
-- **Blockchain** is a secure, decentralized ledger maintaining transaction records across computers, key to the integrity and transparency of NFTs.
+- **NFTs** (Non-Fungible Tokens) are unique digital assets verified using blockchain technology, offering proof of ownership for digital and physical items. Unlike cryptocurrencies, NFTs cannot be exchanged on a one-to-one basis. Learn more about [what are NFTs](https://www.license-token.com/wiki/what-are-nf-ts).
+- **Blockchain** is a secure, decentralized ledger maintaining transaction records across computers, key to the integrity and transparency of NFTs. Explore [what is blockchain](https://www.license-token.com/wiki/what-is-blockchain).
 
 Learn more about NFTs and blockchain on [NFT Now](https://nftnow.com) and [CoinDesk](https://coindesk.com).
 
@@ -21,19 +21,17 @@ Explore Nike's Cryptokicks on [Nike's Newsroom](https://news.nike.com).
 
 ### RTFKT Acquisition: Expanding Digital Horizons
 
-The strategic acquisition of RTFKT Studios, renowned for its digital collectibles and gaming synergy, augmented Nike's trajectory into the NFT and blockchain domain, enhancing its offerings in digital experiences.
-
-Discover more about the RTFKT partnership on [RTFKT's Official Website](https://rtfkt.com).
+The strategic acquisition of RTFKT Studios, renowned for its digital collectibles and gaming synergy, augmented Nike's trajectory into the NFT and blockchain domain, enhancing its offerings in digital experiences. Discover more about the RTFKT partnership on [RTFKT's Official Website](https://rtfkt.com).
 
 ## The Impact of Nike’s NFT Strategy
 
 Nike's engagement with NFTs and blockchain impacts:
 
-- **Authenticity**: NFTs ensure originality via immutable records.
-- **Sustainability**: Digital fashion reduces environmental pressures from traditional manufacturing.
+- **Authenticity**: NFTs ensure originality via immutable records. Understand more about [NFT authentication](https://www.license-token.com/wiki/nft-authentication).
+- **Sustainability**: Digital fashion reduces environmental pressures from traditional manufacturing. Explore [NFT sustainability](https://www.license-token.com/wiki/nft-sustainability).
 - **Consumer Engagement**: Exclusive digital events and community-building through digital assets.
 - **New Revenue Streams**: Royalties and high-margin digital products.
-- **Technological Integration**: Enhanced experiences via AR and VR, strengthening metaverse presence.
+- **Technological Integration**: Enhanced experiences via AR and VR, strengthening metaverse presence. Learn about [NFT and metaverse](https://www.license-token.com/wiki/nft-and-metaverse).
 
 ## Challenges and Considerations
 
@@ -43,7 +41,7 @@ Navigating evolving regulations is crucial for mitigating legal risks. Stay curr
 
 ### Environmental Concerns
 
-Balancing blockchain energy use with sustainability goals is imperative. Learn about eco-friendly blockchains on [Earth.org](https://earth.org).
+Balancing blockchain energy use with sustainability goals is imperative. Learn about [sustainable blockchain practices](https://www.license-token.com/wiki/sustainable-blockchain-practices).
 
 ### Market Volatility
 

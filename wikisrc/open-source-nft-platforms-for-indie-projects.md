@@ -1,3 +1,4 @@
+```markdown
 # Open Source NFT Platforms: Empowering Indie Creators
 
 In the evolving digital landscape, [Non-Fungible Tokens (NFTs)](https://en.wikipedia.org/wiki/Non-fungible_token) have emerged as a pivotal method for artists and creators to monetize their unique digital content. This represents a significant opportunity for independent creators ("indies") who often operate without the resources of major studios. Navigating this space can be challenging, but open-source NFT platforms offer promising solutions with their inherent flexibility, transparency, and cost-effectiveness.
@@ -25,7 +26,7 @@ Built on the NEAR protocol, Mintbase focuses on user-friendliness and providing 
 
 ### [Zora](https://zora.co/)
 
-Zora offers a protocol rather than a marketplace, empowering creators to set their terms for their NFT market experiences.
+Zora offers a protocol rather than a marketplace, empowering creators to set their terms for their NFT market experiences. For more on Zora's approach, see [Zora's NFT Marketplace and Open Source Compliance](https://www.license-token.com/wiki/zora-s-nft-marketplace-and-open-source-compliance).
 
 ### [OpenSea Developer Toolkit](https://docs.opensea.io/docs/)
 
@@ -33,7 +34,7 @@ Though OpenSea itself isn't entirely open-source, its toolkit allows for custom 
 
 ### [Rarible Protocol](https://rarible.org/)
 
-Now shifting towards an open-source model, Rarible allows developers to leverage its ecosystem to build innovative NFT applications.
+Now shifting towards an open-source model, Rarible allows developers to leverage its ecosystem to build innovative NFT applications. Learn more about [Rarible's Approach to Open Source Sustainability](https://www.license-token.com/wiki/rarible-s-approach-to-open-source-sustainability).
 
 ## Challenges and Considerations
 
@@ -48,3 +49,4 @@ Open-source NFT platforms present indies with the tools necessary for effective 
 For additional insights and community discussions, explore resources and forums like [GitHub](https://github.com/) to connect with developers and creators in the NFT space. Additionally, understanding [open-source monetization challenges and strategies](https://www.license-token.com/wiki/open-source-monetization-challenges-and-strategies) can provide further guidance on financial aspects.
 
 ---
+```

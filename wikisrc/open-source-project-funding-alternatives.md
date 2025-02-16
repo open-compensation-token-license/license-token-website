@@ -1,3 +1,4 @@
+```markdown
 # Open Source Project Funding Alternatives
 
 Open source projects are the backbone of countless technologies, yet maintaining and scaling them often requires substantial financial support. To ensure sustainable development, contributors and maintainers can explore various funding alternatives. Here’s an overview of the most common options:
@@ -41,3 +42,4 @@ Some open source projects adopt a dual licensing model. One version is offered u
 ### Conclusion
 
 Funding an open source project requires innovation and a strong connection with its community. While a single approach may not work for every project, combining several funding strategies often leads to sustained development and long-term success. By exploring these alternatives, maintainers can ensure the growth and impact of their open source initiatives while fostering collaborative innovation. For additional strategies, refer to [Open Source Project Funding Strategies](https://www.license-token.com/wiki/open-source-project-funding-strategies) and [Sustainable Funding for Open Source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
+```

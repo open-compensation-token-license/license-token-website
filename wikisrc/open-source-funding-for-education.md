@@ -1,3 +1,4 @@
+```markdown
 # Open Source Funding for Education
 
 ## Introduction
@@ -54,3 +55,4 @@ For more information on open source funding for education, visit:
 * [Open Source Funding for Educational Resources](https://www.license-token.com/wiki/open-source-funding-for-educational-resources)
 
 Additionally, explore related topics such as [software sustainability](https://www.license-token.com/wiki/software-sustainability), [open-source sponsorship](https://www.license-token.com/wiki/open-source-sponsorship), [open-source revenue generation](https://www.license-token.com/wiki/open-source-revenue-generation), [open-source project funding strategies](https://www.license-token.com/wiki/open-source-project-funding-strategies), and [open-source project financial sustainability tips](https://www.license-token.com/wiki/open-source-project-financial-sustainability-tips).
+```

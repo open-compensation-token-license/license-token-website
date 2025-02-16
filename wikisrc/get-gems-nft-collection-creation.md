@@ -10,27 +10,27 @@ In the ever-evolving landscape of blockchain and digital art, Non-Fungible Token
 
 ### Step 1: Prepare Your Artwork
 
-Prior to minting, ensure your artwork is in suitable digital formats (JPEG, PNG, MP4, etc.) and possesses high resolution. An engaging narrative enhances your collection's appeal and resonates with potential buyers.
+Prior to minting, ensure your artwork is in suitable digital formats (JPEG, PNG, MP4, etc.) and possesses high resolution. An engaging narrative enhances your collection's appeal and resonates with potential buyers. Learn more about [NFT creation](https://www.license-token.com/wiki/nft-creation).
 
 ### Step 2: Set Up Your Digital Wallet
 
-A digital wallet is essential for transactions on the blockchain. Options like [MetaMask](https://metamask.io) and [Trust Wallet](https://trustwallet.com) are popular choices. Fund your wallet with cryptocurrency for initial transaction fees.
+A digital wallet is essential for transactions on the blockchain. Options like [MetaMask](https://metamask.io) and [Trust Wallet](https://trustwallet.com) are popular choices. Fund your wallet with cryptocurrency for initial transaction fees. For more information, see [what is an NFT wallet](https://www.license-token.com/wiki/what-is-an-nft-wallet).
 
 ### Step 3: Create Your GetGems Account
 
-Register through [GetGems' sign-up page](https://getgems.com/signup) and link your wallet. Acquaint yourself with the dashboard to effectively manage your NFT collection.
+Register through [GetGems' sign-up page](https://getgems.com/signup) and link your wallet. Acquaint yourself with the dashboard to effectively manage your NFT collection. Discover how to [mint NFTs on GetGems](https://www.license-token.com/wiki/how-to-mint-nf-ts-on-get-gems).
 
 ### Step 4: Mint Your NFTs
 
-Utilize the “Create” functionality to upload your works, and provide detailed metadata. Set royalties for future sales to secure ongoing revenue.
+Utilize the “Create” functionality to upload your works, and provide detailed metadata. Set royalties for future sales to secure ongoing revenue. Understand more about [NFT royalties](https://www.license-token.com/wiki/nft-royalties).
 
 ### Step 5: Market Your NFTs
 
-List your NFTs on GetGems with preferred pricing strategies. Amplify your reach through social media, collaborations, and virtual events.
+List your NFTs on GetGems with preferred pricing strategies. Amplify your reach through social media, collaborations, and virtual events. Explore [NFT marketing](https://www.license-token.com/wiki/what-is-nft-marketing) for effective strategies.
 
 ### Step 6: Engage the Community
 
-Active participation in GetGems’ community fosters relationships and elevates your profile. Join in forums and events to enrich your network.
+Active participation in GetGems’ community fosters relationships and elevates your profile. Join in forums and events to enrich your network. Learn about [NFT community building](https://www.license-token.com/wiki/nft-community-building).
 
 ### Step 7: Optimize & Grow Your Collection
 

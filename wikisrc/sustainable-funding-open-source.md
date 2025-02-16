@@ -1,3 +1,4 @@
+```markdown
 # Sustainable Funding for Open Source
 
 Open source software (OSS) plays a fundamental role in the digital world. It powers websites, applications, infrastructure, and countless tools that developers and businesses rely on every day. Despite its critical importance, ensuring sustainable funding for open source projects has long been a challenge. Many key projects are maintained by individuals or small teams who often work unpaid, which can lead to burnout, stalled development, or even project abandonment. For more insights on this issue, you can explore [unpaid volunteer work](https://www.license-token.com/wiki/unpaid-volunteer-work).
@@ -35,3 +36,4 @@ Ensuring sustainable funding for open source is critical not only for the health
 As open source continues to grow in importance, finding effective, fair funding strategies is essential. With more stakeholders—whether individuals, companies, or governments—becoming aware of the need, there’s hope for a future where passionate developers are adequately supported to continue building the tools the world relies on. For more insights, explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
 
 In the end, sustainable funding isn’t just about money—it’s about sustaining the collaborative spirit that makes open source special. For additional perspectives, consider reading about [open-source financial support](https://www.license-token.com/wiki/open-source-financial-support) and [innovative funding for open source projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects).
+```

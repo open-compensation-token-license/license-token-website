@@ -1,3 +1,4 @@
+```markdown
 # Open Source Funding Platforms
 
 Open source software forms an essential foundation of the modern digital world, powering operating systems, web technologies, and countless development tools. However, maintaining and improving open-source projects often require sustained effort, time, and resources. To provide financial assistance and ensure these projects thrive, various open-source funding platforms have emerged.
@@ -40,3 +41,4 @@ These platforms play a vital role in ensuring the long-term sustainability of op
 Open source funding platforms aid in tackling financial shortfalls faced by independent creators and teams. Many of the tools we rely on every day—frameworks, libraries, and infrastructure—depend on these platforms to sustain development. By supporting maintainers through direct contributions or organizational funding, users ensure these projects can thrive and innovate without being abandoned due to resource constraints.
 
 Supporting open-source software financially through these platforms ensures its long-term sustainability and empowers creators to build better tools for everyone. If you want to contribute, explore these platforms and back the initiatives shaping the future of technology. For more guidance, check out the [open source funding guide](https://www.license-token.com/wiki/open-source-funding-guide) and [open source funding opportunities](https://www.license-token.com/wiki/open-source-funding-opportunities).
+```

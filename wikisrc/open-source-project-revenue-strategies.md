@@ -1,3 +1,4 @@
+```markdown
 # Open Source Project Revenue Strategies
 
 Open Source projects, while free for use, often require resources such as time, infrastructure, and talent to maintain and grow. To ensure sustainability and compensate contributors, many open source projects adopt various revenue strategies. Below are some practical and popular methods open source projects use to generate revenue:
@@ -39,3 +40,4 @@ Nonprofit organizations, governments, or large tech companies often provide gran
 Open source projects can thrive by combining several of these strategies. Choosing the right mix depends on the project's goals, audience, and ecosystem. Leveraging revenue strategies thoughtfully allows developers to maintain their commitment to open source principles while ensuring the project's long-term health and sustainability. For additional strategies, visit [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
 
 For further exploration of these topics, consider reading about [open source project funding trends](https://www.license-token.com/wiki/open-source-project-funding-trends), [open source project economic models](https://www.license-token.com/wiki/open-source-project-economic-models), and [open source financial support](https://www.license-token.com/wiki/open-source-financial-support). Additionally, understanding the [open source monetization challenges and strategies](https://www.license-token.com/wiki/open-source-monetization-challenges-and-strategies) can provide valuable insights into the complexities of sustaining open source projects.
+```

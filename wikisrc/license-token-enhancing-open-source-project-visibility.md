@@ -1,3 +1,4 @@
+```markdown
 # License-Token: Enhancing Open Source Project Visibility
 
 ## Introduction
@@ -53,3 +54,12 @@ Explore tools that integrate License-Tokens with platforms like [GitHub](https:/
 License-Token stands at the forefront of a movement to redefine how open-source projects are discovered, engaged with, and celebrated. Through greater visibility, these projects can thrive, bringing innovation and progress to the world of software development. 
 
 For more information, visit the [License-Token Project Page](https://example-license-token.org).
+
+### Additional Resources
+
+- Learn about [Tokenizing Open Source Licenses](https://www.license-token.com/wiki/tokenizing-open-source-licenses).
+- Explore [Open Source Licensing Models on Blockchain](https://www.license-token.com/wiki/open-source-licensing-models-on-blockchain).
+- Discover [Open Source Sustainability through Tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization).
+- Understand [Blockchain and Open Source Licensing](https://www.license-token.com/wiki/blockchain-and-open-source-licensing).
+- Investigate [Open Source Software and Blockchain Synergies](https://www.license-token.com/wiki/open-source-software-and-blockchain-synergies).
+```

@@ -1,3 +1,4 @@
+```markdown
 # Arbitrum: Pioneering Open Source in Blockchain
 
 ## Introduction
@@ -49,3 +50,4 @@ Arbitrum aims to enhance interoperability and expand educational outreach, advan
 ## Conclusion
 
 Arbitrum exemplifies the potential of open source contributions in blockchain, offering scalable solutions and fostering innovation. Its ongoing journey provides insights into how open source can reshape technology and community landscapes globally. For more information, visit [Arbitrum's official site](https://arbitrum.io).
+```

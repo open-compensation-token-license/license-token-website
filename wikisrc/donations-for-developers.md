@@ -1,3 +1,4 @@
+```markdown
 # The Power of Donations in the Open Source Ecosystem
 
 The open-source software ecosystem exemplifies the spirit of collaboration and innovation. This development model, primarily driven by passionate developers, relies heavily on financial contributions to remain sustainable and effective. Donations play a pivotal role in bolstering these projects, ensuring their continuous evolution and security.
@@ -12,7 +13,7 @@ There are several ways you can support open-source developers, ensuring that the
 
 1. **[Patreon](https://www.patreon.com/)**: A platform where fans can support their favorite creators with monthly donations. This model of [developer patronage](https://www.license-token.com/wiki/open-source-developer-patronage-programs) allows for a steady stream of income, helping developers maintain and improve their projects.
 
-2. **[GitHub Sponsors](https://github.com/sponsors)**: GitHub’s initiative to facilitate ongoing financial support for developers. This platform is part of a broader effort to create [sustainable funding for open-source](https://www.license-token.com/wiki/sustainable-funding-open-source) projects.
+2. **[GitHub Sponsors](https://github.com/sponsors)**: GitHub’s initiative to facilitate ongoing financial support for developers. This platform is part of a broader effort to create [sustainable funding for open-source](https://www.license-token.com/wiki/sustainable-funding-open-source) projects. Learn more about [GitHub Sponsors](https://www.license-token.com/wiki/what-is-git-hub-sponsors).
 
 3. **[Open Collective](https://opencollective.com/)**: Allows communities to collect and disburse funding transparently. This approach to [financial transparency](https://www.license-token.com/wiki/open-source-project-financial-transparency) is crucial for building trust within the community and ensuring that funds are used effectively.
 
@@ -37,3 +38,4 @@ For those interested in exploring more about funding strategies and opportunitie
 The power of donations in the open-source ecosystem cannot be overstated. They are a vital component in ensuring the sustainability and growth of open-source projects. By supporting developers through platforms like Patreon, GitHub Sponsors, and Open Collective, individuals and organizations can contribute to a thriving digital landscape.
 
 Together, we can ensure that open-source projects continue to innovate and provide essential tools for everyone. By understanding and leveraging the various funding mechanisms available, the open-source community can continue to flourish and drive technological advancement globally.
+```

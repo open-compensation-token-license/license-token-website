@@ -88,3 +88,5 @@ _For further reading, see:_
 - [Open Source Guide: Finding Funding](https://opensource.guide/funding/)  
 - [GitHub Sponsors](https://github.com/sponsors)  
 - [How Red Hat Makes Money](https://redhat.com/en/topics/open-source/what-is-open-source-business-model)
+
+Additional resources on related topics include [open-source sustainability through tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization) and [blockchain integration in open source](https://www.license-token.com/wiki/the-future-of-open-source-with-blockchain-integration).

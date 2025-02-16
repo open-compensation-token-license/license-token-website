@@ -4,9 +4,9 @@ The world of digital collectibles has rapidly evolved with the advent of Non-Fun
 
 ### Understanding Azuki NFTs
 
-Azuki NFTs are digital artworks that represent a fusion of traditional and modern aesthetics, embracing anime culture and streetwear fashion. Created by a skilled team of artists and developers, each Azuki NFT is unique, non-interchangeable, and stored on blockchain technology to ensure its provenance and scarcity. This creates a sense of exclusivity and ownership for collectors.
+Azuki NFTs are digital artworks that represent a fusion of traditional and modern aesthetics, embracing anime culture and streetwear fashion. Created by a skilled team of artists and developers, each Azuki NFT is unique, non-interchangeable, and stored on [blockchain technology](https://www.license-token.com/wiki/what-is-blockchain) to ensure its provenance and scarcity. This creates a sense of exclusivity and ownership for collectors.
 
-The rise of Azuki NFTs is rooted in the broader NFT movement that has democratized art and digital assets, empowering creators by providing new platforms to monetize their work. For indie hackers, this means potential avenues to create, innovate, and profit within the NFT ecosystem.
+The rise of Azuki NFTs is rooted in the broader NFT movement that has democratized art and digital assets, empowering creators by providing new platforms to monetize their work. For indie hackers, this means potential avenues to create, innovate, and profit within the [NFT ecosystem](https://www.license-token.com/wiki/what-are-nf-ts).
 
 ### Opportunities for Indie Hackers
 

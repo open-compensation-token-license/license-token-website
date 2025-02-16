@@ -1,3 +1,4 @@
+```markdown
 # Open Source Developer Compensation Models
 
 Open source software has revolutionized the technology landscape, fostering innovation and collaboration across the globe. However, sustaining open source projects often poses financial challenges. To address this, various compensation models have emerged, enabling developers to earn a livelihood while contributing to the community. This article explores several prevalent compensation models for open source developers.
@@ -102,3 +103,4 @@ For further exploration of sustainable funding methods, consider reading about [
 - [Red Hat](https://redhat.com/)
 - [Kickstarter](https://www.kickstarter.com/)
 - [Open Collective](https://opencollective.com/)
+```

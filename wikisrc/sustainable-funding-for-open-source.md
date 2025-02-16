@@ -1,3 +1,4 @@
+```markdown
 # Sustainable Funding for Open Source
 
 Open source software (OSS) forms the backbone of much of the digital ecosystem, powering everything from websites and applications to infrastructure and tools developers rely on daily. However, despite its importance, ensuring sustainable funding for open source projects remains a significant challenge. Many highly used and critical projects are maintained by individuals or small teams working voluntarily, leading to burnout, stagnation, or even abandonment. For more insights, see [unpaid volunteer work](https://www.license-token.com/wiki/unpaid-volunteer-work).
@@ -27,3 +28,4 @@ Various funding models have emerged, aiming to provide financial support while p
 The long-term sustainability of open source not only ensures the health of individual projects but also the larger technological ecosystem. Reliable, well-maintained OSS directly impacts software security, innovation, and development efficiency. Without proper funding mechanisms, critical projects risk stagnation or even collapse—a problem that can cascade through the software supply chains they underpin. For more insights, visit [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
 
 In conclusion, while funding open source remains a complex challenge, emerging solutions and growing awareness among stakeholders pave the way toward sustainability. As the world continues to depend on open source innovations, collaborative efforts to address financial and organizational challenges will be crucial to securing its future. For further exploration, consider reading about [open-source project funding strategies](https://www.license-token.com/wiki/open-source-project-funding-strategies) and [open-source financial support](https://www.license-token.com/wiki/open-source-financial-support).
+```

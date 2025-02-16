@@ -1,3 +1,4 @@
+```markdown
 # Blockchain and Patent Management: Transforming Intellectual Property in the Digital Age
 
 ## Introduction
@@ -42,3 +43,6 @@ As the technology and regulatory environments mature, blockchain is poised to tr
 Blockchain technology offers transformative potential for patent management, streamlining processes, enhancing security, and supporting innovation through robust IP protection. The digital age demands adoption of these advancements to nurture innovation.
 
 For further reading on blockchain's potential beyond IP management, visit the [World Economic Forum](https://www.weforum.org) for insights on varied blockchain applications.
+
+Explore more about blockchain's role in open source licensing at [License Token](https://www.license-token.com/wiki/license-token-revolutionizing-oss-license-distribution) and understand the [sustainability of open source through tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization). Discover how [smart contracts on blockchain](https://www.license-token.com/wiki/smart-contracts-on-blockchain) can enhance open source licensing, and learn about [blockchain's transparency in open source projects](https://www.license-token.com/wiki/blockchain-transparency-in-open-source-projects). Lastly, delve into [blockchain and intellectual property](https://www.license-token.com/wiki/blockchain-and-intellectual-property) for a comprehensive understanding of its impact on IP management.
+```

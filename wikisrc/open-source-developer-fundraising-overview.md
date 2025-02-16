@@ -1,3 +1,4 @@
+```markdown
 # Open Source Developer Fundraising: A Quick Overview
 
 Open-source software forms the backbone of modern technology, from operating systems like [Linux](https://www.kernel.org/) to popular frameworks such as [React](https://reactjs.org/) and [Angular](https://angular.io/). However, while millions rely on these tools daily, most open-source developers often struggle to secure sustainable financial support. Raising funds for open-source development remains a challenge, yet it is crucial for maintaining the health and innovation of the open-source ecosystem.
@@ -37,3 +38,4 @@ Fundraising ensures that open-source projects continue to thrive and evolve. By 
 - [Linux Foundation](https://www.linuxfoundation.org/)
 - [Mozilla Foundation](https://foundation.mozilla.org/)
 - [Patreon](https://www.patreon.com/)
+```

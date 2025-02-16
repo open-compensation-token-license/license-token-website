@@ -1,3 +1,4 @@
+```markdown
 # Open Source Funding for Nonprofits: Unlocking New Streams of Innovation and Impact
 
 In an era where technology is revolutionizing the nonprofit sector, the allure of open source funding has gained considerable traction. Nonprofits, traditionally reliant on donations and grants, are increasingly exploring innovative avenues to gather resources and maximize their impact. Open source software, with its commitment to transparency, collaboration, and accessibility, offers a compelling paradigm for nonprofit organizations seeking sustainable and scalable solutions.
@@ -37,3 +38,5 @@ Nonetheless, with careful planning and commitment to community engagement, the b
 Open source funding holds transformative potential for nonprofits, providing pathways to innovate and expand their missions sustainably. By embracing open source principles and fostering collaborations, nonprofits can amplify their reach and effectiveness in a world increasingly driven by technological advancements. As they navigate this landscape, the opportunities for growth and impact are boundless.
 
 For more information on open source funding, nonprofits can explore resources such as the [Open Source Initiative](https://opensource.org/) and frameworks such as [OpenSSF](https://openssf.org/). Additionally, the [Open Source Funding Guide](https://www.license-token.com/wiki/open-source-funding-guide) offers comprehensive insights into navigating funding opportunities.
+
+```

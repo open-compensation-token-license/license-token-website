@@ -1,3 +1,4 @@
+```markdown
 # Blockchain's Revolutionary Role in Open Source Software
 
 ## Dive Deeper into Blockchain and Open Source
@@ -9,9 +10,12 @@ Explore how [Gitcoin](https://gitcoin.co/) uses blockchain for funding open sour
 - [Blockchain and Open Source: A Perfect Match?](https://opensource.com/article/19/9/blockchain-open-source) - Discover more about the synergy between blockchain and open source.
 - [Decentralized Governance with DAOs](https://daotalk.org/) - Learn how Decentralized Autonomous Organizations operate to benefit open source projects.
 - [Sustainable Open Source with Blockchain-Based Incentivization](https://www.coindesk.com/learn/unlocking-value-open-source-software-blockchain-incentives/) - Gain insights into new economic models for sustaining open source contributors.
+- [Open Source Licensing Models on Blockchain](https://www.license-token.com/wiki/open-source-licensing-models-on-blockchain) - Explore how blockchain can enhance open source licensing.
+- [Tokenizing Open Source Licenses](https://www.license-token.com/wiki/tokenizing-open-source-licenses) - Understand the process and benefits of tokenizing licenses in open source projects.
 
 ### Keep Exploring
 
 Stay informed about the challenges and future prospects by exploring articles addressing issues like energy consumption and regulatory concerns, which are pivotal for the successful integration of blockchain in open source ecosystems. Discover more about leveraging blockchain for transparency, security, and decentralization in [The Future of Open Source Blockchain Projects](https://www.forbes.com/sites/forbestechcouncil/2021/07/23/the-future-of-open-source-in-a-blockchain-world/?sh=4a7f95163f51).
 
 Embrace the transformative potential of blockchain and its promising role in advancing the open source movement toward more collaborative and innovative horizons.
+```

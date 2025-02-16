@@ -1,3 +1,4 @@
+```markdown
 # Open Source Developer Patronage
 
 **Open Source Developer Patronage** refers to the practice of financially or materially supporting developers who actively contribute to open-source software projects. Open-source projects are freely available for public use, modification, and distribution, but maintaining and improving them often requires significant time, effort, and expertise. Patronage helps ensure developers are compensated for their work, incentivizing sustainability and innovation within the open-source ecosystem.
@@ -66,3 +67,4 @@ For more on the impact, visit [open-source project sponsorship impact](https://w
 Despite its benefits, patronage is often unevenly distributed. High-profile projects (e.g., [React](https://react.dev/) or [Kubernetes](https://kubernetes.io/)) tend to attract significant funding, while smaller but essential projects struggle for support. Raising awareness through platforms such as [FOSS Fund](https://fossfund.org/) and encouraging more organizations to sponsor developers are critical to addressing this imbalance. To understand these challenges better, see [open-source funding challenges](https://www.license-token.com/wiki/open-source-funding-challenges).
 
 By supporting open-source developer patronage, individuals and organizations can ensure the development and maintenance of high-quality software that benefits everyone. For further reading, explore [open-source developer patronage benefits](https://www.license-token.com/wiki/open-source-developer-patronage-benefits).
+```

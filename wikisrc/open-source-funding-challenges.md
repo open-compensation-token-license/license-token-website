@@ -1,3 +1,4 @@
+```markdown
 # Open Source Funding Challenges
 
 Open source software has become a cornerstone of modern technology, powering everything from operating systems to web applications and even artificial intelligence frameworks. Despite its ubiquity and importance, the open source ecosystem faces significant funding challenges that endanger its sustainability.
@@ -29,3 +30,4 @@ Moreover, innovative approaches like [open-source project sponsorship platforms]
 Open source software represents both a gift and a challenge to the tech world. To ensure its continued success, greater awareness, diverse funding models, and stronger corporate commitments are essential. By addressing these challenges, the open source community can achieve sustained growth and ensure that its invaluable contributions remain accessible to all. For further reading, check out [open-source funding challenges](https://www.license-token.com/wiki/open-source-funding-challenges).
 
 By leveraging [open-source project financial sustainability tips](https://www.license-token.com/wiki/open-source-project-financial-sustainability-tips) and exploring [open-source funding for new initiatives](https://www.license-token.com/wiki/open-source-funding-for-new-initiatives), stakeholders can foster a more resilient and thriving open source ecosystem.
+```

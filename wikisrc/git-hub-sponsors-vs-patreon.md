@@ -4,12 +4,12 @@ In today's digital economy, [GitHub Sponsors](https://github.com/sponsors) and [
 
 ## Understanding the Platforms
 
-- **GitHub Sponsors**: Launched in 2019, this platform caters to developers in open-source projects, providing financial support directly through GitHub.
+- **GitHub Sponsors**: Launched in 2019, this platform caters to developers in open-source projects, providing financial support directly through GitHub. For more on this, see [What is GitHub Sponsors](https://www.license-token.com/wiki/what-is-git-hub-sponsors).
 - **Patreon**: Established in 2013, it serves diverse creators from musicians to writers, allowing them to offer exclusive content for monthly patron support.
 
 ## Target Audience
 
-- **GitHub Sponsors** focuses on developers, integrating seamlessly with GitHub's ecosystem.
+- **GitHub Sponsors** focuses on developers, integrating seamlessly with GitHub's ecosystem. Learn about [GitHub Sponsors for Open Source](https://www.license-token.com/wiki/git-hub-sponsors-for-open-source).
 - **Patreon** embraces a wide range of creative fields, although developers may face more competition for visibility.
 
 ## Monetization Models
@@ -19,7 +19,7 @@ In today's digital economy, [GitHub Sponsors](https://github.com/sponsors) and [
 
 ## Platform Features and Tools
 
-- **GitHub Sponsors**: Integrates directly with GitHub and charges no platform fees beyond payment processing.
+- **GitHub Sponsors**: Integrates directly with GitHub and charges no platform fees beyond payment processing. Explore [GitHub Sponsors Fees](https://www.license-token.com/wiki/git-hub-sponsors-fees).
 - **Patreon**: Offers rich tools for analytics, communication, and reward management but charges platform and transaction fees.
 
 ## User Experience and Accessibility
@@ -29,7 +29,7 @@ In today's digital economy, [GitHub Sponsors](https://github.com/sponsors) and [
 
 ## Community and Networking
 
-- **GitHub Sponsors**: Fosters a collaborative open-source community among developers.
+- **GitHub Sponsors**: Fosters a collaborative open-source community among developers. Discover more about [Open Source Sponsorship](https://www.license-token.com/wiki/open-source-sponsorship).
 - **Patreon**: Builds direct relationships between creators and their audiences, enhancing support and interaction.
 
 ## Fees and Revenue Shares
@@ -41,4 +41,4 @@ In today's digital economy, [GitHub Sponsors](https://github.com/sponsors) and [
 
 Both GitHub Sponsors and Patreon represent robust crowdfunding options, though each caters to different creator needs. GitHub Sponsors offers a developer-friendly, cost-effective solution, while Patreon provides a versatile platform for various creators. The choice depends on aligning creator objectives with platform strengths, enabling sustainable and passionate content creation.
 
-Explore more about [GitHub Sponsors](https://github.com/sponsors) and discover [Patreon](https://www.patreon.com) for deeper insights into which platform might suit your creator journey best.
+Explore more about [GitHub Sponsors](https://github.com/sponsors) and discover [Patreon](https://www.patreon.com) for deeper insights into which platform might suit your creator journey best. For further reading, see [GitHub Sponsors vs Patreon](https://www.license-token.com/wiki/git-hub-sponsors-vs-patreon).

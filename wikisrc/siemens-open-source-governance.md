@@ -1,3 +1,4 @@
+```markdown
 # Siemens Open Source Governance: Balancing Innovation and Compliance
 
 Siemens is strategically embracing open source software (OSS) as a catalyst for innovation in its varied business sectors, aligning its governance framework to ensure security and compliance. This involves a clear OSS strategy emphasizing innovation, compliance, collaboration, and efficiency, supported by their Open Source Program Office (OSPO) and cross-functional teams.
@@ -28,10 +29,13 @@ Active participation in the open source ecosystem is crucial. Siemens contribute
 
 ## Future Directions
 
-Siemens targets improving automation, global collaboration, and fostering an open source culture while adapting to emerging trends like AI and blockchain.
+Siemens targets improving automation, global collaboration, and fostering an open source culture while adapting to emerging trends like AI and blockchain. For more on blockchain, see [What is Blockchain](https://www.license-token.com/wiki/what-is-blockchain).
 
 ## Conclusion
 
 Siemens' governance strategies exhibit a balance of leveraging open source for innovation and maintaining compliance and security, ensuring a robust contribution to the global open source community. For more insights, visit [Siemens Open Source Strategy](https://www.siemens.com).
 
-For an in-depth look, explore their [Open Source Governance](https://www.siemens.com) practices.
+For an in-depth look, explore their [Open Source Governance](https://www.siemens.com) practices. Additionally, learn about [Siemens Decentralized Licensing](https://www.license-token.com/wiki/siemens-decentralized-licensing) and [Siemens Blockchain for Sustainability](https://www.license-token.com/wiki/siemens-blockchain-for-sustainability).
+
+Explore how Siemens integrates open source with blockchain in [The Sandbox Open Source Software Integration](https://www.license-token.com/wiki/the-sandbox-open-source-software-integration) and [Open Source Software and Blockchain Synergies](https://www.license-token.com/wiki/open-source-software-and-blockchain-synergies).
+```

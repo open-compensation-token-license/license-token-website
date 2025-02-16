@@ -1,3 +1,4 @@
+```markdown
 # Crowdsourced Funding for Open-Source Software (OSS)
 
 Crowdsourced funding, or crowdfunding, is a method of raising financial support for projects by pooling small contributions from a large number of individuals, typically through online platforms. In the context of open-source software (OSS), it has emerged as a vital way for developers, maintainers, and contributors to sustain their projects financially. This approach is crucial for maintaining the [sustainability of open-source projects](https://www.license-token.com/wiki/sustainable-funding-open-source) and ensuring their continued development and growth.
@@ -10,7 +11,7 @@ Open-source software is inherently free to use, modify, and distribute, which of
 
 There are multiple strategies for raising funds via crowdsourcing:
 
-1. **Recurring Donations**: Platforms like [Patreon](https://www.patreon.com/), [GitHub Sponsors](https://github.com/sponsors), and [Liberapay](https://liberapay.com/) allow contributors to pledge regular donations, supporting developers on an ongoing basis.
+1. **Recurring Donations**: Platforms like [Patreon](https://www.patreon.com/), [GitHub Sponsors](https://github.com/sponsors), and [Liberapay](https://liberapay.com/) allow contributors to pledge regular donations, supporting developers on an ongoing basis. Learn more about [GitHub Sponsors](https://www.license-token.com/wiki/what-is-git-hub-sponsors).
 2. **One-Time Contributions**: OSS developers can receive one-off financial support through payment services like [PayPal](https://www.paypal.com/) or crypto donations.
 3. **Dedicated Crowdfunding Campaigns**: Platforms such as [Kickstarter](https://www.kickstarter.com/) and [OpenCollective](https://opencollective.com/) enable campaigns specifically for funding particular features, projects, or events.
 
@@ -39,3 +40,4 @@ Crowdsourced funding represents both an opportunity and a challenge for OSS, ena
 By leveraging these methods and addressing challenges, OSS projects can achieve financial independence and continue to innovate, benefiting both developers and users alike. For further reading on achieving financial independence, consider the [open-source project financial independence](https://www.license-token.com/wiki/open-source-project-financial-independence) strategies.
 
 For additional resources, explore [open-source project funding trends](https://www.license-token.com/wiki/open-source-project-funding-trends) and [open-source project financial growth](https://www.license-token.com/wiki/open-source-project-financial-growth) to understand how OSS projects can thrive in the evolving digital landscape.
+```

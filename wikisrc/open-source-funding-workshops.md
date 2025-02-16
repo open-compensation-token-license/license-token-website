@@ -1,3 +1,4 @@
+```markdown
 # Open Source Funding Workshops: Empowering Community-Driven Projects
 
 Open Source Funding Workshops are essential gatherings designed to equip developers, project maintainers, and community members with the knowledge and tools necessary to secure financial support for their open source initiatives. These workshops address the unique challenges faced by open source projects in sustaining development, fostering growth, and ensuring long-term viability.
@@ -55,3 +56,4 @@ To further explore the landscape of open source funding, consider these resource
 ## Conclusion
 
 Open Source Funding Workshops play a pivotal role in empowering communities to sustain and grow their projects. By providing the necessary skills and strategies, these workshops help ensure that valuable open source initiatives continue to thrive and make a meaningful impact on the global tech landscape. For further reading, explore the [open source funding guide](https://www.license-token.com/wiki/open-source-funding-guide).
+```

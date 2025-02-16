@@ -1,3 +1,4 @@
+```markdown
 ### Open Source: A Goldmine for Indie Hackers
 
 In the software development realm, the concept of [open source](https://opensource.org/) is a transformative force that provides myriad benefits for indie hackers, allowing them to create, collaborate, and innovate efficiently. This article delves into how open source serves as a critical resource and explores its various advantages, challenges, and strategies for engaging with the ecosystem.
@@ -41,3 +42,4 @@ Licensing complexities and dependency management are critical considerations. Un
 Open source remains pivotal in empowering indie hackers, with a vast range of resources and a collaborative community. As open source and indie hacking continue to drive innovation, the industry can expect more groundbreaking products and strategies to emerge. Embrace the open source movement and embark on your entrepreneurial journey.
 
 For further reading on monetizing open source projects, check out the [monetizing open source projects guide](https://www.license-token.com/wiki/monetizing-open-source-projects-guide).
+```

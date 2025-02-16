@@ -12,5 +12,8 @@ In the quest for enhancing Ethereum's scalability and efficiency, Arbitrum emerg
 
 - Explore the [Ethereum Scalability Challenge](https://ethereum.org/en/developers/docs/scaling/).
 - Discover more about [Layer 2 Solutions](https://ethereum.org/en/developers/docs/layer-2-scaling/).
+- Learn about [Arbitrum and Open Source Scaling Solutions](https://www.license-token.com/wiki/arbitrum-and-open-source-scaling-solutions).
+- Understand [Arbitrum and Blockchain Interoperability](https://www.license-token.com/wiki/arbitrum-and-blockchain-interoperability).
+- Investigate [Arbitrum and NFT Marketplaces](https://www.license-token.com/wiki/arbitrum-and-nft-marketplaces).
 
 Arbitrum's advancements mark a significant step towards realizing Ethereum's scalability, making it a crucial player in the future of decentralized technology.

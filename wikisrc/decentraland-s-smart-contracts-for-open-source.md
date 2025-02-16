@@ -6,28 +6,28 @@ The advent of the Metaverse, with platforms like [Decentraland](https://decentra
 
 ## Understanding Decentraland and the Essence of Smart Contracts
 
-Decentraland operates on the [Ethereum blockchain](https://ethereum.org/en/), enabling users to build and monetize within a virtual environment via smart contracts. These self-executing contracts automate transactions and ensure security, without intermediaries.
+Decentraland operates on the [Ethereum blockchain](https://ethereum.org/en/), enabling users to build and monetize within a virtual environment via smart contracts. These self-executing contracts automate transactions and ensure security, without intermediaries. Learn more about [smart contracts on blockchain](https://www.license-token.com/wiki/smart-contracts-on-blockchain).
 
 ## A Closer Look at Decentraland's Architecture
 
 ### 1. Land and Estate Smart Contracts
-- Control of LAND ownership, represented as an NFT, is managed via smart contracts, enabling users to build or trade their property.
+- Control of LAND ownership, represented as an NFT, is managed via smart contracts, enabling users to build or trade their property. Discover [why NFTs are valuable](https://www.license-token.com/wiki/why-are-nf-ts-valuable).
 
 ### 2. Marketplace Smart Contracts
-- Facilitate the trade of LAND, wearables, and other NFTs through a transparent marketplace.
+- Facilitate the trade of LAND, wearables, and other NFTs through a transparent marketplace. Explore [NFT marketplaces comparison](https://www.license-token.com/wiki/nft-marketplaces-comparison).
 
 ### 3. Governance Smart Contracts
-- Apply DAO principles for voting and decision-making in platform development.
+- Apply DAO principles for voting and decision-making in platform development. Understand more about [decentralized governance in open source](https://www.license-token.com/wiki/decentralized-governance-in-open-source).
 
 ### 4. Content Creation Smart Contracts
-- Govern user-generated content and royalties distribution.
+- Govern user-generated content and royalties distribution. Learn about [NFT royalties](https://www.license-token.com/wiki/nft-royalties).
 
 ## Empowering Open Source Development
 
 Decentraland's open-source framework invites global developers to contribute, enhancing functionality and security.
 
 ### 1. Innovation through Collaboration
-- Open-source code allows for modification and improvement, fostering platform enhancement.
+- Open-source code allows for modification and improvement, fostering platform enhancement. See [open-source software and blockchain synergies](https://www.license-token.com/wiki/open-source-software-and-blockchain-synergies).
 
 ### 2. Community-driven Enhancements
 - Community discussions shape new features and improvements, facilitated by smart contract-driven governance.

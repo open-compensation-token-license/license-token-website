@@ -1,3 +1,4 @@
+```markdown
 # Open Source Developer Support Programs
 
 Open Source Developer Support Programs are initiatives designed to help developers sustain, grow, and innovate within the open-source ecosystem. These programs are launched by organizations, communities, and tech companies to provide resources, funding, mentorship, and tools to creators and maintainers of open-source projects. With the rapid expansion of open-source software and its critical role in powering modern technologies, these programs have become a vital aspect of the tech world.
@@ -33,3 +34,4 @@ By providing essential resources, these programs empower developers to focus on 
 ## Conclusion
 
 Open Source Developer Support Programs are the backbone of modern open-source innovation. By focusing on funding, mentorship, community building, and resources, they help developers overcome barriers and continue building solutions that benefit all users. Supporting and expanding such programs is essential to sustaining the open-source ecosystem, making them invaluable for the tech community at large. For further reading, consider the [open-source developer support networks](https://www.license-token.com/wiki/open-source-developer-support-networks) to connect with other developers and resources.
+```

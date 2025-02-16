@@ -1,3 +1,4 @@
+```markdown
 # Open Source Project Financial Support
 
 Open source projects are pivotal in driving technological innovation, offering free access to software that powers countless systems, tools, and applications worldwide. Despite their significance, funding these projects can be challenging. Financial support is crucial for sustaining development, improving quality, and ensuring long-term project success. Let's explore various strategies and opportunities for financially supporting open source projects.
@@ -35,3 +36,4 @@ Despite these avenues, securing consistent funding can be difficult. Many projec
 A sustainable funding model for open source projects hinges on raising awareness and providing clear value to stakeholders. Transparency in fund distribution, consistent updates, and active community engagement are vital for attracting and retaining financial backers. For strategies on sustainability, see [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
 
 By exploring a mix of these strategies and leveraging available resources, open source developers can ensure the longevity and health of their projects. Financial support helps keep the open source ecosystem vibrant, enabling collaborative and innovative solutions accessible to all. For more insights into funding strategies, explore [open source project funding strategies](https://www.license-token.com/wiki/open-source-project-funding-strategies) and [open source project financial sustainability tips](https://www.license-token.com/wiki/open-source-project-financial-sustainability-tips).
+```

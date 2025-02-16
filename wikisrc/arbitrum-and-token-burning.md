@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Ethereum ecosystem has long been revered as a foundational pillar of blockchain technology and decentralized finance (DeFi). However, issues such as scalability and high transaction fees persist. Among various solutions, Arbitrum stands out as a leading Layer 2 solution aimed at solving these challenges. Recently, Arbitrum’s tokenomics, and specifically the concept of token burning, have drawn significant interest. This article explores Arbitrum's role in the Ethereum ecosystem, the mechanics behind it, and the potential implications of token burning on its network.
+The Ethereum ecosystem has long been revered as a foundational pillar of [blockchain technology](https://www.license-token.com/wiki/what-is-blockchain) and decentralized finance (DeFi). However, issues such as scalability and high transaction fees persist. Among various solutions, Arbitrum stands out as a leading Layer 2 solution aimed at solving these challenges. Recently, Arbitrum’s tokenomics, and specifically the concept of token burning, have drawn significant interest. This article explores Arbitrum's role in the Ethereum ecosystem, the mechanics behind it, and the potential implications of token burning on its network.
 
 ## Understanding Arbitrum: The Layer 2 Solution
 
@@ -46,6 +46,8 @@ If Arbitrum integrates token burning:
 
 As a notable entity in addressing Ethereum’s scalability, Arbitrum can leverage token burning as an economic tool to enhance network sustainability. While not yet implemented, navigating governance and community involvement may allow Arbitrum to use token burning effectively.
 
-Arbitrum's decisions will be instrumental in shaping its future and the overall Ethereum and DeFi landscape. As tokenomics in blockchain ecosystems evolve, the strategic consideration of token burning by Arbitrum could redefine its economic health and sustainability strategy.
+Arbitrum's decisions will be instrumental in shaping its future and the overall Ethereum and DeFi landscape. As [tokenomics](https://www.license-token.com/wiki/nft-tokenomics) in blockchain ecosystems evolve, the strategic consideration of token burning by Arbitrum could redefine its economic health and sustainability strategy.
 
 For additional information on Arbitrum, you can visit their official [website](https://arbitrum.io/).
+
+For further exploration of related topics, you might be interested in [Arbitrum's NFT Marketplace](https://www.license-token.com/wiki/arbitrum-nft-marketplace-using-open-source), [Arbitrum and zk-Rollups](https://www.license-token.com/wiki/arbitrum-and-zk-rollups), and [Arbitrum's Open Source Contributions](https://www.license-token.com/wiki/arbitrum-open-source-contributions).

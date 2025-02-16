@@ -1,3 +1,4 @@
+```markdown
 # Open Source Funding Guide
 
 Open source software has revolutionized the technology landscape, fostering innovation, collaboration, and accessibility. However, sustaining open source projects requires reliable funding to cover development costs, maintenance, and community support. This guide explores various strategies and best practices for securing funding to ensure the longevity and success of open source initiatives.
@@ -70,3 +71,4 @@ For more resources, visit:
 - [Sustain Open](https://www.sustainopensource.com/)
 
 Explore additional insights on [open source funding strategies](https://www.license-token.com/wiki/open-source-funding-strategies) and [open source financial support](https://www.license-token.com/wiki/open-source-financial-support) to further enhance your project's financial health.
+```

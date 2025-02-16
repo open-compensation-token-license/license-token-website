@@ -1,3 +1,4 @@
+```markdown
 # Open Source Project Financial Sustainability Tips
 
 The concept of open source has transformed the way software is developed and shared. It allows communities to collaboratively build and enhance software, leading to innovation and growth. However, maintaining an open source project goes beyond coding; it requires financial sustainability to ensure long-term viability. Here are some effective tips to help keep your open source project financially sound.
@@ -33,3 +34,4 @@ Regular fundraising campaigns can help secure necessary funds. Platforms like [K
 ## Conclusion
 
 Achieving financial sustainability for an open source project is challenging but feasible with the right strategies. By diversifying funding sources, engaging the community, leveraging corporate support, and offering valuable services, open source projects can secure the necessary resources to thrive. Balancing open access with strategic financial practices ensures that open source projects not only survive but thrive in the ever-evolving tech landscape. For more insights and guides on sustaining open source projects financially, visit [Open Source Guides](https://opensource.guide/sustaining/).
+```

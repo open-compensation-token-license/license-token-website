@@ -16,7 +16,7 @@ At the core of Axie Infinity is the use of Ethereum, a blockchain renowned for i
 
 ### Smart Contracts and NFTs
 
-Smart contracts handle the automated execution of agreements and transactions in Axie Infinity. These contracts govern various in-game activities, from the sale of Axies to the distribution of earnings, ensuring transparency and security. Axies are represented as non-fungible tokens (NFTs), each with unique attributes and verifiable ownership on the blockchain, making them tradable assets in the open market.
+Smart contracts handle the automated execution of agreements and transactions in Axie Infinity. These contracts govern various in-game activities, from the sale of Axies to the distribution of earnings, ensuring transparency and security. Axies are represented as non-fungible tokens (NFTs), each with unique attributes and verifiable ownership on the blockchain, making them tradable assets in the open market. For more on NFTs, see [What Are NFTs](https://www.license-token.com/wiki/what-are-nf-ts).
 
 ## Axie Infinity’s Economic Model
 
@@ -26,7 +26,7 @@ Axie Infinity has pioneered the play-to-earn model, where players earn Smooth Lo
 
 ### Governance and Community Involvement
 
-Community involvement is central to Axie Infinity's ecosystem. The Axie community holds significant power in the governance decisions through a decentralized autonomous organization (DAO). Holders of AXS tokens can propose changes, vote on critical game and economic decisions, and participate in shaping the game's future, emphasizing a communal approach powered by blockchain.
+Community involvement is central to Axie Infinity's ecosystem. The Axie community holds significant power in the governance decisions through a decentralized autonomous organization (DAO). Holders of AXS tokens can propose changes, vote on critical game and economic decisions, and participate in shaping the game's future, emphasizing a communal approach powered by blockchain. For more on decentralized governance, refer to [Decentralized Governance in Open Source](https://www.license-token.com/wiki/decentralized-governance-in-open-source).
 
 ## Blockchain for Open Source Funding
 
@@ -36,17 +36,17 @@ Open-source projects often face funding challenges due to their inherently free 
 
 ### Axie Infinity’s Contribution
 
-Axie Infinity offers a viable model for how blockchain gaming can influence open source funding. The game's success has generated substantial financial capital, and its community-focused governance model provides insights into decentralized funding structures. Leveraging tokens like AXS could facilitate donations or investments into open-source projects, providing a continuous, decentralized funding stream directly tied to the project's success and community engagement.
+Axie Infinity offers a viable model for how blockchain gaming can influence open source funding. The game's success has generated substantial financial capital, and its community-focused governance model provides insights into decentralized funding structures. Leveraging tokens like AXS could facilitate donations or investments into open-source projects, providing a continuous, decentralized funding stream directly tied to the project's success and community engagement. Explore more about this in [Blockchain for Open Source Funding](https://www.license-token.com/wiki/blockchain-for-open-source-funding).
 
 ### Tokenomics and Incentive Alignment
 
-Tokenomics, the study of blockchain-based economic incentives, is key to using Axie Infinity’s model for open source funding. By issuing project-specific tokens, developers can incentivize contributions, distribute rewards, and ensure that stakeholders who add value are compensated. This creates a feedback loop: contributors are financially motivated to improve the project, leading to enhancements that potentially increase the project's value and, consequently, the token's value.
+Tokenomics, the study of blockchain-based economic incentives, is key to using Axie Infinity’s model for open source funding. By issuing project-specific tokens, developers can incentivize contributions, distribute rewards, and ensure that stakeholders who add value are compensated. This creates a feedback loop: contributors are financially motivated to improve the project, leading to enhancements that potentially increase the project's value and, consequently, the token's value. For further reading, see [Tokenizing Open Source Licenses](https://www.license-token.com/wiki/tokenizing-open-source-licenses).
 
 ## Case Studies and Potential Implementations
 
 ### Successful Projects Using Similar Models
 
-Several open-source projects have adopted blockchain-based funding using tokens and decentralized mechanisms. For example, [Gitcoin](https://gitcoin.co/) leverages Ethereum to reward contributors to open-source projects. It uses quadratic funding to prioritize contributions based on community engagement rather than sheer financial input, embodying a similar community-driven approach seen in Axie Infinity.
+Several open-source projects have adopted blockchain-based funding using tokens and decentralized mechanisms. For example, [Gitcoin](https://gitcoin.co/) leverages Ethereum to reward contributors to open-source projects. It uses quadratic funding to prioritize contributions based on community engagement rather than sheer financial input, embodying a similar community-driven approach seen in Axie Infinity. Learn more about Gitcoin in [What is Gitcoin](https://www.license-token.com/wiki/what-is-gitcoin).
 
 ### Implementing Axie’s Model
 
@@ -64,7 +64,7 @@ Navigating the legal landscape is critical for blockchain-based funding. Regulat
 
 ### Ensuring Sustainability
 
-While Axie Infinity’s model provides immediate financial benefits, ensuring long-term sustainability is crucial. This involves creating a balanced token supply, controlling inflation, and continuously delivering value through project improvements, community engagement, and strategic partnerships.
+While Axie Infinity’s model provides immediate financial benefits, ensuring long-term sustainability is crucial. This involves creating a balanced token supply, controlling inflation, and continuously delivering value through project improvements, community engagement, and strategic partnerships. For insights on sustainability, see [Sustainable Blockchain Practices](https://www.license-token.com/wiki/sustainable-blockchain-practices).
 
 ## Conclusion
 

@@ -1,3 +1,4 @@
+```markdown
 # How to Get Sponsored for Open Source in Bangalore with Blockchain-based Licenses
 
 Bangalore's vibrant open source scene offers immense opportunities, especially through the Open Compensation Token License (OCTL), which provides a transparent, blockchain-based mechanism to sustain and reward contributors. This guide will walk you through leveraging the Blockchain License framework and the city's thriving tech community to secure sponsorships for your open source projects.
@@ -77,9 +78,9 @@ Explore the [benefits of corporate sponsorship](https://www.license-token.com/wi
 
 The standardized Blockchain License platform provides a simple, fair approach for token distribution. Here is an example model for allocating tokens:
 
-markdown
+```markdown
 Total_Tokens = S + C + M
-
+```
 
 Where:
 - S = Sponsor Contribution Tokens
@@ -88,15 +89,15 @@ Where:
 
 For each contributor or maintainer i, calculate a weighted score:
 
-markdown
+```markdown
 Weighted_Score_i = (LOC_i * wLOC) + (IssuesFixed_i * wISS) + (DocsContrib_i * wDOC)
-
+```
 
 Then, determine each individual’s share from C or M:
 
-markdown
+```markdown
 Share_i = (Weighted_Score_i / Σ Weighted_Score_all) * (C or M)
-
+```
 
 ### Advantages for Bangalore Contributors
 1. **Incentivized Work**: Token holders have a vested interest in the project’s success, ensuring continuous engagement.
@@ -113,3 +114,4 @@ Bangalore’s booming tech culture, combined with the widespread adoption of Blo
 3. Use the Blockchain License structure to align contributor and sponsor interests, ensuring collective project success and sustainability.
 
 Taking these steps will position your open source project at the forefront of Bangalore's technology revolution, paving the way for stronger support and meaningful contributions.
+```

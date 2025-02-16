@@ -1,3 +1,4 @@
+```markdown
 # Software Sustainability: Ensuring Longevity and Responsibility in the Digital Age
 
 Software sustainability is a crucial aspect of modern technology development, addressing technical, ecological, economic, and social dimensions to ensure software systems are lasting, adaptable, and responsible. Here are key areas of focus and initiatives that outline this comprehensive approach:
@@ -38,3 +39,4 @@ Software sustainability is a crucial aspect of modern technology development, ad
 - **Open Source Developer Support Programs**: Discover support programs available for open source developers by visiting [Open Source Developer Support Programs](https://www.license-token.com/wiki/open-source-developer-support-programs).
 
 Embracing software sustainability is vital for a balanced digital evolution, ensuring that technological advancements benefit both current and future generations effectively and responsibly. By integrating these practices and principles, developers and organizations can contribute to a more sustainable digital future.
+```

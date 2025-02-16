@@ -1,3 +1,4 @@
+```markdown
 # Open Source Funding Opportunities
 
 Open source software is a cornerstone of the modern digital ecosystem, yet sustaining open source projects demands substantial time, dedication, and resources. Funding opportunities have emerged as a vital solution to support developers and maintainers, ensuring the long-term sustainability of these projects.
@@ -29,7 +30,7 @@ Explore more about [open source sponsorship](https://www.license-token.com/wiki/
 
 Crowdfunding platforms enable individuals and organizations to directly contribute financial support to open source developers. Common platforms include:
 
-- [GitHub Sponsors](https://github.com/sponsors): A tool where individuals or organizations can sponsor open source developers via recurring payments.
+- [GitHub Sponsors](https://github.com/sponsors): A tool where individuals or organizations can sponsor open source developers via recurring payments. Learn more about [GitHub Sponsors](https://www.license-token.com/wiki/what-is-git-hub-sponsors).
 - [Open Collective](https://opencollective.com/): Provides transparency for funding and spending within open source organizations.
 - [Patreon](https://www.patreon.com/): Enables creators to receive consistent monthly support in return for exclusive content or simple recognition.
 
@@ -98,3 +99,4 @@ For more information on supporting open source projects:
 - [Best Practices for Maintainers (opensource.guide)](https://opensource.guide/funding/)
 
 Explore more about [open source funding strategies](https://www.license-token.com/wiki/open-source-funding-strategies).
+```

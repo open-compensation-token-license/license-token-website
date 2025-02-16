@@ -1,3 +1,4 @@
+```markdown
 # Understanding the Risks of Forking Open-Source Projects
 
 Forking is a crucial aspect of open-source software that fosters innovation and customization. However, it also carries several risks that stakeholders must consider to avoid detrimental outcomes. This article explores the potential pitfalls associated with forking an open-source project.
@@ -33,3 +34,4 @@ Forking can lead to animosity and competition rather than collaboration, undermi
 The decision to fork a project should be made with careful consideration of these risks. Responsible management and ethical justification are crucial to ensuring a fork succeeds and positively contributes to the software community. For more insights, refer to this [GitHub article on forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo) that explains the process and its implications.
 
 By understanding and addressing these risks, stakeholders can make informed decisions about forking and contribute to the thriving ecosystem of open-source software. For further reading on the broader implications of forking, visit [forking project risks](https://www.license-token.com/wiki/forking-project-risks).
+```

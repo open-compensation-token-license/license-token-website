@@ -1,3 +1,4 @@
+```markdown
 # Funding Open Source Contributors: Empowering Sustainable Innovation
 
 Open source software is a cornerstone of the modern digital ecosystem, underpinning everything from operating systems to web frameworks. Despite the software industry's reliance on open source code, many contributors remain unfunded, volunteering their skills and time without financial compensation. Addressing the issue of funding open source contributors is crucial for ensuring the sustainability and long-term growth of the open source ecosystem.
@@ -35,3 +36,4 @@ Funding open source contributors is not just about fairness; it’s about securi
 Learn more about supporting open source contributors through initiatives like [GitHub Sponsors](https://github.com/sponsors), [Open Source Collective](https://opencollective.com/opensource), or [SustainOSS resources](https://sustainoss.org/).
 
 In a world that runs on open source software, investing in its creators is a necessity—not an option. For further reading, explore [funding open source contributors](https://www.license-token.com/wiki/funding-open-source-contributors) and [innovative funding for open source projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects).
+```

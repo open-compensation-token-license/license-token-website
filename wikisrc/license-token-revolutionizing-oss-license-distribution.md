@@ -70,7 +70,7 @@ The License-Token system lays the groundwork for several exciting future develop
 
 1. **Token Economies and Micropayments:** License-Tokens can be extended to support new licensing models, such as pay-per-use or micropayments for proprietary features in OSS. This could foster new revenue streams for OSS projects and encourage further innovation.
 
-2. **Smart Contracts for Licensing:** The integration of smart contracts could automate complex license conditions, such as revenue sharing or user quotas, without human intervention. This would enable dynamic licensing arrangements and fine-grained control over software use.
+2. **Smart Contracts for Licensing:** The integration of [smart contracts](https://www.license-token.com/wiki/smart-contracts-on-blockchain) could automate complex license conditions, such as revenue sharing or user quotas, without human intervention. This would enable dynamic licensing arrangements and fine-grained control over software use.
 
 3. **Interoperability with Other Blockchain Solutions:** As blockchain solutions grow and diversify, License-Tokens might integrate into broader decentralized ecosystems. This could involve collaborations for identity management, IP protection, or digital rights enforcement.
 
@@ -83,4 +83,7 @@ License-Tokens represent a paradigm shift in OSS license distribution, offering 
 For further information, visit the [OSS community page](https://www.example.com/oss).
 
 [Blockchain Basics](https://www.example.com/blockchain-basics)  
-[Continuous Integration: A Guide](https://www.example.com/continuous-integration)
+[Continuous Integration: A Guide](https://www.example.com/continuous-integration)  
+[Open Source Licensing Models on Blockchain](https://www.license-token.com/wiki/open-source-licensing-models-on-blockchain)  
+[Tokenizing Open Source Licenses](https://www.license-token.com/wiki/tokenizing-open-source-licenses)  
+[The Future of Open Source with Blockchain Integration](https://www.license-token.com/wiki/the-future-of-open-source-with-blockchain-integration)

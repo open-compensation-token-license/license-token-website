@@ -1,3 +1,4 @@
+```markdown
 # Open Source Developer Grants Application: Empowering Innovation
 
 Open source development has become a cornerstone of modern software ecosystems, fostering collaboration and innovation across the globe. Despite its success, many open-source contributors face challenges in funding their work. That’s where **Open Source Developer Grants** come in, offering financial support to developers passionate about creating and maintaining open-source projects.
@@ -13,7 +14,7 @@ These grants play a vital role in the sustainability of open-source software, wh
 Applying for a grant often involves the following steps:
 
 1. **Find the Right Grant**: Research organizations or programs offering grants for open-source development. Some popular resources include:
-   - [GitHub Sponsors](https://github.com/sponsors) – A way to receive recurring funding for open-source contributions.
+   - [GitHub Sponsors](https://github.com/sponsors) – A way to receive recurring funding for open-source contributions. Learn more about it in [What is GitHub Sponsors](https://www.license-token.com/wiki/what-is-git-hub-sponsors).
    - [Mozilla Open Source Support (MOSS)](https://www.mozilla.org/en-US/moss/) – A program by Mozilla to support open-source projects worldwide.
    - [Open Collective](https://opencollective.com/) – A platform for funding open-source projects transparently.
 
@@ -44,3 +45,4 @@ Here are some additional links to explore:
 Open Source Developer Grants are a lifeline for developers seeking to innovate and sustain their projects. They encourage creativity, bridge the funding gap, and ensure that open-source ecosystems thrive. If you’re passionate about contributing to the open-source community, applying for a grant can be a game-changer for realizing your project’s full potential. Explore available opportunities, craft a compelling proposal, and take that critical step toward fueling open-source innovation.
 
 For further reading on funding strategies, visit [Open Source Funding Strategies](https://www.license-token.com/wiki/open-source-funding-strategies) and [Innovative Funding for Open Source Projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects). Additionally, consider exploring [Open Source Developer Grants Overview](https://www.license-token.com/wiki/open-source-developer-grants-overview) and [Open Source Developer Support Programs](https://www.license-token.com/wiki/open-source-developer-support-programs) for comprehensive insights into the grant application process.
+```

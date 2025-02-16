@@ -1,3 +1,4 @@
+```markdown
 # Leveraging Open Compensation Token License (OCTL) as an Alternative to Pure Open Source (Capitalism)
 
 The [Open Compensation Token License (OCTL)](https://github.com/open-compensation-token-license/octl/tree/main) represents a powerful alternative to [traditional open source](https://de.wikipedia.org/wiki/Open_Source) and the emerging concept of [open source capitalism](https://www.license-token.com/wiki/open-source-capitalism-opportunities-and-challenges-global-south). It addresses sustainability and inclusion challenges while providing opportunities for smaller developers, especially in areas with limited funding. Although not free for commercial use, it is free for everyone else. Here's why OCTL could serve as a better economic model compared to pure open source capitalism:
@@ -66,3 +67,5 @@ While OCTL offers many advantages, there are some considerations to keep in mind
 OCTL holds incredible potential to supplement or transform the traditional concept of open source capitalism, especially for smaller-scale, independent developers and contributors from underserved areas. By combining accessibility with fair compensation, OCTL not only democratizes funding but also introduces a robust ecosystem where innovation thrives, no matter the location or scale of the contributor.
 
 Adopting OCTL provides a sustainable way forward for open source contributors while empowering them to create meaningful side hustles, leading to both economic opportunity and community-driven innovation globally.
+
+```

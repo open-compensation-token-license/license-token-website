@@ -1,4 +1,3 @@
-```markdown
 # Mintable's Blockchain Impact on Open Source Software
 
 In the digital era, [Mintable](https://mintable.app/), an innovative platform, harnesses blockchain transparency to revolutionize Open Source Software (OSS). Blockchain, a distributed, immutable ledger system, ensures accountability and trust, which Mintable applies to OSS for solving intellectual property challenges and enhancing collaboration. Learn more about [blockchain technology](https://www.license-token.com/wiki/what-is-blockchain) and its applications.
@@ -21,4 +20,3 @@ Mintable's approach democratizes software development, invites commercial sector
 Despite its potential, Mintable's blockchain initiatives in OSS face challenges like scalability, regulatory compliance, and integration complexity, posing areas for further innovation and refinement.
 
 Mintable drives a transformative shift in software development, setting a path for future innovations in [blockchain integration with OSS](https://opensource.org/), fostering an inclusive and secure development environment.
-```

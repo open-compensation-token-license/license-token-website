@@ -1,4 +1,3 @@
-```markdown
 # For further insights into tokenization and open source sustainability, you may find these resources valuable:
 
 - **[Basic Attention Token (BAT)](https://basicattentiontoken.org/)**: Explore how BAT leverages tokenization to reward user attention while preserving privacy.
@@ -8,4 +7,3 @@
 - **[The Role of NFTs in Open Source Rewards](https://www.license-token.com/wiki/the-role-of-nf-ts-in-open-source-rewards)**: Examine how NFTs are being utilized to incentivize contributions to open-source projects.
 
 These case studies illustrate the practical application of tokenization in fostering sustainable open-source ecosystems.
-```

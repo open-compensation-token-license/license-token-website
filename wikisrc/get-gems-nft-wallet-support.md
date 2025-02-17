@@ -1,4 +1,3 @@
-```markdown
 ### GetGems Enhances NFT Ecosystem with Comprehensive Wallet Support
 
 Non-Fungible Tokens (NFTs) are reshaping digital ownership across various sectors, thus necessitating robust infrastructure. GetGems is a dynamic NFT platform addressing this need with its comprehensive wallet support, allowing for seamless NFT management and security.
@@ -38,4 +37,3 @@ GetGems is shaping NFT interactions with its focus on security and accessibility
 As NFTs find more applications, systems like GetGems will be instrumental in expanding and evolving the digital assets space. By maintaining its innovative approach, GetGems supports the transition toward broader digital ownership adoption.
 
 For more information, visit [GetGems Website](https://getgems.io).
-```

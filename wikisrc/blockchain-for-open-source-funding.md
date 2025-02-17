@@ -1,4 +1,3 @@
-```markdown
 # Blockchain for Open Source Funding: A New Paradigm
 
 ## Introduction
@@ -42,4 +41,3 @@ As blockchain technology matures, it has the potential to transform open source 
 ## Conclusion
 
 Blockchain presents an opportunity to reshape open source funding, allowing these projects to thrive by embracing the principles of decentralization and transparency. Through collaborative efforts, blockchain can provide sustainable funding models that empower open source communities globally.
-```

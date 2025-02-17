@@ -1,4 +1,3 @@
-```markdown
 # Exploring NFT Rarity: A Detailed Overview
 
 Non-Fungible Tokens (NFTs) are redefining ownership and value in the digital sphere. A pivotal aspect in this domain is NFT rarity, which significantly influences desirability and market value. This guide provides an in-depth look at NFT rarity, its determination, and its effect on digital collectibles.
@@ -62,4 +61,3 @@ Rarity impacts NFT pricing through:
 NFT rarity is pivotal in valuating digital collectibles. Understanding its nuances aids in making informed investment decisions. As markets and technologies evolve, NFT rarity will continue to present new opportunities and challenges.
 
 For further exploration, visit [DappRadar](https://dappradar.com) and [NonFungible.com](https://nonfungible.com) to see active trends in NFT markets.
-```

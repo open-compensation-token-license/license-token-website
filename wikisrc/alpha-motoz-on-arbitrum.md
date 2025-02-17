@@ -1,4 +1,3 @@
-```markdown
 # Discover Alpha Motoz: A New Era in Arbitrum's NFT Marketplace
 
 Explore the revolutionary blend of automotive collectibles and NFTs with [Alpha Motoz](https://arbiscan.io/token/alpha-motoz). This unique marketplace utilizes Arbitrum's scalability and efficiency to offer a tailored experience for car enthusiasts and digital collectors.
@@ -18,5 +17,3 @@ Explore the revolutionary blend of automotive collectibles and NFTs with [Alpha 
 ## Looking Ahead
 
 Alpha Motoz potentially transforms digital ownership and inspires future blockchain innovations within niche markets. Discover more about [Arbitrum](https://offchainlabs.com/) and enrich your NFT experience with Alpha Motoz's innovative platform.
-
-```

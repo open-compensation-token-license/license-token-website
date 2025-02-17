@@ -1,4 +1,3 @@
-```markdown
 # The NFT Treasure Team: Pioneers in the World of Digital Collectibles
 
 ## [Origins and Formation](#origins-and-formation)
@@ -38,4 +37,3 @@ Exploring VR and AR integration, the team aims to create immersive experiences a
 ### Conclusion
 
 The NFT Treasure Team exemplifies the fusion of technology and creativity, enriching the NFT space and inspiring a new generation of artists and collectors. Their journey underscores the transformative impact of technology in reshaping the art world.
-```

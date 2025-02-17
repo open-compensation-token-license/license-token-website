@@ -1,4 +1,3 @@
-```markdown
 # The Art of NFT Marketing: Navigating Social Media for Success
 
 ## Introduction
@@ -56,4 +55,3 @@ Mastering the art of NFT marketing on social media requires a blend of creativit
 ---
 
 By leveraging the outlined strategies and resources, NFT creators can successfully navigate the evolving digital landscape, ensuring that their unique offerings achieve prominence and resonate with global audiences.
-```

@@ -1,4 +1,3 @@
-```markdown
 # Blockchain and Smart Cities: Revolutionizing Urban Landscapes
 
 ## Introduction
@@ -40,5 +39,3 @@ As blockchain technology evolves, its potential to support resilient urban syste
 ## Conclusion
 
 By embedding blockchain technology in urban planning, cities can transform into smarter, more responsive ecosystems. This evolution holds the promise of empowering citizens and creating communities that are both technologically advanced and sustainable. For further insights, explore how [blockchain technology is reshaping cities](https://www.weforum.org/agenda/2019/04/blockchain-urban-revolution) at the World Economic Forum.
-
-```

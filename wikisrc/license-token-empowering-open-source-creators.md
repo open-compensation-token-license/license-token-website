@@ -1,4 +1,3 @@
-```markdown
 # License-Token: Empowering Open Source Creators
 
 ## Introduction
@@ -49,4 +48,3 @@ Widespread adoption of License-Token will face hurdles such as:
 **License-Token** holds transformative potential for how open source projects approach licensing, attribution, and monetization. Through collaboration, education, and community involvement, it has the potential to become a vital component of the open source ecosystem, championing respect, reward, and empowerment for creators globally. 
 
 Explore the future possibilities with License-Token and its impact on the open source community through [community-driven development](https://opensource.guide/how-to-contribute/) and collaborative efforts.
-```

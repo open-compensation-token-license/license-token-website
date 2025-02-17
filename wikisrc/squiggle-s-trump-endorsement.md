@@ -1,4 +1,3 @@
-```markdown
 # The Unexpected Twist in Celebrity Endorsements: Squiggle's Surprising Support for Trump through NFTs
 
 In recent years, the world of politics has become increasingly intertwined with the entertainment industry. A new player has emerged and is shaping this dynamic intersection: NFTs, or non-fungible tokens. NFTs have captivated artists, celebrities, and collectors, offering a platform for creative expression and investment. This surge has recently taken an intriguing turn with the unexpected endorsement of Donald Trump by renowned digital artist Squiggle, using NFTs as a medium.
@@ -48,4 +47,3 @@ In the grand tapestry of political endorsements, Squiggle’s Trump NFT is a sta
 As NFTs continue to mature, we may well see more celebrities and public figures utilizing them to broadcast their political stances or societal messages. Whether Squiggle’s endorsement of Trump through [Liberty Unchained](https://www.example.com) will incite a trend or remain a singular instance in the timeline of celebrity endorsements is yet to be seen. However, what is certain is that this move has firmly cemented Squiggle’s place as a pioneering force within both the NFT and political discourse landscapes, continuing to provoke, challenge, and stimulate debate through the ever-evolving medium of digital art.
 
 For further reading on related topics, you can explore [Squiggle's Trump Endorsement](https://www.license-token.com/wiki/squiggle-s-trump-endorsement), [Trump's Involvement with Bored Ape Yacht Club](https://www.license-token.com/wiki/trump-s-involvement-with-bored-ape-yacht-club), [Trump's Meebits Acquisitions](https://www.license-token.com/wiki/trump-s-meebits-acquisitions), and [Trump NFTs and Open Source Technology](https://www.license-token.com/wiki/trump-nf-ts-and-open-source-technology).
-```

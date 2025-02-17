@@ -1,4 +1,3 @@
-```markdown
 # Deutsche Bank's Path to Sustainable Banking: A Case Study
 
 Deutsche Bank has been making significant strides towards sustainability, showcasing a broader movement within the financial sector toward environmentally and socially responsible banking practices. This piece explores the strategies and initiatives Deutsche Bank is using, the obstacles encountered, and the potential implications for the banking industry as a whole.
@@ -63,4 +62,3 @@ Deutsche Bank’s sustainability approach marks a shift in the financial sector 
 Through initiatives focusing on carbon reduction, sustainable finance, stakeholder engagement, and digital adoption, Deutsche Bank represents a model for aligning business growth with environmental responsibilities. As more banks take similar measures, sustainable banking could become the standard, ensuring an economy that balances prosperity with environmental care.
 
 For further information, explore [Deutsche Bank's Sustainability Framework](https://www.db.com/sustainability).
-```

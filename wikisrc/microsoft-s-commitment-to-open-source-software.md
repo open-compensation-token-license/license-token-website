@@ -1,4 +1,3 @@
-```markdown
 # Microsoft's Journey into Open Source
 
 Microsoft's transformation into a proponent of open source software marks a significant evolution in the tech industry. Here, we delve into the milestones and impacts of Microsoft's open source initiatives through key developments and future prospects.
@@ -46,4 +45,3 @@ Microsoft’s transformation has reshaped its identity and contributions to open
 ---
 
 For further reading on Microsoft's strategic open source revolution, explore [Satya Nadella’s insights](https://news.microsoft.com/on-the-issues/2020/03/10/satya-nadella-microsoft-open-source/).
-```

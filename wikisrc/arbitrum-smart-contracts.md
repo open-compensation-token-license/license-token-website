@@ -1,4 +1,3 @@
-```markdown
 # Arbitrum Smart Contracts: Revolutionizing the Blockchain Landscape
 
 Arbitrum, developed by [Offchain Labs](https://offchainlabs.com), is making significant strides in transforming the blockchain ecosystem by serving as a Layer 2 solution atop the Ethereum network. This advancement aims to address the pressing scalability challenges faced by Ethereum, thus facilitating a platform that's ideal for deploying efficient and cost-effective smart contracts.
@@ -48,4 +47,3 @@ Despite its potential, Arbitrum faces certain challenges:
 Arbitrum is pivotal in steering blockchain towards scalable and efficient smart contract execution. Continued progress will depend on adapting to evolving demands, strengthening collaborations, and engaging with the community to solidify its place in blockchain's growth narrative.
 
 For more information about Arbitrum and its developments, visit the [Arbitrum website](https://arbitrum.io/).
-```

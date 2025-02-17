@@ -1,4 +1,3 @@
-```markdown
 # Exploring Cyberwarfare with TON DNS: Opportunities and Risks
 
 Explore the complexities and implications of [TON DNS in cyberwarfare](https://theopen.network/) and its potential impact on cybersecurity through decentralized technology.
@@ -20,4 +19,3 @@ Discover the benefits and challenges of integrating TON DNS into cyber operation
 Discuss the potential for research and international cooperation to harness the power of decentralized systems while addressing the threats they might pose. For insights into the future of decentralized systems, see [the future of open source with blockchain integration](https://www.license-token.com/wiki/the-future-of-open-source-with-blockchain-integration).
 
 To read more about TON's role and future in digital security, visit the [official TON site](https://www.ton.org/).
-```

@@ -1,4 +1,3 @@
-```markdown
 # Arbitrum Liquidity: Navigating the Layer-2 Landscape in DeFi
 
 The rapid evolution of decentralized finance (DeFi) has highlighted the need for efficient and scalable blockchain solutions. Among these, Arbitrum stands out as a leading Layer-2 technology on the Ethereum network, excelling in improving transaction speed, reducing costs, and enhancing scalability. Liquidity within Arbitrum is a key driver of its adoption and utility in the decentralized ecosystem.
@@ -44,5 +43,3 @@ As [Ethereum transitions to Ethereum 2.0](https://ethereum.org/en/eth2/), the de
 Arbitrum's journey in liquidity innovation offers significant economic potential within DeFi. Its efficient infrastructure and liquidity focus are key as it continues to play a leading role in the decentralized financial landscape.
 
 For more insights on Arbitrum and its developments, explore the [Arbitrum portal](https://offchainlabs.com/) and keep up with [Ethereum 2.0 updates](https://ethereum.org/en/eth2/).
-
-```

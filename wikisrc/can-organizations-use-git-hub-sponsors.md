@@ -1,4 +1,3 @@
-```markdown
 # Leveraging GitHub Sponsors for Organizations
 
 GitHub Sponsors is a program designed to provide financial support to developers and organizations involved in open-source projects. This article discusses how organizations can utilize GitHub Sponsors, the benefits, setup process, and strategies to maximize success.
@@ -64,4 +63,3 @@ For additional guidance, refer to [how to promote GitHub Sponsors profile](https
 GitHub Sponsors is a strategic tool for organizations in open-source development, offering financial support and enhanced community engagement. By establishing a compelling sponsorship presence and actively engaging sponsors, organizations can significantly benefit from this platform. For more details on how to get started and succeed with GitHub Sponsors, visit the [GitHub Sponsors Program](https://github.com/sponsors) page.
 
 Explore more about [open-source project sponsorship tips](https://www.license-token.com/wiki/open-source-project-sponsorship-tips) and [open-source financial support](https://www.license-token.com/wiki/open-source-financial-support) to further enhance your understanding and implementation of GitHub Sponsors.
-```

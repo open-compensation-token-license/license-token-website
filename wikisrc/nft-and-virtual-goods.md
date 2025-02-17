@@ -1,4 +1,3 @@
-```markdown
 # The Disruptive Power of NFTs and Virtual Goods in Gaming
 
 *Introduction*
@@ -28,4 +27,3 @@ Expect growth in interoperability, player creativity, AR/VR integration, evolvin
 *Conclusion*
 
 NFTs and virtual goods are reshaping gaming, promising more immersive and equitable experiences. For further reading, explore [CoinDesk's Overview](https://www.coindesk.com/learn/what-are-nfts/) and [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2023-05-04-how-nfts-are-reshaping-the-game-industry).
-```

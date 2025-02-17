@@ -1,4 +1,3 @@
-```markdown
 # Walmart's Blockchain Revolution in Retail Supply Chain
 
 In recent years, Walmart has emerged as a leader in utilizing blockchain technology to enhance transparency and efficiency in its supply chain operations, marking a transformative step in the retail landscape.
@@ -56,4 +55,3 @@ Walmart plans to expand blockchain applications beyond food safety, potentially 
 Walmart's blockchain initiative stands as a benchmark for retail innovation, heralding a shift towards greater supply chain transparency and efficiency. As industries recognize blockchain's advantages, widespread adoption seems imminent, reshaping global supply chains for a more sustainable future.
 
 For more details, explore this comprehensive overview on [Walmart and Blockchain](https://www.ibm.com/blogs/blockchain/2018/09/at-walmart-blockchain-bolsters-food-safety/).
-```

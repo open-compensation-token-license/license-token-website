@@ -1,4 +1,3 @@
-```markdown
 # Understanding the Tax Implications of GitHub Sponsors
 
 ## Introduction
@@ -54,4 +53,3 @@ Seeking professional tax advice is encouraged to navigate potential liabilities.
 GitHub Sponsors enhances support for open-source projects but requires understanding of tax responsibilities. Accurate record-keeping, staying informed on tax laws, and professional advice ensure compliance and maximize benefits for a sustainable open-source ecosystem.
 
 *The information provided is general and does not constitute legal or tax advice. Consult a qualified professional for specific advice.*
-```

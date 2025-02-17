@@ -1,4 +1,3 @@
-```markdown
 # Revolutionizing Asset Management: Fidelity Investments’ Pioneering Use of Blockchain Technology
 
 ## Understanding Blockchain in Asset Management
@@ -37,4 +36,3 @@ Challenges like regulatory uncertainty and technological integration remain, but
 Fidelity Investments’ embrace of blockchain technology marks a transformative shift in asset management. Initiatives like [Fidelity Digital Assets](https://www.fidelitydigitalassets.com) showcase its commitment to innovation, setting a benchmark for the financial services industry and championing the potential of blockchain.
 
 As blockchain technology evolves, Fidelity's strategic actions will likely inspire other institutions aiming to reform their asset management practices. For further insights, explore [blockchain and finance](https://www.license-token.com/wiki/blockchain-in-finance).
-```

@@ -1,4 +1,3 @@
-```markdown
 # Unlocking Blockchain's Potential: Arbitrum Layer 2
 
 ## Introduction
@@ -36,4 +35,3 @@ The rise of Arbitrum marks a pivotal moment in overcoming blockchain scalability
 Arbitrum symbolizes a significant advancement in blockchain technology, providing a scalable and secure solution to Ethereum's weaknesses. By supporting a broader adoption of decentralized applications, Arbitrum holds the promise of redefining blockchain's role in technology and society.
 
 For more in-depth analysis and developments, visit the [Arbitrum official website](https://offchainlabs.com/).
-```

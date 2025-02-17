@@ -1,4 +1,3 @@
-```markdown
 # Open Source Capitalism in the Global South
 
 The [Heise interview with Thabang Mashologu from the Eclipse Foundation](https://www.heise.de/hintergrund/Open-Source-im-Globalen-Sueden-mehr-als-nur-ein-technisches-Werkzeug-10223042.html) highlights open source in the Global South as an opportunity with key challenges of financing and infrastructure. Open Source Capitalism could be a solution for the Global South, offering significant implications and opportunities, but also unique challenges stemming from economic, social, and technological contexts. Here's an exploration of how it might work:
@@ -83,4 +82,3 @@ Together, these opportunities could enable the [Global South to become more inde
 [Open Source Capitalism could act as a transformative force](https://www.license-token.com/wiki/octl-alternative-to-pure-open-source-capitalism) in the Global South, offering opportunities to create localized, community-driven solutions while integrating developers and businesses into global markets.
 
 However, it will require strong infrastructure development, legal and financial frameworks, and education programs to ensure these regions can fully participate without exploitation or exclusion. Efforts should focus on providing the necessary tools, knowledge, and incentives to empower the Global South's unique context, balancing community benefits with the profit motives inherent in open source capitalism.
-```

@@ -1,4 +1,3 @@
-```markdown
 # Navigating the Regulatory Labyrinth: The Future of NFT Regulation
 
 ## Introduction
@@ -48,4 +47,3 @@ Effective NFT regulation should focus on:
 Establishing robust NFT regulations is pivotal for sustainable growth and risk mitigation. With collaborative global efforts, NFTs can continue to innovate and enhance digital experiences responsibly. As this technological frontier evolves, balanced and effective regulatory frameworks will be key.
 
 For more insights into NFT regulations and the cryptocurrency landscape, explore resources from [CoinDesk](https://www.coindesk.com/), [CoinTelegraph](https://cointelegraph.com/), and [The Block](https://www.theblock.co/).
-```

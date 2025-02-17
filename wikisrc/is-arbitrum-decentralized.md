@@ -1,4 +1,3 @@
-```markdown
 # Is Arbitrum Decentralized? A Closer Look at Its Landscape
 
 Arbitrum has quickly gained attention as a leading Ethereum Layer 2 solution, designed to tackle Ethereum’s scalability and high transaction fees. As it continues to grow, questions about its level of decentralization are inevitable. This article seeks to unpack the complexities surrounding Arbitrum’s architecture, governance, and community engagement to explore its decentralization.
@@ -55,4 +54,3 @@ For those interested in seeing how Arbitrum evolves, follow updates and communit
 Arbitrum’s journey to full decentralization will likely influence other Layer 2 solutions, as well as Ethereum’s scalability roadmap. The project's trajectory and community engagement will be critical in defining its decentralized status.
 
 Explore more about related topics such as [Arbitrum and Open Source Scaling Solutions](https://www.license-token.com/wiki/arbitrum-and-open-source-scaling-solutions), [Arbitrum and Blockchain Interoperability](https://www.license-token.com/wiki/arbitrum-and-blockchain-interoperability), [Arbitrum and Ethereum Interoperability](https://www.license-token.com/wiki/arbitrum-and-ethereum-interoperability), and [Arbitrum and Decentralized Identity](https://www.license-token.com/wiki/arbitrum-and-decentralized-identity).
-```

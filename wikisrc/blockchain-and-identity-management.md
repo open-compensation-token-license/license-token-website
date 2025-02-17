@@ -1,4 +1,3 @@
-```markdown
 # Blockchain and Identity Management: Transforming Digital Identity in the Digital Age
 
 With the increasing reliance on digital transactions, managing digital identities has become crucial, especially as blockchain technology emerges as a game-changer. Here's an exploration into how blockchain could revolutionize identity management.
@@ -58,4 +57,3 @@ Transitioning to blockchain requires integration with existing systems and infra
 ## The Road Ahead
 
 Blockchain's potential to transform identity management depends on collaborative innovation and regulation. By advancing standardized protocols and fostering public trust, blockchain could redefine digital identity management. Explore more about this transformative potential with [Sovrin](https://sovrin.org/) and [IEEE's perspective](https://ieeexplore.ieee.org/document/8907435) on identity management with blockchain.
-```

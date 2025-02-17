@@ -1,4 +1,3 @@
-```markdown
 # Unlocking Opportunities with NFT Treasure Smart Contracts
 
 In the rapidly evolving technological landscape, non-fungible tokens (NFTs) have emerged as a groundbreaking paradigm, transforming digital ownership. As the NFT market matures, NFT Treasure smart contracts are capturing the imagination of developers and collectors, adding layers of gamification and interaction to digital collectibles.
@@ -46,4 +45,3 @@ Explore the potential of NFT Treasure smart contracts and discover what treasure
 
 - [Explore The Lost Scrolls](https://www.thelostscrolls.com)
 - [Discover Treasure Quest](https://www.treasurequestart.com)
-```

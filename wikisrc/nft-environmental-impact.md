@@ -1,4 +1,3 @@
-```markdown
 # NFTs and Their Environmental Impact: Unveiling the Carbon Footprint of Digital Assets
 
 ## Introduction
@@ -64,4 +63,3 @@ Transitioning to greener technologies requires overcoming technical and financia
 ## Conclusion
 
 The environmental impact of NFTs presents challenges in blockchain sustainability. While NFTs offer opportunities for digital ownership, they highlight the need for eco-friendly innovations. The move to energy-efficient blockchain models and industry collaborations promises a sustainable future for NFTs. A collective commitment from all stakeholders is essential for steering towards a greener horizon. For further reading on NFTs and their applications, visit [What Are NFTs](https://www.license-token.com/wiki/what-are-nf-ts).
-```

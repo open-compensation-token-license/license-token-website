@@ -1,4 +1,3 @@
-```markdown
 # Exploring Arbitrum and Ethereum's Interoperability
 
 As blockchain technology evolves, solutions like Arbitrum offer promising advancements in scalability without compromising on Ethereum's security and decentralization. Understanding the interoperability between Ethereum and Arbitrum is key to unlocking new possibilities for decentralized applications (dApps) and user experiences.
@@ -17,4 +16,3 @@ To dive deeper into the world of Ethereum and Arbitrum, consider these resources
 - [Arbitrum and Open Source Scaling Solutions](https://www.license-token.com/wiki/arbitrum-and-open-source-scaling-solutions): Discover how open-source solutions contribute to Arbitrum's scalability.
 
 As the blockchain landscape evolves, Arbitrum exemplifies the potential for seamless scalability and improved user experiences, setting the stage for broader blockchain adoption.
-```

@@ -1,4 +1,3 @@
-```markdown
 # Blockchain and Open Source: Fostering Innovation
 
 Blockchain technology is transforming industries, supported by the principles of open source. This combination offers solutions in various sectors, from finance to public services. Here's a look into this synergy and its impact on the digital world.
@@ -33,4 +32,3 @@ Open source and blockchain merge in various fields:
 The ongoing collaboration across borders is key to driving innovation. As blockchain and open source mature, their role in addressing global challenges will expand, ensuring a future emphasizing security, efficiency, and equity.
 
 For more insightful discussions on blockchain's growing influence, explore [Hyperledger's Ecosystem](https://www.hyperledger.org/community/technical-working-groups) and other related resources.
-```

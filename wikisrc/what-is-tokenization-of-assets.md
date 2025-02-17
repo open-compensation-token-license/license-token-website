@@ -1,4 +1,3 @@
-```markdown
 # Tokenization of Assets: Bridging the Physical and Digital Worlds
 
 Tokenization of assets is revolutionizing financial systems by converting rights to physical or intangible assets into digital tokens on a blockchain. This transformative technology offers liquidity, transparency, and inclusive investment opportunities, reshaping how we interact with various assets.
@@ -54,4 +53,3 @@ Tokenizing intellectual property simplifies rights monetization, enabling easier
 As technology and regulations evolve, tokenization is expected to integrate into traditional financial systems, offering a hybrid approach combining traditional and modern strengths. This shift will redefine asset management and democratize investments, fostering economic inclusivity and innovation.
 
 For more in-depth information, explore [this article on CoinDesk](https://www.coindesk.com/learn/what-is-asset-tokenization/) and [FinTech Magazine](https://www.fintechmagazine.com/financial-services-finserv/what-is-asset-tokenization-and-how-does-it-work).
-```

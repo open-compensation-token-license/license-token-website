@@ -1,4 +1,3 @@
-```markdown
 # Sponsor Open-Source Projects on GitHub: A Step-by-Step Guide
 
 Supporting open-source projects on GitHub is a great way to contribute to the tech community and ensure the sustainability of valuable projects. This guide will help you understand the benefits and process of sponsoring developers and their projects on GitHub.
@@ -38,4 +37,3 @@ Supporting open-source projects on GitHub is a great way to contribute to the te
 By following these steps and best practices, you can make a meaningful impact in the world of open source. Your contributions will help sustain and develop critical tech solutions.
 
 For more details, check out the [GitHub Sponsors FAQ](https://docs.github.com/en/sponsors) page.
-```

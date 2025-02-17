@@ -1,4 +1,3 @@
-```markdown
 ## Understanding Blockchain: The Mechanics Behind the Revolution
 
 ### [Introduction](#introduction)
@@ -62,4 +61,3 @@ Blockchain is revolutionizing data interaction through its decentralized and sec
 ---
 
 Discover more resources on blockchain [here](https://ethereum.org/en/what-is-ethereum/) and explore [sustainable blockchain practices](https://www.license-token.com/wiki/sustainable-blockchain-practices).
-```

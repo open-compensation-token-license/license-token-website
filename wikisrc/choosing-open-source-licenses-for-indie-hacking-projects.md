@@ -1,4 +1,3 @@
-```markdown
 # Navigating Open Source Licenses: A Guide for Indie Hackers
 
 Indie hacking projects often stand at the intersection of innovation and community contributions. The choice of an open source license significantly influences how your project can be utilized and evolved. Here's a comprehensive guide for indie hackers to understand and select appropriate licenses for their projects.
@@ -52,4 +51,3 @@ For additional guidance on funding and sustainability, consider exploring [Susta
 Selecting an open source license is key to shaping the future and influence of your project. By aligning your choice with project goals, community engagement, legal implications, and commercial prospects, you can chart a clear path for your project's success. Whether facilitating contribution, safeguarding innovations, or paving commercial avenues, your choice will frame how your project thrives within the ever-evolving open source domain.
 
 Stay apprised of ongoing developments in licensing to proactively manage challenges and seize opportunities, ensuring your indie hacking venture flourishes in a globally connected digital ecosystem. For more on managing risks, you might find [Risk Management Strategies](https://www.license-token.com/wiki/risk-management-strategies) useful.
-```

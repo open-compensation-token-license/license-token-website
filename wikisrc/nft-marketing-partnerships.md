@@ -1,4 +1,3 @@
-```markdown
 # For further insights into NFT marketing partnerships and strategies, explore these helpful resources:
 
 - [Understanding NFTs](https://www.coindesk.com/learn/2021/what-are-nfts/)
@@ -8,4 +7,3 @@
 - [NFT Marketing Trends](https://www.license-token.com/wiki/nft-marketing-trends)
 
 These articles provide a deeper understanding of the NFT ecosystem and how innovative marketing partnerships can play a pivotal role in driving success.
-```

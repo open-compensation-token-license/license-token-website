@@ -1,4 +1,3 @@
-```markdown
 # Open Source Funding for Scientific Research: Ushering in a New Era of Collaboration
 
 The landscape of scientific research is in constant flux, with an ever-increasing need for sustainable and diversified funding models. Traditional funding avenues, while vital, often present limitations that can hinder the pace and scope of scientific breakthroughs. The emergence of open source funding offers a transformative approach to address these challenges by democratizing access to resources, fostering greater collaboration among researchers, institutions, and the public, and cultivating a more inclusive and transparent research ecosystem. This paradigm shift has the potential to revolutionize how scientific research is conducted, funded, and disseminated, ultimately accelerating the pace of discovery and broadening its societal impact.
@@ -37,4 +36,3 @@ However, it is essential to acknowledge the challenges associated with this mode
 ## The Future of Research Funding: A Collaborative Horizon
 
 Open source funding holds immense promise for shaping the future of scientific research. Its success depends on the continued development of accessible and user-friendly platforms, as well as the willingness of researchers, institutions, and the public to embrace new paradigms of collaboration and transparency. As these models mature and gain wider adoption, they possess the transformative potential to reshape the research landscape, driving innovation, promoting inclusivity, and ensuring that the benefits of scientific knowledge are accessible to all. Gain further insights into developer earnings and financial sustainability in open source at [Open Source Developer Earnings](https://www.license-token.com/wiki/open-source-developer-earnings). By embracing open collaboration and exploring innovative funding models, the scientific community can unlock new possibilities and accelerate the pace of discovery for the benefit of all.
-```

@@ -1,4 +1,3 @@
-```markdown
 # Exploring Arbitrum and Validator Rewards: A Comprehensive Overview
 
 Delve into the workings of [Arbitrum](https://offchainlabs.com/), a leading layer-2 scaling solution for Ethereum that enhances efficiency and lowers costs. This article provides an in-depth analysis of Arbitrum, its rollup technology, and validator rewards.
@@ -62,4 +61,3 @@ Sustainable rewards require routine assessments and adjustments to align with ne
 Arbitrum is essential in addressing Ethereum's scalability and transaction cost issues, with validators playing a crucial role in its success. Understanding these dynamics is vital for enthusiasts, developers, and investors in the blockchain space. Arbitrum exemplifies progress in creating a scalable blockchain ecosystem.
 
 Explore Arbitrum further on [Offchain Labs' website](https://offchainlabs.com/).
-```

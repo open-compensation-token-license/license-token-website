@@ -1,4 +1,3 @@
-```markdown
 # Unlocking Creativity in the Digital Age: GetGems NFT for Creators
 
 GetGems NFT is setting a new standard in how creators interact with technology in the realm of digital assets. It provides innovative solutions for minting, selling, and managing NFTs, crafted specifically to empower creators worldwide. Explore the transformative potential and opportunities offered by [GetGems NFT](https://www.getgems.com).
@@ -31,4 +30,3 @@ The volatile nature of the NFT market presents challenges, yet the ongoing advan
 ## Conclusion
 
 GetGems NFT embodies the synergy between technology and creativity, providing a platform where creators can find limitless opportunities. Explore the possibilities with [GetGems NFT](https://www.getgems.com) and redefine your creative journey in the digital age.
-```

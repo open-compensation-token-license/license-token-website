@@ -1,4 +1,3 @@
-```markdown
 # Siemens: Embracing Blockchain for a Sustainable Future
 
 ## Key Areas of Focus
@@ -18,4 +17,3 @@
 ## Conclusion
 
 Siemens is a forerunner in employing blockchain to tackle sustainability challenges, aiming for a carbon-neutral future by 2030. For more on Siemens' sustainability initiatives, visit [Siemens Sustainability](https://new.siemens.com/global/en/company/sustainability.html).
-```

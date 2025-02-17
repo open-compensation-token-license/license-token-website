@@ -1,4 +1,3 @@
-```markdown
 # Accelerating Open Source with Gitcoin Bounties
 
 Gitcoin Bounties are transforming how open-source development is incentivized and sustained. By linking developers with projects in need of contributions, Gitcoin promotes economic reward systems over traditional volunteer models, thus fostering innovation in the open-source ecosystem. Learn more about [Gitcoin Bounties](https://gitcoin.co/) and how they support open-source development.
@@ -34,4 +33,3 @@ Explore how Gitcoin Bounties can transform your open-source journey and contribu
 ---
 
 For further engagement, visit [Gitcoin](https://gitcoin.co/) to begin collaborating on or posting open-source bounty projects.
-```

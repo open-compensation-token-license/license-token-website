@@ -1,4 +1,3 @@
-```markdown
 # Zora's NFT Marketplace and Open Source Compliance
 
 In the world of digital ownership driven by non-fungible tokens (NFTs), Zora distinguishes itself with a strong commitment to open-source principles and decentralization. This [article](https://www.license-token.com/wiki/zora-s-nft-marketplace-and-open-source-compliance) explores Zora's marketplace, highlighting its balance of innovation, legal adherence, and cultural impact through open-source practices.
@@ -25,4 +24,3 @@ In the world of digital ownership driven by non-fungible tokens (NFTs), Zora dis
 
 ## Learn More
 For a deeper dive into Zora’s innovative approach to NFTs and open-source compliance, explore the complete [article](https://www.license-token.com/wiki/zora-s-nft-marketplace-and-open-source-compliance) on Zora's practices and potential in shaping the future of digital marketplaces.
-```

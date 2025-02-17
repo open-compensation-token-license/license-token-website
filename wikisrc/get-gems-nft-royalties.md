@@ -1,4 +1,3 @@
-```markdown
 # GetGems NFT Royalties: Revolutionizing Digital Ownership and Artist Compensation
 
 In the evolving landscape of digital art and non-fungible tokens (NFTs), GetGems stands out with its innovative approach to royalty structures, empowering artists with sustainable income streams and redefining the notion of digital ownership.
@@ -30,4 +29,3 @@ By enhancing its royalty infrastructure and exploring future technologies like A
 ## Conclusion
 
 The royalty model championed by [GetGems](https://www.getgems.com) showcases the transformative impact of blockchain on creator compensation. As the NFT space evolves, platforms like GetGems will be instrumental in fostering a fair, transparent digital art market, cementing royalty payments as a cornerstone of sustainable digital creativity and equity.
-```

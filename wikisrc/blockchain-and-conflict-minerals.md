@@ -1,4 +1,3 @@
-```markdown
 # Blockchain and Conflict Minerals: A Path to Ethical Supply Chains
 
 In recent years, demand for transparency in global supply chains, particularly concerning conflict minerals, has intensified. Blockchain technology offers promising solutions for ethical sourcing and corporate accountability.
@@ -35,4 +34,3 @@ Blockchain represents a shift toward sustainable and transparent supply chains, 
 ## Conclusion
 
 To truly leverage blockchain's potential in ethical sourcing, collaboration across sectors and commitment to infrastructure and regulation are essential. As blockchain matures, its role in promoting sustainable supply chains and human rights is poised to grow. For more detailed insights, you can explore various [blockchain initiatives](https://www.forbes.com/what-is-blockchain/?sh=2e65f08e1917) and their implications on global supply chains.
-```

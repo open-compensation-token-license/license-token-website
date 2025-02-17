@@ -1,4 +1,3 @@
-```markdown
 # Blockchain Integration in Oracle's Cloud Ecosystem
 
 ## Introduction
@@ -64,4 +63,3 @@ The integration of blockchain into Oracle's cloud ecosystem represents a promisi
 With Oracle's support, businesses can leverage blockchain's potential to drive innovation, efficiency, and growth in the years to come.
 
 For more details, you can explore Oracle's official [Blockchain Cloud Service](https://www.oracle.com/cloud/blockchain/blockchain-cloud-service/).
-```

@@ -1,4 +1,3 @@
-```markdown
 # Catalyzing Innovation: A Deep Dive into Arbitrum's Project Grants Program
 
 **Introduction**
@@ -52,4 +51,3 @@ Despite successes, challenges remain, such as maintaining alignment with goals a
 **Conclusion**
 
 The Arbitrum Project Grants program is a key driver of innovation in the layer 2 blockchain space, empowering developers and fostering a vibrant ecosystem. As it evolves, the program is poised to significantly influence Ethereum scalability and blockchain technology's future. For more information, visit the [Arbitrum Grants page](https://offchainlabs.com/arbitrum-grants).
-```

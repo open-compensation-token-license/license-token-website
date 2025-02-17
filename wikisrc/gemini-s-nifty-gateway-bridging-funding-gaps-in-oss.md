@@ -1,4 +1,3 @@
-```markdown
 # Bridging Open Source Funding with Gemini's Nifty Gateway
 
 ## Introduction
@@ -36,4 +35,3 @@ OSS powers major tech companies and drives innovation through community-driven, 
 ## Conclusion
 
 Gemini's Nifty Gateway provides a promising path to alleviate funding struggles in open source projects by merging the NFT innovation with OSS ethos. While challenges exist, a collaborative approach can ensure OSS remains a financially viable and vibrant space for developers worldwide.
-```

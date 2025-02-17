@@ -1,4 +1,3 @@
-```markdown
 # Open Source Funding for Tech Projects
 
 In recent years, open source software has gained immense popularity due to its collaborative nature and the diverse range of applications it supports. However, developing and maintaining such projects can be resource-intensive, often requiring financial support to sustain their growth and functionality. This burgeoning need has led to increased interest in innovative funding models aimed at supporting these vital open source tech projects.
@@ -32,4 +31,3 @@ Sustaining the open source ecosystem requires a multifaceted approach. Fostering
 Moreover, raising awareness about the importance of financially supporting open source projects can shift the public perception and encourage more users and companies to contribute. Understanding [open source financial support](https://www.license-token.com/wiki/open-source-financial-support) is crucial in this context.
 
 In conclusion, open source funding is vital to the innovation and sustainability of tech projects. By embracing a variety of funding models and addressing associated challenges, the open source community can thrive, continuing to drive technological advancement and foster global collaboration. For more information on open source funding, you can explore resources like [GitHub Sponsors](https://github.com/sponsors) and [Snowdrift.coop](https://snowdrift.coop/).
-```

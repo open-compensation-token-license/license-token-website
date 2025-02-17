@@ -1,4 +1,3 @@
-```markdown
 # Revolutionizing Open Source Licensing with Smart Contracts
 
 ## Introduction
@@ -73,4 +72,3 @@ Incorporating smart contracts in open source licensing can address longstanding 
 Explore further with [GitHub and Smart Contracts](https://github.com/) or dive into the [OpenChain Project](https://www.openchainproject.org/) for practical insights.
 
 For additional information on open source licensing challenges, visit [Open Source Licensing Challenges and Solutions](https://www.license-token.com/wiki/open-source-licensing-challenges-and-solutions).
-```

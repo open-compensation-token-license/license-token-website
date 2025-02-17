@@ -1,4 +1,3 @@
-```markdown
 # Donald Trump's Foray into the Metaverse: The Meebits Acquisition
 
 Explore the surprising turn as [Donald Trump enters the NFT space](https://www.theverge.com/2021/5/3/22417134/larva-labs-meebits-nft-ethereum-auction-cryptopunks) with Meebits, analyzing the impact on digital ownership and future trends.
@@ -28,4 +27,3 @@ Understand the broader implications for the NFT market and metaverse development
 Consider how Trump's engagement might influence the trajectory of [NFT collecting and digital ownership](https://www.forbes.com/sites/forbestechcouncil/2021/07/27/nfts-the-future-of-digital-ownership/?sh=60f8e2337f67) in the tech-driven world. The future of NFTs may also be shaped by [blockchain technology](https://www.license-token.com/wiki/what-is-blockchain) and its evolving applications.
 
 For more on these intriguing developments, delve into the links provided, showcasing the evolving landscape of NFTs and their impact on digital and cultural spaces.
-```

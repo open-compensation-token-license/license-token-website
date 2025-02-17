@@ -1,4 +1,3 @@
-```markdown
 # Open Source Project Sponsorship Benefits
 
 Sponsoring open-source projects is a growing trend among companies, individuals, and organizations. Open-source software powers a significant portion of the modern digital infrastructure, from operating systems and development tools to web platforms and cloud technologies. By sponsoring these projects, organizations can reap several direct and indirect benefits, creating a win-win relationship for both sponsors and project maintainers.
@@ -28,4 +27,3 @@ Open-source sponsorship supports inclusivity, community-driven collaboration, an
 Sponsoring open-source projects is a powerful way to inspire growth in the tech community while advancing your organizational goals. Whether it's securing your technology stack, amplifying your brand presence, or fostering relationships with developers, the benefits are undeniable. By contributing to the open-source ecosystem, sponsors play a critical role in sustaining innovation, ensuring long-term success, and building a robust digital future for everyone.
 
 To learn more about how to get started, visit [GitHub Sponsors](https://github.com/sponsors) or explore [Open Collective](https://opencollective.com/) as a platform for supporting open source. For further reading, consider [open-source project sponsorship opportunities](https://www.license-token.com/wiki/open-source-project-sponsorship-opportunities). Additionally, explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) and understand the [open-source project sponsorship impact](https://www.license-token.com/wiki/open-source-project-sponsorship-impact) to maximize your contributions.
-```

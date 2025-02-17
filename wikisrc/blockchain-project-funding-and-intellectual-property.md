@@ -1,4 +1,3 @@
-```markdown
 # Navigating Blockchain Project Funding and Intellectual Property: A Legal Perspective
 
 ## Introduction
@@ -64,4 +63,3 @@ Funding is crucial for blockchain projects with numerous methods available:
 ## Conclusion
 
 Understanding the legal landscape of blockchain funding and IP is key to protecting innovations and securing investments. Through awareness of regulatory nuances and cooperative efforts between innovators and legal entities, a compliant and thriving blockchain ecosystem can be realized. For further reading, you may refer to [WIPO](https://www.wipo.int/) and [USPTO](https://www.uspto.gov/) resources.
-```

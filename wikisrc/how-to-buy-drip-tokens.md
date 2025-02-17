@@ -1,4 +1,3 @@
-```markdown
 # How to Buy Drip Tokens: A Comprehensive Guide
 
 As decentralized finance (DeFi) continues to expand, platforms like [Drip Network](https://dripnetwork.io/) offer innovative investment opportunities with potential for significant returns. This guide walks you through purchasing Drip tokens (DRIP) on the Binance Smart Chain.
@@ -49,4 +48,3 @@ Explore staking programs, join the referral program, or engage with the Drip com
 Buying DRIP involves several steps but is manageable with detailed guidance. DRIP tokens offer an investment route with unique benefits. Always prioritize research and security in DeFi investments.
 
 Learn more about [Drip Network](https://dripnetwork.io/) for updates and community engagement. For further insights into the DeFi ecosystem, explore [Decentralized Finance (DeFi) and NFTs](https://www.license-token.com/wiki/decentralized-finance-de-fi-and-nf-ts).
-```

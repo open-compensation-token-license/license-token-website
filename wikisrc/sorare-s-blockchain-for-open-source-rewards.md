@@ -1,4 +1,3 @@
-```markdown
 # Sorare's Blockchain for Open Source Rewards: Revolutionizing Digital Collectibles
 
 ## Introduction
@@ -59,4 +58,3 @@ Sorare's success inspires game developers to rethink player engagement strategie
 Sorare's integration of blockchain technology for open source rewards represents a significant leap in digital collectibles and the gaming industry. By championing transparency, ownership, and community-driven rewards, Sorare is transforming the gaming landscape and paving the way for a more inclusive digital future.
 
 For more information on Sorare, visit their [official website](https://sorare.com).
-```

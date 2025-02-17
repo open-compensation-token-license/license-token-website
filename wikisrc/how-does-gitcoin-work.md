@@ -1,4 +1,3 @@
-```markdown
 # Understanding Gitcoin: Bridging Open-Source and Funding
 
 Gitcoin is a pioneering platform that connects developers with funding opportunities for open-source projects. By combining innovative models like quadratic funding with a vibrant ecosystem of bounties, grants, and hackathons, Gitcoin empowers contributors and incentivizes open-source development. To learn more about the broader implications of blockchain in open-source, you can explore [blockchain and open-source licensing](https://www.license-token.com/wiki/blockchain-and-open-source-licensing).
@@ -32,4 +31,3 @@ Gitcoin revolutionizes the open-source landscape by merging funding with develop
 For more details, visit [Gitcoin's Official Website](https://gitcoin.co/).
 
 For additional resources on open-source funding, you can explore [innovative funding for open-source projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects) and [open-source project sponsorship platforms](https://www.license-token.com/wiki/open-source-project-sponsorship-platforms).
-```

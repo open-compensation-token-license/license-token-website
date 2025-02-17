@@ -1,4 +1,3 @@
-```markdown
 # Blockchain and Academic Credentials: Revolutionizing the Future of Education
 
 Blockchain technology is redefining various sectors, and education is no exception. The potential of blockchain to improve transparency, security, and efficiency in managing academic credentials heralds a new era for the education sector.
@@ -34,4 +33,3 @@ Blockchain holds promise for transforming the landscape of academic credentials,
 For more insights on blockchain's influence in education, explore sources like the [European Commission](https://ec.europa.eu/info/education/) and regional initiatives in [Asia](https://www.smarteducation.org/).
 
 As blockchain technology continues to evolve, it represents a pivotal opportunity to redefine academic credentialing in the 21st century.
-```

@@ -1,4 +1,3 @@
-```markdown
 # Understanding Arbitrum Transaction Fees: A Deep Dive into the Next-Gen Layer 2 Solution
 
 For more detailed information on Arbitrum and its impact on Ethereum's ecosystem, you can explore the following resources:
@@ -18,4 +17,3 @@ These resources provide insights into different aspects of Layer 2 solutions and
 - [Gods Unchained on Arbitrum](https://www.license-token.com/wiki/gods-unchained-on-arbitrum)
 
 These articles further explore the integration of NFTs and blockchain technology, highlighting the innovative applications and challenges within the ecosystem.
-```

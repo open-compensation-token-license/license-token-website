@@ -1,4 +1,3 @@
-```markdown
 # The Intersection of Cryptocurrency and Political Narratives in NFTs
 
 With the rapid expansion of the Non-Fungible Tokens (NFTs) market, projects such as [Bitcoin Puppets](https://www.coindesk.com/) and Donald Trump's digital art are creating new intersections between digital art, cryptocurrency, and politics. This landscape offers unique insights into how NFTs can serve as powerful tools for political expression and digital ownership.
@@ -30,4 +29,3 @@ For a deeper dive into the evolving role of NFTs in art and politics, [this reso
 ---
 
 These projects illustrate the dynamic and controversial nature of NFTs, reflecting on the artistic, economic, and political dimensions that define the current digital landscape. To explore further, consider the [intersection of NFTs and digital ownership](https://www.license-token.com/wiki/nf-ts-and-digital-ownership).
-```

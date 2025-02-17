@@ -1,4 +1,3 @@
-```markdown
 # Donald Trump and the Open Source Paradigm: An Analytical Overview
 
 ## Introduction
@@ -30,4 +29,3 @@ From a business efficiency standpoint, Trump's perspective aligns with open sour
 While Donald Trump hasn't explicitly focused on open source, analysis of his broader technology and economic policies provides valuable insights. Open source aligns with his emphasis on efficiency and deregulation but may face challenges from his administration's priorities on national security and intellectual property protection. In essence, Trump's stance on open source would likely be pragmatic, assessing the benefits of cost efficiency and innovation against security and economic nationalism concerns. As open source continues to intertwine with critical infrastructure, understanding its place in policy frameworks remains essential for ensuring its collaborative potential aligns with national goals.
 
 For more information on open source topics, visit the [Open Source Initiative](https://opensource.org/).
-```

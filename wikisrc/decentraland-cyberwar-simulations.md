@@ -1,4 +1,3 @@
-```markdown
 # Exploring Decentraland: Cyberwar Simulations Transforming Cybersecurity Training
 
 Decentraland, a decentralized virtual world on the [Ethereum blockchain](https://ethereum.org/en/), is redefining how we approach cybersecurity training through innovative cyberwar simulations. These exercises offer immersive and realistic experiences for testing and enhancing cybersecurity strategies in a dynamic environment.
@@ -31,4 +30,3 @@ Cyberwar simulations in Decentraland are valuable for educational institutions a
 As the capabilities of virtual worlds expand, Decentraland is at the forefront of merging gaming and practical training applications. These simulations promise to reshape cybersecurity training, enabling innovative, collaborative learning experiences globally and preparing professionals for evolving threat landscapes.
 
 Discover more about how Decentraland's cyberwar simulations are setting new standards in [cybersecurity education](https://www.cybersecurityeducation.org/), offering transformative digital training experiences. For further reading on related topics, explore [NFTs in Cyberwar Scenarios Using Open Source](https://www.license-token.com/wiki/nf-ts-in-cyberwar-scenarios-using-open-source) and [Open Source Tools in Cyber Warfare](https://www.license-token.com/wiki/open-source-tools-in-cyber-warfare).
-```

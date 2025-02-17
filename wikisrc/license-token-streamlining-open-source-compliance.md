@@ -1,4 +1,3 @@
-```markdown
 # License-Token: Streamlining Open Source Compliance
 
 In the realm of software development, **open-source software (OSS)** insists rules while propelling innovation. The complex compliance landscape challenges developers with over **200 types of open-source licenses**, such as **MIT**, **Apache 2.0**, and the **GNU General Public License (GPL)**, adding layers of legal responsibility to projects. 
@@ -45,4 +44,3 @@ License-Token could lead innovations like [machine learning to resolve conflicts
 License-Token transforms compliance from a cumbersome obligation into an automated advantage, vital as businesses increasingly rely on OSS. Embracing such technological advances is critical to balancing software development and legal compliance.
 
 Explore more about [open-source licensing](https://opensource.org/osd) and how your organization can benefit from adopting License-Token for compliance. For further insights, check out [open-source software compliance](https://www.license-token.com/wiki/open-source-software-compliance-sap) and [sustainability of open source through tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization).
-```

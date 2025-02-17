@@ -1,4 +1,3 @@
-```markdown
 # Understanding Arbitrum Gas Fees: An In-depth Analysis
 
 The progression in blockchain technology has led to innovative solutions addressing the scalability and high transaction cost issues present in platforms like Ethereum. Among these is [Arbitrum](https://offchainlabs.com/arbitrum), a Layer 2 scaling solution that significantly lowers gas fees and enhances transaction speeds.
@@ -36,4 +35,3 @@ As Ethereum advances towards updates like Ethereum 2.0, Arbitrum's role in optim
 Arbitrum exemplifies a significant shift in blockchain scalability strategies, offering efficiencies and cost reductions crucial for innovation and greater adoption. Its trajectory continues to evolve, promising ongoing contributions to the blockchain landscape.
 
 For further insights into blockchain advancements, keep updated with [Ethereum's official blog](https://blog.ethereum.org/).
-```

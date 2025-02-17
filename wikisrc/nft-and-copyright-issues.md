@@ -1,4 +1,3 @@
-```markdown
 # Navigating the Murky Waters of NFTs and Copyright: Legal Challenges and Considerations
 
 ## Understanding NFTs
@@ -48,4 +47,3 @@ The fragmented NFT ecosystem presents challenges for traditional collective mana
 ## Conclusion
 
 The discussions and works ongoing between legal experts, creators, platforms, and regulators are essential. Staying informed about legal developments helps navigate NFTs' challenging yet promising landscape. [Stay updated on NFTs](https://www.theverge.com/nft).
-```

@@ -1,4 +1,3 @@
-```markdown
 # Navigating the Security Landscape of Opulus NFTs
 
 ## Introduction
@@ -42,4 +41,3 @@ The security landscape evolves continuously. Opulus explores post-quantum crypto
 Opulus offers unique financial opportunities to artists and investors but with innovation comes security responsibility. By embracing a comprehensive security strategy, Opulus provides a secure environment, striving to maintain user trust and foster a thriving NFT ecosystem. Opulus's commitment to security and compliance will be crucial for its long-term success. 
 
 For more information, visit the official [Opulus website](https://opulus.io).
-```

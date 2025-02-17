@@ -1,4 +1,3 @@
-```markdown
 # Revolutionizing Blockchain Project Funding Through DAOs
 
 In the realm of decentralized finance, [Decentralized Autonomous Organizations (DAOs)](https://ethereum.org/en/dao/) represent a paradigm shift in how blockchain projects are structured and funded. This innovative approach prioritizes decentralization, transparency, and global participation, overcoming many limitations of traditional funding mechanisms.
@@ -48,4 +47,3 @@ DAOs represent a groundbreaking approach to funding blockchain projects, exempli
 ---
 
 Interested in blockchain and DAOs? Explore more on this innovative governance model [here](https://ethereum.org/en/learn/).
-```

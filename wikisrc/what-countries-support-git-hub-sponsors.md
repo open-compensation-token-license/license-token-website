@@ -1,4 +1,3 @@
-```markdown
 # Exploring GitHub Sponsors: Countries That Support the Platform
 
 [GitHub Sponsors](https://github.com/sponsors), launched in May 2019, is a platform that enables financial support for developers and open-source contributors, revolutionizing sustainability and enhancement for open-source projects. Initially available only in the United States, it has expanded to several countries, allowing broader participation. For more insights on how GitHub Sponsors works, you can explore [this article](https://www.license-token.com/wiki/how-does-git-hub-sponsors-work).
@@ -41,4 +40,3 @@ GitHub continues to navigate challenges like payment processing and geographical
 For more information on eligibility and participation, visit [GitHub Sponsors](https://github.com/sponsors). Additionally, explore the [countries that support GitHub Sponsors](https://www.license-token.com/wiki/what-countries-support-git-hub-sponsors) for a comprehensive list.
 
 To understand more about the broader implications of blockchain in open-source projects, consider reading about [blockchain for open-source funding](https://www.license-token.com/wiki/blockchain-for-open-source-funding).
-```

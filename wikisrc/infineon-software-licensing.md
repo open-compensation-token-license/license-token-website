@@ -1,4 +1,3 @@
-```markdown
 # Understanding Infineon's Software Licensing: A Comprehensive Overview
 
 ## Introduction
@@ -44,4 +43,3 @@ Blockchain enhances processes with immutable record-keeping and smart contracts.
 ## Conclusion
 
 Infineon's licensing approach combines innovation, flexibility, and security. By offering varied licensing options, Infineon meets diverse needs, adapting to technological advances and leading in semiconductor innovation. Understanding these strategies is essential for partners leveraging Infineon’s technology.
-```

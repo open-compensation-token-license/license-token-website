@@ -1,4 +1,3 @@
-```markdown
 # The Arbitrum Airdrop: Pioneering the Path of Decentralized Governance
 
 The Arbitrum airdrop stands as a significant event in the evolution of blockchain technology, particularly in Layer 2 solutions and decentralized governance. This landmark initiative by [Offchain Labs](https://offchainlabs.com/), the team behind Arbitrum, represents a compelling case study in the strategic use of airdrops for community engagement and governance decentralization within the crypto ecosystem.
@@ -26,4 +25,3 @@ Offchain Labs plans to build on this momentum, with continued development and in
 For additional insights, explore these [breaking updates](https://cointelegraph.com/tags/arbitrum-airdrop) and [detailed analysis](https://www.coindesk.com/learn/arbitrum-airdrop-analysis/).
 
 The Arbitrum airdrop exemplifies strategic token distribution's power in furthering decentralization and fostering active community involvement, a narrative that will continue to shape the future of blockchain governance.
-```

@@ -1,4 +1,3 @@
-```markdown
 # NFTs and Copyright: Navigating Ownership and Intellectual Property in the Digital Age
 
 The rise of [non-fungible tokens (NFTs)](https://www.investopedia.com/non-fungible-tokens-nft-5115211), powered by blockchain technology, has transformed how digital assets are traded and understood in terms of ownership. However, this innovation also introduces complex challenges, particularly around copyright law. Understanding the interplay between NFTs and copyright is crucial for stakeholders navigating this evolving landscape.
@@ -46,4 +45,3 @@ Several challenges arise in traditional copyright protection due to NFTs:
 The growing relevance of NFTs demands adaptive legal frameworks. Developing coherent industry standards and legal precedents will support balancing innovation with intellectual property protection. Collaboration among stakeholders is key to defining NFT's future in copyright. For further exploration, see [NFT and Intellectual Property](https://www.license-token.com/wiki/nft-and-intellectual-property).
 
 Further resources and discussions on NFTs and copyright can be explored in detailed guides, such as [this one by Harvard Law](https://cyber.harvard.edu/story/2021-03/new-technologies-and-copyright-nfts).
-```

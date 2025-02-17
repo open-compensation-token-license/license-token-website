@@ -1,4 +1,3 @@
-```markdown
 # Exploring GitHub Sponsors: Supporting Open Source Sustainably
 
 [GitHub Sponsors](https://github.com/sponsors) is an innovative program launched by GitHub in May 2019. Its primary aim is to support the open-source community by enabling developers and companies to financially back open-source projects and their maintainers. Below is a comprehensive overview of how GitHub Sponsors operates and its significance.
@@ -60,4 +59,3 @@ However, consider challenges such as:
 ## Conclusion
 
 GitHub Sponsors is essential for sustaining and nurturing the open-source ecosystem. Through learning its workings, developers and sponsors can significantly impact open-source innovation worldwide, ensuring these vital projects thrive. For more detailed information or to participate, visit the [GitHub Sponsors page](https://github.com/sponsors). Additionally, explore [how to promote GitHub Sponsors profile](https://www.license-token.com/wiki/how-to-promote-git-hub-sponsors-profile) for effective strategies.
-```

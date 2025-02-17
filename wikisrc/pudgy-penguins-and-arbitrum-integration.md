@@ -1,5 +1,3 @@
-```markdown
 # For more information on Pudgy Penguins, you can visit their official [Twitter page](https://twitter.com/pudgypenguins) and [website](https://pudgypenguins.com). Learn more about Arbitrum by visiting their [official site](https://offchainlabs.com) or their [Twitter page](https://twitter.com/arbitrum).
 
 Explore the integration of [Pudgy Penguins and Arbitrum](https://www.license-token.com/wiki/pudgy-penguins-and-arbitrum-integration) to understand the synergy between these platforms. Discover the [role of NFTs in open source rewards](https://www.license-token.com/wiki/the-role-of-nf-ts-in-open-source-rewards) and how they contribute to the ecosystem. Delve into the [sustainability of open source through tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization) to see how blockchain technology is being utilized. For a broader perspective, check out [what are NFTs](https://www.license-token.com/wiki/what-are-nf-ts) and their value proposition. Lastly, learn about [NFT marketing](https://www.license-token.com/wiki/what-is-nft-marketing) and its impact on digital assets.
-```

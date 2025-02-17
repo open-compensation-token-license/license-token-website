@@ -1,4 +1,3 @@
-```markdown
 # Understanding Blockchain Scalability: Challenges and Solutions
 
 ---
@@ -77,4 +76,3 @@ As blockchain continues to permeate across various sectors, addressing scalabili
 5. Wood, G. (2016). Polkadot: Vision for a Heterogeneous Multi-chain Framework. [polkadot.network/PolkaDotPaper.pdf](https://polkadot.network/PolkaDotPaper.pdf).
 
 These resources provide further insights into blockchain scalability, offering foundational and advanced perspectives on overcoming the hurdles faced by this remarkable technology.
-```

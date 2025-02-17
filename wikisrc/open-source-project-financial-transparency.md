@@ -1,4 +1,3 @@
-```markdown
 # Open Source Project Financial Transparency
 
 Open source projects have become an integral part of the software development landscape, with many relying on these projects for their core functionality. However, one aspect that is often overlooked is financial transparency within these projects. In this article, we will delve into the world of open source project financial transparency, exploring its importance, benefits, and how it can be achieved.
@@ -50,4 +49,3 @@ Several open source projects have successfully implemented financial transparenc
 In conclusion, financial transparency is essential for open source projects to build trust with their community, sponsors, and stakeholders. By being transparent about their financial dealings, open source projects can demonstrate their commitment to accountability and good governance. Projects can achieve financial transparency by utilizing transparent accounting systems, publishing regular financial reports, disclosing funding sources, and establishing a transparent budgeting process. For further exploration, consider reading about [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-open-source) and [open source project financial strategies](https://www.license-token.com/wiki/open-source-project-financial-strategies).
 
 By promoting financial transparency, we can create a healthier and more sustainable open source ecosystem that benefits everyone involved.
-```

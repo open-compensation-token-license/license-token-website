@@ -1,4 +1,3 @@
-```markdown
 # Unlocking the Potential of NFT Treasure Referral Codes
 
 ## Introduction to NFTs
@@ -50,4 +49,3 @@ Explore the benefits of NFT Treasures by visiting their [official site](https://
 The NFT Treasure referral program empowers users to participate actively in the growing NFT ecosystem. By leveraging this system, users can gain rewards while fostering the vibrant NFT community. As digital asset ownership evolves, platforms like NFT Treasure play a critical role in this transformation. For more information and to start using your referral code, visit [NFT Treasure](https://example.com/nft-treasure-signup).
 
 For a deeper dive into the types of NFTs available on NFT Treasure, check out [this article](https://www.license-token.com/wiki/nft-treasure-nft-types).
-```

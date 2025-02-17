@@ -1,4 +1,3 @@
-```markdown
 # Open Source Funding for Community Projects: Empowering Innovation and Collaboration
 
 In recent years, open source projects have become a cornerstone of technological innovation and collaboration. They allow developers around the world to share code, ideas, and resources, facilitating a communal effort to solve complex challenges. However, maintaining and developing these open source projects often require funding—a necessity that has prompted a new wave of creative funding mechanisms aimed at sustaining and nurturing these community-centric endeavors.
@@ -32,4 +31,3 @@ The future of open source funding holds promising possibilities as the community
 For more information or to learn how to contribute, visit [Open Source Collective](https://opencollective.com) and [GitHub Sponsors](https://github.com/sponsors) to explore active projects and how you can make a difference.
 
 By fostering a healthy ecosystem of funding for open source community projects, we pave the way for a more collaborative, innovative, and inclusive technological future. For a comprehensive guide on funding, see [open-source funding guide](https://www.license-token.com/wiki/open-source-funding-guide).
-```

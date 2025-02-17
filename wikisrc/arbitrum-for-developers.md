@@ -1,4 +1,3 @@
-```markdown
 # Unlocking Blockchain Innovation with Arbitrum: A Developer's Guide
 
 Arbitrum, a pioneering layer 2 solution, offers the tools and framework to meet developer needs for scalability, efficiency, and cost-effectiveness in Ethereum-based applications. This guide takes a deep dive into what makes Arbitrum an optimal choice for decentralized app (dApp) development and how you can successfully integrate it into your projects.
@@ -60,4 +59,3 @@ For more information on related topics, you might find these articles useful:
 - Discover the potential of [Gods Unchained on Arbitrum](https://www.license-token.com/wiki/gods-unchained-on-arbitrum).
 - Understand the role of [Liberty Cats (LCAT) on Arbitrum](https://www.license-token.com/wiki/liberty-cats-lcat-on-arbitrum).
 - Investigate [Beeple Genesis on Arbitrum](https://www.license-token.com/wiki/beeple-genesis-on-arbitrum).
-```

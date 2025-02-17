@@ -1,4 +1,3 @@
-```markdown
 # [**Blockchain and Data Sovereignty: Redefining Ownership in the Digital Age**](#)
 
 ## Understanding Blockchain Technology
@@ -32,4 +31,3 @@ Countries implement laws like the [GDPR](https://gdpr.eu/) to control data withi
 ## Conclusion
 
 Blockchain can redefine data sovereignty, but challenges such as scalability, privacy, and regulation must be addressed. Learn more about [data sovereignty](https://www.cio.com/article/3222375/what-is-data-sovereignty.html) and explore the [sustainability of open source through tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization).
-```

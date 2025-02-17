@@ -1,4 +1,3 @@
-```markdown
 # Revolutionizing Food Safety with Blockchain Technology
 
 In a world where the journey from farm to fork is increasingly complex, blockchain technology emerges as a beacon of transparency and traceability. By enhancing food safety, blockchain promises to reshape the global food supply chain.
@@ -26,4 +25,3 @@ While promising, blockchain faces integration, standardization, scalability, and
 Explore more about the future and challenges of blockchain in the [Journal of Food Science and Technology](https://link.springer.com/article/10.1007/s13197-021-05084-6).
 
 The promise of blockchain is significant—as industries and technologies evolve, its role in ensuring the safety and integrity of our food will likely widen, paving the way for a more transparent and safer food system globally.
-```

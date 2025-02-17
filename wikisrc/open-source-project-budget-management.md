@@ -1,4 +1,3 @@
-```markdown
 # Open Source Project Budget Management
 
 **Open Source Project Budget Management** involves organizing, allocating, and monitoring financial resources to sustain and grow open source initiatives. Proper budget management is essential to ensure project sustainability, attract contributors, and maintain transparency. Here’s an overview:
@@ -55,4 +54,3 @@
 ---
 
 With well-managed financial resources and a focus on sustainability, open source projects can continue to thrive while maintaining their core ethos of collaboration and transparency. For more insights on financial strategies, explore [open source project financial strategies](https://www.license-token.com/wiki/open-source-project-financial-strategies).
-```

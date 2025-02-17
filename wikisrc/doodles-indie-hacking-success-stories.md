@@ -1,4 +1,3 @@
-```markdown
 # Doodles: Indie Hacking Success Stories from the NFT Realm
 
 The explosion of blockchain technology has brought about a new digital renaissance, with the Non-Fungible Tokens (NFTs) spearheading this revolution. Among the booming NFT projects, [Doodles](https://www.doodles.app) has emerged as a textbook example of indie hacking success. By capitalizing on the unique spirit of experimentation and creativity, Doodles has captivated audiences and carved out a profitable niche in the tumultuous world of NFTs. Let's explore the compelling success stories that have catapulted Doodles to the forefront of the NFT community and how indie hacking played a pivotal role in their ascent.
@@ -64,4 +63,3 @@ Doodles’ journey from a grassroots idea to a prominent player in the NFT realm
 Doodles’ ascent highlights the triumphs and potential challenges faced by indie projects in the NFT ecosystem. By prioritizing community, embracing innovation, and staying true to their artistic vision, Doodles has set a benchmark for what indie hacking can achieve in the digital age. As the NFT space continues evolving, Doodles stands as a beacon of what's possible when passion, creativity, and technology converge harmoniously. Their story serves as an inspiring reminder that with the right creativity and strategic thinking, indie creators can thrive in the competitive world of NFTs.
 
 For more on the value of NFTs, you can explore [Why Are NFTs Valuable](https://www.license-token.com/wiki/why-are-nf-ts-valuable). To understand the broader impact of NFTs, check out [NFTs and Digital Ownership](https://www.license-token.com/wiki/nf-ts-and-digital-ownership) and [NFTs in Art](https://www.license-token.com/wiki/nf-ts-and-art). Additionally, for insights into other indie hacking successes, see [Zed Run Indie Hacking Case Studies](https://www.license-token.com/wiki/zed-run-indie-hacking-case-studies).
-```

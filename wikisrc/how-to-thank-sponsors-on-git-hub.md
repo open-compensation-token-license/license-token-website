@@ -1,4 +1,3 @@
-```markdown
 # A Guide to Thanking GitHub Sponsors
 
 Engaging with sponsors effectively on GitHub means more than just receiving funding; it involves showing gratitude that nurtures ongoing relationships and fosters project growth. Here’s a comprehensive guide on how to thank your sponsors:
@@ -13,4 +12,3 @@ Engaging with sponsors effectively on GitHub means more than just receiving fund
 - [GitHub Sponsors vs Patreon](https://www.license-token.com/wiki/git-hub-sponsors-vs-patreon): Compare GitHub Sponsors with other sponsorship platforms.
 
 By implementing these methods, you can maintain strong sponsor relationships and demonstrate the value of their contributions, encouraging a vibrant and supportive community around your projects.
-```

@@ -1,4 +1,3 @@
-```markdown
 # Blockchain's Revolutionary Role in Open Source Software
 
 ## Dive Deeper into Blockchain and Open Source
@@ -18,4 +17,3 @@ Explore how [Gitcoin](https://gitcoin.co/) uses blockchain for funding open sour
 Stay informed about the challenges and future prospects by exploring articles addressing issues like energy consumption and regulatory concerns, which are pivotal for the successful integration of blockchain in open source ecosystems. Discover more about leveraging blockchain for transparency, security, and decentralization in [The Future of Open Source Blockchain Projects](https://www.forbes.com/sites/forbestechcouncil/2021/07/23/the-future-of-open-source-in-a-blockchain-world/?sh=4a7f95163f51).
 
 Embrace the transformative potential of blockchain and its promising role in advancing the open source movement toward more collaborative and innovative horizons.
-```

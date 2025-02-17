@@ -1,4 +1,3 @@
-```markdown
 # The Future of Crowdfunding Open Source Projects with Blockchain
 
 This article explores the exciting intersection of crowdfunding, open source projects, and blockchain technology. The convergence of these paradigms promises significant advancements in how open source projects are funded and developed. Below are some key resources and platforms pioneering this transformation:
@@ -22,4 +21,3 @@ For further reading on how blockchain is transforming various industries, consid
 - [Tokenizing Open Source Licenses](https://www.license-token.com/wiki/tokenizing-open-source-licenses)
 
 By integrating blockchain with crowdfunding and open source projects, there is a transformative opportunity to enhance transparency, security, and democratization of innovation. As challenges such as regulatory issues and technological barriers are addressed, the potential for collective innovation and community-driven development grows exponentially.
-```

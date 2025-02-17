@@ -1,4 +1,3 @@
-```markdown
 ## Enhancing Blockchain Security: The Role of Infineon Technologies
 
 ### Introduction
@@ -42,4 +41,3 @@ Infineon continuously innovates to combat evolving cyber threats and integrates 
 Infineon Technologies plays a crucial role in securing blockchain technology. Through advanced hardware solutions, Infineon strengthens blockchain applications across various industries, boosting confidence in blockchain's transformative potential. For more on Infineon's blockchain innovations, visit [Infineon Blockchain Solutions](https://www.infineon.com/cms/en/product/promopages/blockchain/).
 
 For additional information on blockchain applications, you might find [Blockchain in Supply Chain](https://www.license-token.com/wiki/blockchain-in-supply-chain) and [Smart Contracts on Blockchain](https://www.license-token.com/wiki/smart-contracts-on-blockchain) insightful.
-```

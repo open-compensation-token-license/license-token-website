@@ -1,4 +1,3 @@
-```markdown
 # Open Source Project Backers: Supporting Innovation and Collaboration
 
 Open source software is the cornerstone of modern technology, powering everything from web servers to mobile applications. Behind this innovation lies a crucial, yet often overlooked ecosystem — open source project backers.
@@ -36,4 +35,3 @@ Despite the critical role they play, backers face challenges. They must determin
 Open source project backers are the unsung heroes of the software world. Their support fuels innovation, collaboration, and sustainability in the tech landscape. As the demand for open source software rises, so does the significance of these backers in ensuring that crucial projects not only survive but thrive.
 
 For more information about supporting open source, check out initiatives like [GitHub Sponsors](https://github.com/sponsors) or platforms like [Open Collective](https://opencollective.com/). Additionally, explore [innovative funding for open source projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects) to discover new ways to support these vital initiatives.
-```

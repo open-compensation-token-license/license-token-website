@@ -1,4 +1,3 @@
-```markdown
 # Understanding Social Welfare Programs: A Key to Social Equity
 
 Social welfare programs are pivotal in creating a fair society, ensuring that basic needs like healthcare, food, and housing are accessible to all. They aim to offer financial support and reduce socio-economic disparities, promoting an inclusive environment. These programs are essential for fostering social equity and stability, requiring ongoing refinement to maximize their impact and sustainability.
@@ -26,4 +25,3 @@ For more information on global social welfare initiatives, you can explore [UNIC
 ## Additional Resources
 
 To further explore the intricacies of social welfare programs and their parallels with open-source funding, consider reading about [software sustainability](https://www.license-token.com/wiki/software-sustainability) and [innovative funding for open source projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects). These resources provide valuable insights into maintaining program viability and effectiveness in various contexts.
-```

@@ -1,4 +1,3 @@
-```markdown
 # Oracle's Pioneering Role in Open Source and Blockchain
 
 In the rapidly evolving landscapes of business, finance, and technology, Oracle Corporation stands out as a major player fostering open source initiatives while integrating blockchain technology to enhance its offerings. This article explores Oracle's significant contributions to the open-source community and its strategic adoption of blockchain technology to address modern enterprise needs.
@@ -37,4 +36,3 @@ For further reading:
 - Find [Oracle Cloud offerings](https://www.oracle.com/cloud/) that integrate with open-source tools
 
 Oracle continues to balance innovation with open collaboration, maintaining its influence in driving technological advancement.
-```

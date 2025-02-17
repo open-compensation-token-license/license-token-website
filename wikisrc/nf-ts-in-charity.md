@@ -1,4 +1,3 @@
-```markdown
 # Bridging Philanthropy and Innovation: The Role of NFTs in Modern Charity
 
 ## Introduction
@@ -64,4 +63,3 @@ The integration of NFTs into the charity sector offers unprecedented opportuniti
 As the NFT landscape evolves, these digital assets have the potential to reshape the future of philanthropy, creating more dynamic relationships between charities and their supporters. Leveraging the creative possibilities of NFTs can inspire hope, foster empathy, and drive positive societal change.
 
 [Learn more about the value of NFTs](https://www.license-token.com/wiki/why-are-nf-ts-valuable) and their role in [digital ownership](https://www.license-token.com/wiki/nf-ts-and-digital-ownership) to further understand their impact on philanthropy.
-```

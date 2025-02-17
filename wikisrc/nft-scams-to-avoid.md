@@ -1,4 +1,3 @@
-```markdown
 # Navigating the World of NFTs: Scams to Avoid and How to Safeguard Your Investments
 
 The rise of Non-Fungible Tokens (NFTs) offers enticing new avenues for digital ownership and creativity. However, increased popularity has also led to a proliferation of scams targeting potential investors. This guide explores common scams in the NFT space and provides strategies to protect your investments.
@@ -64,4 +63,3 @@ Invest in established projects with credible backgrounds and community support t
 ## Conclusion
 
 The NFT market holds immense potential but requires a cautious approach to avoid pitfalls. Staying informed and adopting best practices can protect your investments as you explore the possibilities in this dynamic digital world. For more insights, visit [this article on NFT scams](https://cointelegraph.com/news/top-4-risks-associated-with-nft-investments-and-how-to-avoid-them).
-```

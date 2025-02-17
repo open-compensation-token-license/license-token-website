@@ -1,4 +1,3 @@
-```markdown
 # Navigating the GitHub Sponsors Payout Process
 
 Explore the essential steps and considerations for utilizing [GitHub Sponsors](https://github.com/sponsors) effectively as a platform to support open-source developers. This guide covers setting up sponsorships, choosing the right payout method, managing sponsorship income, and ensuring compliance with tax regulations.
@@ -17,4 +16,3 @@ Leverage the GitHub Sponsors dashboard for transaction monitoring and sponsor co
 - Promote sustained support through active engagement, showcasing work, and offering exclusive incentives to sponsors. Learn more about effective strategies in [How to Promote GitHub Sponsors Profile](https://www.license-token.com/wiki/how-to-promote-git-hub-sponsors-profile).
 
 For more detailed insights and guidance on maximizing your GitHub Sponsors experience, visit [GitHub's official documentation on Sponsors](https://docs.github.com/sponsors). Additionally, explore the broader context of open-source sustainability through [Sustainability of Open Source Through Tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization) and [The Future of Open Source with Blockchain Integration](https://www.license-token.com/wiki/the-future-of-open-source-with-blockchain-integration).
-```

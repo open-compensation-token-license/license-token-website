@@ -1,4 +1,3 @@
-```markdown
 # Enhancing Electoral Integrity: The Role of Blockchain in Voting Transparency
 
 ## Introduction
@@ -42,4 +41,3 @@ Blockchain is a decentralized, immutable, secure, and transparent ledger system.
 ## Conclusion
 
 While blockchain in voting systems offers significant promise, addressing technical, social, and political challenges is crucial. Collaboration among stakeholders is necessary to create secure, transparent voting systems. By aligning innovative technologies with democratic values, we can secure the future of electoral integrity. For further reading, explore more on [blockchain voting](https://spectrum.ieee.org/blockchain-voting) and its role in [blockchain and voting transparency](https://www.license-token.com/wiki/blockchain-and-voting-transparency).
-```

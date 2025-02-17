@@ -1,4 +1,3 @@
-```markdown
 # How to Submit a Bounty on Gitcoin: A Comprehensive Guide
 
 Gitcoin is an innovative platform connecting developers with open-source projects in need of talent. By offering bounties, it incentivizes professionals to contribute, rewarding them for their expertise and effort. This guide provides a step-by-step approach to submitting a bounty on Gitcoin, ensuring you leverage the platform to its full potential.
@@ -48,4 +47,3 @@ Gitcoin is a decentralized platform built on Ethereum, designed to streamline co
 ## Conclusion
 
 By understanding Gitcoin's processes and efficiently managing interactions, you can enhance your project's development while contributing to the open-source community. For more detailed information, visit [Gitcoin's Documentation](https://docs.gitcoin.co/). Gitcoin is your partner in propelling innovation within the blockchain ecosystem through effective bounties. For further reading on blockchain's impact on open-source, check out [the future of open-source with blockchain integration](https://www.license-token.com/wiki/the-future-of-open-source-with-blockchain-integration).
-```

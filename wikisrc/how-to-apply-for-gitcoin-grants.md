@@ -1,4 +1,3 @@
-```markdown
 # How to Apply for Gitcoin Grants: A Comprehensive Guide
 
 [Gitcoin Grants](https://gitcoin.co/grants/) is an innovative platform aimed at funding open-source projects and initiatives that contribute to the technological advancement and innovation within the blockchain ecosystem and beyond. By applying for a grant through Gitcoin, developers, entrepreneurs, and project teams can gain financial support from a community of supporters interested in promoting open-source development. If you're considering applying for a Gitcoin Grant, this article will walk you through the process step-by-step, ensuring your application is poised for success.
@@ -36,4 +35,3 @@ Reflect on your experience post-funding round to assess improvements and gather 
 ## Conclusion
 
 Applying for a Gitcoin Grant involves clarity, detailed applications, and active community engagement. By following this guide, you can craft a compelling application that showcases your project's impact, leveraging Gitcoin Grants to drive innovation and collaboration in open-source technology.
-```

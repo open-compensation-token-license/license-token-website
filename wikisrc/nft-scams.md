@@ -1,4 +1,3 @@
-```markdown
 ### Navigating the Murky Waters of NFT Scams
 
 In recent years, non-fungible tokens (NFTs) have captivated the digital world, offering artists and collectors new opportunities. However, this burgeoning market has also become a hotbed for scams. Understanding NFT fraud and protecting oneself is crucial for anyone entering this digital space. Below, we explore common NFT scams and provide guidance on safe navigation.
@@ -37,4 +36,3 @@ Staying informed about NFT developments and threats is crucial. [Engaging with r
 The potential of NFTs is alluring, but a cautious approach is essential. Understanding scams and adopting security practices can protect investments and foster a transparent NFT market. A vigilant community focused on education will help navigate and reduce NFT scam risks. Learn more about [NFT Security](https://www.license-token.com/wiki/nft-security) and [NFT Scams to Avoid](https://www.license-token.com/wiki/nft-scams-to-avoid).
 
 For further reading on NFTs and security tips, visit [NFT Now](https://nftnow.com/) and [CoinDesk](https://www.coindesk.com/).
-```

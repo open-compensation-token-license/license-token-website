@@ -1,4 +1,3 @@
-```markdown
 # Exploring Open Source Licensing Models in the Blockchain Era
 
 ## Introduction
@@ -54,4 +53,3 @@ As blockchain evolves, so will its licensing paradigms. Concepts like DAOs and b
 Open source licensing is pivotal to blockchain's growth, balancing innovation, community, and compliance. Future adaptations will continue to influence how decentralized technology develops and flourishes.
 
 For more on open source licensing and blockchain innovations, explore these [open source initiatives](https://opensource.com/resources/opensource-blockchain) or learn about [blockchain's open source projects](https://blockgeeks.com/guides/blockchain-open-source-projects/).
-```

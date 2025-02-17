@@ -1,4 +1,3 @@
-```markdown
 # IBM's Pioneering Role in Open Source and Blockchain
 
 IBM has been at the forefront of both open source software and blockchain technology, shaping transformative trends in the digital landscape. This examination of IBM's journey explores its pivotal roles in open source and blockchain innovation, highlighting their global impact.
@@ -40,4 +39,3 @@ IBM integrates open source in AI and cloud initiatives like [IBM Watson](https:/
 IBM promotes ethical innovation and community empowerment through initiatives like [Call for Code](https://developer.ibm.com/callforcode/), encouraging tech-driven social responsibility.
 
 IBM's sustained contributions to open source and blockchain highlight its commitment to creating a future-ready, equitable digital narrative. For more, visit [IBM's Blockchain Solutions](https://www.ibm.com/blockchain) and [IBM's Open Source Initiatives](https://developer.ibm.com/opensource/).
-```

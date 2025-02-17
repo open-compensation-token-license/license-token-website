@@ -1,4 +1,3 @@
-```markdown
 # Understanding Arbitrum Fraud Proofs: Ensuring Security in Layer 2 Scaling
 
 ## Introduction
@@ -41,4 +40,3 @@ Challenges include determining optimal challenge periods to ensure scrutiny with
 Arbitrum fraud proofs ensure the security of off-chain computations by allowing participants to challenge and verify transactions' integrity. Through mechanisms like the bisection protocol, they achieve a balance between scalability and security, addressing significant blockchain challenges today. Despite some challenges, the successful deployment of fraud proofs is critical for realizing the full potential of Layer 2 solutions like Arbitrum, paving the way for a scalable and secure blockchain future.
 
 For further reading, check out [Arbitrum's official website](https://arbitrum.io/) and [Ethereum's foundation on Layer 2 solutions](https://ethereum.org/en/developers/docs/layer-2-scaling/). Additionally, explore [what-is-blockchain](https://www.license-token.com/wiki/what-is-blockchain) for foundational knowledge.
-```

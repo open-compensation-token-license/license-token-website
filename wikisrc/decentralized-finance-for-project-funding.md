@@ -1,4 +1,3 @@
-```markdown
 # Transforming Project Funding with Decentralized Finance
 
 Explore how decentralized finance (DeFi) is revolutionizing the landscape of project funding, offering innovative ways to overcome the barriers of traditional funding methods. Learn about the platforms and mechanisms that make DeFi a compelling choice for entrepreneurs and organizations globally.
@@ -66,4 +65,3 @@ DeFi is poised to transform project funding by breaking traditional barriers and
 By embracing DeFi, projects are not just accessing funds—they are unlocking new pathways for innovation and change. This is more than a technological shift; it's a movement towards a global financial ecosystem rooted in equity and transparency. 
 
 [Discover more about DeFi's impact](https://www.blockchain.com/learning-portal/defi).
-```

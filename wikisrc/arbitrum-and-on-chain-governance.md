@@ -1,4 +1,3 @@
-```markdown
 # Navigating the Future of Decentralized Decision-Making: Arbitrum and On-Chain Governance
 
 ## Understanding Arbitrum
@@ -32,4 +31,3 @@ Key challenges include increasing [voter participation](https://cointelegraph.co
 ## Conclusion
 
 Arbitrum's on-chain governance empowers diverse communities, enhancing the network's adaptability and reinforcing decentralization. As the blockchain industry grows, Arbitrum’s governance model could significantly influence the development of decentralized networks, ensuring a future of accountability and collaboration in blockchain governance. For further reading, explore [Arbitrum's open-source contributions](https://www.license-token.com/wiki/arbitrum-open-source-contributions).
-```

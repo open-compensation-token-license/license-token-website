@@ -1,4 +1,3 @@
-```markdown
 # Blockchain for Copyright Management: Revolutionizing Intellectual Property
 
 ## Introduction
@@ -59,4 +58,3 @@ Offers photographers blockchain registration for secure proof of ownership and c
 Blockchain could profoundly transform copyright management by providing efficiency and transparency. However, collaboration, innovation, and legal frameworks are needed to address challenges and fully realize its potential. Explore the evolving landscape of [blockchain and intellectual property](https://www.wipo.int/about-ip/en/front.html).
 
 For further exploration, consider reading about [sustainable blockchain practices](https://www.license-token.com/wiki/sustainable-blockchain-practices), [blockchain scalability solutions](https://www.license-token.com/wiki/blockchain-scalability-solutions), [blockchain and intellectual property](https://www.license-token.com/wiki/blockchain-and-intellectual-property), [smart contracts on blockchain](https://www.license-token.com/wiki/smart-contracts-on-blockchain), and [blockchain privacy](https://www.license-token.com/wiki/blockchain-privacy).
-```

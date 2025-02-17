@@ -1,4 +1,3 @@
-```markdown
 # Exploring Arbitrum: A Game-Changer in Ethereum's Layer 2 Landscape
 
 In the ever-advancing world of blockchain, scalability and cost-efficiency are key. Ethereum, a leading blockchain platform, faces hurdles of high usage and limited capacity. Arbitrum, a Layer 2 solution, seeks to resolve these issues via optimistic rollups, enhancing transaction speed and cost without sacrificing security. This piece explores the Arbitrum ecosystem's infrastructure, its compelling features, and future potential.
@@ -34,4 +33,3 @@ Exciting advancements are anticipated for Arbitrum, including decentralized vali
 Arbitrum represents a giant leap towards resolving Ethereum's scalability issues with optimistic rollups, safeguarding decentralization and facilitating a more efficient blockchain ecosystem. As it evolves, Arbitrum is set to substantially impact both Ethereum and the broader blockchain domain, promising a brighter future for decentralized technology.
 
 Learn more about [Arbitrum's ecosystem here](https://arbitrum.io/).
-```

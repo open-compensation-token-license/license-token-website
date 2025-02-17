@@ -1,4 +1,3 @@
-```markdown
 # Zero-Knowledge Proofs on Blockchain: Enhancing Privacy and Security
 
 ## Introduction
@@ -68,4 +67,3 @@ The integration of zero-knowledge proofs into blockchain technology holds immens
 Zero-knowledge proofs represent a groundbreaking development in the field of cryptography and blockchain technology. By offering solutions to privacy and scalability challenges, ZKPs are positioned to play a pivotal role in the continued evolution of decentralized systems. As research and development in this area progress, we can anticipate more widespread adoption and innovative applications that harness the potential of zero-knowledge proofs, ultimately driving the blockchain industry towards a more secure, private, and scalable future.
 
 For further reading, see [this comprehensive guide on zero-knowledge proofs](https://relayer.network/blog/zero-knowledge-proofs-in-crypto-a-gentle-introduction) and [blockchain security](https://www.license-token.com/wiki/blockchain-security).
-```

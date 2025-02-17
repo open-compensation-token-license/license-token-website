@@ -1,4 +1,3 @@
-```markdown
 # Navigating Blockchain's Dual Challenges: Funding Innovations and Tackling Environmental Impact
 
 ## Introduction
@@ -56,4 +55,3 @@ Balancing blockchain innovation and environmental responsibility transcends tech
 Achieving a sustainable blockchain setup demands cooperative efforts among developers, investors, regulators, and users. By weighing environmental costs and steering solutions towards ecological harmony, the blockchain sector can lead innovation that protects our planet and future. Understanding and balancing investment and environmental dimensions are essential for fostering a forward-thinking, balanced development landscape.
 
 [**Read More on the Bitcoin Energy Impact**](https://www.cambridge.org/bitcoin/energy-consumption)
-```

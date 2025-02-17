@@ -1,4 +1,3 @@
-```markdown
 # Gitcoin Hackathons: A Catalyst for Innovation in the Blockchain Space
 
 In recent years, hackathons have emerged as a crucial platform for innovation within the technology sector. Among these, [Gitcoin hackathons](https://gitcoin.co/hackathons) stand out for their focus on blockchain and decentralized technologies. These events have not only become a breeding ground for new ideas but have significantly influenced the future trajectory of decentralized tech.
@@ -35,4 +34,3 @@ Challenges include keeping pace with technological changes and converting concep
 ## Conclusion
 
 Gitcoin hackathons exemplify community-driven innovation in technology. They allow collaboration across borders and foster advancements in decentralized tech. For anyone interested in blockchain, joining a [Gitcoin hackathon](https://gitcoin.co/hackathons) offers a chance to engage with cutting-edge projects and contribute to the future of the internet. For a broader understanding of blockchain's role in open-source, visit [blockchain for open-source funding](https://www.license-token.com/wiki/blockchain-for-open-source-funding).
-```

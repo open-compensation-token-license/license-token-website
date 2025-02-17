@@ -1,4 +1,3 @@
-```markdown
 # A Deep Dive into Arbitrum and Its Impact on Ethereum
 
 Arbitrum is making waves in the blockchain space as an advanced layer-2 scaling solution for Ethereum, aiming to tackle issues of scalability and high transaction fees. Below, you'll find a detailed guide covering various aspects of Arbitrum, from its architecture to its benefits and potential challenges.
@@ -36,4 +35,3 @@ Explore more through these resources to gain a deeper understanding of Arbitrum 
 
 - [Arbitrum and Open Source Scaling Solutions](https://www.license-token.com/wiki/arbitrum-and-open-source-scaling-solutions): Examines Arbitrum's contributions to open-source scaling.
 - [Arbitrum and NFT Marketplaces](https://www.license-token.com/wiki/arbitrum-and-nft-marketplaces): Investigates Arbitrum's impact on NFT platforms.
-```

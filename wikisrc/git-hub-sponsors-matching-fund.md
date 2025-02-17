@@ -1,4 +1,3 @@
-```markdown
 # Bolstering Open Source: The Transformative Power of GitHub Sponsors Matching Fund
 
 ## Introduction
@@ -38,4 +37,3 @@ Despite its transformative potential, challenges like scalability and dependency
 The [GitHub Sponsors](https://github.com/sponsors) matching fund is a pivotal move in open-source sustainability. By doubling contributions, GitHub is leading the charge in reshaping how we view and fund open-source work. It sparks a broader discourse on the importance of open-source contributions to our digital commons' longevity and vitality.
 
 As open source becomes ever more integral to global software solutions, maintaining supportive ecosystems is crucial. GitHub's ongoing refinement of its matching fund approach promises a thriving future for open source, encouraging innovation through sustained support from individuals and corporations alike. The future of open source glows bright, powered by collaboration and bolstered by a network of tangible support. For a deeper dive into the future of open source, explore [The Future of Open Source with Blockchain Integration](https://www.license-token.com/wiki/the-future-of-open-source-with-blockchain-integration).
-```

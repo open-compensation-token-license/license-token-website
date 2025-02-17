@@ -1,4 +1,3 @@
-```markdown
 # Gitcoin and the Evolution of Web3: Pioneering the Decentralized Future
 
 ## Introduction
@@ -46,4 +45,3 @@ Web3's adoption faces various hurdles:
 ## Conclusion
 
 Web3 represents a shift towards decentralization, democratization, and empowerment. Platforms like Gitcoin bridge developers and projects, promoting an open-source future. By embracing these principles, Web3 can redefine the digital world, ensuring technology serves the collective good rather than centralized interests. For further details, explore [Gitcoin's website](https://gitcoin.co/).
-```

@@ -1,4 +1,3 @@
-```markdown
 # Open Source Project Financial Models
 
 Open source projects have revolutionized software development by encouraging collaboration, fostering innovation, and making tools freely available for public use. However, sustaining an open source project is not without its challenges, especially when it comes to funding its development, maintenance, and growth. Financial models for open source projects vary widely, but all aim to ensure the project's sustainability while maintaining its open nature.
@@ -30,4 +29,3 @@ Governments, nonprofits, and philanthropic organizations frequently provide gran
 ## Conclusion
 
 Sustaining an open source project requires choosing the right financial model or a mix of models to align with the project’s goals and community values. While financial support is vital, transparency, trust, and maintaining the open source ethos are key to long-term success. Through the diverse range of financial models available today, open source projects can continue to thrive and make a positive impact on the global software ecosystem. For additional strategies, explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) and [open source project financial strategies](https://www.license-token.com/wiki/open-source-project-financial-strategies). Additionally, consider the [open source project financial models](https://www.license-token.com/wiki/open-source-project-financial-models) and [open source project financial sustainability tips](https://www.license-token.com/wiki/open-source-project-financial-sustainability-tips) to ensure a robust financial foundation.
-```

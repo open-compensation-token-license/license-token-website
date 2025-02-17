@@ -1,4 +1,3 @@
-```markdown
 # Open Source Project Crowdfunding Tips
 
 Open source projects are the backbone of much of today’s technology landscape; however, many maintainers struggle to secure funding to sustain their work. Crowdfunding provides an effective way to gain financial support while engaging with the community. If you’re exploring crowdfunding for your open source project, here are some practical tips to increase your chances of success:
@@ -31,4 +30,3 @@ During the crowdfunding campaign (and afterward), keep your backers updated with
 Crowdfunding an open source project is no easy feat, but with a clear message, active community, and well-structured campaign, you can attract supporters and secure funding. Treat your backers with respect and gratitude—they are more than donors; they are partners in ensuring your project thrives.
 
 Want to know more? Take a look at [“Open Source Guide to Funding”](https://opensource.guide/funding/) for advanced insights.
-```

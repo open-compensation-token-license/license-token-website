@@ -1,4 +1,3 @@
-```markdown
 # Exploring Open Source Development on Arbitrum
 
 Arbitrum has emerged as a key player in Ethereum scaling, thanks to its commitment to open source development which fosters innovation and collaboration among developers. This article highlights the impact and potential of open source development on Arbitrum and explores significant projects that embody this approach.
@@ -34,4 +33,3 @@ While the open source model offers numerous benefits, it also presents challenge
 In conclusion, Arbitrum's commitment to open source development not only enhances its scalability and efficiency but also sets a precedent for other blockchain projects. By embracing open source principles, Arbitrum and its associated projects are well-positioned to lead the charge in blockchain innovation, creating a more inclusive and dynamic ecosystem for developers and users alike.
 
 For further exploration of related topics, you can read about [Arbitrum's approach to open source licensing](https://www.license-token.com/wiki/arbitrum-s-approach-to-open-source-licensing) and [Arbitrum's open source contributions](https://www.license-token.com/wiki/arbitrum-open-source-contributions). Additionally, learn more about [NFTs on Arbitrum with open source solutions](https://www.license-token.com/wiki/nf-ts-on-arbitrum-with-open-source-solutions) and [Arbitrum's NFT marketplace using open source](https://www.license-token.com/wiki/arbitrum-nft-marketplace-using-open-source).
-```

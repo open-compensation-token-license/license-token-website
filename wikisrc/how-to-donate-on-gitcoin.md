@@ -1,4 +1,3 @@
-```markdown
 # How to Donate on Gitcoin: A Step-by-Step Guide
 
 ## Introduction
@@ -73,4 +72,3 @@ In the rapidly evolving landscape of digital innovation, **Gitcoin** has emerged
 - **Consider Recurring Donations**: Provide consistent support with recurring donations.
 
 By following this guide, you will be adept at making informed donations on Gitcoin, helping foster development and innovation in open-source communities. Visit the [Gitcoin website](https://gitcoin.co/) to start donating today!
-```

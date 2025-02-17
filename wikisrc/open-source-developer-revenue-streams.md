@@ -1,4 +1,3 @@
-```markdown
 # Open Source Developer Revenue Streams
 
 The open source movement has garnered significant attention over the years. With its ethos of collaboration, transparency, and community-driven development, open source software (OSS) has become a cornerstone in technology ecosystems worldwide. Yet, the question often arises: how do developers who contribute to open source projects sustain themselves financially? Let's explore the myriad ways open source developers can generate revenue.
@@ -34,4 +33,3 @@ For projects with a strong and active community, selling branded merchandise can
 ## Conclusion
 
 While the spirit of open source is rooted in collaboration and free sharing of ideas, there are numerous viable pathways for developers to earn revenue while contributing to the community. From direct financial contributions to consulting and licensing opportunities, open source developers can choose from a diverse array of revenue streams to sustain and grow their projects. By leveraging these options, developers can strike a balance between community contribution and financial sustainability. For a comprehensive guide, visit [monetizing open source projects guide](https://www.license-token.com/wiki/monetizing-open-source-projects-guide) and explore [open-source project financial strategies](https://www.license-token.com/wiki/open-source-project-financial-strategies).
-```

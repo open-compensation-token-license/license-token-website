@@ -1,4 +1,3 @@
-```markdown
 # Funding Open Source Software
 
 Open source software (OSS) plays a critical role in the modern digital landscape — powering everything from small personal projects to large-scale enterprise solutions. However, while OSS is freely available, ensuring its long-term sustainability often requires funding. This mini wiki provides an overview of the challenges, approaches, and importance of funding open source software.
@@ -65,4 +64,3 @@ For more information, you can explore:
 - [Open Source Initiative](https://opensource.org/)  
 - [Linux Foundation Projects](https://www.linuxfoundation.org/projects/)  
 - [Open Collective](https://opencollective.com/)
-```

@@ -1,4 +1,3 @@
-```markdown
 # Supporting Innovation: The Role of Donation-Driven Projects in Open Source
 
 Open-source software has revolutionized the tech industry by embracing community-driven development and collaboration. One of the key models sustaining these projects is donation-driven funding, where the focus is on voluntary contributions from users and organizations. This approach aligns with the [community-driven projects](https://www.license-token.com/wiki/community-driven-projects) ethos, fostering innovation and sustainability.
@@ -37,4 +36,3 @@ In conclusion, the donation-driven model is a testament to the collaborative spi
 ### Additional Resources
 
 For those interested in exploring more about the financial aspects of open-source projects, consider reading about [open-source financial support](https://www.license-token.com/wiki/open-source-financial-support) and the challenges faced by [unpaid volunteer work](https://www.license-token.com/wiki/unpaid-volunteer-work). These resources provide deeper insights into the economic models and sustainability strategies that can help open-source projects thrive.
-```

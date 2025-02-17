@@ -1,4 +1,3 @@
-```markdown
 # License-Token: A New Paradigm for OSS Sustainability
 
 License-Token offers a transformative approach to the sustainability challenges faced by open-source software (OSS). This innovative model integrates a financial system with traditional open-source licensing, creating a new dynamic for funding, contributions, and governance within open-source communities.
@@ -40,4 +39,3 @@ As blockchain technologies advance, the seamless integration of License-Token wi
 - [Smart Contracts for Open Source Licensing](https://www.license-token.com/wiki/smart-contracts-for-open-source-licensing)
 
 License-Token represents a pivotal shift in reconciling financial stability with open-source ideologies, ushering in a new era for sustainable and community-driven software innovation. Explore and engage with this paradigm as it continues to evolve.
-```

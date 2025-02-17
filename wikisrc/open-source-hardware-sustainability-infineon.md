@@ -1,4 +1,3 @@
-```markdown
 # Open Source Hardware and Sustainability: Infineon's Role in Shaping the Future
 
 ## Introduction
@@ -54,4 +53,3 @@ The future of open-source hardware, underpinned by leaders like Infineon, is pro
 The convergence of open-source hardware and sustainability, championed by Infineon, sets a precedent for industry-wide innovation. By promoting democratized technology and ecologically sound practices, the movement can create global impacts. For further reading on these topics, explore Infineon's [commitment to sustainability](https://www.infineon.com/cms/en/product/promopages/sustainability/). Through community and collaboration, the path ahead for open-source hardware is one that aligns with a sustainable, equitable technological future.
 
 For more insights into open-source sustainability, consider exploring [sustainable blockchain practices](https://www.license-token.com/wiki/sustainable-blockchain-practices) and [open-source sustainability through tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization).
-```

@@ -1,4 +1,3 @@
-```markdown
 # Gitcoin Funding Rounds: Empowering the Open Source Ecosystem
 
 Open-source software is the backbone of the digital age, fueling innovation and providing the building blocks for countless products and services. Yet, historically, funding open-source projects has been a significant challenge. Enter [Gitcoin](https://gitcoin.co/), a platform committed to changing the narrative around open-source funding. Gitcoin funding rounds have emerged as a cornerstone for supporting developers and projects that shape the future of the Internet. This article delves into the intricacies of Gitcoin funding rounds, their impact, and the future of open-source funding.
@@ -82,4 +81,3 @@ Gitcoin has shown an increasing commitment to addressing global challenges throu
 Gitcoin funding rounds have significantly transformed the landscape of open-source funding, offering a scalable, democratic, and community-driven approach. By leveraging the principles of Quadratic Funding, Gitcoin empowers developers to focus on innovation while ensuring that community-supported projects receive the resources they need to thrive. As Gitcoin evolves and expands its reach, it stands as a beacon of hope for the sustainable development of open-source software—a testament to the power of community-led innovation.
 
 [Learn more about the role of NFTs in open source rewards](https://www.license-token.com/wiki/the-role-of-nf-ts-in-open-source-rewards) and [the future of open source with blockchain integration](https://www.license-token.com/wiki/the-future-of-open-source-with-blockchain-integration).
-```

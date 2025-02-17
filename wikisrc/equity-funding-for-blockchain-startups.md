@@ -1,4 +1,3 @@
-```markdown
 # Equity Funding for Blockchain Startups
 
 The blockchain industry is reshaping various sectors, driving significant interest in equity funding as a financing solution for startups. This article explores the nuances and strategies for blockchain startups looking to secure equity investments.
@@ -34,4 +33,3 @@ Discover the emerging opportunities for blockchain startups as technology advanc
 ## Conclusion
 
 Equity funding is a key enabler for blockchain startups aiming to lead their industries. By overcoming regulatory, technical, and market challenges, startups can secure essential backing for driving transformative change in various sectors.
-```

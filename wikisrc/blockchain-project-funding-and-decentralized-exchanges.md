@@ -1,4 +1,3 @@
-```markdown
 # The Future of Blockchain Funding and Decentralized Exchanges
 
 Blockchain technology is revolutionizing the realms of finance and investment, particularly in the areas of project funding and decentralized exchanges (DEXs). This primer provides insight into how these innovations are shaping the economic landscape.
@@ -40,4 +39,3 @@ The convergence of blockchain project funding and DEXs paves the way for:
 - **AI Integration**: The potential fusion of AI and DeFi could optimize investment and trading strategies.
 
 By addressing existing challenges and pushing forward with technological advancements, blockchain continues to spearhead a shift towards a more inclusive, secure, and decentralized financial future.
-```

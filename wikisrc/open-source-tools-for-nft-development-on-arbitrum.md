@@ -1,4 +1,3 @@
-```markdown
 # Open Source Tools for NFT Development on Arbitrum: Building the Future of Digital Assets
 
 ### Introduction
@@ -46,4 +45,3 @@ Arbitrum’s compatibility with Ethereum makes it an attractive option for devel
 As NFTs continue to grow in popularity and scope, developing on efficient and scalable platforms like Arbitrum becomes increasingly appealing. Open-source tools play a critical role in this ecosystem by providing robust, flexible, and secure frameworks for developers to create innovative NFT applications. Tools like Hardhat, Truffle, and OpenZeppelin offer powerful capabilities for building and deploying smart contracts, while services like The Graph and IPFS ensure data integrity and accessibility.
 
 Embracing open-source tools not only accelerates development but also fosters collaboration and innovation within the blockchain community. As the NFT space evolves, developers working on Arbitrum—with its cost-effective and scalable environment—are well-positioned to lead the charge in creating the next wave of digital asset ecosystems. By leveraging these tools, developers can contribute to a more decentralized, efficient, and vibrant NFT landscape, pushing the boundaries of what’s possible with digital ownership and creativity. For more on the economic aspects of open-source projects, explore [open-source project economic models](https://www.license-token.com/wiki/open-source-project-economic-models).
-```

@@ -1,4 +1,3 @@
-```markdown
 # Compensating Open Source Maintainers: A Necessary Shift
 
 Open source software (OSS) has been foundational in the digital world, driving innovation across sectors. Yet, the conversation regarding fair compensation for [open source maintainers](https://www.license-token.com/wiki/open-source-maintainers)—those crucial individuals who keep these projects running—is only just gaining traction. While open source thrives on collaboration and shared ethos, it's vital to address sustainability challenges faced by maintainers, who often work without financial security.
@@ -24,4 +23,3 @@ Beyond financial strategies, a cultural shift within the community is necessary.
 In summary, stakeholders—companies, non-profits, and individuals alike—must act to support maintainers. For the continued innovation and collaborative spirit of open source, compensating maintainers is not only essential but imperative. By addressing these challenges and implementing effective solutions, we can ensure the [software sustainability](https://www.license-token.com/wiki/software-sustainability) of open source projects for future generations.
 
 Moreover, understanding the [open-source monetization challenges and strategies](https://www.license-token.com/wiki/open-source-monetization-challenges-and-strategies) can help in developing robust financial models. Exploring [open-source project financial sustainability tips](https://www.license-token.com/wiki/open-source-project-financial-sustainability-tips) and [open-source project funding strategies](https://www.license-token.com/wiki/open-source-project-funding-strategies) can provide further insights into maintaining the economic viability of these projects. By leveraging these resources, we can foster a more sustainable and equitable open-source ecosystem.
-```

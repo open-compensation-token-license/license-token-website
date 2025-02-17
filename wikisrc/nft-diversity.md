@@ -1,4 +1,3 @@
-```markdown
 # Expanding Horizons: The Role of NFTs in Promoting Diversity
 
 The rise of non-fungible tokens (NFTs) has significantly impacted the digital art world by challenging traditional notions of ownership and creativity. This article explores how NFTs can contribute to diversity and inclusion in the art community, as well as the challenges and opportunities they present.
@@ -56,4 +55,3 @@ Communities like the [Diversity Collective](https://diversitycollective.org) ena
 NFTs offer a path toward a more diverse and inclusive digital art future. Through collective efforts, the NFT ecosystem has the potential to overcome systemic inequities and become a model for equitable global artistic engagement.
 
 Discover further about NFTs, their potential, and key players at [OpenSea](https://opensea.io) or [Foundation](https://foundation.app).
-```

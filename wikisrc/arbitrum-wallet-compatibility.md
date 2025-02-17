@@ -1,4 +1,3 @@
-```markdown
 # Exploring Arbitrum Wallet Compatibility
 
 With the surge of decentralized finance (DeFi) and the demand for scalable solutions, Arbitrum stands out as a leader in tackling Ethereum’s scalability issues. This guide dives into Arbitrum wallet compatibility and how you can utilize this robust layer 2 solution effectively.
@@ -50,4 +49,3 @@ Wallet compatibility is crucial for seamless transactions, DApp interaction, enh
 Arbitrum enhances Ethereum scalability, and its compatibility with various wallets extends accessibility in the crypto ecosystem. For more detailed steps on setting up and configuring wallets with Arbitrum, visit [Arbitrum Support](https://support.arbitrum.io/).
 
 By staying informed about wallet compatibilities and network integrations, users can leverage Arbitrum's innovations effectively. Explore more about [Arbitrum's Role in DeFi](https://www.license-token.com/wiki/arbitrum-de-fi) and its [Scalability Solutions](https://www.license-token.com/wiki/arbitrum-scaling-solution).
-```

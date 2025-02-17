@@ -1,4 +1,3 @@
-```markdown
 # Fragment: Revolutionizing Digital Commerce on Telegram
 
 Fragment has emerged as a transformative digital marketplace within the Telegram ecosystem, offering a decentralized, secure, and privacy-focused platform for buying, selling, and trading goods and services using cryptocurrency. With features like cryptocurrency transactions, smart contracts, and integration with Telegram’s messaging capabilities, Fragment challenges traditional e-commerce models by providing a streamlined, peer-to-peer trading experience.
@@ -28,4 +27,3 @@ Fragment faces hurdles such as regulatory challenges, trust issues stemming from
 For more information, you can explore [Telegram](https://telegram.org/) and dive into [TON](https://ton.org/), the cryptocurrency powering the marketplace. Fragment represents a profound evolution in digital commerce, leveraging the synergy between messaging and transactional technologies to create a secure and innovative trading environment.
 
 Learn more about [Fragment on Telegram](https://www.license-token.com/wiki/what-is-fragment-telegram).
-```

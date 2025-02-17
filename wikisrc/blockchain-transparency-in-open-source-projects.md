@@ -1,4 +1,3 @@
-```markdown
 # Blockchain's Role in Enhancing Open Source Transparency
 
 As open-source projects continue to gain traction for their collaborative and transparent nature, integrating blockchain technology presents opportunities to further enhance these qualities. Blockchain's inherent trust and transparency could transform how open-source projects are managed, fostering a more accountable and participatory environment.
@@ -42,4 +41,3 @@ Blockchain facilitates the creation of reputation systems where contributors' re
 Integrating blockchain into open-source initiatives offers a promising path to greater transparency, accountability, and collaboration. Although challenges exist, with collective efforts and continuous experimentation, the open-source community can effectively harness blockchain's potential, leading to a transformative era of software development.
 
 For more information on blockchain's impact on open-source projects, explore articles from [CoinDesk](https://www.coindesk.com/) or delve into technical papers on [GitHub](https://github.com/).
-```

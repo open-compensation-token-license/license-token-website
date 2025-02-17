@@ -1,4 +1,3 @@
-```markdown
 # Transforming the Landscape: Blockchain and Digital Advertising
 
 ## Introduction
@@ -78,4 +77,3 @@ Blockchain technology holds immense potential to transform the digital advertisi
 As blockchain continues to evolve, the future of digital advertising will likely see increased innovation and collaboration, leading to a more equitable and lucrative ecosystem for all stakeholders involved. The fusion of blockchain and digital advertising promises a digitally empowered marketplace driven by transparency, trust, and transformative technologies.
 
 Learn more about [the future of blockchain in digital advertising](https://www.accenture.com/us-en/insights/communications-media/blockchain-digital-advertising)
-```

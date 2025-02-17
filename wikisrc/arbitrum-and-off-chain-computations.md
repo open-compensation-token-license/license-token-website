@@ -1,4 +1,3 @@
-```markdown
 # Arbitrum and the Future of Off-Chain Computations in Blockchain Technology
 
 ---
@@ -44,5 +43,3 @@ As blockchain technology evolves, off-chain computations, exemplified by Arbitru
 ### Conclusion
 
 Arbitrum's off-chain computation strategy marks a pivotal step towards solving blockchain scalability, paving the way for reduced costs and improved user experiences while preserving trust and security. As the ecosystem expands, innovations like Arbitrum will crucially influence the future landscape of decentralized technology. For more detailed information about Arbitrum, visit their [official website](https://arbitrum.io/).
-
-```

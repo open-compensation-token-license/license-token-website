@@ -1,4 +1,3 @@
-```markdown
 # Indie Hacking with Open Source Tools: Innovating on a Budget
 
 In the dynamic world of entrepreneurship, indie hacking stands out as an empowering approach for individuals who want to create and sustain businesses independently, often with minimal resources. This movement is driven by a lean philosophy, where creativity and resourcefulness meet open-source tools to lower the barriers in tech and business development.
@@ -61,4 +60,3 @@ The indie hacking movement, powered by open source tools, is revolutionizing mod
 For further reading on the economic aspects, consider [Open Source Project Economic Viability](https://www.license-token.com/wiki/open-source-project-economic-viability) and [Open Source Project Funding Strategies](https://www.license-token.com/wiki/open-source-project-funding-strategies).
 
 Explore more about the role of open source in indie hacking [here](https://www.license-token.com/wiki/indie-hacking-with-open-source-tools).
-```

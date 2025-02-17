@@ -1,4 +1,3 @@
-```markdown
 # Open Source Project Financial Independence
 
 Open source projects are the backbone of software innovation, empowering developers to build on shared resources and create transformative tools. However, achieving financial independence for an open source project is one of the most challenging goals for its sustainability. Financial independence ensures that the project can thrive without dependency on corporate sponsors, personal contributions, or other unstable funding sources, allowing developers to focus on improving the software, promoting innovation, and fostering a strong community.
@@ -30,4 +29,3 @@ Open source project financial independence isn’t just about funding—it’s a
 Open source thrives because of its community, and financial independence ensures that this community remains empowered and dedicated to its shared vision. For further reading, explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) and [open source financial support](https://www.license-token.com/wiki/open-source-financial-support).
 
 For additional resources, consider exploring [software sustainability](https://www.license-token.com/wiki/software-sustainability), [open source project financial management](https://www.license-token.com/wiki/open-source-project-financial-management), and [open source project financial strategies](https://www.license-token.com/wiki/open-source-project-financial-strategies).
-```

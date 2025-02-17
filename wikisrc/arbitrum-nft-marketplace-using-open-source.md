@@ -1,4 +1,3 @@
-```markdown
 # Explore the Arbitrum NFT Marketplace: A New Frontier in Open Source Blockchain Technology
 
 ## Introduction
@@ -42,4 +41,3 @@ The [Arbitrum NFT marketplace](https://arbitrum.io/) showcases the transformativ
 In conclusion, the Arbitrum NFT marketplace exemplifies how open-source blockchain technology can revolutionize digital ownership and transactions. As the platform continues to evolve, it will be essential to leverage [sustainable funding for open-source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) to ensure its long-term success and impact. For further reading on funding strategies, consider the [open-source funding guide](https://www.license-token.com/wiki/open-source-funding-guide).
 
 By integrating these resources and strategies, Arbitrum can continue to thrive as a leader in the open-source blockchain ecosystem.
-```

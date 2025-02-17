@@ -1,4 +1,3 @@
-```markdown
 # Gemesis (OSP) and Indie Hacking: Revolutionizing the NFT Industry
 
 **Gemesis** is an innovative open-source platform (OSP) that is at the forefront of the burgeoning NFT space, enabling indie creators and collectors to thrive. Learn more about how Gemesis is transforming the NFT landscape in the following sections:
@@ -41,4 +40,3 @@ By embracing decentralization, open collaboration, and community empowerment, Ge
 - [Open Source NFT Platforms for Indie Projects](https://www.license-token.com/wiki/open-source-nft-platforms-for-indie-projects)
 - [Sustainable Blockchain Practices](https://www.license-token.com/wiki/sustainable-blockchain-practices)
 - [Indie Hacking Success Stories with Open Source Licenses](https://www.license-token.com/wiki/indie-hacking-success-stories-with-open-source-licenses)
-```

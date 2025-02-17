@@ -1,4 +1,3 @@
-```markdown
 # Getting Involved with Gitcoin: A Step-by-Step Guide
 
 Gitcoin is a platform designed to foster collaboration and innovation in the open-source community by connecting developers and entrepreneurs with resources. Here's how you can participate in Gitcoin effectively.
@@ -78,4 +77,3 @@ Gitcoin empowers contributors and funders to drive open-source advancement. Whet
 Start exploring [Gitcoin](https://gitcoin.co) today and be part of the revolutionary open-source movement.
 
 For more on the sustainability of open-source projects, check out [Sustainability of Open Source through Tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization).
-```

@@ -1,4 +1,3 @@
-```markdown
 # Enhancing Privacy in Arbitrum: Exploring New Solutions for Blockchain Confidentiality
 
 ## Introduction
@@ -50,4 +49,3 @@ While Arbitrum improves transactional privacy by processing transactions off-cha
 As privacy solutions become pivotal in blockchain, Arbitrum is positioned to pioneer advancements in this area. By addressing privacy, regulatory, and efficiency needs, Arbitrum could set new standards for confidentiality in blockchain technology. For further exploration of Arbitrum's ecosystem, visit [Arbitrum Ecosystem](https://www.license-token.com/wiki/arbitrum-ecosystem) and [Arbitrum and Privacy Solutions](https://www.license-token.com/wiki/arbitrum-and-privacy-solutions).
 
 For more in-depth details, visit [Offchain Labs](https://offchainlabs.com/) and explore [Arbitrum's potential](https://offchainlabs.com/blog/).
-```

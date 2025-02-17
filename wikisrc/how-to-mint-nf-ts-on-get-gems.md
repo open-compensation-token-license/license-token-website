@@ -1,4 +1,3 @@
-```markdown
 # How to Mint NFTs on GetGems: A Step-by-Step Guide
 
 In recent years, NFTs (Non-Fungible Tokens) have emerged as a revolutionary way to buy, sell, and collect digital art and other digital assets. As an artist or digital creator, minting your own NFTs can be an exciting way to monetize your work while also reaching a broader audience. [GetGems](https://getgems.io/) is one such platform where you can mint and trade NFTs efficiently. This article provides a comprehensive, step-by-step guide on how to mint NFTs on GetGems, helping you navigate through the process smoothly.
@@ -64,4 +63,3 @@ Promotion is key to ensuring visibility and attracting potential buyers:
 Minting NFTs on GetGems is a straightforward process that can open up new revenue streams for artists and digital creators. By following these steps, you can successfully mint, list, and sell your digital art and assets in a decentralized, secure environment. Remember, the NFT space is continuously evolving, so stay informed about industry trends and best practices to maximize your potential in this exciting digital frontier.
 
 Explore more about minting NFTs on [GetGems](https://getgems.io/) and start your digital art journey today.
-```

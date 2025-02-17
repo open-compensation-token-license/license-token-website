@@ -1,4 +1,3 @@
-```markdown
 # Unpacking Arbitrum's TVL: Understanding the Rise and Impacts of a Leading Layer-2 Solution
 
 ## Introduction
@@ -59,4 +58,3 @@ For more on Arbitrum's governance, see [Arbitrum Governance](https://www.license
 Arbitrum’s ascent in the DeFi ecosystem is a testament to the pivotal role of layer-2 solutions in enhancing blockchain utility. As Arbitrum continues to innovate, its TVL will likely remain a critical measure of its success. Arbitrum's journey is a fascinating case study in blockchain scalability and the enduring pursuit of decentralization. 
 
 For more on Arbitrum and the developments in DeFi, [visit Arbitrum’s official page](https://offchainlabs.com/).
-```

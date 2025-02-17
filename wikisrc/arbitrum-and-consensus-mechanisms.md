@@ -1,4 +1,3 @@
-```markdown
 # [**Arbitrum and Consensus Mechanisms: Revolutionizing the Blockchain Space**](https://developer.offchainlabs.com/)
 
 Blockchain technology has transformed the digital landscape...
@@ -45,4 +44,3 @@ Despite its promising features and early success, Arbitrum faces...
 Arbitrum, with its Optimistic Rollups and Layer 2 scaling solution... [Learn more about Arbitrum](https://offchainlabs.com/arbitrum).
 
 For further exploration of related topics, you might be interested in [What is Blockchain](https://www.license-token.com/wiki/what-is-blockchain), [Sustainable Blockchain Practices](https://www.license-token.com/wiki/sustainable-blockchain-practices), [Smart Contracts on Blockchain](https://www.license-token.com/wiki/smart-contracts-on-blockchain), [Zero-Knowledge Proofs on Blockchain](https://www.license-token.com/wiki/zero-knowledge-proofs-on-blockchain), and [World of Women (WoW) on Arbitrum](https://www.license-token.com/wiki/world-of-women-wo-w-on-arbitrum).
-```

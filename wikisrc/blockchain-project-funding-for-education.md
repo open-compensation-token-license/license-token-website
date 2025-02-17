@@ -1,4 +1,3 @@
-```markdown
 # Harnessing Blockchain to Revolutionize Educational Project Funding
 
 Blockchain technology offers groundbreaking possibilities for transforming how educational projects are funded. Its decentralized nature and transparency can eliminate inefficiencies, enhance trust, and promote equity in the allocation of resources. Here’s a closer look at its impact and potential in the education sector.
@@ -26,4 +25,3 @@ Additional resources include:
 - **[Blockchain and Digital Identity](https://www.license-token.com/wiki/blockchain-and-digital-identity)**: Explore how blockchain can secure and manage digital identities, crucial for educational institutions.
   
 - **[Blockchain and Open Source Licensing](https://www.license-token.com/wiki/blockchain-and-open-source-licensing)**: Discover how blockchain can enhance open source projects, including educational tools and resources.
-```

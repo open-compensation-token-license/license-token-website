@@ -1,4 +1,3 @@
-```markdown
 # Open Source Licensing Tips for Indie Hackers
 
 In the dynamic world of software development, indie hackers can benefit greatly from using open source tools to fuel innovation. However, this requires a good understanding of open source licensing, which can be intricate. Below are some actionable tips to help navigate this landscape effectively.
@@ -27,4 +26,3 @@ By carefully choosing an open source license aligned with your project's goals, 
 For further insights into open source licensing and maximizing its benefits for indie hacking, check out resources like [Open Source Initiative](https://opensource.org/) and [Free Software Foundation](https://www.fsf.org/). Additionally, exploring [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) can provide strategies to support your project's long-term viability.
 
 By integrating these strategies, indie hackers can effectively navigate the complexities of open source licensing, ensuring their projects are both legally sound and poised for growth.
-```

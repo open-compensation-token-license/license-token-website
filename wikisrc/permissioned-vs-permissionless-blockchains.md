@@ -1,4 +1,3 @@
-```markdown
 ## Understanding Permissioned and Permissionless Blockchains
 
 ### Introduction
@@ -62,4 +61,3 @@ Hybrid models combining both attributes are emerging. Technologies like [zero-kn
 ### Conclusion
 
 Choosing between permissioned and permissionless blockchains depends on specific use case requirements. Understanding their differences is crucial for leveraging blockchain's potential, whether in decentralized finances or robust enterprise solutions. As blockchain matures, hybrid models will likely play a significant role in meeting diverse needs. To further explore the potential of blockchain, consider reading about [blockchain and open source licensing](https://www.license-token.com/wiki/blockchain-and-open-source-licensing).
-```

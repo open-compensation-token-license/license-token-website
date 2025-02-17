@@ -1,4 +1,3 @@
-```markdown
 # Blockchain's Impact on Sports Management
 
 Explore how [blockchain technology](https://www.investopedia.com/terms/b/blockchain.asp) is transforming sports management through enhanced transparency, fan engagement, and more.
@@ -18,4 +17,3 @@ Explore how [blockchain technology](https://www.investopedia.com/terms/b/blockch
 ## Challenges
 
 Considerations such as the cost of blockchain adoption, regulatory complexities, and the need for standardization remain. Explore these further with [blockchain legal issues](https://www.hklaw.com/en/insights/publications/2021/11/deciphering-blockchain-and-crypto-regulations-in-2021) and collaborative initiatives. As blockchain continues to evolve, its role in shaping an efficient, engaging, and transparent sports industry is becoming clear. Embrace this technology to ensure a forward-thinking future in sports management.
-```

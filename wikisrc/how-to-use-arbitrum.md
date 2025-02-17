@@ -1,4 +1,3 @@
-```markdown
 # Getting Started with Arbitrum: Enhancing Your Ethereum Experience
 
 Explore how to effectively utilize Arbitrum, a Layer 2 solution designed to enhance Ethereum's performance by improving transaction speeds and reducing costs. This guide walks you through setting up a wallet, bridging assets, executing transactions, and eventually withdrawing from Arbitrum.
@@ -36,4 +35,3 @@ Keep in mind the potential challenges, such as centralization concerns, adoption
 Arbitrum stands as a formidable Layer 2 solution that significantly enhances the Ethereum experience. By following this comprehensive guide, get acquainted with the efficient use of Arbitrum and maximize your blockchain interactions.
 
 Delve deeper into the world of Arbitrum by visiting [Arbiscan](https://arbiscan.io/) for tracking transactions and gaining more insights into this innovative network.
-```

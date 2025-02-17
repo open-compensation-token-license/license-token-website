@@ -1,4 +1,3 @@
-```markdown
 # Open Source Developer Grants
 
 **Open Source Developer Grants** are financial incentives provided to developers and contributors working on open source projects. These grants aim to help individuals or teams focus on their contributions by alleviating financial constraints. By doing so, they support innovation, maintain critical tools, and ensure the long-term sustainability of open source ecosystems. For more insights into sustainable funding, you can explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source).
@@ -76,4 +75,3 @@ Transparent criteria, accessible platforms, and diverse funding opportunities ar
 Open Source Developer Grants provide essential solutions to the challenges of funding open source development. They empower both new and experienced contributors, drive innovation, and maintain critical projects that support the software world. Developers interested in pursuing grants can explore platforms like [Open Collective](https://opencollective.com/) or [GitHub Sponsors](https://github.com/sponsors) to kickstart their journey toward financial support and project success. For more comprehensive strategies, consider [open source developer funding strategies](https://www.license-token.com/wiki/open-source-developer-funding-strategies).
 
 For further exploration of related topics, you might find these articles useful: [software sustainability](https://www.license-token.com/wiki/software-sustainability), [open source sponsorship](https://www.license-token.com/wiki/open-source-sponsorship), [open source project funding solutions](https://www.license-token.com/wiki/open-source-project-funding-solutions), and [open source developer support programs](https://www.license-token.com/wiki/open-source-developer-support-programs).
-```

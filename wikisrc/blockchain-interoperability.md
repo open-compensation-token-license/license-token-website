@@ -1,4 +1,3 @@
-```markdown
 # Bridging Islands of Innovation: The Quest for Blockchain Interoperability
 
 ---
@@ -82,4 +81,3 @@
 In conclusion, addressing the challenges and enhancing interoperability will unlock the full potential of blockchain technology. Explore further with these [initiatives](https://www.coindesk.com/learn/what-are-interoperable-blockchains-and-how-will-they-change-crypto/).
 
 For more insights on blockchain, you can explore [What is Blockchain](https://www.license-token.com/wiki/what-is-blockchain), [Smart Contracts on Blockchain](https://www.license-token.com/wiki/smart-contracts-on-blockchain), [Types of Blockchains](https://www.license-token.com/wiki/types-of-blockchains), [Public vs Private Blockchains](https://www.license-token.com/wiki/public-vs-private-blockchains), and [Blockchain and Digital Identity](https://www.license-token.com/wiki/blockchain-and-digital-identity).
-```

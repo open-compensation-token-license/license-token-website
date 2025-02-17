@@ -1,4 +1,3 @@
-```markdown
 # Arbitrum's Innovative Open Source Licensing Approach
 
 ## Deep Dive into Arbitrum's Strategy
@@ -23,4 +22,3 @@ Arbitrum's approach serves as a blueprint for other blockchain projects, blendin
 For more insights, explore [Arbitrum's official site](https://offchainlabs.com/), where you can learn about its technological advances and ongoing contributions to the blockchain industry.
 
 By integrating these strategies, Arbitrum not only enhances its own platform but also sets a precedent for other projects aiming to leverage open source methodologies. The balance between open collaboration and structured governance is pivotal in navigating the complexities of modern software development, ensuring that innovations are both robust and sustainable.
-```

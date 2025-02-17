@@ -1,4 +1,3 @@
-```markdown
 # GitHub Sponsors: Navigating Privacy and Security
 
 GitHub has long been a cornerstone for developers across the globe, offering a collaborative platform for code sharing and innovation. In 2019, GitHub introduced [GitHub Sponsors](https://github.com/sponsors), an initiative that allows users to financially support developers and projects. While this move has bolstered open-source sustainability, it also raises critical privacy and security questions.
@@ -51,4 +50,3 @@ GitHub will continue refining privacy practices and expanding features to meet u
 ## Conclusion
 
 The launch of GitHub Sponsors marks a pivotal shift in open-source sustainability, integrating financial transactions into the GitHub landscape. By addressing privacy concerns through robust security measures, user control, and transparency, GitHub offers a sound framework for protecting user data. Continued collaboration with the community will ensure GitHub remains a trusted platform in an increasingly digital world. For more information, visit the [GitHub blog](https://github.blog/).
-```

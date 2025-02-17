@@ -1,4 +1,3 @@
-```markdown
 # Understanding Arbitrum: Enhancing Ethereum Scalability
 
 Ethereum, a key player in the blockchain space, has faced challenges such as high gas fees and network congestion due to its growing popularity. Arbitrum emerges as a solution to these issues by offering a layer 2 scaling approach. This approach boosts transaction speed and reduces costs while maintaining Ethereum's security.
@@ -20,4 +19,3 @@ As a scalable layer 2 solution, Arbitrum aligns with Ethereum's developments, pa
 Despite the competition from other solutions like zk-Rollups, Arbitrum’s ongoing improvements and strong Ethereum backing position it well for the future. For more detailed information on Arbitrum's development and partnerships, please visit their [official website](https://offchainlabs.com). Additionally, for a deeper understanding of Ethereum and its future, check out [Ethereum's official site](https://ethereum.org).
 
 In conclusion, Arbitrum not only addresses the immediate scaling needs but also sets the stage for Ethereum's broader adoption and application. As the digital economy expands, Arbitrum will undoubtedly be an essential part of the blockchain ecosystem, driving Ethereum’s scalability and usability forward.
-```

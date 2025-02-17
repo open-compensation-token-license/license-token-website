@@ -1,4 +1,3 @@
-```markdown
 # Fragment Telegram and NFTs: A New Era of Digital Interactions
 
 ## Introduction
@@ -40,4 +39,3 @@ Ensuring security and privacy remains crucial. Users should observe best practic
 The convergence of Fragment Telegram and NFTs marks a new era in digital communication and asset ownership. This synergy enables users to engage with content, verify identities, and explore decentralized commerce within a secure ecosystem. As these technologies evolve, Telegram and NFTs stand ready to redefine digital interactions and creativity.
 
 For more information about NFTs, visit the [NFT community on Ethereum](https://ethereum.org/en/developers/docs/nfts/), and explore [Telegram's platform features](https://telegram.org/faq).
-```

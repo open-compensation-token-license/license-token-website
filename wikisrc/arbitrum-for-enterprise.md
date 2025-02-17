@@ -1,4 +1,3 @@
-```markdown
 # Harnessing Arbitrum for Enterprise: A New Era in Blockchain Integration
 
 Blockchain technology's promise of improved transparency, enhanced security, and cost reduction has attracted attention globally. Yet, mainstream enterprise adoption lags, primarily due to the shortcomings of existing solutions. Arbitrum, a layer-2 scaling solution, emerges as a solution to these challenges, facilitating smoother blockchain integration for businesses.
@@ -51,4 +50,3 @@ Enterprises should continuously evaluate Arbitrum against emerging layer-2 techn
 Arbitrum's scalable, cost-effective, and secure framework addresses key enterprise concerns and positions itself as a potential industry standard. As its adoption increases, enterprises can anticipate a transformative digital advancement.
 
 For detailed exploration of Arbitrum for enterprises, visit [Arbitrum's official site](https://arbitrum.io/).
-```

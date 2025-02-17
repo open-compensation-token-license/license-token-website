@@ -1,4 +1,3 @@
-```markdown
 # Deutsche Telekom's Strategic Approach to Software Licensing
 
 In the ever-evolving world of technology, software licensing remains a cornerstone for global enterprises seeking to maintain a competitive edge. Deutsche Telekom stands as a leading example of how to effectively navigate the complexities of software licensing. Through strategic partnerships, cost optimization, compliance, and innovation, Deutsche Telekom sets a benchmark in managing a diverse software portfolio to drive growth and operational efficiency.
@@ -45,4 +44,3 @@ Blockchain holds promise for future software licensing transformations at Deutsc
 Deutsche Telekom's comprehensive approach to software licensing highlights the importance of strategic vendor relationships, cost control, and embracing technological advancements like blockchain. As digital ecosystems evolve, Deutsche Telekom's forward-thinking licensing strategies ensure sustained leadership in the telecommunications industry. 
 
 For further details about Deutsche Telekom’s innovations and strategies, visit their [official website](https://www.telekom.com/en).
-```

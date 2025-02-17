@@ -1,4 +1,3 @@
-```markdown
 # Open Source Project Funding Platforms: Empowering Innovation and Collaboration
 
 ## Introduction
@@ -47,4 +46,3 @@ To overcome these hurdles, platforms are exploring innovative models such as sub
 ## Conclusion
 
 Open Source Project Funding Platforms have revolutionized the way community-driven software initiatives receive financial backing, fostering a healthier, more sustainable ecosystem. As these platforms continue to evolve and address existing challenges, they will play an increasingly vital role in promoting innovation and collaboration within the open source world. By supporting these efforts, we not only ensure the maintenance and growth of essential software but also contribute to the principles of openness, accessibility, and community that define the spirit of open source. For those looking to explore or support open source projects financially, visiting [Open Source Funding Opportunities](https://www.license-token.com/wiki/open-source-funding-opportunities) can provide insights and opportunities to get involved.
-```

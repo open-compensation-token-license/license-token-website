@@ -1,4 +1,3 @@
-```markdown
 # Exploring SuperRare and Blockchain-Based License Compliance
 
 ## Introduction
@@ -90,4 +89,3 @@ Collaboration is vital to developing standard practices and ethical frameworks.
 SuperRare exemplifies how blockchain can revolutionize digital art license compliance. As the technology evolves, it promises increased compliance and innovation opportunities. Discover more about SuperRare's impact [here](https://venturecity.com/blog/superrare-decentralized-art-marketplace-fine-art-nfts).
 
 For further reading on blockchain in art, visit [Art News](https://www.artnews.com) and explore the possibilities that lie at the convergence of art and technology.
-```

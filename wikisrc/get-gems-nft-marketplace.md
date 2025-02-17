@@ -1,4 +1,3 @@
-```markdown
 # Discover the World of GetGems: Your Gateway to NFTs
 
 ## Introduction to GetGems
@@ -46,4 +45,3 @@ GetGems prioritizes asset protection with enhanced security measures like two-fa
 GetGems empowers creators by providing direct access to global audiences without middlemen, increasing their revenue potential. The platform's focus on simplicity and education attracts new participants, expanding the reach of NFTs. Despite market challenges, GetGems' dedication to transparency and innovation places it at the forefront of the NFT future.
 
 Explore GetGems and become part of the digital revolution by visiting their [official website](https://www.getgems.io).
-```

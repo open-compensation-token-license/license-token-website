@@ -1,4 +1,3 @@
-```markdown
 # The Rise of Fragment Telegram Scams: What You Need to Know
 
 ## Introduction
@@ -38,5 +37,3 @@ If you fall victim to a scam, report it to [Telegram’s support team](https://t
 ## Conclusion
 
 Fragment Telegram scams highlight the need for vigilance in digital communication. By understanding these scams and employing preventive measures, users can protect themselves and others. Remember, in digital communication, skepticism is crucial for defense. Stay informed and cautious to guard against these sophisticated scams. For more on protecting digital assets, visit [What is Blockchain](https://www.license-token.com/wiki/what-is-blockchain).
-
-```

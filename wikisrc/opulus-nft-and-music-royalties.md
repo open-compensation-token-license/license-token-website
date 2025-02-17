@@ -1,4 +1,3 @@
-```markdown
 # The Rise of Opulus: Transforming Music Royalties through NFTs
 
 In the rapidly evolving digital landscape, the music industry is embracing innovative solutions to age-old challenges. At the forefront of this revolution is [Opulus](https://opulus.org), a pioneering platform utilizing blockchain technology and non-fungible tokens (NFTs) to redefine how musicians generate and manage royalties.
@@ -42,4 +41,3 @@ Opulus offers a glimpse into a future with greater control and transparency for 
 Opulus is reshaping the music industry by empowering artists, enhancing transparency, and offering investment opportunities, challenging traditional royalty management systems. For further insights, check [NFTs and Their Impact on the Music Industry](https://www.forbes.com/sites/forbestechcouncil/2021/04/27/what-is-the-future-of-nfts-in-the-music-industry).
 
 Embracing digital assets and decentralized finance, Opulus is poised to play a pivotal role in music royalties' future.
-```

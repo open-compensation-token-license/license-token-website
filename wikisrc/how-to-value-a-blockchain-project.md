@@ -1,4 +1,3 @@
-```markdown
 ## How to Value a Blockchain Project: A Comprehensive Guide
 
 ### Introduction
@@ -46,4 +45,3 @@ Learning from the successes and failures of past projects like Ethereum and Bitc
 Valuing a blockchain project involves integrating various financial and industry-specific metrics. Staying informed about advancements is essential for sound investment decisions. For ongoing updates and news, check out [CoinDesk](https://www.coindesk.com/).
 
 This guide provides structured insights into assessing blockchain projects, ensuring informed decision-making in this dynamic field.
-```

@@ -1,4 +1,3 @@
-```markdown
 # Connect Telegram to Fragment: A Comprehensive Guide
 
 Enhance your communication setup by connecting Telegram to Fragment, a platform designed for seamless integration with digital tools. Here's a step-by-step guide to achieve a productive communication environment.
@@ -54,4 +53,3 @@ Enhance your communication setup by connecting Telegram to Fragment, a platform 
 Connecting Telegram to Fragment creates a streamlined communication system with enhanced productivity, allowing you to automate tasks and gain insights with unified data management. Check [official resources](https://telegram.org/faq) for updates on integration processes. Happy integrating!
 
 For more on the broader implications of such integrations, see [The Future of Open Source with Blockchain Integration](https://www.license-token.com/wiki/the-future-of-open-source-with-blockchain-integration).
-```

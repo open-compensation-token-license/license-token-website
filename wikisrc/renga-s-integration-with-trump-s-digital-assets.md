@@ -1,4 +1,3 @@
-```markdown
 # Exploring the Intersection of Art and Politics: Renga’s Collaboration with Trump’s NFTs
 
 In the digital era, the confluence of art and technology through [Non-Fungible Tokens (NFTs)](https://en.wikipedia.org/wiki/Non-fungible_token) continues to evolve, shaping new narratives and opportunities. Among the pivotal collaborations in this landscape is Renga's integration with [Donald Trump’s digital assets](https://www.nbcnews.com/tech/donald-trump-nft-sales-soar-campaign-announcement-rcna55802), merging the realms of art and political memorabilia.
@@ -22,4 +21,3 @@ As artistic and political narratives converge, the partnership between Renga and
 Renga's integration with Trump’s digital assets exemplifies the transformative power of NFTs in reshaping ownership and influence. This partnership is a testament to the evolving landscape of digital expression, indicating a dynamic future for NFTs as integral elements of storytelling and legacy creation.
 
 For a deeper dive into the implications and future of NFTs, explore resources such as [CoinDesk](https://www.coindesk.com) or [The Verge](https://www.theverge.com).
-```

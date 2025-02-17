@@ -1,4 +1,3 @@
-```markdown
 ## The Future of Sports: How Blockchain Funding is Changing the Game
 
 The sports industry is on the cusp of a significant transformation driven by [blockchain technology](https://en.wikipedia.org/wiki/Blockchain), which promises to enhance transparency, fan engagement, and create new financial avenues. Here’s how blockchain funding is shaping the future of sports:
@@ -24,4 +23,3 @@ While the potential is vast, challenges such as regulatory hurdles, cryptocurren
 ---
 
 Blockchain's integration into sports offers transformative possibilities, and by navigating these challenges, the sports industry can leverage blockchain for a more transparent, engaging, and robust future. For more insights into how blockchain is revolutionizing various fields, explore [CoinDesk](https://www.coindesk.com/) and [CoinTelegraph](https://cointelegraph.com/).
-```

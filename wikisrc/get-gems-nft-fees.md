@@ -1,4 +1,3 @@
-```markdown
 # Understanding GetGems NFT Fee Structure
 
 The world of Non-Fungible Tokens (NFTs) has opened up new vistas for digital creators and collectors, with platforms like [GetGems](https://getgems.io/) leading the charge in facilitating seamless transactions. As with any digital marketplace, understanding the fee structures is crucial to maximizing value from engagements on GetGems. Here's a detailed look at the costs involved when using their services.
@@ -42,4 +41,3 @@ GetGems competes with platforms like [OpenSea](https://opensea.io/), [Rarible](h
 ## Conclusion
 
 Understanding GetGems' fees ensures effective participation and can enhance your experience in the dynamic digital asset market. Whether you're a creator or collector, managing your fees wisely is key to success in NFTs with GetGems. For more on GetGems, see [this article](https://www.license-token.com/wiki/what-is-get-gems-nft).
-```

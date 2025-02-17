@@ -1,4 +1,3 @@
-```markdown
 # Open Source Sustainability Initiatives at Deutsche Telekom
 
 As open source software plays an ever-important role in technology, Deutsche Telekom stands at the forefront, integrating open source into its sustainability and innovation strategies. This article explores Deutsche Telekom's impactful initiatives, participation in global projects, innovative culture, and vision for a sustainable future.
@@ -26,4 +25,3 @@ Deutsche Telekom envisions deeper community ties through hackathons and collabor
 ## Conclusion
 
 Deutsche Telekom's commitment to open source not only addresses technological challenges but also pushes towards a sustainable future. For further insights, visit the [Deutsche Telekom homepage](https://www.telekom.com/en) and learn how they integrate open source into their corporate ethos for a sustainable tomorrow.
-```

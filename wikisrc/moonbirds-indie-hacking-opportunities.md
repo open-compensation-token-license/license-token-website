@@ -1,4 +1,3 @@
-```markdown
 # Moonbirds and Indie Hacking in the NFT Ecosystem
 
 Discover the innovative landscape of [Moonbirds](https://www.moonbirds.xyz), a prominent NFT project that combines art, technology, and community engagement. This exploration highlights the burgeoning opportunities for indie hackers in the NFT space, specifically focusing on how to leverage projects like Moonbirds.
@@ -30,4 +29,3 @@ Discover the innovative landscape of [Moonbirds](https://www.moonbirds.xyz), a p
 - Trust-building in the decentralized space
 
 For those ready to innovate, Moonbirds and the NFT landscape offer an exciting frontier filled with potential. Explore the possibilities and soar in this dynamic new world of digital collectibles.
-```

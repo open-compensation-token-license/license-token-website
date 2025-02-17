@@ -1,4 +1,3 @@
-```markdown
 # Funding Blockchain in Supply Chain: A Contemporary Exploration
 
 Blockchain technology holds transformative potential within supply chain management, promising enhanced transparency, traceability, and efficiency. However, realizing this potential demands substantial funding dedicated to developing and integrating blockchain solutions into complex supply chain systems.
@@ -57,4 +56,3 @@ Explore more about blockchain applications in supply chain management through th
 
 - [Blockchain in Supply Chain - IBM](https://www.ibm.com/blockchain/supply-chain)
 - [Blockchain Technology Applications in Supply Chain - SAP](https://www.sap.com/products/intelligent-business-process-management/supply-chain.html)
-```

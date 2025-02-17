@@ -1,4 +1,3 @@
-```markdown
 # Open Source Project Financial Planning: A Key to Sustainability
 
 Open source projects are the heart of innovation and collaboration in today’s tech ecosystem. While many open source initiatives begin as passion projects, financial sustainability is essential to ensure they can thrive, grow, and continue to provide value to the community. Effective financial planning in open source projects boosts their longevity and attracts contributors, sponsors, and users. Here are key considerations for successful financial planning in open source projects.
@@ -45,4 +44,3 @@ Think long-term when handling finances. Reserve some funds for emergencies or re
 Financial planning is often overlooked in the open source world, but it is a vital step towards achieving sustainability. Clear goals, diverse monetization strategies, a transparent budget, and an engaged community can help your open source project secure the funding it needs to continue making an impact. By prioritizing financial planning, you are not only ensuring the survival of your project but also fostering its growth and success.
 
 For more information on sustainable funding, explore [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) and [open source project financial management](https://www.license-token.com/wiki/open-source-project-financial-management). Additionally, consider the [open source project economic models](https://www.license-token.com/wiki/open-source-project-economic-models) to better understand the financial dynamics of your project.
-```

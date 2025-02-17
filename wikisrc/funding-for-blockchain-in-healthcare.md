@@ -1,4 +1,3 @@
-```markdown
 # Funding Blockchain in Healthcare: Revolutionizing the Industry
 
 Blockchain technology holds transformative potential for healthcare by enhancing data security, interoperability, and patient-centric solutions. However, significant funding is crucial to realize this potential. This article delves into the funding landscape within the field, spotlighting the roles of venture capital, government support, and corporate investments.
@@ -50,4 +49,3 @@ Corporates like IBM and Microsoft are developing blockchain solutions and invest
 Funding is pivotal for blockchain innovations in healthcare, showing promise for enhanced, secure, and efficient systems. [Read more on the transformative journey of blockchain in healthcare](https://www.healthcareitnews.com/news/value-proposition-blockchain-what-has-change-healthcare).
 
 As investments increase, the healthcare landscape is poised for substantial transformation.
-```

@@ -1,4 +1,3 @@
-```markdown
 # A Comprehensive Guide to Selling Opulus NFTs
 
 As the world of blockchain and digital assets continues to evolve, the emergence of Non-Fungible Tokens (NFTs) presents a unique opportunity for artists, investors, and enthusiasts alike. **Opulus**, a platform that integrates music IPs with blockchain, allows users to tokenize music royalties as NFTs. This guide will help you navigate the process of selling Opulus NFTs effectively.
@@ -58,4 +57,3 @@ For more on the investment potential of Opulus NFTs, visit [Opulus NFT Investmen
 ## Conclusion
 
 Selling Opulus NFTs involves creativity and strategic marketing. By effectively listing, promoting, and managing sales, artists and investors can capitalize on this innovative marketplace. Embrace this fusion of music and technology to explore new forms of revenue in the digital age. For more information, visit [Opulus](https://www.opulous.org/).
-```

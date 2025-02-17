@@ -1,4 +1,3 @@
-```markdown
 # Securing the Digital Frontier: Infineon's Approach to Smart Contract Security
 
 As [blockchain technology](https://www.license-token.com/wiki/what-is-blockchain) reshapes industries through decentralized applications, enhancing the security of smart contracts becomes vital. Infineon Technologies, a leader in semiconductor solutions, is at the forefront of this endeavor, offering innovative solutions for smart contract security.
@@ -54,4 +53,3 @@ Infineon's commitment to transparency and sustainability ensures responsible tec
 Infineon Technologies stands as a beacon of innovation in smart contract security. Through advanced solutions and industry collaboration, Infineon builds a secure future for decentralized applications, ensuring a prosperous digital frontier.
 
 For more information, visit [Infineon Technologies](https://www.infineon.com/).
-```

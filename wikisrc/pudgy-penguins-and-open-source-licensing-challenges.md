@@ -1,4 +1,3 @@
-```markdown
 # Navigating the Iceberg: Pudgy Penguins and the Open Source Licensing Conundrum
 
 ## Introduction
@@ -56,4 +55,3 @@ For further reading, check out [Pudgy Penguins and Open Source Licensing Challen
 ---
 
 This article highlights the promising future where the NFT industry can thrive by addressing open source licensing conundrums responsibly.
-```

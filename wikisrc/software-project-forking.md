@@ -1,4 +1,3 @@
-```markdown
 # Understanding the Dynamics of Software Project Forking in Open Source
 
 Software project forking is an essential activity in open-source development that allows developers to create new and independent paths of development from existing codebases. This process not only fuels innovation and diversity but also presents certain challenges within open-source communities.
@@ -36,4 +35,3 @@ Forking remains a pivotal element of open-source development, reflecting open-so
 By engaging with the dynamics of forking, developers have the opportunity to contribute to and reshape the ever-evolving landscape of open-source software. Additionally, exploring [open-source project funding strategies](https://www.license-token.com/wiki/open-source-project-funding-strategies) can provide valuable insights into sustaining these projects.
 
 For further exploration, consider the [software project forking](https://www.license-token.com/wiki/software-project-forking) dynamics and how they impact the broader open-source ecosystem.
-```

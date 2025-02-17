@@ -1,4 +1,3 @@
-```markdown
 # Arbitrum and Oracle Services: Paving the Way for Scalable and Trustworthy Blockchain Solutions
 
 ---
@@ -66,4 +65,3 @@ The collaboration between Arbitrum and oracle services ushers in an era of possi
 In this evolving landscape, continuous innovation, vigilance against centralization, and a commitment to security standards will be vital. For developers and stakeholders alike, Arbitrum and oracle services offer a glimpse into the promising future of decentralized technology—one that is responsive, adaptive, and deeply interconnected with the world beyond the chain.
 
 [Learn more about Arbitrum's approach to open source licensing](https://www.license-token.com/wiki/arbitrum-s-approach-to-open-source-licensing) and [how it integrates with NFT marketplaces](https://www.license-token.com/wiki/arbitrum-nft-marketplace-using-open-source). Additionally, explore [Arbitrum's role in DeFi](https://www.license-token.com/wiki/arbitrum-de-fi) and [its open source contributions](https://www.license-token.com/wiki/arbitrum-open-source-contributions).
-```

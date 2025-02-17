@@ -1,4 +1,3 @@
-```markdown
 # SAP and Open Source Blockchain: A Corporate Strategy for Innovation
 
 As blockchain technology increasingly transforms industries such as finance and healthcare, SAP SE stands at the intersection of innovation and enterprise application software. The company's efforts to integrate open source blockchain reflect a broader strategy to foster innovation and cross-industry collaboration.
@@ -48,4 +47,3 @@ While SAP's initiatives highlight numerous benefits, the path forward is not wit
 ## Conclusion
 
 SAP's embrace of open source blockchain is more than a strategic move; it's a commitment to collaborative innovation. By merging blockchain's transformative potential with SAP’s robust enterprise solutions, businesses globally can harness new opportunities for transparency and efficiency. Explore further insights into [SAP's blockchain strategy](https://www.sap.com/) and join the journey towards a digital, decentralized future.
-```

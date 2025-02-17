@@ -1,4 +1,3 @@
-```markdown
 # Pitching Your Blockchain Project: Steps to Success
 
 Crafting a compelling pitch for a blockchain project involves understanding your audience, simplifying technical details, and illustrating market potential. Here's a structured approach:
@@ -24,4 +23,3 @@ Crafting a compelling pitch for a blockchain project involves understanding your
 - [Understanding Market Opportunities](https://www.example.com/market-analysis) - Tools and frameworks for a thorough market analysis.
 
 Pitching a blockchain project effectively involves blending a strategic narrative with clear evidence of the project's potential. Equip yourself with the right strategies to sway your audience and bring your vision to life.
-```

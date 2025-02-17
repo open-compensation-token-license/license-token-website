@@ -1,4 +1,3 @@
-```markdown
 # Navigating the Environmental Impact of NFTs: Striking a Balance in the Digital Art World
 
 ## Introduction
@@ -68,4 +67,3 @@ Community-driven governance in blockchains can expedite the transition to low-en
 ## Conclusion
 
 The environmental impact of NFTs is a pressing concern, yet it stimulates essential advancements in blockchain technology. Stakeholders, equipped with a comprehensive understanding of NFTs and sustainability, can advocate for eco-friendly practices. While challenges remain, NFTs have the potential to lead sustainable innovations in the digital ecosystem. For more on the evolving landscape of sustainable NFTs, visit [NFTs and Environment](https://www.forbes.com/sites/robertanthonypejman/2021/09/07/why-nfts-are-one-of-the-most-important-innovations-of-the-century/?sh=6febab4a2c6d).
-```

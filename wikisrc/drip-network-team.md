@@ -1,4 +1,3 @@
-```markdown
 # The Drip Network Team: Innovators in DeFi
 
 In the ever-evolving world of decentralized finance (DeFi), the [Drip Network](https://drip.community/) stands out as a pioneering platform that offers users the potential for consistent returns on their investments. At the heart of this innovative project is a dedicated team of professionals whose vision and technical acumen have been pivotal in the platform's success.
@@ -40,4 +39,3 @@ Drip Network is committed to driving innovation through continuous platform evol
 With a growing user base and a commitment to excellence, the Drip Network team is poised to lead and set new standards in decentralized financial services as the DeFi landscape evolves. Their journey underscores the impact of technical expertise, innovative thinking, and a user-focused strategy.
 
 Learn more about the [Drip Network Team](https://www.license-token.com/wiki/drip-network-team) and their contributions to the DeFi space.
-```

@@ -1,4 +1,3 @@
-```markdown
 ## Exploring Funding Opportunities for Blockchain-Driven Digital Identity Solutions
 
 Discover how blockchain technology is reshaping digital identity management with enhanced security, decentralized control, and wider accessibility. Learn about the different funding avenues and challenges for [blockchain digital identity projects](https://www.forbes.com/sites/forbestechcouncil/2022/04/12/the-future-of-digital-identity-on-the-blockchain/?sh=4861f2785717), and explore successful case studies like [uPort](https://www.uport.me/), [Sovrin Network](https://sovrin.org/), and [Civic](https://www.civic.com/).
@@ -10,4 +9,3 @@ Discover how blockchain technology is reshaping digital identity management with
 - **Challenges in Funding:** Understand regulatory compliance hurdles, technology maturity concerns, public perception issues, and the need for interoperability standards. Learn about [blockchain project funding challenges](https://www.license-token.com/wiki/blockchain-project-funding-challenges) for a deeper insight.
 
 Delve into how blockchain can revolutionize digital identities by ensuring security and empowering users. Explore the funding landscape and the path forward towards the decentralized identity ecosystem. For more on blockchain's broader applications, see [blockchain and digital rights management](https://www.license-token.com/wiki/blockchain-and-digital-rights-management).
-```

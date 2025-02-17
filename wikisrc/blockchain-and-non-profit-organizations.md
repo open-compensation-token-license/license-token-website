@@ -1,4 +1,3 @@
-```markdown
 # Blockchain and Non-Profit Organizations: Revolutionizing Social Good
 
 Blockchain technology offers transformative potential for non-profit organizations, addressing challenges like transparency, efficiency, and donor engagement. Here’s a closer look at its impact:
@@ -34,4 +33,3 @@ For more insights on how blockchain can revamp non-profits, explore [Cointelegra
 ---
 
 Blockchain stands as a pivotal tool for non-profits aiming for greater transparency and impact. As the technology evolves, thoughtful implementation and collaboration will be key to leveraging its benefits effectively.
-```

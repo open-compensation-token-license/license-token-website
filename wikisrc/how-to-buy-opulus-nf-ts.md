@@ -1,4 +1,3 @@
-```markdown
 # How to Buy Opulus NFTs: A Comprehensive Guide
 
 This guide provides an in-depth look into purchasing Opulus NFTs—unique music-related digital assets revolutionizing the landscape of music ownership and investment.
@@ -27,4 +26,3 @@ Use [Etherscan](https://etherscan.io/) to confirm and view your NFT transaction 
 ### Conclusion
 
 Engaging with Opulus NFTs provides a pathway to music investment with potential financial and artistic benefits. Dive into the decentralized music economy today with confidence and mindfulness. To further explore the benefits, check out [Opulus NFT Benefits](https://www.license-token.com/wiki/opulus-nft-benefits).
-```

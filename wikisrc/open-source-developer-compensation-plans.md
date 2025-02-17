@@ -1,4 +1,3 @@
-```markdown
 # Open Source Developer Compensation Plans: Navigating Rewards in Collaborative Code
 
 Open source development, once considered a domain of hobbyists and enthusiasts, has become a driving force in today's software ecosystem. The success of projects like Linux, Kubernetes, and TensorFlow illustrates the power and influence of open source software. However, as open source projects grow in scope and impact, questions surrounding developer compensation arise. How do we reward developers who contribute to projects that are freely available to the world?
@@ -36,4 +35,3 @@ While there are numerous paths to compensation, challenges remain. Many traditio
 The world of open source development is poised for transformation as the conversation about compensation becomes increasingly vital. By leveraging diverse compensation models and advocating for sustainability and equity in open source contributions, the community can continue to thrive. The ongoing challenge is to balance the spirit of open collaboration with tangible rewards, ensuring that everyone benefits from the collective effort.
 
 For more insights into open source communities and compensation, check out resources like the [Open Source Guide](https://opensource.guide/) and the [Linux Foundation’s research](https://www.linuxfoundation.org/research). By understanding and embracing effective compensation strategies, we'll ensure that the open source movement remains a cornerstone of innovation. Additionally, explore [open source developer compensation models](https://www.license-token.com/wiki/open-source-developer-compensation-models) for a deeper understanding of the financial frameworks available.
-```

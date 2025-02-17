@@ -1,4 +1,3 @@
-```markdown
 ## The Rise and Potential Decline: Examining the Value of NFTs Over Time
 
 ### Introduction
@@ -56,4 +55,3 @@ The speculative nature of early NFT projects may lead to a decline for those lac
 NFT values hinge on factors like market sentiment, technology, and regulation. Despite waning initial frenzy, NFTs hold promise in sectors offering real utility. As the market matures, understanding these dynamics will aid stakeholders in navigating the evolving NFT landscape. 
 
 For more on NFTs, consider exploring resources like [OpenSea](https://opensea.io/) and [CoinDesk](https://www.coindesk.com/learn/nfts/).
-```

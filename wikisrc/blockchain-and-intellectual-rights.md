@@ -1,4 +1,3 @@
-```markdown
 # Exploring the Intersection of Blockchain and Intellectual Property Rights
 
 ## Introduction
@@ -48,4 +47,3 @@ Potential developments include:
 Blockchain technology could reshape IP rights management, enhancing protection, efficiency, and transparency. Overcoming existing legal, technical, and economic barriers is key to reaching its full potential. For more on blockchain's future in this space, explore [Massachusetts Institute of Technology's insights](https://www.technologyreview.com/tag/blockchain/).
 
 By integrating blockchain into IP management, we could usher in an era of global protection and fairness in creative industries, enhancing innovation and cultural prosperity. For further exploration, consider the [role of NFTs in intellectual property](https://www.license-token.com/wiki/nft-and-intellectual-property).
-```

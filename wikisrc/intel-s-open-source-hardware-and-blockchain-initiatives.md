@@ -1,4 +1,3 @@
-```markdown
 # Intel's Open Source Hardware and Blockchain Initiatives
 
 Intel's involvement in both open source hardware and blockchain technology highlights its commitment to innovation and future-driven solutions. Below are some detailed insights into their initiatives and potential contributions to these fields:
@@ -37,4 +36,3 @@ Intel faces several challenges as it pioneers these domains:
 Intel's strategic approach in open source hardware and blockchain could fundamentally transform these sectors, driving future advancements and fostering a collaborative global technology ecosystem.
 
 For more detailed information, visit [Intel](https://www.intel.com) and [Hyperledger](https://www.hyperledger.org).
-```

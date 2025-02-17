@@ -1,4 +1,3 @@
-```markdown
 # Your Ultimate Guide to Selling NFTs on GetGems
 
 The rise of NFTs has unlocked new pathways for creators to monetize digital works. [GetGems](https://www.getgems.io/) is a noteworthy platform offering secure and streamlined ways for artists to sell NFTs. This guide outlines the steps to sell NFTs on GetGems effectively.
@@ -44,5 +43,3 @@ GetGems uses blockchain for secure and authentic NFT transactions, with a user-f
 - **Continuing to Create**: Keep producing content to maintain an active presence.
 
 Selling NFTs on platforms like [GetGems](https://www.getgems.io/) allows global reach and monetization of digital art. By efficiently managing listings and engaging with the community, creators can thrive in the NFT landscape. Explore digital ownership and grow your presence with GetGems.
-
-```

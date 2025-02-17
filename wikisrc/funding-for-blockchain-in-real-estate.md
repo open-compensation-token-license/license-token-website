@@ -1,4 +1,3 @@
-```markdown
 # Funding for Blockchain in Real Estate: Transforming the Industry
 
 The integration of blockchain technology is driving a transformative shift in the traditionally slow-to-adapt real estate industry. This revolution promises enhanced transparency, security, and efficiency, streamlining how real estate is bought, sold, and managed. This article explores the current funding landscape supporting blockchain innovations in real estate, its transformative advantages, and the challenges to be addressed.
@@ -61,4 +60,3 @@ Key challenges include:
 Despite these challenges, the continuous growth of funding and technological advancements foreshadow a promising future for blockchain in real estate.
 
 For further reading, explore [PropTech solutions](https://www.financierworldwide.com/proptech-solutions-for-the-real-estate-industry) and [blockchain developments](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-on-blockchain.html) in real estate.
-```

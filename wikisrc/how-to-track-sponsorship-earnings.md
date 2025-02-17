@@ -1,4 +1,3 @@
-```markdown
 # Comprehensive Guide to Tracking Sponsorship Earnings
 
 In today's competitive landscape, accurate tracking of sponsorship earnings is essential for businesses, influencers, event organizers, and non-profits. To maintain financial transparency and strategic planning, here's a guide that outlines effective methods and best practices.
@@ -43,4 +42,3 @@ For further reading, explore [this detailed article](https://www.forbes.com/advi
 *Explore these resources to bolster your sponsorship tracking system.*
 
 For more insights on related topics, you can explore articles on [What is NFT Marketing](https://www.license-token.com/wiki/what-is-nft-marketing), [The Role of NFTs in Open Source Rewards](https://www.license-token.com/wiki/the-role-of-nf-ts-in-open-source-rewards), [Open Source Sustainability through Tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization), [GitHub Sponsors and Privacy](https://www.license-token.com/wiki/git-hub-sponsors-and-privacy), and [Blockchain and Tax Compliance](https://www.license-token.com/wiki/blockchain-and-tax-compliance).
-```

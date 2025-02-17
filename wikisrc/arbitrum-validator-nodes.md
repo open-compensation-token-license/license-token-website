@@ -1,4 +1,3 @@
-```markdown
 # Exploring Arbitrum Validator Nodes: Enhancing Ethereum Scalability
 
 ### Dive Deeper
@@ -12,4 +11,3 @@ To understand more about Arbitrum and its unique Layer-2 solutions, you might wa
 - [Super Rare on Arbitrum](https://www.license-token.com/wiki/super-rare-on-arbitrum): Discover how Super Rare integrates with Arbitrum for enhanced NFT transactions.
 
 These resources provide detailed insights into how Layer-2 technologies like Arbitrum are essential for the future of blockchain scalability.
-```

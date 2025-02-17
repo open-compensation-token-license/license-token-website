@@ -1,4 +1,3 @@
-```markdown
 # Explore the Future of Art Authentication with NFTs
 
 **Understanding NFTs and Their Role**: [Learn more about NFTs](https://en.wikipedia.org/wiki/Non-fungible_token) and how they are authenticated through blockchain technology. For a deeper dive into the concept, explore [what are NFTs](https://www.license-token.com/wiki/what-are-nf-ts).
@@ -14,4 +13,3 @@
 **Innovations and Future Prospects**: Explore how technologies like [Layer 2 solutions](https://ethereum.org/en/developers/docs/layer-2-scaling/) and [AI](https://builtin.com/artificial-intelligence) are influencing the future of NFT authentication. You might also find [zero-knowledge proofs on blockchain](https://www.license-token.com/wiki/zero-knowledge-proofs-on-blockchain) relevant to this topic.
 
 By embracing these new frontiers, [Arts Institutions](https://www.theartnewspaper.com/) and the digital art community aim to create a sustainable and inclusive world for creators and collectors alike.
-```

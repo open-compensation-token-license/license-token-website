@@ -1,4 +1,3 @@
-```markdown
 # Exploring the Intersection of Cyberwarfare and Open Source License Compliance
 
 In the current digital age, the battleground of cyberwarfare has increasingly infiltrated the domain of software development and distribution. This scenario unfolds significant implications for open source software (OSS) usage, which has become integral to critical sectors like government, healthcare, finance, and infrastructure. Understanding and adhering to open source licenses is becoming both a priority and a challenge as national security concerns rise. This article delves into the complexities of license compliance during cyberwar, identifies associated risks, and offers strategies for mitigation.
@@ -50,4 +49,3 @@ To keep pace with evolving cyber strategies, organizations must incorporate open
 In conclusion, navigating open source licensing amidst cyber conflicts necessitates coordination across developers, policymakers, and communities. By strengthening compliance and cooperation, we can ensure OSS remains a valuable resource, supporting stability and resilience in both civilian and military realms.
 
 For further reading on open source compliance and its implications, consider exploring resources from the [Open Source Initiative](https://opensource.org/) or the [Free Software Foundation](https://www.fsf.org/).
-```

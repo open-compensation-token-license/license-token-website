@@ -1,4 +1,3 @@
-```markdown
 # GetGems NFT Project: Pioneering the Future of Digital Collectibles
 
 The ever-evolving landscape of [blockchain technology](https://www.license-token.com/wiki/what-is-blockchain) and digital assets is poised for transformation with the emergence of Non-Fungible Tokens (NFTs). Among the innovative projects at the forefront is [GetGems](https://getgemsproject.com), an exciting NFT initiative aimed at reshaping the concept of digital ownership. This comprehensive roadmap outlines GetGems' vision, phases, and unique differentiators that distinguish it within the thriving NFT ecosystem.
@@ -40,4 +39,3 @@ GetGems sets out to build an inclusive platform that democratizes access to digi
 ## Conclusion
 
 GetGems aims for significant impact on the digital collectibles market by emphasizing inclusivity, sustainability, and innovation. Learn more at [GetGems](https://getgemsproject.com). For further reading on NFTs, explore [What Are NFTs](https://www.license-token.com/wiki/what-are-nf-ts).
-```

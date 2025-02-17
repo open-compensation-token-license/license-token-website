@@ -1,4 +1,3 @@
-```markdown
 # [**Learn More About Drip Tokens**](https://www.coingecko.com)
 
 If you're interested in exploring more about Drip tokens and decentralized finance, CoinGecko is an excellent resource for current prices and trends. 
@@ -22,4 +21,3 @@ Ensure compliance with financial regulations and tax implications by consulting 
 For a comprehensive approach to managing your cryptocurrency portfolio, including effective strategies and market updates, stay informed and make decisions aligned with your financial goals. To delve deeper into blockchain technology, see [What is Blockchain](https://www.license-token.com/wiki/what-is-blockchain).
 
 **Note:** Always do your own research and consider getting advice from a financial professional when handling investments.
-```

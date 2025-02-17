@@ -1,4 +1,3 @@
-```markdown
 # Exploring the Motivations Behind Open Source Contributions
 
 Open source software has become a crucial driver of innovation and transparency in the technology industry. The essence of open source lies in publicly accessible code, allowing anyone to use, modify, and share it freely. At the heart of these projects are open source contributors—individuals who volunteer their expertise to develop and enhance software available to the public. Understanding their motivations can shed light on the sustainable growth of open source ecosystems.
@@ -34,4 +33,3 @@ Open source projects serve as a creative outlet for contributors looking to impa
 The [innovative funding for open source projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects) also plays a role in enabling contributors to pursue novel ideas and solutions, ensuring that financial constraints do not hinder innovation. For further exploration, consider the [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) initiatives that are crucial in maintaining the momentum and ensuring long-term viability of open source projects.
 
 Understanding the various motivations driving open source contributors helps project maintainers and organizations foster a more engaging and sustainable contributor community. By recognizing these motivations, stakeholders can better support the vibrant and evolving open source landscape.
-```

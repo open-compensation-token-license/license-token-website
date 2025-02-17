@@ -1,4 +1,3 @@
-```markdown
 # Promoting Your GitHub Sponsors Profile: A Comprehensive Guide
 
 GitHub Sponsors is a valuable platform for gaining financial support for your projects. This guide helps you maximize support by promoting your Sponsors profile effectively.
@@ -52,4 +51,3 @@ GitHub Sponsors is a valuable platform for gaining financial support for your pr
 For more detailed resources and tips, refer to the official [GitHub Sponsors Documentation](https://github.com/sponsors) and consider exploring [community discussions on GitHub](https://github.community/) to engage with peers about best practices. You can also learn more about [GitHub Sponsors](https://www.license-token.com/wiki/what-is-git-hub-sponsors) and explore [what countries support GitHub Sponsors](https://www.license-token.com/wiki/what-countries-support-git-hub-sponsors). Additionally, discover the [benefits of GitHub Sponsors for developers](https://www.license-token.com/wiki/benefits-of-git-hub-sponsors-for-developers) and understand [how GitHub Sponsors work](https://www.license-token.com/wiki/how-does-git-hub-sponsors-work). Lastly, consider [how to promote your GitHub Sponsors profile](https://www.license-token.com/wiki/how-to-promote-git-hub-sponsors-profile).
 
 Consistent interaction and adapting your strategies based on feedback are crucial for building a robust supporter community around your GitHub Sponsors profile.
-```

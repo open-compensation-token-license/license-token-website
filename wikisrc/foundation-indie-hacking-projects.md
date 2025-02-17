@@ -1,4 +1,3 @@
-```markdown
 # Indie Hacking Projects on Foundation: A New Era for NFT Creators
 
 Explore the dynamic world of NFT creation on the Foundation platform and see how indie hackers are driving innovation and creativity in this burgeoning digital frontier.
@@ -49,4 +48,3 @@ The convergence of creativity and technology on [Foundation](https://foundation.
 ---
 
 Discover more about indie hacking and NFT projects at [Foundation](https://foundation.app/) and ignite your creativity in the digital art world.
-```

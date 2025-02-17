@@ -1,4 +1,3 @@
-```markdown
 # Unlocking the Future: Funding Blockchain Research
 
 ## Introduction
@@ -64,4 +63,3 @@ Funding is critical as blockchain technology continues to redefine industries. B
 ---
 
 For more insights, explore our resources on blockchain and funding strategies [here](https://en.wikipedia.org/wiki/Blockchain).
-```

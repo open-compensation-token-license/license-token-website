@@ -1,4 +1,3 @@
-```markdown
 # Exploring Siemens' Decentralized Licensing: Transforming Software Management
 
 Discover how [Siemens](https://new.siemens.com/global/en.html) is revolutionizing software licensing with its decentralized approach, leveraging blockchain and peer-to-peer networks to enhance security, scalability, and user experience.
@@ -21,4 +20,3 @@ While offering enhanced security, flexibility, and reduced costs, Siemens’ app
 As Industry 4.0 progresses, Siemens’ decentralized model is expected to influence broader industry practices, paving the way for future integrations like smart contracts and predictive analytics. Discover Siemens' smart contract solutions [here](https://www.license-token.com/wiki/siemens-smart-contract-solutions) and explore the role of smart contracts on blockchain [here](https://www.license-token.com/wiki/smart-contracts-on-blockchain).
 
 Learn more about Siemens' role in advancing decentralized licensing by visiting their [official site](https://new.siemens.com/global/en.html).
-```

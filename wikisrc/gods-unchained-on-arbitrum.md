@@ -1,4 +1,3 @@
-```markdown
 # Gods Unchained: The Leap to Arbitrum
 
 Discover the [project's official website](https://godsunchained.com) for more detailed insights.
@@ -32,4 +31,3 @@ See how [Arbitrum is contributing to broader blockchain innovation](https://offc
 For comprehensive updates, visit [Gods Unchained's News & Announcements](https://godsunchained.com/blog/).
 
 These resources provide a greater perspective on how Gods Unchained's integration with Arbitrum could influence gaming and the broader NFT landscape. For more insights into the NFT space, explore [What are NFTs](https://www.license-token.com/wiki/what-are-nf-ts) and [Why are NFTs Valuable](https://www.license-token.com/wiki/why-are-nf-ts-valuable). Additionally, learn about [NFT Marketing](https://www.license-token.com/wiki/what-is-nft-marketing) and [NFT Marketplaces Comparison](https://www.license-token.com/wiki/nft-marketplaces-comparison). Finally, discover [World of Women (WoW) on Arbitrum](https://www.license-token.com/wiki/world-of-women-wo-w-on-arbitrum) to see another example of NFT projects leveraging Arbitrum.
-```

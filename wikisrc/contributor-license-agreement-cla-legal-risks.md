@@ -1,4 +1,3 @@
-```markdown
 # Understanding Contributor License Agreements (CLAs) in Open Source
 
 Contributor License Agreements (CLAs) are crucial tools for managing contributions in open source projects. They ensure contributors have the right to contribute and align with the project's licensing terms. Here, we outline the benefits and risks associated with CLAs.
@@ -37,4 +36,3 @@ By understanding and addressing the complexities of CLAs, open source projects c
 To further explore the financial aspects of open source projects, consider delving into [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) and [open source project funding strategies](https://www.license-token.com/wiki/open-source-project-funding-strategies). Understanding the [open source project economic viability](https://www.license-token.com/wiki/open-source-project-economic-viability) can also provide valuable insights into maintaining long-term project health.
 
 By leveraging these resources, open source projects can not only navigate the legal landscape effectively but also ensure sustainable growth and community involvement. For more on the challenges and strategies of monetizing open source, visit [monetizing open source projects guide](https://www.license-token.com/wiki/monetizing-open-source-projects-guide).
-```

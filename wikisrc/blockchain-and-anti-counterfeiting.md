@@ -1,4 +1,3 @@
-```markdown
 # Exploring the Role of Blockchain in Combating Counterfeiting
 
 Counterfeiting is a critical issue in the global economy, plaguing industries from luxury goods to pharmaceuticals. The potential of [blockchain technology](https://www.investopedia.com/terms/b/blockchain.asp) in addressing this issue is gaining recognition for its transparency and security features.
@@ -47,4 +46,3 @@ While blockchain offers immense promise, adoption challenges include scalability
 ## Conclusion
 
 Blockchain's role in anti-counterfeiting showcases its potential to transform industries by ensuring product authenticity and supply chain transparency. Continued innovation and collaboration in blockchain technology could significantly reduce counterfeiting across the globe.
-```

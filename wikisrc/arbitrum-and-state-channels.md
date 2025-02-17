@@ -1,4 +1,3 @@
-```markdown
 # Arbitrum and State Channels: Innovations in Blockchain Scalability
 
 ## Overview
@@ -39,4 +38,3 @@ For more on these innovative solutions, explore the official [Arbitrum website](
 ## Conclusion
 
 Arbitrum and state channels are critical for overcoming blockchain's scalability issues, advancing towards a more decentralized ecosystem with efficient and feasible transactions. As they evolve, their role will be foundational in future blockchain applications, including [sustainable blockchain practices](https://www.license-token.com/wiki/sustainable-blockchain-practices).
-```

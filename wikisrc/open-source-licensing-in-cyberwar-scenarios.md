@@ -1,4 +1,3 @@
-```markdown
 # Navigating Open Source Licensing in Cyberwarfare
 
 The expansive application and benefits of open source software in cybersecurity are undeniable, yet its usage in cyberwar scenarios raises intricate legal and ethical considerations. As critical sectors increasingly rely on open source solutions, understanding the implications of different [open source licenses](https://opensource.org/licenses) becomes imperative, especially in a domain entangled with geopolitics and security concerns.
@@ -24,4 +23,3 @@ The expansive application and benefits of open source software in cybersecurity 
 - [Ethical Funding Methods](https://www.license-token.com/wiki/ethical-funding-methods)
 
 In conclusion, while open source software offers significant advantages in terms of innovation and adaptability, its use in cyberwarfare requires careful consideration of legal, ethical, and security implications. By understanding the nuances of open source licensing and fostering a supportive community, organizations can effectively leverage open source solutions in defense contexts while maintaining ethical standards and ensuring sustainable development.
-```

@@ -1,4 +1,3 @@
-```markdown
 # SAP and Blockchain: Pioneering Smart Contracts for Next-Generation Enterprises
 
 ## Introduction
@@ -100,4 +99,3 @@ As interoperability continues to be a barrier to wider blockchain adoption, SAP 
 ## Conclusion
 
 SAP’s commitment to integrating blockchain technology and smart contracts into its enterprise solutions is transforming the way businesses operate. From increasing efficiency and transparency to enhancing security and compliance, SAP's blockchain initiatives are enabling organizations to navigate the complexities of the digital age effectively. As the technology matures, SAP is set to remain a key player in the blockchain space, continually delivering innovative solutions that empower enterprises to stay ahead in an increasingly competitive environment.
-```

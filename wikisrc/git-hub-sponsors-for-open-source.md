@@ -1,4 +1,3 @@
-```markdown
 # Support Open Source: Embrace GitHub Sponsors
 
 GitHub Sponsors is revolutionizing how open source projects sustain themselves financially. By facilitating direct financial support for developers and organizations, it's addressing the economic hurdles that many essential projects face. Here, we explore its importance, features, and transformative impact on the open source community.
@@ -13,4 +12,3 @@ GitHub Sponsors is revolutionizing how open source projects sustain themselves f
 - Find out [how to become a sponsored developer](https://www.license-token.com/wiki/how-to-become-a-sponsored-developer).
 
 Whether you're a developer or a contributor, GitHub Sponsors offers a pathway to financial stability, increased collaboration, and greater innovation within open source software. Embrace this platform to empower your projects and contribute to a thriving open source ecosystem.
-```

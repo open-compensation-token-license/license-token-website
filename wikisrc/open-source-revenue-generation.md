@@ -1,4 +1,3 @@
-```markdown
 # Open Source Revenue Generation: Balancing Community and Commerce
 
 ## Introduction
@@ -36,4 +35,3 @@ Open source revenue generation, while promising, faces several challenges:
 ## Conclusion
 
 Open source revenue generation requires a delicate balance between adhering to open source principles and achieving financial sustainability. By leveraging appropriate models and engaging actively with the community, open source projects can thrive while providing valuable software and services. The future of open source relies on finding innovative ways to fund and support the developers who contribute their time and expertise to building and maintaining these essential tools. For additional perspectives, refer to [Sustainable Funding for Open Source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) and [Open Source Funding Strategies](https://www.license-token.com/wiki/open-source-funding-strategies).
-```

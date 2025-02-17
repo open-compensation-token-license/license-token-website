@@ -1,4 +1,3 @@
-```markdown
 # Exploring Layer-2 Solutions: Arbitrum and Sidechains in Blockchain Scalability
 
 In the rapidly evolving blockchain space, scalability continues to pose significant challenges, particularly for networks like Ethereum. As the demand for decentralized applications (dApps) and digital assets grows, innovative layer-2 solutions have emerged to enhance the scalability narrative. This discussion will explore two key players in this space: Arbitrum and sidechains, examining their mechanisms and contributions to improving blockchain performance.
@@ -41,4 +40,3 @@ Even as Ethereum transitions to Ethereum 2.0 with a proof-of-stake consensus, la
 Arbitrum and sidechains are pivotal components in addressing blockchain scalability challenges. Arbitrum provides an efficient rollup solution compatible with Ethereum, while sidechains offer a flexible environment for innovation. Together, they drive the next phase of blockchain technology, fostering the development of robust dApps and supporting the vision of a decentralized future. Learn about [blockchain scalability solutions](https://www.license-token.com/wiki/blockchain-scalability-solutions) and the impact on the ecosystem.
 
 Explore more about [Ethereum's scalability solutions](https://ethereum.org/en/developers/docs/scaling/) and the diverse layer-2 technologies enhancing the ecosystem.
-```

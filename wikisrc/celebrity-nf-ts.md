@@ -1,4 +1,3 @@
-```markdown
 # Celebrity NFTs: The New Frontier of Fame and Ownership
 
 As blockchain technology reshapes industries, Non-Fungible Tokens (NFTs) stand out, particularly embraced by celebrities to redefine fame, ownership, and engagement. Explore how stars like [Paris Hilton](https://www.businessinsider.com/paris-hilton-sells-nft-collection-2021-4), [Snoop Dogg](https://decrypt.co/81250/snoop-dogg-solidifies-nft-king-status-new-nft-collaboration), and [Grimes](https://www.theverge.com/2021/3/1/22307339/grimes-nft-crypto-art-sale-nifty-gateway-ethereum) transform the entertainment industry through NFTs.
@@ -33,4 +32,3 @@ With technological advances, the future of NFTs promises innovation and integrat
 - [The Environmental Impact of Blockchain](https://www.weforum.org/agenda/2021/03/blockchain-energy-consumption-sustainability/)
 
 Celebrity NFTs illustrate the potential and complexity of this digital revolution, connecting fans and stars in novel ways. As this space evolves, it continues to redefine digital ownership and fandom.
-```

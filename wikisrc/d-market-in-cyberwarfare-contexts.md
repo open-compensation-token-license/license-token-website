@@ -1,4 +1,3 @@
-```markdown
 # DMarket and Cyberwarfare: Bridging the Virtual and Real Worlds
 
 ## Learn More About DMarket
@@ -20,4 +19,3 @@ Explore the intersection of ethics and technology further with resources from th
 ## Future of Digital Marketplaces
 
 Stay updated on digital marketplaces and cybersecurity trends by following [CoinDesk](https://www.coindesk.com/) for the latest in blockchain and digital commerce. You may also find it useful to read about [marketplaces for tokenized assets](https://www.license-token.com/wiki/marketplaces-for-tokenized-assets) and [nft marketplaces comparison](https://www.license-token.com/wiki/nft-marketplaces-comparison).
-```

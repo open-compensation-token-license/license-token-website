@@ -1,4 +1,3 @@
-```markdown
 # Exploring the Future with Arbitrum Rollups: Enhancing Ethereum's Scalability
 
 Ethereum's struggle with scalability due to its proof-of-work consensus mechanism is a well-known challenge in the blockchain community. However, [Arbitrum rollups](https://arbitrum.io/) offer a promising layer-2 solution by processing transactions off the main Ethereum chain. This article delves into how Arbitrum, through its technology and features, is shaping the future of the Ethereum ecosystem.
@@ -26,4 +25,3 @@ While Arbitrum shows significant promise, it faces the critical task of encourag
 Arbitrum rollups offer a compelling path forward for Ethereum's scalability woes. Through enhanced features and real-world applications, Arbitrum is set to play a transformative role in the blockchain ecosystem. By focusing on overcoming current challenges, Arbitrum holds the potential to redefine engagement with the Ethereum network for developers, businesses, and end-users alike, paving the way for a scalable and efficient decentralized future.
 
 Explore more about [Arbitrum's journey and updates](https://medium.com/offchainlabs) to stay informed about how this technology is shaping the blockchain landscape.
-```

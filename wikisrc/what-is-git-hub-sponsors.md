@@ -1,4 +1,3 @@
-```markdown
 # Understanding GitHub Sponsors: Fueling Open Source Development
 
 Open source projects are crucial to modern software development, but sustaining them financially can be challenging for contributors. This is where [GitHub Sponsors](https://github.com/sponsors) steps in, a program designed to support open source developers through direct financial contributions. This article explores how GitHub Sponsors operates and its impact on the open source community.
@@ -60,4 +59,3 @@ Projects may struggle to align sponsor expectations with community-driven goals.
 ## Conclusion
 
 [GitHub Sponsors](https://github.com/sponsors) is pivotal in supporting open source development by providing financial backing to developers, fostering sustainable software innovation. However, challenges such as accessibility and dependency must be strategically addressed to ensure broad, inclusive benefits for the community. Embracing such platforms could lead to a future where open source projects receive the recognition and support necessary for continued technological progress.
-```

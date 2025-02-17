@@ -1,4 +1,3 @@
-```markdown
 # Navigating Open Source Licenses: The Case of Theta Drop
 
 ## Introduction
@@ -48,4 +47,3 @@ Maintaining legal consultations helps navigate the complex terrain of open sourc
 ## Conclusion
 
 Effective OSS license management is crucial, as demonstrated by [Theta Drop](https://www.thetadrop.com/). By leveraging automation, community, and legal resources, the platform sets a model for integrating open source with commercial needs in the tech industry.
-```

@@ -1,4 +1,3 @@
-```markdown
 # For further reading on NFTs and their influence on digital marketing, you might find the following resources helpful:
 
 1. **[What Are NFTs? Non-Fungible Tokens Explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)** - A comprehensive guide from The Verge exploring NFTs and their implications in the digital world.
@@ -20,4 +19,3 @@
 9. **[Why Are NFTs Valuable](https://www.license-token.com/wiki/why-are-nf-ts-valuable)** - Discover the factors that contribute to the value of NFTs in the digital marketplace.
 
 Explore these resources to gain a deeper understanding of how NFTs and influencer marketing are reshaping digital interactions and commerce.
-```

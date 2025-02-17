@@ -1,4 +1,3 @@
-```markdown
 # Navigating Open Source Licensing: Challenges and Solutions
 
 ## Introduction
@@ -74,4 +73,3 @@ For further reading on these topics, please refer to the [Open Source Initiative
 For more detailed guidance on specific licenses and their implications, consider exploring resources at [Choose A License](https://choosealicense.com/).
 
 For additional insights into the intersection of open source and blockchain, you might find these articles interesting: [Tokenizing Open Source Licenses](https://www.license-token.com/wiki/tokenizing-open-source-licenses), [Open Source Licensing Models on Blockchain](https://www.license-token.com/wiki/open-source-licensing-models-on-blockchain), [Open Source License Compliance in Blockchain](https://www.license-token.com/wiki/open-source-license-compliance-in-blockchain), [The Future of Open Source with Blockchain Integration](https://www.license-token.com/wiki/the-future-of-open-source-with-blockchain-integration), and [Sustainability of Open Source through Tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization).
-```

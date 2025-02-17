@@ -1,4 +1,3 @@
-```markdown
 # Scaling Ethereum with Arbitrum: Unlocking the Blockchain's Potential
 
 In the rapidly evolving blockchain space, [Ethereum](https://www.license-token.com/wiki/what-is-blockchain) is renowned for pioneering decentralized applications and smart contracts. Despite its success, Ethereum faces significant hurdles, notably in scalability and transaction costs. Arbitrum emerges as a leading solution, enhancing Ethereum's efficiency without sacrificing its security or decentralization. Explore the depths of Arbitrum, its network upgrades, and their role in shaping a scalable future for blockchain technology.
@@ -41,4 +40,3 @@ Arbitrum is a pivotal player in realizing scalable, cost-efficient blockchain so
 Discover more about [Arbitrum](https://arbitrum.io) and its contributions to scaling Ethereum, paving the way for a brighter future in blockchain technology.
 
 Explore related topics such as [smart contracts on blockchain](https://www.license-token.com/wiki/smart-contracts-on-blockchain) and [public vs private blockchains](https://www.license-token.com/wiki/public-vs-private-blockchains) to deepen your understanding of blockchain technology.
-```

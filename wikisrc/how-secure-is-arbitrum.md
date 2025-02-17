@@ -1,4 +1,3 @@
-```markdown
 # Assessing the Security of Arbitrum: A Comprehensive Analysis
 
 Arbitrum, a Layer 2 scaling solution for Ethereum, has become prominent for its capacity to boost transaction speeds and lower costs. Understanding Arbitrum's security is essential for its credibility. This article examines Arbitrum's architecture, security measures, and resistance to vulnerabilities.
@@ -44,4 +43,3 @@ Official resources and audits can be accessed via the following:
 - [Ethereum’s Official Website](https://ethereum.org/en/)
 
 Stay informed through these resources to understand Arbitrum's role in the evolving decentralized landscape. For a broader understanding of blockchain, visit [What is Blockchain](https://www.license-token.com/wiki/what-is-blockchain).
-```

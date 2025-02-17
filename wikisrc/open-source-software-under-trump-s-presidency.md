@@ -1,4 +1,3 @@
-```markdown
 # Embracing Open Source: Reflection on Software Developments During Trump's Presidency
 
 Open source software (OSS) represents a transformative approach to software development, emphasizing collaboration, transparency, and community-driven innovation. During Donald Trump's presidency, from January 2017 to January 2021, the trajectory of open source software was influenced by technological advancements and federal policies, presenting both opportunities and challenges.
@@ -38,4 +37,3 @@ As Trump's presidency concluded, open source remained a pivotal element in advan
 Open source software under Trump's presidency showcased resilience and adaptability amid regulatory changes. Its substantial influence on technological advancement and economic opportunity underscored the importance of collaborative and transparent development practices. As future administrations continue to evolve, the principles and impact of open source software remain central to shaping the trajectory of technology.
 
 For more insights, visit the [Open Source Initiative](https://opensource.org/) and explore the evolving landscape of open source software.
-```

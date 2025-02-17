@@ -1,4 +1,3 @@
-```markdown
 # Open Source Funding for Small Projects: A Sustainable Path Forward
 
 Open source software has revolutionized the way we approach technology and development, empowering individuals and companies to collaborate in building innovative solutions. However, despite the importance and widespread adoption of these projects, securing funding, particularly for small open source projects, remains a persistent challenge. This article delves into the avenues available for obtaining funds, the importance of proper funding, and strategies for sustaining small open source endeavors.
@@ -34,4 +33,3 @@ To sustain funding for a small open source project, it's crucial to:
 For small open source projects, securing funding is not just a financial necessity but a catalyst for growth and innovation. By creatively leveraging available resources and establishing a sustainable funding model, developers can ensure the longevity and continued impact of their projects while keeping the spirit of open source collaboration alive. For more on open source funding strategies, visit the [Open Source Initiative](https://opensource.org/).
 
 For additional insights, explore related topics such as [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source), [software sustainability](https://www.license-token.com/wiki/software-sustainability), and [funding open source software](https://www.license-token.com/wiki/funding-open-source-software).
-```

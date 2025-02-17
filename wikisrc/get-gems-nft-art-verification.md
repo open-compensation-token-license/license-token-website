@@ -1,4 +1,3 @@
-```markdown
 # Revolutionizing Digital Ownership: GetGems and the Future of NFT Art Verification
 
 ## Introduction
@@ -46,4 +45,3 @@ While GetGems has achieved significant progress, it must constantly innovate to 
 ## Conclusion
 
 GetGems represents a pivotal breakthrough in NFT art verification. By addressing authenticity and provenance concerns through innovation, [GetGems](https://getgems.io/) is setting new benchmarks and ensuring the integrity of the digital art revolution. Artists seeking to protect their work and collectors investing in digital art can rely on GetGems for assurance in the dynamic world of NFTs.
-```

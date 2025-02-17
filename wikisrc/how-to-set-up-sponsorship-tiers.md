@@ -1,4 +1,3 @@
-```markdown
 # Crafting Effective Sponsorship Tiers
 
 Sponsorship tiers play a vital role in securing financial support for events, organizations, or projects. Creating an appealing offer for sponsors involves a strategic approach. Below is a guide to help you set up effective sponsorship tiers.
@@ -56,4 +55,3 @@ Sponsorship tiers are structured levels offering different involvement and recog
 Effectively structured sponsorship tiers can attract funding and enhance initiatives. By setting clear goals, researching, designing comprehensive packages, and maintaining strong relationships, you can ensure a successful sponsorship program.
 
 For more insights on setting up sponsorship systems, visit [Eventbrite's guide on sponsorships](https://www.eventbrite.com/blog) and [SponsorMyEvent](https://www.sponsormyevent.com/). Additionally, explore related topics such as [open-source sponsorship](https://www.license-token.com/wiki/open-source-sponsorship), [corporate sponsorship models](https://www.license-token.com/wiki/corporate-sponsorship-models), [open-source project sponsorship tips](https://www.license-token.com/wiki/open-source-project-sponsorship-tips), [open-source project sponsorship schemes](https://www.license-token.com/wiki/open-source-project-sponsorship-schemes), and [open-source project sponsorship platforms](https://www.license-token.com/wiki/open-source-project-sponsorship-platforms).
-```

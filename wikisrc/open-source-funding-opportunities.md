@@ -1,4 +1,3 @@
-```markdown
 # Open Source Funding Opportunities
 
 Open source software is a cornerstone of the modern digital ecosystem, yet sustaining open source projects demands substantial time, dedication, and resources. Funding opportunities have emerged as a vital solution to support developers and maintainers, ensuring the long-term sustainability of these projects.
@@ -99,4 +98,3 @@ For more information on supporting open source projects:
 - [Best Practices for Maintainers (opensource.guide)](https://opensource.guide/funding/)
 
 Explore more about [open source funding strategies](https://www.license-token.com/wiki/open-source-funding-strategies).
-```

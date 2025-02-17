@@ -1,4 +1,3 @@
-```markdown
 # License-Token: A New Dawn in Open Source Funding
 
 The License-Token model offers an innovative approach to funding open source projects by integrating blockchain technology with open source principles. This model provides sustainable funding through tokenization, allowing for decentralized governance and community empowerment.
@@ -29,4 +28,3 @@ The License-Token model offers an innovative approach to funding open source pro
 The License-Token model is a promising solution for sustainable OSS funding, blending blockchain innovations with the foundational values of open source. For its full potential, careful navigation of regulatory, technical, and cultural landscapes is vital.
 
 For more on blockchain innovations in open source, visit [Open Source Initiative](https://opensource.org/). For updates on blockchain technology, check [CoinDesk](https://www.coindesk.com/).
-```

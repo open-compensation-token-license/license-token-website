@@ -1,4 +1,3 @@
-```markdown
 # The Impact of Open-Source Tools in Cyber Warfare
 
 Open-source tools have become a pivotal part of cyber warfare tactics employed by a variety of actors worldwide. These tools offer a combination of cost-effectiveness, flexibility, and community-driven support that enable both offensive and defensive cyber operations. In the dynamic field of cybersecurity, open-source solutions are democratizing access to powerful technologies once exclusive to well-funded organizations.
@@ -35,4 +34,3 @@ As cyber threats evolve, there is a pressing need for global collaboration to en
 For further reading on the impact of open-source technologies in cybersecurity and best practices for mitigating risks, explore resources from [CISA](https://www.cisa.gov/) and [ENISA](https://www.enisa.europa.eu/). Additionally, understanding the [monetizing open-source projects guide](https://www.license-token.com/wiki/monetizing-open-source-projects-guide) can provide insights into sustainable practices that support ethical use and development of open-source tools.
 
 By addressing these challenges and opportunities, the cybersecurity community can harness the potential of open-source tools to build a safer digital world. The ongoing dialogue around [open-source project funding strategies](https://www.license-token.com/wiki/open-source-project-funding-strategies) will be crucial in shaping the future landscape of cyber warfare and defense.
-```

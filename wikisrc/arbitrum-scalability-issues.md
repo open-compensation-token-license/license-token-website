@@ -1,4 +1,3 @@
-```markdown
 # Tackling Arbitrum's Scalability Issues
 
 ## Introduction
@@ -54,4 +53,3 @@ With ongoing advancements and the looming implementation of [Ethereum 2.0](https
 Arbitrum has the potential to revolutionize Ethereum's scalability by addressing current challenges and leveraging community-driven innovation.
 
 For more information, visit the [Arbitrum community portal](https://discord.gg/arbitrum).
-```

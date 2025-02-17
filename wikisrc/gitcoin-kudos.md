@@ -1,4 +1,3 @@
-```markdown
 # Exploring Gitcoin Kudos: Strengthening the Open Source Community
 
 In the dynamic realm of open source technology, Gitcoin emerges as a central platform for incentivizing collaborative development. A unique feature of Gitcoin is its digital badges known as [Gitcoin Kudos](https://gitcoin.co/kudos), which are used for social recognition and enhancing community engagement.
@@ -30,4 +29,3 @@ Gitcoin's ongoing enhancement of Kudos aims to expand interoperability, integrat
 Gitcoin Kudos are more than digital acknowledgments—they encapsulate the spirit of appreciation and cooperation within the open source community, motivating contributions and fostering an environment conducive to innovation. As the open source landscape evolves, Gitcoin Kudos will continue to be integral to nurturing a connected and rewarding community experience.
 
 For more details on Gitcoin Kudos, visit the [Gitcoin Website](https://gitcoin.co).
-```

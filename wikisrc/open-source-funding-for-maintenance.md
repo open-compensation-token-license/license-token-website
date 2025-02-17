@@ -1,4 +1,3 @@
-```markdown
 # Open Source Funding for Maintenance
 
 Open source software plays a vital role in the modern technology landscape, forming the backbone of countless applications and systems. Despite its importance, maintaining open source projects remains a significant challenge, particularly in securing adequate funding to support their long-term upkeep and stability.
@@ -27,4 +26,3 @@ The balance between maintaining free access to software and securing sustainable
 Open source is at the heart of global innovation, and ensuring its sustainability is a responsibility shared by developers, companies, and governments alike. As the awareness around this issue grows, funding mechanisms continue to evolve, paving the way for a more stable and supported open source ecosystem. For a comprehensive guide on funding, visit [open source funding guide](https://www.license-token.com/wiki/open-source-funding-guide).
 
 For those interested in exploring more about the challenges and strategies in open source funding, consider reading about [open source funding challenges](https://www.license-token.com/wiki/open-source-funding-challenges) and [innovative funding for open source projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects). Additionally, understanding the broader context of [unpaid volunteer work](https://www.license-token.com/wiki/unpaid-volunteer-work) and its impact on project sustainability can provide valuable insights into the open source ecosystem.
-```

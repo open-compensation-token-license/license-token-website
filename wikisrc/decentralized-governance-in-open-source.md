@@ -1,4 +1,3 @@
-```markdown
 # [**Decentralized Governance in Open Source: Bridging Innovation and Community**](#)
 
 **Introduction**
@@ -60,4 +59,3 @@ Technological advancements, such as decentralized autonomous organizations (DAOs
 Decentralized governance is a fundamental shift towards empowering communities and fostering innovation through collective action, ensuring that software development remains a truly inclusive and transformative endeavor.
 
 Learn more about decentralized governance by exploring the [Linux Kernel](https://www.kernel.org/), the [Apache Software Foundation](https://www.apache.org/), and [Ethereum](https://ethereum.org/). Additionally, explore [Sustainability of Open Source through Tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization) for more on sustainable practices in open source.
-```

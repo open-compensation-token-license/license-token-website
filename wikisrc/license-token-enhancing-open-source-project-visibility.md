@@ -1,4 +1,3 @@
-```markdown
 # License-Token: Enhancing Open Source Project Visibility
 
 ## Introduction
@@ -62,4 +61,3 @@ For more information, visit the [License-Token Project Page](https://example-lic
 - Discover [Open Source Sustainability through Tokenization](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization).
 - Understand [Blockchain and Open Source Licensing](https://www.license-token.com/wiki/blockchain-and-open-source-licensing).
 - Investigate [Open Source Software and Blockchain Synergies](https://www.license-token.com/wiki/open-source-software-and-blockchain-synergies).
-```

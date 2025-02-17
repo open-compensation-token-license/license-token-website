@@ -1,4 +1,3 @@
-```markdown
 # Enhancing User Experience in the World of Arbitrum: Bridging the Gap in Blockchain Technology
 
 The blockchain landscape has undergone significant growth over the years, prominently featuring [Ethereum](https://www.license-token.com/wiki/what-is-blockchain) as a leader in decentralized applications (DApps) and smart contracts. However, Ethereum's rise has brought with it scalability challenges, often characterized by high gas fees and slower transaction times. Arbitrum emerges as a Layer 2 solution addressing these issues, thereby enhancing user experience. Below, we delve into Arbitrum's impact on these matters and its role in bridging the blockchain technology gap.
@@ -34,4 +33,3 @@ As blockchain technology evolves, user experience remains central to growth. Arb
 In summary, Arbitrum establishes a new benchmark for blockchain user experience by addressing Ethereum's transaction costs and speeds while maintaining security. Its commitment to user-centric design and collaboration with the blockchain community ensures its influential role in blockchain evolution, showcasing the importance of user experience in maximizing blockchain technology’s potential.
 
 For more information, explore the official [Arbitrum website](https://offchainlabs.com) and the [Arbitrum Foundation](https://abritrum.foundation).
-```

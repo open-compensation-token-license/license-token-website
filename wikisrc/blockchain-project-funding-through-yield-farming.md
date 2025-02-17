@@ -1,4 +1,3 @@
-```markdown
 # Blockchain Project Funding Through Yield Farming
 
 ## Introduction
@@ -48,4 +47,3 @@ Yield farming involves users providing liquidity to DeFi protocols in return for
 Yield farming provides a promising alternative for blockchain projects to secure funding and build vibrant communities. The decentralized nature aligns closely with the ethos of blockchain technology, promoting inclusivity and democratization. Resources like [Binance Academy's Overview on Yield Farming](https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi) and [CoinDesk's Insights on DeFi Yield Farming](https://www.coindesk.com/defi-yield-farming-explained) offer further insights into this transformative funding mechanism.
 
 Yield farming stands as a testament to the innovation within the crypto space, enabling projects to thrive in an evolving digital economy.
-```

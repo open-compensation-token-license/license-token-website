@@ -1,4 +1,3 @@
-```markdown
 # Exploring Fragment Telegram and TON Blockchain: A New Era in Digital Communication
 
 Fragment Telegram and the TON Blockchain are at the forefront of innovation, reshaping digital communication and finance with their focus on privacy, decentralization, and financial autonomy. This guide explores their origins, key features, and potential societal impacts.
@@ -36,4 +35,3 @@ The [TON Blockchain](https://ton.org/) underpins Fragment Telegram, offering sca
 Fragment Telegram and TON are revolutionizing how we communicate and handle finance digitally. By championing privacy, decentralization, and empowerment, they stand poised to redefine digital autonomy. Their journey, however, hinges on overcoming challenges through innovation and education.
 
 For more insights on blockchain and digital communication innovations, explore [TON's Official Site](https://ton.org/).
-```

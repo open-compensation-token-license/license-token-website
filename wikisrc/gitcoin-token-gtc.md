@@ -1,4 +1,3 @@
-```markdown
 # [**The Emergence and Impact of Gitcoin Token (GTC) in the Web3 Ecosystem**](https://gitcoin.co/)
 
 **Introduction**
@@ -66,4 +65,3 @@ The future of GTC and its role within Gitcoin is promising yet complex. As Web3 
 **Conclusion**
 
 Gitcoin Token (GTC) represents a significant step forward in the evolution of decentralized technology and community-driven development. Through its innovative approach to funding, governance, and incentivization, GTC has established itself as a cornerstone within the Web3 ecosystem. While challenges remain, particularly in achieving widespread adoption and managing market volatility, the potential impact of GTC on open-source and decentralized project development is profound. As Web3 continues to evolve, the principles and practices embodied by Gitcoin and its governance token could very well pave the path for future innovations, offering a glimpse into a more equitable and collaborative digital landscape. For more on the intersection of blockchain and open-source, see [blockchain for open-source funding](https://www.license-token.com/wiki/blockchain-for-open-source-funding).
-```

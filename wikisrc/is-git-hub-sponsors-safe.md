@@ -1,4 +1,3 @@
-```markdown
 # Is GitHub Sponsors Safe? A Comprehensive Guide
 
 ## Introduction
@@ -45,4 +44,3 @@ Users should be aware of phishing attacks and fake sponsorship programs, though 
 ## Conclusion
 
 GitHub Sponsors offers robust safety measures, from technical security protocols to financial safeguards. By following best practices and staying informed, users can securely support open-source projects through this platform. For further reading, explore [GitHub Sponsors vs Patreon](https://www.license-token.com/wiki/git-hub-sponsors-vs-patreon) and [What Countries Support GitHub Sponsors](https://www.license-token.com/wiki/what-countries-support-git-hub-sponsors).
-```

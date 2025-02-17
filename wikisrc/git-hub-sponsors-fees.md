@@ -1,4 +1,3 @@
-```markdown
 # Understanding GitHub Sponsors: Fees and Impact on Open Source
 
 ## Introduction
@@ -19,4 +18,3 @@ By supporting open source through GitHub Sponsors, you contribute to the sustain
 
 - Learn about [open source sponsorship](https://www.license-token.com/wiki/open-source-sponsorship) and how it can impact project sustainability.
 - Investigate [innovative funding for open source projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects) to explore alternative support methods.
-```

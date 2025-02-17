@@ -1,4 +1,3 @@
-```markdown
 # Navigating the Legal Frontiers: NFTs and Trademark Law
 
 As Non-Fungible Tokens (NFTs) redefine digital ownership and art, they also stir significant legal complexities, especially in trademark law. This article dives into this intersection, crucial for creators, buyers, and legal experts to comprehend.
@@ -52,4 +51,3 @@ For more information on NFTs and trademark laws, check out these resources:
 5. [NFT and Trademark](https://www.license-token.com/wiki/nft-and-trademark)
 
 Explore these links to stay informed on the dynamic and evolving intersection of law and digital innovation.
-```

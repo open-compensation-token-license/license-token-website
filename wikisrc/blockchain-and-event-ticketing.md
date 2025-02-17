@@ -1,4 +1,3 @@
-```markdown
 # Transforming Event Ticketing: The Blockchain Revolution
 
 ## Introduction
@@ -56,4 +55,3 @@ These platforms demonstrate blockchain's capacity to enhance transparency and re
 Blockchain offers an exciting opportunity to address longstanding problems in event ticketing, promising a more equitable and efficient system. As industries and stakeholders adapt, the blockchain revolution not only solves challenges but promises innovative experiences in event ticketing.
 
 For further reading, explore the potential impact of blockchain technology on various industries [here](https://blockgeeks.com/guides/what-is-blockchain-technology/).
-```

@@ -1,4 +1,3 @@
-```markdown
 # Arbitrum and Open Source License Compatibility: Bridging Innovation and Legal Frameworks
 
 Arbitrum is a leading Layer 2 scaling solution for the Ethereum blockchain, designed to enhance scalability, efficiency, and security. It leverages optimistic rollups to offload transaction processing from Ethereum's main chain, making transactions faster and more cost-effective without sacrificing security. A critical component of Arbitrum’s strategy is its approach to [open source licensing](https://opensource.org/licenses), ensuring it aligns with the decentralized ethos while maintaining legal compliance and fostering innovation.
@@ -44,4 +43,3 @@ For further exploration of open source and blockchain, consider these resources:
 - [Open Source Licensing Challenges and Solutions](https://www.license-token.com/wiki/open-source-licensing-challenges-and-solutions) for tackling common issues in open source projects.
 
 By integrating these resources, developers and stakeholders can better navigate the complexities of open source licensing and blockchain innovation, ensuring a sustainable and legally compliant development environment.
-```

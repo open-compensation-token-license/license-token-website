@@ -1,4 +1,3 @@
-```markdown
 # Unlocking the Potential of GitHub Sponsors for Developers
 
 Explore how [GitHub Sponsors](https://github.com/sponsors) is transforming open-source development by providing developers with essential financial support. Delve into the benefits such as democratizing support, powering individual growth, enhancing project sustainability, and strengthening community connections. For more insights on the value of NFTs in the open-source ecosystem, visit [Why Are NFTs Valuable](https://www.license-token.com/wiki/why-are-nf-ts-valuable).
@@ -14,4 +13,3 @@ Discover how companies benefit by supporting developers through sponsorships, al
 For a detailed exploration of how GitHub Sponsors empowers developers and transforms the open-source ecosystem, visit the [official GitHub Sponsors page](https://github.com/sponsors). Additionally, you can learn about the role of NFTs in open-source rewards at [The Role of NFTs in Open Source Rewards](https://www.license-token.com/wiki/the-role-of-nf-ts-in-open-source-rewards).
 
 To understand more about how GitHub Sponsors works, check out [How Does GitHub Sponsors Work](https://www.license-token.com/wiki/how-does-git-hub-sponsors-work).
-```

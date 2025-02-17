@@ -1,4 +1,3 @@
-```markdown
 # Bootstrapping a Blockchain Project: Strategies for Success
 
 ## Introduction
@@ -48,5 +47,3 @@ Maintaining frugality and financial discipline is key. Careful budgeting and pri
 ## Conclusion
 
 Bootstrapping a blockchain project demands creativity, strategic planning, and commitment. Focusing on internal strengths, community engagement, and lean operations can help navigate limited resources effectively. As blockchain technology evolves, bootstrapping skills will become invaluable, enabling visionary founders to transform their ambitions into groundbreaking realities.
-
-```

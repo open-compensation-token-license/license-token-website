@@ -1,4 +1,3 @@
-```markdown
 # Open Source Developer Grants Application: Empowering Innovation
 
 Open source development has become a cornerstone of modern software ecosystems, fostering collaboration and innovation across the globe. Despite its success, many open-source contributors face challenges in funding their work. That’s where **Open Source Developer Grants** come in, offering financial support to developers passionate about creating and maintaining open-source projects.
@@ -45,4 +44,3 @@ Here are some additional links to explore:
 Open Source Developer Grants are a lifeline for developers seeking to innovate and sustain their projects. They encourage creativity, bridge the funding gap, and ensure that open-source ecosystems thrive. If you’re passionate about contributing to the open-source community, applying for a grant can be a game-changer for realizing your project’s full potential. Explore available opportunities, craft a compelling proposal, and take that critical step toward fueling open-source innovation.
 
 For further reading on funding strategies, visit [Open Source Funding Strategies](https://www.license-token.com/wiki/open-source-funding-strategies) and [Innovative Funding for Open Source Projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects). Additionally, consider exploring [Open Source Developer Grants Overview](https://www.license-token.com/wiki/open-source-developer-grants-overview) and [Open Source Developer Support Programs](https://www.license-token.com/wiki/open-source-developer-support-programs) for comprehensive insights into the grant application process.
-```

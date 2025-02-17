@@ -1,4 +1,3 @@
-```markdown
 # Exploring Deutsche Telekom's Innovative Applications of Blockchain Technology
 
 ## Introduction
@@ -58,4 +57,3 @@ Deutsche Telekom's exploration of blockchain applications is a testament to the 
 As the company continues to experiment and collaborate with global partners in the blockchain space, its efforts will likely inspire other industry players to embrace blockchain as a catalyst for change. The ongoing transformation in telecommunications, driven by blockchain and related technologies, promises to unlock unprecedented opportunities for businesses, consumers, and society as a whole.
 
 In the coming years, as blockchain technology matures and its applications become more refined, Deutsche Telekom is well-positioned to lead by example, setting standards and paving the way for a more secure, efficient, and innovative telecommunications landscape worldwide.
-```

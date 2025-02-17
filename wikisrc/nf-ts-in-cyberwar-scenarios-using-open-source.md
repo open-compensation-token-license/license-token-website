@@ -1,4 +1,3 @@
-```markdown
 # The Role of NFTs in Cyberwarfare: Harnessing Openness in Digital Conflict
 
 ---
@@ -70,4 +69,3 @@ As the world progresses further into the digital age, exploring the role of NFTs
 For further reading, visit this [NFT Cyberwarfare Guide](https://example.com/nft-cyberwarfare-guide).
 
 ---
-```

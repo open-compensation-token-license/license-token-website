@@ -1,4 +1,3 @@
-```markdown
 # How to Buy NFTs: A Comprehensive Guide
 
 The realm of digital assets has expanded rapidly, and at the center of this evolution are NFTs, or Non-Fungible Tokens. These unique digital assets have captured the attention of various sectors, from art to sports. For those looking to enter this growing market, this guide outlines the steps to purchase NFTs effectively.
@@ -58,4 +57,3 @@ Investigate NFT categories including:
 ## Conclusion
 
 NFTs present exciting new opportunities to engage with digital media. While navigating this space, it's essential to research thoroughly and invest wisely. Equipped with this guide, you're ready to start purchasing NFTs. Stay informed, keep your assets secure, and enjoy your venture into digital collectibles. Happy collecting!
-```

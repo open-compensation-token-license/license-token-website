@@ -1,4 +1,3 @@
-```markdown
 # Deutsche Telekom and Smart Contracts: Pioneering the Future of Telecommunications
 
 In this era of technological advancement, Deutsche Telekom is emerging as a leader in integrating telecommunications with blockchain through the use of smart contracts. This article explores Deutsche Telekom's innovative initiatives, highlighting the advantages and potential challenges of this technology in the telecom sector.
@@ -64,4 +63,3 @@ Managing network interactions to support seamless 5G connectivity.
 Deutsche Telekom is at the forefront of integrating smart contracts into telecommunications, setting an industry benchmark for innovation and efficiency. As the landscape transforms, smart contracts will become essential in delivering enhanced services and experiences.
 
 For more insights, visit [Deutsche Telekom's Blockchain Initiatives](https://www.telekom.com/en/blog/group/topic/blockchain).
-```

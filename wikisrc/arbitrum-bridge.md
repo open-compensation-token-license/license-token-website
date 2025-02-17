@@ -1,4 +1,3 @@
-```markdown
 # Navigating the Arbitrum Bridge: Enhancing Ethereum Scalability
 
 ## Learn More About Arbitrum
@@ -18,4 +17,3 @@ For more insights into the world of NFTs and their impact on blockchain, you can
 To understand the role of NFTs in open source rewards, visit [The Role of NFTs in Open Source Rewards](https://www.license-token.com/wiki/the-role-of-nf-ts-in-open-source-rewards). Finally, for a deep dive into the intersection of NFTs and blockchain, check out [NFTs on Arbitrum with Open Source Solutions](https://www.license-token.com/wiki/nf-ts-on-arbitrum-with-open-source-solutions).
 
 Through these resources, you can stay informed about the evolving landscape of blockchain scalability and how Arbitrum plays a pivotal role in it.
-```

@@ -1,4 +1,3 @@
-```markdown
 # Navigating the Complex Landscape of Blockchain Project Funding Regulation
 
 As blockchain technology increasingly transforms the financial sector, understanding the regulatory landscape surrounding blockchain project funding becomes crucial. This guide explores the evolving framework governing funding through mechanisms like Initial Coin Offerings (ICOs), Security Token Offerings (STOs), and decentralized autonomous organizations (DAOs). It addresses the challenges in defining legal status, compliance, cross-border considerations, and highlights regulatory approaches in the U.S., EU, and Asia-Pacific alongside future outlooks.
@@ -31,4 +30,3 @@ For more detailed insights:
 The global dialogue among all stakeholders is vital to promote innovation while ensuring market integrity and investor protection. This balanced approach will facilitate the secure growth of blockchain within the financial ecosystem. 
 
 Explore more about the future of blockchain regulation in related articles [here](https://www.coindesk.com/policy/2022/11/30/the-state-of-regulation-in-2022-and-whats-to-come-in-2023/) and [here](https://hoprnet.org/blog/the-future-of-blockchain-regulation).
-```

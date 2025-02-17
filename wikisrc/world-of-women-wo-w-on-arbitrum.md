@@ -1,4 +1,3 @@
-```markdown
 # Embracing Diversity in the Metaverse: World of Women on Arbitrum
 
 ## Introduction
@@ -40,4 +39,3 @@ Looking ahead, the integration of Arbitrum opens up new possibilities for World 
 World of Women's adoption of Arbitrum marks a pivotal moment in the project's evolution, blending technology with its core values of diversity and inclusivity. By leveraging Arbitrum's capabilities, WoW is not only transforming the way NFTs are experienced but also reinforcing its commitment to making art and the digital world accessible to all.
 
 As the NFT landscape continues to evolve, World of Women remains a beacon of empowerment, reminding us that the metaverse should be as diverse and inclusive as the world we inhabit. Through its art, community, and technological advancements, WoW is setting a new standard for how NFTs can contribute to a more equitable future in the digital age. Whether you're an avid collector or a curious newcomer, World of Women on Arbitrum invites you to join in celebrating the beautiful tapestry of human diversity in the metaverse.
-```

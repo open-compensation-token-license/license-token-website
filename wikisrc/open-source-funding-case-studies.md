@@ -1,4 +1,3 @@
-```markdown
 # Open Source Funding Case Studies
 
 Open source software is a cornerstone of the modern tech ecosystem, yet funding these projects remains a challenge. Enthusiastically maintained by individuals and communities, they often suffer from financial instability despite their widespread adoption. However, several innovative funding models have emerged over the years to address this issue. Below are a few notable case studies showcasing funding strategies that other open source projects can learn from.
@@ -38,4 +37,3 @@ The [Mozilla Foundation](https://foundation.mozilla.org/), creators of [Firefox]
 By learning from these case studies, open source projects can explore creative funding approaches to ensure long-term sustainability without compromising their core principles. For further exploration of open source funding, consider visiting [Open Source Funding Case Studies](https://www.license-token.com/wiki/open-source-funding-case-studies).
 
 For additional insights into sustainable funding, check out [Sustainable Funding for Open Source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) and explore [Open Source Project Sponsorship Models](https://www.license-token.com/wiki/open-source-project-sponsorship-models). To understand the broader context, you might also be interested in [Open Source Sponsorship](https://www.license-token.com/wiki/open-source-sponsorship) and [Open Source Revenue Generation](https://www.license-token.com/wiki/open-source-revenue-generation).
-```

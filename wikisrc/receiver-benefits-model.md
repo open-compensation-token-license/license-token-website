@@ -1,4 +1,3 @@
-```markdown
 # The Receiver Benefits Model: Unlocking the Value in Open Source Contributions
 
 In the dynamic world of [open source software](https://opensource.com), the *Receiver Benefits Model* provides a strategic framework for understanding how companies and individuals can maximize value through open source engagement. This model highlights several key benefits that can be leveraged by engaging with open source communities and projects.
@@ -28,4 +27,3 @@ Engagement with open source communities not only unlocks inherent value but also
 The Receiver Benefits Model emphasizes the strategic advantages of engaging with open source software. By understanding and leveraging these benefits, companies and individuals can not only enhance their technological capabilities but also contribute to a broader ecosystem of innovation and collaboration. For more insights and impacts of open source, explore the [Open Source Initiative](https://opensource.org/osd).
 
 In conclusion, the open source model offers a plethora of opportunities for cost savings, innovation, community engagement, and security enhancements. By aligning with these principles, businesses can ensure a sustainable and forward-thinking approach to software development and deployment. For further exploration, consider the potential of [innovative funding for open source projects](https://www.license-token.com/wiki/innovative-funding-for-open-source-projects) and how it can drive future growth.
-```

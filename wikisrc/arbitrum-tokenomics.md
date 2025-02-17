@@ -1,4 +1,3 @@
-```markdown
 # Arbitrum Tokenomics: A Comprehensive Overview
 
 Arbitrum has quickly garnered attention as a leading layer-2 scaling solution for Ethereum, mainly due to its capability to enhance transaction speed and reduce fees while retaining Ethereum's security benefits. The tokenomics of Arbitrum play a pivotal role in its network functionality, participant incentives, and alignment of interests. This article explores Arbitrum's tokenomics and its impact on network performance, adoption, and long-term viability.
@@ -44,4 +43,3 @@ For more information on Arbitrum, visit the [official website](https://arbitrum.
 ---
 
 For those looking to deepen their understanding of layer-2 solutions and their impact on the blockchain industry, Arbitrum's evolving tokenomics provide a compelling study of how strategic economic models can drive success in decentralized technologies.
-```

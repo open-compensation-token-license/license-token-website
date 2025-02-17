@@ -1,4 +1,3 @@
-```markdown
 # Further Reading and Resources
 
 - To learn more about [NFTs and their impact on the music industry](https://www.musicbusinessworldwide.com/how-musicians-are-getting-paid-more-through-nfts/), check out this article from Music Business Worldwide.
@@ -16,4 +15,3 @@
 
 - Learn about [eco-friendly blockchain platforms](https://www.coindesk.com/learn/2023/07/14/whats-the-deal-with-green-cryptocurrencies-a-guide-to-low-energy-blockchains/) like those using Proof-of-Stake consensus to reduce the environmental impact of NFTs.
 - Explore [sustainable blockchain practices](https://www.license-token.com/wiki/sustainable-blockchain-practices) and their importance in the NFT space.
-```

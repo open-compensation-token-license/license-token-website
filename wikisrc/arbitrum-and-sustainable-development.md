@@ -1,4 +1,3 @@
-```markdown
 # [**Title: Arbitrum and Sustainable Development: Bridging Blockchain and Ecology**](https://offchainlabs.com/)
 
 ## Introduction
@@ -40,4 +39,3 @@ Despite its advantages, the path towards completely sustainable blockchain syste
 ## Conclusion
 
 The integration of blockchain technology with sustainable development is more than a technological advancement; it's an imperative for the future of digital economies. As we move forward, the role of solutions like Arbitrum in achieving [sustainable development goals](https://www.license-token.com/wiki/sustainability-of-open-source-through-tokenization) will become increasingly significant.
-```

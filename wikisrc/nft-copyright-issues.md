@@ -1,4 +1,3 @@
-```markdown
 # Navigating NFT Copyright Issues: A Comprehensive Guide
 
 ## Introduction
@@ -94,4 +93,3 @@ With regulations evolving, platforms like [CoinTelegraph](https://cointelegraph.
 Stakeholders need to balance innovation and protection in the NFT arena. Understanding copyright implications is vital for the ecosystem's harmonious growth. For continuous updates, follow [NFT News](https://nftplazas.com/).
 
 Enhancing awareness can unlock NFTs' potential while maintaining a creative, sustainable digital environment. For more on NFT marketing, explore [What is NFT Marketing](https://www.license-token.com/wiki/what-is-nft-marketing).
-```

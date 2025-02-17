@@ -1,4 +1,3 @@
-```markdown
 # Exploring Blockchain Variants: Public, Private, Consortium, and Hybrid
 
 Blockchain technology is revolutionizing industries by ensuring security, transparency, and immutability of transactions across decentralized networks. However, not all blockchains are the same. There are several types designed to meet various needs: public, private, consortium, and hybrid. This guide delves into the characteristics, advantages, and challenges of each.
@@ -72,4 +71,3 @@ Healthcare leverages consortium and hybrid models to secure patient data and str
 ## Conclusion
 
 Different blockchain types cater to diverse needs. Public blockchains offer openness, while private ones provide controlled environments. Consortium networks suit collaborative industries, and hybrids offer flexibility. Understanding these differences is crucial for strategic leveraging of blockchain technology in various sectors. For further exploration, consider the information provided on [Blockchain Technology](https://en.wikipedia.org/wiki/Blockchain) for a broader perspective. Additionally, explore [types of blockchains](https://www.license-token.com/wiki/types-of-blockchains) and [public vs private blockchains](https://www.license-token.com/wiki/public-vs-private-blockchains) for more insights.
-```

@@ -1,4 +1,3 @@
-```markdown
 # Cancelling a GitHub Sponsorship: A Step-by-Step Guide
 
 When circumstances change, you may find it necessary to reconsider your involvement in supporting open-source projects through [GitHub Sponsors](https://github.com/sponsors). This guide walks you through the process of cancelling a sponsorship, outlines the implications, and suggests alternatives.
@@ -36,5 +35,3 @@ When circumstances change, you may find it necessary to reconsider your involvem
 Cancelling a GitHub sponsorship is straightforward but requires thoughtful consideration of its impacts. Exploring alternatives can maintain your connection with the open-source community, supporting innovation in ways that suit your circumstances. For further details, refer to [GitHub's official guide](https://help.github.com/en/articles/canceling-a-github-sponsorship) on sponsorship handling.
 
 Remember, your involvement, whether through funding or alternative support, has a significant impact on sustaining open-source projects. For additional reading, check out [Benefits of GitHub Sponsors for Developers](https://www.license-token.com/wiki/benefits-of-git-hub-sponsors-for-developers).
-
-```

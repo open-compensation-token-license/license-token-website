@@ -1,4 +1,3 @@
-```markdown
 # Liberty Cats (LCAT) on Arbitrum: Pioneering NFT Innovation
 
 Explore a new wave in the NFT ecosystem with [Liberty Cats (LCAT)](https://www.libertycats.io) on the Arbitrum network. This innovative project introduces a vibrant collection of feline-themed digital assets, bridging creativity, community, and advanced blockchain technology.
@@ -36,4 +35,3 @@ Exploring further integration with DeFi and gaming platforms could amplify Liber
 Liberty Cats (LCAT) on Arbitrum challenge the status quo in the NFT landscape by combining artistic flair with cutting-edge technology. This initiative has the potential to lead the next phase of NFT projects, characterized by inclusivity and democratization. Whether for digital art aficionados or tech innovators, Liberty Cats represent a significant stride in the NFT frontier.
 
 Discover more about Liberty Cats [here](https://www.libertycats.io) and join a transformative journey in the NFT world.
-```

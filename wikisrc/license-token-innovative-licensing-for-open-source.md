@@ -1,4 +1,3 @@
-```markdown
 # License-Token: Innovative Licensing for Open Source
 
 ## Introduction
@@ -59,4 +58,3 @@ For further information, explore the possibilities of blockchain applications in
 ---
 
 Thank you for exploring the potential of License-Token in reshaping open-source licensing.
-```

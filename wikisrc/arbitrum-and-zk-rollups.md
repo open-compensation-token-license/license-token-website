@@ -1,4 +1,3 @@
-```markdown
 # Arbitrum vs. zk-Rollups: A Comprehensive Comparison
 
 In the rapidly evolving realm of blockchain technology, layer 2 solutions have emerged as critical to scaling networks, reducing transaction costs, and increasing throughput. Among the most prominent solutions are Arbitrum and zk-Rollups. Both offer unique mechanisms and advantages that cater to different use cases.
@@ -65,4 +64,3 @@ The decision between Arbitrum and zk-Rollups hinges on specific use case needs. 
 For more on layer 2 solutions and their impact on blockchain technology, explore [Ethereum's innovations](https://ethereum.org/en/). Both Arbitrum and zk-Rollups continue to evolve, offering advancements for scalable and efficient blockchain systems. Additionally, you can explore related topics like [smart contracts on blockchain](https://www.license-token.com/wiki/smart-contracts-on-blockchain) and [public vs. private blockchains](https://www.license-token.com/wiki/public-vs-private-blockchains).
 
 To further understand the role of Arbitrum in the NFT space, check out [World of Women (WoW) on Arbitrum](https://www.license-token.com/wiki/world-of-women-wo-w-on-arbitrum) and [Super Rare on Arbitrum](https://www.license-token.com/wiki/super-rare-on-arbitrum).
-```

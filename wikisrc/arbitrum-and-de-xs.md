@@ -1,4 +1,3 @@
-```markdown
 # Unlocking the Future of DeFi: Arbitrum and Decentralized Exchanges
 
 ## Introduction
@@ -65,4 +64,3 @@ Explore these advancements and more:
 - [Uniswap](https://uniswap.org/)
 - [SushiSwap](https://sushi.com/)
 - [Balancer](https://balancer.fi/)
-```

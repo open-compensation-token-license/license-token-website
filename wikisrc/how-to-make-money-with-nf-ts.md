@@ -1,4 +1,3 @@
-```markdown
 # Unlocking Potential: How to Make Money with NFTs
 
 ## Introduction
@@ -47,4 +46,3 @@ Platforms like [Fractional.art](https://fractional.art) allow shared ownership o
 ## Conclusion
 
 The NFT landscape is filled with potential but requires thorough research and strategic planning. By staying informed and adaptable, creators and investors can significantly benefit from the vast opportunities NFTs present, while being mindful of market volatility and potential scams. For more on NFT scams to avoid, see [this article](https://www.license-token.com/wiki/nft-scams-to-avoid).
-```

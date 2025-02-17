@@ -1,4 +1,3 @@
-```markdown
 # [Telegram's Official Website](https://telegram.org/)
 
 For further reading, these links provide insights into the privacy frameworks and measures currently adopted by prominent communication platforms and legislation:
@@ -15,4 +14,3 @@ Additionally, explore these related topics for a broader understanding of the di
 - [What is Fragment Telegram](https://www.license-token.com/wiki/what-is-fragment-telegram)
 - [Sustainable Blockchain Practices](https://www.license-token.com/wiki/sustainable-blockchain-practices)
 - [Tokenizing Open Source Licenses](https://www.license-token.com/wiki/tokenizing-open-source-licenses)
-```

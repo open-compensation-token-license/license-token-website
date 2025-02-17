@@ -1,4 +1,3 @@
-```markdown
 # General Electric's Strategic Use of Blockchain in Supply Chain Management
 
 In the digital age, blockchain has become a transformative technology, shaping industries by enhancing transparency, security, and efficiency. General Electric (GE) is leveraging blockchain to revolutionize its supply chain operations, aiming for enhanced efficiency and innovation. Here’s an exploration of how GE is implementing blockchain, its benefits, challenges, and potential future impacts.
@@ -38,4 +37,3 @@ GE's diverse business sectors make supply chain management complex. Blockchain o
 GE's embrace of blockchain underscores its innovative spirit, aiming to resolve supply chain challenges through enhanced transparency and efficiency. Despite facing substantial hurdles, the future benefits for both GE and the broader industry are promising. For a deeper dive, explore GE's [Innovation Platform on Blockchain](https://www.ge.com/reports/tag/blockchain/).
 
 By pioneering these developments, GE positions itself as a leader, offering a model for others looking to leverage blockchain technology in their operations. Discover more about [blockchain and supply chain transparency](https://www.license-token.com/wiki/walmart-s-blockchain-for-supply-chain-transparency).
-```

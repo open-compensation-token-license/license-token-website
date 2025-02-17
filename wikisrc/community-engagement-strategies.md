@@ -1,4 +1,3 @@
-```markdown
 # Community Engagement Strategies in Open Source Projects
 
 Engaging a vibrant community is crucial to the success and sustainability of open-source projects. Below are some effective strategies to enhance community involvement:
@@ -27,4 +26,3 @@ Engaging a vibrant community is crucial to the success and sustainability of ope
 Building a thriving open-source community involves consistent effort, inclusivity, and clear communication. These strategies create an environment that nurtures innovation and collaboration, resulting in successful project outcomes. For additional insights into sustainable practices, consider exploring [sustainable funding for open source](https://www.license-token.com/wiki/sustainable-funding-for-open-source) and [software sustainability](https://www.license-token.com/wiki/software-sustainability).
 
 By integrating these strategies and resources, open-source projects can achieve greater community engagement and long-term success. Whether you're looking to improve communication, streamline contributions, or enhance leadership, these approaches offer a comprehensive framework for fostering a dynamic and inclusive open-source community.
-```

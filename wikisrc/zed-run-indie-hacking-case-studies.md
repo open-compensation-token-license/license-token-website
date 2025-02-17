@@ -1,4 +1,3 @@
-```markdown
 # Zed Run: A Case Study in Indie Hacking the Digital Racetrack
 
 ## Introduction
@@ -64,4 +63,3 @@ Zed Run illustrates the potential of indie hacking within the NFT space, showcas
 As the NFT space grows, [Zed Run](https://zed.run) is poised to refine its offering further, adapt to new technologies like augmented reality, and expand its community. For indie hackers, Zed Run serves as a powerful template: a reminder that with vision, perseverance, and engagement, successful ventures are possible even in the most competitive digital landscapes.
 
 Whether Zed Run remains a frontrunner in the NFT space or simply lays the groundwork for future innovations, its influence on the industry is undeniable. It exemplifies the creative potential of indie hacking, setting the stage for future digital experiences that are as unexpected as they are captivating.
-```

@@ -1,4 +1,3 @@
-```markdown
 # Exploring Telegram's Fragment Auction: A Step-by-Step Guide
 
 ## Introduction
@@ -56,4 +55,3 @@ With Telegram's growing user base, fragment auctions are set to evolve, providin
 The Fragment Telegram auction process is an innovative way to secure unique usernames, aiding both personal and business branding. By understanding the system and bidding strategically, participants can benefit significantly in this evolving digital marketplace.
 
 _For more details on participating in Fragment Telegram auctions, visit [Telegram's official website](https://telegram.org). Learn about auction techniques on [Wikipedia](https://en.wikipedia.org/wiki/Auction)._
-```

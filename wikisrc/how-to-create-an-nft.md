@@ -1,4 +1,3 @@
-```markdown
 # Create Your First NFT: A Detailed Guide
 
 ## Dive into the NFT Universe
@@ -34,4 +33,3 @@ Are you ready to turn your digital creations into NFTs? Explore this comprehensi
 ## Final Thoughts
 
 By understanding these steps and leveraging industry resources, you'll be well-positioned to create and market your NFTs successfully. Stay informed with the latest trends and tools to maximize your impact in the dynamic world of digital assets. [Explore the NFT ecosystem further](https://nftnow.com/) for more insights and updates. Additionally, consider the [sustainability of NFTs](https://www.license-token.com/wiki/nft-sustainability) as you embark on your NFT journey.
-```

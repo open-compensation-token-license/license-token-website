@@ -1,4 +1,3 @@
-```markdown
 # Open Source Project Financial Health
 
 The financial health of an open-source project is a critical aspect that determines its sustainability and long-term success. While open-source projects thrive on community contributions and volunteer work, financial stability ensures development continuity, proper maintenance, and innovation. Let’s dive into why financial health matters and some of the ways open-source projects maintain it.
@@ -34,4 +33,3 @@ Open-source projects often face challenges like dependency on limited funding, l
 In conclusion, ensuring the financial health of an open-source project is critical for its long-term growth and sustainability. Projects must build diverse, dependable revenue streams while maintaining transparency and staying true to the open-source ethos. With robust financial backing, these projects can continue to power innovation in the tech world.
 
 For more insights, visit resources like the [Linux Foundation](https://www.linuxfoundation.org/) or explore tools for funding like [GitHub Sponsors](https://github.com/sponsors).
-```

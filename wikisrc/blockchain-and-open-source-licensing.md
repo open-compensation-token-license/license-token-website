@@ -1,4 +1,3 @@
-```markdown
 # Exploring the Symbiosis: Blockchain and Open Source Licensing
 
 ## Understanding Blockchain Technology
@@ -69,4 +68,3 @@ For more insights, visit [The Linux Foundation](https://www.linuxfoundation.org/
 ---
 
 For a broader understanding, visit the linked resources above to explore in-depth information on blockchain and open source licensing.
-```

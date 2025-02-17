@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between permissive and copyleft licenses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permissive licenses, such as MIT and Apache, allow software to be used with minimal restrictions, including integration into proprietary software. Copyleft licenses, like GPL, require derivatives to maintain the same licensing terms, ensuring the software remains open source."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change the license of my open source project later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, changing the license is possible, but it depends on the existing contributors and the terms of the current license. If you are the sole author, you can relicense. With multiple contributors, their consent is required, or you must adhere to the original license."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are open source licenses the same as free software licenses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While they often overlap, open source licenses focus on practical software freedom aspects, whereas free software licenses emphasize ethical and philosophical software freedom. Many licenses qualify as both."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to include a license with my GitHub repository?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, including an open source license is crucial for clarifying usage, modification, and distribution terms, protecting both the author and users. GitHub offers guidance on choosing a suitable license."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure license compliance in my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To ensure license compliance, use tools such as FOSSA, WhiteSource, or GitHub's Licensee to scan dependencies and verify adherence to all included licenses."
+      }
+    }
+  ]
+}

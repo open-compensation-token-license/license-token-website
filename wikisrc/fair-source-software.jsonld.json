@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Fair Source Software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fair Source Software is a licensing model that combines elements of both open-source and proprietary software. It allows users to freely use, modify, and distribute software for non-commercial purposes while requiring commercial entities to obtain a license or permission for commercial use, often involving financial remuneration to the developers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key characteristics of Fair Source Software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key characteristics include source availability, clear licensing terms differentiating non-commercial and commercial use, and sustainability for developers through commercial licensing options."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Fair Source Software compare to open-source and proprietary software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fair Source Software provides source access like open-source software, but requires commercial licenses for businesses unlike most open-source models. It offers more modification and distribution rights than proprietary software while allowing monetization through commercial licenses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of Fair Source Software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Benefits include enhanced developer revenue through commercial licenses, community collaboration due to source code availability, clear usage guidelines, and flexibility for non-commercial users."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the criticisms and limitations of Fair Source Software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Criticisms include perceived restrictions compared to open-source licenses, potential community fragmentation due to commercial licensing, and legal complexities in navigating dual licensing terms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you provide examples of Fair Source Software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notable examples include MongoDB with its Server Side Public License, Redis Labs with the Redis Source Available License, and CockroachDB with the Business Source License."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does Fair Source Software address?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fair Source Software addresses key challenges such as monetization and long-term maintenance for open-source projects by allowing commercial entities to obtain licenses for commercial use."
+      }
+    }
+  ]
+}

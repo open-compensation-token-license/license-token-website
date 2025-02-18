@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is open source development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open source development refers to the collaborative process of creating software where the source code is made publicly available for anyone to view, modify, and distribute. This model fosters innovation, transparency, and community-driven improvements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How did open source development emerge in India?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The roots of open source development in India can be traced back to the early 2000s, supported by the proliferation of internet access and growth of the IT sector. Prominent Indian Linux distributions and contributions to projects like the Linux kernel marked India's entry into the open source landscape."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who are some key contributors to open source development in India?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notable contributors include Sundar Pichai, Srishti Khattri, and Madhusudan Upadhyay, who have made significant contributions to projects like Kubernetes and Apache Hadoop."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some notable open source projects that originated in India?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Significant projects include Bhoomi (a land management system), Navya (an education management platform), and initiatives related to OpenStack. These projects demonstrate India's innovative capacity in the open source domain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does open source development impact India's tech industry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open source development enhances skill development, reduces business costs, supports the start-up ecosystem, and contributes to global recognition of Indian tech talent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What government initiatives support open source development in India?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Initiatives include the National Policy on Software Products, Digital India Initiative, backing from NITI Aayog, and the Open Source Innovation Fund, fostering a favorable environment for open source."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the challenges and opportunities in India's open source development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include funding, awareness, skill gaps, and intellectual property concerns, while opportunities lie in education, government and private sector collaboration, global collaborations, and emerging technologies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future outlook for open source development in India?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future looks promising with growing community engagement, increased government support, technological advancements, international collaborations, and a thriving start-up ecosystem embracing open source."
+      }
+    }
+  ]
+}

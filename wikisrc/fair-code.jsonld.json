@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Fair Code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fair code refers to a set of principles and practices ensuring ethical and equitable software development. It emphasizes not only the openness of source code but also fair distribution of benefits and responsibilities among developers, users, and stakeholders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Fair Code differ from Open Source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While both promote source code access, Fair Code requires commercial users to contribute back via financial means or code, ensuring mutual benefits, unlike traditional open source which allows unrestricted use, modification, and distribution."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the core principles of Fair Code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fair Code is built upon reciprocity, transparency, sustainability, and community-centric values, ensuring ethical engagement and long-term maintenance of software projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of adopting Fair Code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fair Code promotes sustainable development, balances ecosystem interests, ensures quality contributions, and fosters strong community engagement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges does Fair Code face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adopting Fair Code can be challenging due to organizational biases towards traditional open-source licenses, potential incompatibility with existing licenses, and perceptions of increased restrictiveness."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can one implement Fair Code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing Fair Code involves selecting an appropriate license, defining clear contribution guidelines, maintaining transparency, and actively engaging the community in decision-making."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you give examples of projects using Fair Code principles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Examples include CockroachDB with its Business Source License and MongoDB with its Server Side Public License, which ensure contributions from commercial users back to the community."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is Fair Code important in the broader tech landscape?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fair Code aligns with larger ethical and sustainable software development movements. It addresses systemic inequities in the tech industry by fostering a balance between innovation, responsibility, and equity."
+      }
+    }
+  ]
+}

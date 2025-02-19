@@ -1,6 +1,6 @@
 # Ethical Software Development: Navigating the Moral Landscape of Technology
 
-In today's fast-paced tech environment, ethical software development is pivotal in sculpting our digital future. As described in the [original document](placeholder-link), this practice is about harmonizing innovation with societal values, emphasizing privacy, fairness, and environmental stewardship. The essence of ethical development lies in "doing no harm" and adopting a user-centric approach.
+In today's fast-paced tech environment, ethical software development is pivotal in sculpting our digital future. This practice is about harmonizing innovation with societal values, emphasizing privacy, fairness, and environmental stewardship. The essence of ethical development lies in "doing no harm" and adopting a user-centric approach.
 
 ## Key Challenges in Ethical Software Development
 

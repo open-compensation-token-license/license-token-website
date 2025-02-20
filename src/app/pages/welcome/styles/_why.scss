@@ -31,18 +31,12 @@
 
     .why-card {
       background: $background-default;
-      border: 1px solid $primary-yellow;
       border-radius: 12px;
       padding: 25px;
       width: 360px;
       text-align: center;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
       transition: transform 0.3s ease, box-shadow 0.3s ease;
-
-      &:hover {
-        transform: translateY(-10px);
-        box-shadow: 0 10px 20px rgba(225, 225, 143, 0.4);
-      }
 
       .why-card-icon {
         width: 70px;

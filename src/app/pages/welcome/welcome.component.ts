@@ -1,4 +1,4 @@
-import {Component,} from '@angular/core';
+import {Component, inject, OnInit,} from '@angular/core';
 import {MatButton, MatButtonModule} from "@angular/material/button";
 import {MatDrawerContainer, MatDrawerContent} from "@angular/material/sidenav";
 import {MatIcon} from "@angular/material/icon";
@@ -6,30 +6,32 @@ import {MatCardModule} from '@angular/material/card';
 import {Router, RouterLink} from "@angular/router"
 import {NgForOf} from '@angular/common';
 import {MatTooltip} from '@angular/material/tooltip';
+import {Article} from '../articles/article';
+import {HttpClient} from '@angular/common/http';
+import {firstValueFrom, forkJoin, map} from 'rxjs';
 
 @Component({
-  selector: 'app-welcome',
-  imports: [
-    MatButton,
-    MatDrawerContainer,
-    MatDrawerContent,
-    MatIcon,
-    MatButtonModule,
-    MatCardModule,
-    MatDrawerContainer,
-    MatDrawerContent,
-    NgForOf,
-    MatTooltip,
-    RouterLink,
-  ],
-  templateUrl: './welcome.component.html',
-  styleUrls: ['./welcome.component.scss']
-}
+    selector: 'app-welcome',
+    imports: [
+      MatButton,
+      MatDrawerContainer,
+      MatDrawerContent,
+      MatIcon,
+      MatButtonModule,
+      MatCardModule,
+      MatDrawerContainer,
+      MatDrawerContent,
+      NgForOf,
+      MatTooltip,
+      RouterLink,
+    ],
+    templateUrl: './welcome.component.html',
+    styleUrls: ['./welcome.component.scss']
+  }
 )
 
-export class WelcomeComponent {
-  constructor(private router: Router) {
-  }
+export class WelcomeComponent implements OnInit {
+  router: Router = inject(Router);
 
   scrollToSection() {
     const target = document.getElementById('content');
@@ -38,8 +40,8 @@ export class WelcomeComponent {
     }
   }
 
-  navigateToApplyLicense() {
-    this.router.navigate(['/apply-license']);
+  ngOnInit(): void {
+    this.loadLatestWikiEntries();
   }
 
   navigateToDonate() {
@@ -148,4 +150,62 @@ export class WelcomeComponent {
   navigateToWhitepaper() {
     window.open('https://github.com/open-compensation-token-license/octl/blob/main/octl-whitepaper.md', '_blank');
   }
+
+  wikiEntries: { title: string; excerpt: string; link: string }[] = [];
+
+  httpClient: HttpClient = inject(HttpClient);
+
+  private async loadLatestWikiEntries(): Promise<void> {
+    // Fetch all articles
+    const articles = await firstValueFrom(
+      this.httpClient.get<Article[]>('assets/articles.json')
+    );
+
+    // Sort by lastModified descending
+    const sorted = [...articles].sort((a, b) =>
+      new Date(b.lastModified).getTime() - new Date(a.lastModified).getTime()
+    );
+
+    // Take the latest 3
+    const latest = sorted.slice(0, 3);
+
+    // Fetch each markdown, generate an excerpt, and build data
+    const requests = latest.map(article =>
+      this.httpClient
+        .get(article.markdownFile, {responseType: 'text'})
+        .pipe(
+          map(rawMarkdown => {
+            const excerpt = this.generateExcerpt(rawMarkdown);
+            return {
+              link: `/wiki/${article.slug}`,
+              title: article.title,
+              excerpt
+            };
+          })
+        )
+    );
+
+    this.wikiEntries = await firstValueFrom(forkJoin(requests));
+  }
+
+  private generateExcerpt(markdown: string): string {
+    // A simple approach: split by period (.) or line break to get sentences
+    // then rejoin the first two. You can refine as needed.
+    let excerpt = '';
+    const sentenceSplit = markdown
+      .replace(/\r?\n|\r/g, ' ')
+      .replace(/#/, '')
+      .split(/(?<=[.?!])\s+/g); // naive sentence boundary
+
+    const firstTwo = sentenceSplit.slice(0, 2).join(' ');
+    excerpt = firstTwo.trim();
+
+    let maxLength = 290;
+    // If over 290 chars, ellipsis
+    if (excerpt.length > maxLength) {
+      excerpt = excerpt.slice(0, maxLength).trimEnd() + '...';
+    }
+    return excerpt;
+  }
+
 }

@@ -50,6 +50,20 @@
         </div>
       </div>
 
+      <!-- Latest Wiki Entries Section -->
+      <div id="latest-wiki-entries" class="wiki-entries">
+        <h2 class="wiki-entries-title">Latest Wiki Entries</h2>
+        <div class="wiki-entries-list">
+          <mat-card *ngFor="let entry of wikiEntries" class="wiki-entry-card"><a [routerLink]="entry.link">
+            <mat-card-title> {{ entry.title }}</mat-card-title>
+            <mat-card-content class="wiki-entry-item">
+              <p>{{ entry.excerpt }}</p>
+            </mat-card-content>
+          </a>
+          </mat-card>
+        </div>
+      </div>
+
       <!-- Known From Section -->
       <div id="known-from" class="known-from">
         <h2 class="known-from-title">{{ knowFrom.title }}</h2>
@@ -63,10 +77,7 @@
             <p class="logo-subtitle">{{ logo.subtitle }}</p>
           </div>
         </div>
-
       </div>
-
     </div>
-
   </mat-drawer-content>
 </mat-drawer-container>

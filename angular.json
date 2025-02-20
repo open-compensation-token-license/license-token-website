@@ -15,12 +15,12 @@
       "prefix": "app",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-angular:browser",
+          "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": "dist/license-token-website",
             "baseHref": "/",
             "index": "src/index.html",
-            "main": "src/main.ts",
+            "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
             ],
@@ -144,6 +144,65 @@
             ],
             "scripts": []
           }
+        },
+        "server": {
+          "builder": "@angular-devkit/build-angular:server",
+          "options": {
+            "outputPath": "dist/license-token-website/server",
+            "main": "src/server.ts",
+            "tsConfig": "tsconfig.server.json",
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "src/styles"
+              ]
+            },
+            "inlineStyleLanguage": "scss"
+          },
+          "configurations": {
+            "production": {
+              "outputHashing": "media",
+              "optimization": true
+            },
+            "development": {
+              "optimization": false,
+              "sourceMap": true,
+              "extractLicenses": false
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "serve-ssr": {
+          "builder": "@angular-devkit/build-angular:ssr-dev-server",
+          "configurations": {
+            "development": {
+              "browserTarget": "license-token-website:build:development",
+              "serverTarget": "license-token-website:server:development"
+            },
+            "production": {
+              "browserTarget": "license-token-website:build:production",
+              "serverTarget": "license-token-website:server:production"
+            }
+          },
+          "defaultConfiguration": "development"
+        },
+        "prerender": {
+          "builder": "@angular-devkit/build-angular:prerender",
+          "options": {
+            "routes": [
+              "/"
+            ]
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "license-token-website:build:production",
+              "serverTarget": "license-token-website:server:production"
+            },
+            "development": {
+              "browserTarget": "license-token-website:build:development",
+              "serverTarget": "license-token-website:server:development"
+            }
+          },
+          "defaultConfiguration": "production"
         }
       }
     }

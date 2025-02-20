@@ -10,6 +10,9 @@ import {Article} from '../articles/article';
 import {HttpClient} from '@angular/common/http';
 import {firstValueFrom, forkJoin, map} from 'rxjs';
 
+import {Title, Meta} from '@angular/platform-browser';
+
+
 @Component({
     selector: 'app-welcome',
     imports: [
@@ -32,22 +35,8 @@ import {firstValueFrom, forkJoin, map} from 'rxjs';
 
 export class WelcomeComponent implements OnInit {
   router: Router = inject(Router);
-
-  scrollToSection() {
-    const target = document.getElementById('content');
-    if (target) {
-      target.scrollIntoView({behavior: 'smooth', block: 'start'});
-    }
-  }
-
-  ngOnInit(): void {
-    this.loadLatestWikiEntries();
-  }
-
-  navigateToDonate() {
-    window.open('https://nftpuzzle.license-token.com/', '_blank');
-  }
-
+  metaService = inject(Meta);
+  titleService = inject(Title);
   why = {
 
     title: 'What does it do?',
@@ -102,9 +91,7 @@ export class WelcomeComponent implements OnInit {
       }
     ]
   }
-
   whyNoOpensource: string = 'The term "Open Source" is not a legally protected term. However, it is closely associated with specific definitions and standards established by organizations like the Open Source Initiative (OSI). This means its use is tied to compliance with those standards, particularly in the context of software and licenses. We think developers shall be paid for their work, and we believe that the OCTL is a good way to do that. No need to fight the wordings...';
-
   knowFrom = {
     title: 'You know our tech from',
     subTitle: 'Our work has been recognized and featured by industry-leading platforms:',
@@ -146,14 +133,36 @@ export class WelcomeComponent implements OnInit {
       },
     ],
   }
+  wikiEntries: { title: string; excerpt: string; link: string }[] = [];
+  httpClient: HttpClient = inject(HttpClient);
+
+  ngOnInit(): void {
+    this.loadLatestWikiEntries();
+    this.titleService.setTitle('Welcome - Open Compensation Token License');
+    this.metaService.addTags([
+      {
+        name: 'description',
+        content: 'Learn about the Open Compensation Token License (OCTL), a blockchain-based license ensuring fair compensation for contributors to open-source code while fostering collaboration and transparency.'
+      },
+      {name: 'keywords', content: 'Open Source, Compensation Token, OCTL, Blockchain, Licensing, Sustainability, Open Source Compensation'}
+    ]);
+  }
+
+  scrollToSection() {
+    const target = document.getElementById('content');
+    if (target) {
+      target.scrollIntoView({behavior: 'smooth', block: 'start'});
+    }
+  }
+
+
+  navigateToDonate() {
+    window.open('https://nftpuzzle.license-token.com/', '_blank');
+  }
 
   navigateToWhitepaper() {
     window.open('https://github.com/open-compensation-token-license/octl/blob/main/octl-whitepaper.md', '_blank');
   }
-
-  wikiEntries: { title: string; excerpt: string; link: string }[] = [];
-
-  httpClient: HttpClient = inject(HttpClient);
 
   private async loadLatestWikiEntries(): Promise<void> {
     // Fetch all articles

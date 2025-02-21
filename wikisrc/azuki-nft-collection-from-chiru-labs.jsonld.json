@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What Makes Azuki NFTs Unique?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Azuki NFTs stand out due to their distinctive anime-inspired artwork, commitment to community engagement, and the diverse utility they offer within the expanding Azuki ecosystem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How Can I Buy an Azuki NFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Azuki NFTs can be purchased during primary sales through platforms like OpenSea or on secondary marketplaces where existing holders list their tokens for sale."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What Are the Benefits of Owning an Azuki NFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Owning an Azuki NFT grants access to exclusive events, limited-edition merchandise, community channels, and potential future utilities within the Azuki ecosystem, such as virtual real estate and gaming integrations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Azuki Collection Sustainable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chiru Labs is actively pursuing sustainability initiatives, including carbon offset programs and the adoption of energy-efficient blockchain technologies, to mitigate the environmental impact of the Azuki collection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Future Roadmap for Azuki?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future roadmap for Azuki includes expanding the ecosystem with virtual and augmented reality integrations, enhancing NFT utility through DeFi and gaming collaborations, and continuously evolving the artistic direction based on community feedback."
+      }
+    }
+  ]
+}

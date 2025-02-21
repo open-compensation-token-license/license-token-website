@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the CaptainZ NFT Collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The CaptainZ NFT Collection is a series of unique digital assets launched by DelaBS. Each CaptainZ token represents a distinct character with diverse attributes and traits, ensuring rarity and value."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes the CaptainZ NFT Collection unique?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The CaptainZ NFT Collection is known for its exceptional artistry, rarity, and traits. It also offers various utility features such as access to exclusive events and games, which add value to the holders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I acquire CaptainZ NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CaptainZ NFTs are available on NFT marketplaces like OpenSea, Rarible, and Foundation. Enthusiasts can also participate in special drops and auctions conducted by DelaBS to secure exclusive tokens."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the future prospects for the CaptainZ NFT Collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future developments include new traits, VR environment expansions, and blockchain gaming elements. DelaBS is also exploring strategic partnerships to enhance visibility and utility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does DelaBS engage with the CaptainZ NFT community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DelaBS emphasizes strong community engagement through social media, forums, and events. This approach fosters loyalty and enhances the overall value proposition of the CaptainZ NFTs."
+      }
+    }
+  ]
+}

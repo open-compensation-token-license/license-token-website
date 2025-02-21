@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the y00ts NFT collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The y00ts NFT collection is a series of unique, blockchain-based digital artworks created by deLabs. Each y00ts NFT features distinct traits and is designed to offer various utilities and benefits to its holders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I purchase a y00ts NFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can purchase a y00ts NFT by setting up a digital wallet, acquiring Ethereum (ETH), connecting to an NFT marketplace like OpenSea, browsing the y00ts collection, and completing the transaction through your wallet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of holding a y00ts NFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Holding a y00ts NFT offers several benefits, including access to exclusive events, staking rewards, participation in decentralized governance, and opportunities for collaborations and partnerships within the deLabs ecosystem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the rarity system work in y00ts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each y00ts NFT has a combination of traits that determine its rarity. Common traits include background patterns and accessories, while rare traits feature exclusive elements like animated features or limited-edition designs. This system enhances the desirability and value of rarer y00ts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future developments are planned for y00ts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future developments for y00ts include interactive VR/AR experiences, expanded utility options, and collaborative projects with artists and other blockchain initiatives. These enhancements aim to increase the value and engagement within the y00ts ecosystem."
+      }
+    }
+  ]
+}

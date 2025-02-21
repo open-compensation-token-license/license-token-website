@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Solana Monkey Business NFT Collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Solana Monkey Business NFT Collection is a series of monkey-themed, algorithmically generated NFTs created by SolanaMBB. It leverages the Solana blockchain's efficiency and scalability to offer unique digital collectibles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many NFTs are in the Solana Monkey Business collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The exact number of NFTs in the Solana Monkey Business collection is not provided in the available information, but each NFT features distinctive traits making them unique and collectible."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key features of Solana Monkey Business NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The key features include unique artwork and design, a diverse trait system enhancing rarity, community-driven initiatives, and planned future utilities such as staking and virtual world integrations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I acquire a Solana Monkey Business NFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To acquire a Solana Monkey Business NFT, set up a Solana-compatible wallet, buy SOL tokens, connect your wallet to the SolanaMBB marketplace, and mint or purchase an NFT. Ensure to confirm ownership in your wallet after purchase."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What community benefits does owning a Solana Monkey Business NFT offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Benefits include access to exclusive events, future airdrops, voting rights in project decisions, and the potential for exclusive merchandise and physical goods."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future developments are planned for the Solana Monkey Business collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future developments include enhanced utility features like staking, collaborations with other projects, expansion of the NFT series, community growth initiatives, and continuous improvement of the user experience."
+      }
+    }
+  ]
+}

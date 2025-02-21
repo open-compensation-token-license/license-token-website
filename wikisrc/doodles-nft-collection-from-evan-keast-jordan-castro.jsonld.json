@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are Doodles NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doodles is an NFT collection comprising unique, hand-drawn characters with distinct personalities and aesthetics. Launched on the Ethereum blockchain, it employs the ERC-721 standard to ensure each token's uniqueness and ownership authenticity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who are the creators of the Doodles NFT collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Doodles NFT collection is a collaborative creation by Evan Keast, a renowned digital artist, and Jordan Castro, who contributes expertise in various domains to ensure the collection's success."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the unique features of the Doodles collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unique features include diverse artwork, customizability, interactivity, community-driven content, and benefits like access to private communities, special events, and future airdrops."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the Doodles community structured?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The community is active across social media platforms and emphasizes inclusivity and collaboration. It offers educational resources to help onboard new members into the NFT space."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the market performance of Doodles NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Since their launch, Doodles NFTs have shown impressive sales figures and high liquidity on secondary markets, with several pieces fetching premium prices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Have there been any notable collaborations with Doodles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Doodles has engaged in brand collaborations, artistic crossover projects, and technology partnerships to enhance visibility and accessibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What technological aspects underpin Doodles NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doodles are minted on the Ethereum blockchain, utilizing the ERC-721 standard. The collection is exploring Layer 2 solutions to improve transaction accessibility and reduce costs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the future prospects for the Doodles collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future prospects include expanding the collection with new designs, exploring cross-media ventures, enhancing utility with DeFi and the metaverse, and sustainability initiatives."
+      }
+    }
+  ]
+}

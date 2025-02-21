@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Nodemonkes NFT Collection from the Ordinals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Nodemonkes NFT Collection from the Ordinals is a series of unique digital assets that combine artistic expression with blockchain technology, utilizing the Ordinals protocol to embed NFTs directly onto the Bitcoin blockchain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key features of the Nodemonkes NFT Collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key features include unique one-of-a-kind artwork, blockchain integration leveraging the Ordinals protocol, a limited supply for increased scarcity, and a community-driven approach with active engagement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the Ordinals protocol enhance NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Ordinals protocol allows NFTs to be inscribed onto individual satoshis, ensuring immutable ownership, enhanced decentralization, interoperability with Bitcoin wallets, and increased scarcity and value."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes Nodemonkes different from other NFT collections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nodemonkes differentiates itself by building on the Bitcoin blockchain rather than Ethereum, emphasizing a diverse range of artistic styles, maintaining a community-centric approach, and focusing on sustainability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the future prospects for the Nodemonkes NFT Collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future plans for Nodemonkes include expanding the collection with new themes, introducing interactive elements, developing a dedicated marketplace, exploring cross-chain compatibility, and launching educational initiatives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Nodemonkes ensure the security and permanence of its NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By inscribing NFTs onto the Bitcoin blockchain using the Ordinals protocol, Nodemonkes ensures that each NFT is uniquely identifiable and securely anchored, benefiting from Bitcoin’s inherent security and permanence."
+      }
+    }
+  ]
+}

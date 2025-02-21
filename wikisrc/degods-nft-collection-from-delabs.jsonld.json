@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is DEGOdS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The DEGOdS NFT Collection is a series of unique digital assets representing ownership of distinct digital art pieces. Each DEGOd combines artistic expression with blockchain security, ensuring verifiable ownership and rarity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Delabs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delabs is a pioneering blockchain development company specializing in creating and managing high-quality NFT projects. Their mission is to bridge the gap between artists and collectors, fostering a vibrant digital art ecosystem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key features of the DEGOdS NFT Collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The key features include Unique Artwork, Blockchain Technology, Community Engagement, and Utility and Benefits. These features ensure rarity, security, active community interaction, and additional perks beyond mere ownership."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I acquire DEGOdS NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DEGOdS NFTs can be acquired through the minting process on the official platform or trading on secondary marketplaces like OpenSea and Rarible. Minting events require early participation due to high demand."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the investment potential of DEGOdS NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DEGOdS NFTs offer investment potential through scarcity, artist reputation, market trends, and utility. Such factors contribute to their desirability and value, making them attractive to both new and seasoned collectors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the DEGOdS Roadmap?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The roadmap includes Phase 1: Launch and Initial Minting, Phase 2: Community Building, Phase 3: Expansion and Collaborations, and Phase 4: Long-term Sustainability. These phases ensure growth and value enhancement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does DEGOdS engage with its community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DEGOdS engages the community through social media platforms like Twitter, Discord, and Telegram. Activities include AMAs, giveaways, and collaborative projects, fostering a dynamic and interactive ecosystem."
+      }
+    }
+  ]
+}

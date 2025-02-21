@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are CryptoPunks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CryptoPunks are a collection of 10,000 unique, 24x24 pixel art characters stored on the Ethereum blockchain, known for their rarity and distinct attributes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who created CryptoPunks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CryptoPunks were created by Larva Labs, founded by software developers Matt Hall and John Watkinson."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How were CryptoPunks distributed initially?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CryptoPunks were initially distributed for free to anyone with an Ethereum wallet, fostering community engagement and accessibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes CryptoPunks unique?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each CryptoPunk is algorithmically generated with unique attributes, and their ownership is verifiable on the Ethereum blockchain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How have CryptoPunks impacted the NFT and crypto art space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CryptoPunks pioneered digital ownership concepts, influencing numerous NFT projects, and have become status symbols and a benchmark for digital art collections."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I buy and trade CryptoPunks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CryptoPunks can be bought and sold on the Larva Labs Marketplace or on NFT platforms like OpenSea, using Ethereum."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some notable CryptoPunks sales?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notable sales include Punk #7804 and Punk #3100, both sold for 4200 ETH, and Punk #6965, sold for 10000 ETH."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges have CryptoPunks faced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges include environmental concerns of blockchain transactions, market speculation, high entry costs, and issues with counterfeit listings on unofficial platforms."
+      }
+    }
+  ]
+}

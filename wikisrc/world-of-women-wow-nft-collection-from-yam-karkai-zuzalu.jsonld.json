@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the World of Women (WoW) NFT Collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The World of Women (WoW) NFT collection is a digital art project created by the artist Yam Karkai, celebrating diversity, empowerment, and the narratives of women globally. It uses blockchain technology to provide verifiable digital ownership of art pieces, contributing to both emotional and financial value for collectors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is the artist behind WoW?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yam Karkai is the visionary artist behind the World of Women collection. Known for advocating diversity and empowerment within the NFT space, Karkai integrates narratives from various backgrounds into the WoW artwork."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does Zuzalu play in WoW?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zuzalu acts as the community hub for WoW, providing infrastructure for artists, collectors, and enthusiasts. It enhances the reach and impact of WoW through marketplace integration, community forums, educational resources, and event hosting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What artistic themes are explored in the WoW collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The WoW NFT collection explores themes such as empowerment, cultural diversity, innovation, environmental consciousness, and personal identity, using various artistic styles to express these narratives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I buy WoW NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "WoW NFTs can be purchased on popular NFT marketplaces such as OpenSea, Rarible, and Foundation. Prospective buyers need to set up a compatible digital wallet and purchase Ethereum (ETH) to transact."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How has the WoW collection impacted the NFT ecosystem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The WoW collection has promoted diversity and inclusion within the NFT space, set standards for artistic quality, fostered community engagement, and contributed to NFT market growth through high-profile sales and collaborations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the future prospects of the WoW collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future plans for the WoW collection include expanding the series, enhancing NFT holder utility, integrating with metaverse platforms, promoting sustainability, and increasing educational endeavors in the NFT space."
+      }
+    }
+  ]
+}

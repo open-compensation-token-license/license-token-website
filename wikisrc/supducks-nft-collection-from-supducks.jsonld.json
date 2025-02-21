@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the SupDucks NFT Collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SupDucks NFT Collection is a series of limited-edition digital collectibles that embody the whimsical and vibrant spirit of SupDucks, featuring unique digital duck characters crafted with diverse traits and artistic styles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the origins and purpose of the SupDucks NFT Collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SupDucks was founded by artists and blockchain enthusiasts aiming to create a community-driven NFT project focusing on distinctive artwork and meaningful community engagement, inspired by early NFT collections like CryptoPunks and Bored Ape Yacht Club."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the unique features of SupDucks NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SupDucks NFTs feature diverse traits like beak colors, accessories, and backgrounds, dynamic metadata that evolves over time, and cross-platform compatibility enabling visibility across virtual environments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the market performance of SupDucks NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Since the initial launch, SupDucks NFTs have maintained stable growth with high-demand trading at premium prices in secondary markets, driven by scarcity and active community participation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the SupDucks community engage with its members?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SupDucks community is engaged through platforms like Discord and Twitter, hosting regular events such as art contests and AMAs, and allowing governance participation for NFT holders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the utility and use cases for SupDucks NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SupDucks NFTs grant exclusive access to private channels, special events, and merchandise, and integrate with gaming/metaverse platforms. They also support artists with royalties from secondary sales."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the future plans for the SupDucks NFT Collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future plans for SupDucks include expanding the collection, developing a dedicated interactive platform, and exploring augmented reality to enhance the NFT experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can you acquire SupDucks NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To acquire SupDucks NFTs, set up an Ethereum-compatible wallet, purchase ETH, connect to a marketplace like OpenSea, and browse or purchase SupDucks. Engage with the community for updates and connections."
+      }
+    }
+  ]
+}

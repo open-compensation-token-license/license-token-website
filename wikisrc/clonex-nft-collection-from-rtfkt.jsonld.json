@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is CloneX?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CloneX is an NFT collection developed by RTFKT Studios, known for digital sneakers and innovative virtual collectibles, offering customizable 3D avatars for the metaverse, launched in collaboration with artist Takashi Murakami."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who are RTFKT Studios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RTFKT Studios specializes in digital fashion and NFT collectibles, known for blending physical and digital products, and was acquired by Nike in March 2023."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the features of the CloneX NFT collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CloneX offers unique designs, extensive customization, interoperability across virtual platforms, and utilities like access to exclusive experiences and airdrops."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does CloneX integrate with the metaverse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CloneX avatars are compatible with major metaverse platforms like Decentraland and The Sandbox, enhancing virtual experiences through customizable and interoperable digital identities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the market performance of CloneX?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CloneX had a successful initial sale, maintains strong secondary market activity, and benefits from strategic collaborations and endorsements, making it a valuable long-term investment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does CloneX contribute to community and culture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CloneX fosters an engaged community through social media and interactive events, and it influences digital and physical cultures by merging fashion, art, and technology."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future developments are expected for CloneX?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future developments include expanded customization, new collaborations, emerging technology integrations like AR and VR, and enhanced utility within the metaverse."
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Mutant Ape Yacht Club (MAYC)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Mutant Ape Yacht Club (MAYC) is a prominent non-fungible token (NFT) collection developed by Yuga Labs, extending the Bored Ape Yacht Club (BAYC) ecosystem. It features mutant-themed apes with unique attributes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who created the Mutant Ape Yacht Club?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Mutant Ape Yacht Club was created by Yuga Labs, the team behind the Bored Ape Yacht Club."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How were Mutant Apes in the MAYC collection created?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mutant Apes were created via a 'Mutant Serum' that BAYC holders could use to transform their apes, and through airdrops of freezer apes to BAYC holders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the main features of a Mutant Ape?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mutant Apes boast unique traits such as varied fur colors, facial expressions, clothing, and accessories, all backed by blockchain technology ensuring ownership proof."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can someone buy a Mutant Ape?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mutant Apes can be bought on secondary markets like OpenSea and Rarible, where they are available for trading and purchase."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impacts the price of a Mutant Ape NFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The price is influenced by rarity, demand, and market trends, including the performance of the broader cryptocurrency market."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How has the community around MAYC developed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The community is vibrant, with engaged members participating in exclusive events and collaborations, bolstered by celebrity endorsements and art trends."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What future developments are expected for MAYC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future developments might include metaverse integration, collaborations, and new utilities for the NFTs, driven by Yuga Labs' innovation strategies."
+      }
+    }
+  ]
+}

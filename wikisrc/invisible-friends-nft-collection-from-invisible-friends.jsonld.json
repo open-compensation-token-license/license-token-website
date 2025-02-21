@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Invisible Friends NFT Collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Invisible Friends NFT Collection from Invisible Friends is a series of exclusive digital artworks represented as non-fungible tokens on the Ethereum blockchain, featuring unique characters called 'Invisible Friends' known for their whimsical and abstract designs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes Invisible Friends different from other NFT collections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Invisible Friends distinguishes itself through its unique artistic style, community-centric approach, commitment to sustainability, and exclusive benefits for holders, setting it apart in the crowded NFT market."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many NFTs are in the collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Invisible Friends NFT Collection comprises a limited number of NFTs, ensuring rarity and exclusivity, with the exact number specified on the official website."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I resell my Invisible Friends NFT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, NFTs are designed to be transferable. You can resell your Invisible Friends NFT on supported marketplaces like OpenSea and Rarible, ensuring wallet compatibility with the marketplace."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are Invisible Friends NFTs secure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Invisible Friends employs robust security measures, leveraging Ethereum blockchain's security features and conducting regular audits to safeguard against potential vulnerabilities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are gas fees, and how do they affect my purchase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gas fees are transaction costs for operations on the Ethereum blockchain. They vary based on network congestion and need to be considered when budgeting for an NFT purchase."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I stay updated on Invisible Friends developments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To stay updated, check the Invisible Friends official website, follow their Twitter, join the Discord server, and subscribe to their newsletter for real-time updates and community interactions."
+      }
+    }
+  ]
+}

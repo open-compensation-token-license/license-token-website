@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Kaiju Kingz NFT Collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Kaiju Kingz NFT Collection is a digital collectible series by Kaiju Kingz that combines art and blockchain technology. It features unique kaiju-inspired characters and offers a variety of utility and community engagement options."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the significance of Kaiju Kingz's art style?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The art style blends traditional Japanese motifs with modern digital aesthetics, resulting in visually captivating pieces that stand out in the NFT marketplace."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Kaiju Kingz ensure the rarity of its NFTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kaiju Kingz uses a trait-based rarity system where each NFT has a unique combination of attributes like color schemes and special abilities, making certain traits exceptionally rare."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "On which blockchain are Kaiju Kingz NFTs minted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Kaiju Kingz NFTs are minted on the Ethereum blockchain, using the ERC-721 standard for security and interoperability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What governance model does Kaiju Kingz use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kaiju Kingz operates under a decentralized autonomous organization (DAO) model, allowing token holders to participate in governance decisions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What utilities do Kaiju Kingz NFTs provide?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Benefits include exclusive access to events, staking rewards, and limited-edition merchandise and collaborations, enhancing the value proposition for collectors and investors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the market performance of the Kaiju Kingz NFT collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Kaiju Kingz NFT collection has demonstrated impressive sales and trading volumes, with significant presence on major secondary marketplaces like OpenSea, indicating strong demand and market interest."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some of the collaborations and partnerships of Kaiju Kingz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kaiju Kingz has partnered with artists, gaming platforms, and other NFT projects, expanding its reach and utility. Notable collaborations include integrating NFTs into blockchain-based games and joint art projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the future roadmap of Kaiju Kingz include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future roadmap includes launching a Kaiju Kingz Metaverse, expanding staking mechanisms, and hosting global events and forming partnerships to increase visibility and engagement."
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Moonbirds NFT collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Moonbirds NFT collection from Proof is a highly sought-after non-fungible token (NFT) project that combines artistic innovation with community engagement. Launched by Proof Collective, it features a limited number of uniquely designed Moonbird avatars inspired by mythology, astronomy, and digital aesthetics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Proof Collective?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proof Collective is a prominent entity in the NFT space, known for curating high-quality digital art collections and fostering vibrant online communities. Their mission is to democratize access to digital ownership and empower artists through innovative projects and collaborations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the artistic and technical features of the Moonbirds collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Moonbirds collection is known for its exceptional artistic quality and technical sophistication. It uses advanced generative art techniques to create unique avatars with various rare traits and is presented in high-resolution formats. The collection is minted on a blockchain, leveraging smart contracts for security and interoperability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What community and ownership benefits do Moonbird holders receive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moonbird holders enjoy several benefits, including access to exclusive events, governance rights within the Proof Collective ecosystem, and reward mechanisms like staking options. These benefits foster community engagement and long-term participation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How has the Moonbirds collection impacted the NFT ecosystem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Moonbirds collection has influenced the NFT ecosystem through artistic innovation and community-centric models. It has inspired other projects, contributed to market dynamics, and demonstrated the viability of high-quality, limited-edition NFT collections."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the future developments planned for the Moonbirds NFT collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future developments for Moonbirds include collaborations with artists, utility enhancements like integration with virtual worlds, and sustainability initiatives. Proof Collective aims to expand the Moonbirds community and introduce new features to maintain ongoing interest."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find more information about the Moonbirds NFT collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For more insights into the Moonbirds NFT collection and other Proof Collective projects, visit their official website at https://www.proof.xyz/ or explore the Moonbirds collection on marketplaces like OpenSea."
+      }
+    }
+  ]
+}

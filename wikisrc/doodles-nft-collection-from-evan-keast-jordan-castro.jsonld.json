@@ -4,66 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What are Doodles NFTs?",
+      "name": "What is the Doodles NFT Collection?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Doodles is an NFT collection comprising unique, hand-drawn characters with distinct personalities and aesthetics. Launched on the Ethereum blockchain, it employs the ERC-721 standard to ensure each token's uniqueness and ownership authenticity."
+        "text": "The Doodles NFT Collection, created by Evan Keast and Jordan Castro, is a prominent digital art and collectibles project known for its vibrant and colorful abstract characters. Launched in 2021, it has captured the imagination of NFT enthusiasts globally and is a trending project on platforms like OpenSea."
       }
     },
     {
       "@type": "Question",
-      "name": "Who are the creators of the Doodles NFT collection?",
+      "name": "Who are the creators behind the Doodles NFT Collection?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Doodles NFT collection is a collaborative creation by Evan Keast, a renowned digital artist, and Jordan Castro, who contributes expertise in various domains to ensure the collection's success."
+        "text": "Evan Keast and Jordan Castro are the creative minds behind Doodles. Evan Keast is a visionary artist focusing on the collection's creative direction, while Jordan Castro complements with his expertise in blockchain technology and project management."
       }
     },
     {
       "@type": "Question",
-      "name": "What are the unique features of the Doodles collection?",
+      "name": "What are the standout features of the Doodles Collection?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Unique features include diverse artwork, customizability, interactivity, community-driven content, and benefits like access to private communities, special events, and future airdrops."
+        "text": "The Doodles Collection is known for its colorful abstract characters, community focus, and marketplace presence on platforms like OpenSea. It emphasizes unique artistic styles and community engagement, offering collectors access to exclusive events and opportunities."
       }
     },
     {
       "@type": "Question",
-      "name": "How is the Doodles community structured?",
+      "name": "How does the Doodles project stay relevant and engaging?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The community is active across social media platforms and emphasizes inclusivity and collaboration. It offers educational resources to help onboard new members into the NFT space."
+        "text": "Doodles maintains relevance by focusing on community building, staying ahead of trends in the NFT market, and embracing open-source funding for community projects. This approach ensures ongoing development and innovation."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the market performance of Doodles NFTs?",
+      "name": "What is the role of community in the Doodles NFT Collection?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Since their launch, Doodles NFTs have shown impressive sales figures and high liquidity on secondary markets, with several pieces fetching premium prices."
+        "text": "The Doodles community is a vibrant ecosystem of artists, collectors, and enthusiasts. It actively contributes to the project's growth through interactive events, collaborative initiatives, and regular engagement on platforms like X, the social media site formerly known as Twitter."
       }
     },
     {
       "@type": "Question",
-      "name": "Have there been any notable collaborations with Doodles?",
+      "name": "Where can I buy or trade Doodles NFTs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Doodles has engaged in brand collaborations, artistic crossover projects, and technology partnerships to enhance visibility and accessibility."
+        "text": "Doodles NFTs are prominently featured on OpenSea, one of the leading NFT marketplaces, allowing easy accessibility for buyers and sellers. The platform supports seamless trading and showcasing of the collection."
       }
     },
     {
       "@type": "Question",
-      "name": "What technological aspects underpin Doodles NFTs?",
+      "name": "What are some related NFT projects to Doodles?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Doodles are minted on the Ethereum blockchain, utilizing the ERC-721 standard. The collection is exploring Layer 2 solutions to improve transaction accessibility and reduce costs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the future prospects for the Doodles collection?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Future prospects include expanding the collection with new designs, exploring cross-media ventures, enhancing utility with DeFi and the metaverse, and sustainability initiatives."
+        "text": "Related NFT projects include the Doodles 2 NFT Collection, Bored Ape Yacht Club, Azuki, Cool Cats, and Pudgy Penguins. These collections share similarities with Doodles in terms of unique character designs and strong community engagement."
       }
     }
   ]

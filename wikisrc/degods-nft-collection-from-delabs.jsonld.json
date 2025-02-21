@@ -4,58 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is DEGOdS?",
+      "name": "What is the DeGods NFT Collection?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The DEGOdS NFT Collection is a series of unique digital assets representing ownership of distinct digital art pieces. Each DEGOd combines artistic expression with blockchain security, ensuring verifiable ownership and rarity."
+        "text": "The DeGods NFT Collection from DeLabs is a prominent project in the digital art and collectibles space. Leveraging the Solana blockchain, it offers high-quality art pieces and has gained a strong following since its inception in 2022."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is Delabs?",
+      "name": "Who are the developers behind DeGods?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Delabs is a pioneering blockchain development company specializing in creating and managing high-quality NFT projects. Their mission is to bridge the gap between artists and collectors, fostering a vibrant digital art ecosystem."
+        "text": "The DeGods project is developed by DeLabs, a team known for their expertise in blockchain technology and digital art. They aim to create a collection that showcases exceptional art while fostering a community-driven environment."
       }
     },
     {
       "@type": "Question",
-      "name": "What are the key features of the DEGOdS NFT Collection?",
+      "name": "What platforms are DeGods NFTs available on?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The key features include Unique Artwork, Blockchain Technology, Community Engagement, and Utility and Benefits. These features ensure rarity, security, active community interaction, and additional perks beyond mere ownership."
+        "text": "DeGods NFTs are primarily traded on the Magic Eden marketplace on Solana, with additional presence on other platforms such as OpenSea to enhance their accessibility."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I acquire DEGOdS NFTs?",
+      "name": "How does DeGods engage with its community?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "DEGOdS NFTs can be acquired through the minting process on the official platform or trading on secondary marketplaces like OpenSea and Rarible. Minting events require early participation due to high demand."
+        "text": "DeGods actively engages with its community through social media platforms like X, with over 45,000 followers. They conduct events such as AMAs, virtual exhibitions, and collaborative projects to enhance community involvement."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the investment potential of DEGOdS NFTs?",
+      "name": "What makes DeGods art unique?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "DEGOdS NFTs offer investment potential through scarcity, artist reputation, market trends, and utility. Such factors contribute to their desirability and value, making them attractive to both new and seasoned collectors."
+        "text": "DeGods is committed to high-quality art executed on the Solana blockchain, combining artistic innovation with low transaction fees and fast processing, making it appealing for creators and collectors."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the DEGOdS Roadmap?",
+      "name": "What innovative features does DeGods offer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The roadmap includes Phase 1: Launch and Initial Minting, Phase 2: Community Building, Phase 3: Expansion and Collaborations, and Phase 4: Long-term Sustainability. These phases ensure growth and value enhancement."
+        "text": "DeGods features innovative tokenomics, including staking rewards, holder-exclusive benefits, and dynamic scarcity mechanisms that incentivize holding and participation, maintaining the collection's value."
       }
     },
     {
       "@type": "Question",
-      "name": "How does DEGOdS engage with its community?",
+      "name": "How does DeGods ensure transaction security?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "DEGOdS engages the community through social media platforms like Twitter, Discord, and Telegram. Activities include AMAs, giveaways, and collaborative projects, fostering a dynamic and interactive ecosystem."
+        "text": "DeGods leverages the Solana blockchain for secure transactions, and the team at DeLabs implements rigorous testing and auditing protocols in their smart contracts to safeguard against vulnerabilities."
       }
     }
   ]

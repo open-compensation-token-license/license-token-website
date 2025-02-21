@@ -4,58 +4,74 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is the Moonbirds NFT collection?",
+      "name": "What is the Moonbirds NFT Collection?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Moonbirds NFT collection from Proof is a highly sought-after non-fungible token (NFT) project that combines artistic innovation with community engagement. Launched by Proof Collective, it features a limited number of uniquely designed Moonbird avatars inspired by mythology, astronomy, and digital aesthetics."
+        "text": "The Moonbirds NFT collection is a series of owl-themed digital artworks developed by the PROOF team. Each Moonbird is a unique NFT with distinct traits such as color schemes and accessories, and the collection is known for its innovative governance model and strong community engagement."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is Proof Collective?",
+      "name": "Who developed the Moonbirds NFT Collection?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Proof Collective is a prominent entity in the NFT space, known for curating high-quality digital art collections and fostering vibrant online communities. Their mission is to democratize access to digital ownership and empower artists through innovative projects and collaborations."
+        "text": "Moonbirds was developed by PROOF, a renowned entity in the NFT space led by Kevin Rose. PROOF focuses on pushing boundaries in digital art and community engagement."
       }
     },
     {
       "@type": "Question",
-      "name": "What are the artistic and technical features of the Moonbirds collection?",
+      "name": "How does the Moonbirds DAO governance model work?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Moonbirds collection is known for its exceptional artistic quality and technical sophistication. It uses advanced generative art techniques to create unique avatars with various rare traits and is presented in high-resolution formats. The collection is minted on a blockchain, leveraging smart contracts for security and interoperability."
+        "text": "Moonbirds utilizes a DAO governance model that allows NFT holders to influence project's decisions. This includes project development, community initiatives, and resource allocation, thereby fostering a sense of community ownership and active participation."
       }
     },
     {
       "@type": "Question",
-      "name": "What community and ownership benefits do Moonbird holders receive?",
+      "name": "What platforms feature the Moonbirds NFTs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Moonbird holders enjoy several benefits, including access to exclusive events, governance rights within the Proof Collective ecosystem, and reward mechanisms like staking options. These benefits foster community engagement and long-term participation."
+        "text": "Moonbirds NFTs are prominently featured on OpenSea, which is the largest NFT marketplace globally. This provides extensive visibility and liquidity for the collection, allowing collectors to buy, sell, and trade their tokens."
       }
     },
     {
       "@type": "Question",
-      "name": "How has the Moonbirds collection impacted the NFT ecosystem?",
+      "name": "What are some unique aspects of Moonbirds NFTs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Moonbirds collection has influenced the NFT ecosystem through artistic innovation and community-centric models. It has inspired other projects, contributed to market dynamics, and demonstrated the viability of high-quality, limited-edition NFT collections."
+        "text": "Moonbirds NFTs are characterized by their unique owl traits, DAO governance, artistic excellence, and a strong community presence. Each NFT boasts distinctive features contributing to its rarity and value."
       }
     },
     {
       "@type": "Question",
-      "name": "What are the future developments planned for the Moonbirds NFT collection?",
+      "name": "How does Moonbirds utilize blockchain technology?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Future developments for Moonbirds include collaborations with artists, utility enhancements like integration with virtual worlds, and sustainability initiatives. Proof Collective aims to expand the Moonbirds community and introduce new features to maintain ongoing interest."
+        "text": "Moonbirds utilizes the Ethereum blockchain to ensure security, transparency, and interoperability of its NFTs. Smart contracts automate verification of ownership, transferability, and royalty distributions."
       }
     },
     {
       "@type": "Question",
-      "name": "Where can I find more information about the Moonbirds NFT collection?",
+      "name": "Who is Kevin Rose in relation to Moonbirds?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For more insights into the Moonbirds NFT collection and other Proof Collective projects, visit their official website at https://www.proof.xyz/ or explore the Moonbirds collection on marketplaces like OpenSea."
+        "text": "Kevin Rose is the leader of the PROOF team that developed the Moonbirds NFT collection. He is recognized for his work in the NFT and digital collectible space."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the community engagement like for Moonbirds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moonbirds has a vibrant community, including over 40K followers on social media platforms like X (formerly Twitter). The community actively participates in governance, events, and collaborations, driving project growth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are future developments for Moonbirds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future developments for Moonbirds include collaborations with other NFT projects, expansion of DAO roles, and technological enhancements like AR integrations and improved smart contract functionalities."
       }
     }
   ]
